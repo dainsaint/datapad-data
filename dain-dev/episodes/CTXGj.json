@@ -205,10 +205,10 @@
     {
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 1,
       "duration": 240,
-      "timeElapsed": 120.1060000000001,
+      "timeElapsed": 151.13600000000022,
       "actualTime": {
         "s": "2025-05-13T19:22:59.827-04:00",
         "e": "2025-05-13T19:26:59.827-04:00",
@@ -478,7 +478,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 1887.9809999999782,
+      "timeElapsed": 2189.226999999991,
       "actualTime": {
         "s": "2025-05-10T13:51:25.097-04:00",
         "e": "2025-05-10T13:51:25.097-04:00",
