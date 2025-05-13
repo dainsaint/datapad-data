@@ -1,0 +1,860 @@
+{
+  "id": "CTXGj",
+  "name": "New Episode",
+  "date": "2025-05-09T23:53:00.132-04:00",
+  "scheduledTime": {
+    "s": "2025-05-09T23:53:00.132-04:00",
+    "e": "2025-05-10T04:53:00.132-04:00",
+    "invalid": null,
+    "isLuxonInterval": true
+  },
+  "tags": {
+    "_type": "Tags",
+    "value": [
+      "active"
+    ]
+  },
+  "actions": [
+    {
+      "id": "o7kHM",
+      "societyId": "et0k8",
+      "name": "Frank",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "Qw0Xm",
+      "societyId": "et0k8",
+      "name": "todd",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "lHvo5",
+      "societyId": "V9xbw",
+      "name": "ribs",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    }
+  ],
+  "communities": [],
+  "phases": [
+    {
+      "id": "KN4Rt",
+      "type": "Setup/Onboarding",
+      "status": "complete",
+      "round": 0,
+      "duration": 1200,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-12T16:52:56.814-04:00",
+        "e": "2025-05-12T16:55:48.276-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "TW6li",
+      "type": "Universal Phase",
+      "status": "idle",
+      "round": 1,
+      "duration": 240,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-09T23:53:00.133-04:00",
+        "e": "2025-05-12T16:55:53.629-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "r5gob",
+      "type": "Societal Phase",
+      "status": "idle",
+      "round": 1,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-09T23:53:00.133-04:00",
+        "e": "2025-05-12T16:55:34.772-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "qveE2",
+      "type": "Galactic Phase",
+      "status": "idle",
+      "round": 1,
+      "duration": 720,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-09T23:53:00.133-04:00",
+        "e": "2025-05-12T16:55:35.243-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "ml6Q3",
+      "type": "Universal Phase",
+      "status": "idle",
+      "round": 2,
+      "duration": 240,
+      "timeElapsed": 19.018,
+      "actualTime": {
+        "s": "2025-05-10T16:26:21.020-04:00",
+        "e": "2025-05-12T16:55:36.225-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "BJ7S8",
+      "type": "Societal Phase",
+      "status": "idle",
+      "round": 2,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-09T23:53:00.133-04:00",
+        "e": "2025-05-12T16:55:36.563-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "ao-zv",
+      "type": "Galactic Phase",
+      "status": "idle",
+      "round": 2,
+      "duration": 720,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-10T22:35:11.677-04:00",
+        "e": "2025-05-12T16:55:37.008-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "iFRIY",
+      "type": "Individual Phase",
+      "status": "idle",
+      "round": 2,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-09T23:53:00.133-04:00",
+        "e": "2025-05-12T16:55:37.982-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "VZQ7m",
+      "type": "Break",
+      "status": "idle",
+      "round": 2,
+      "duration": 0,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-12T15:38:12.770-04:00",
+        "e": "2025-05-12T16:55:39.427-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "tJXlr",
+      "type": "Universal Phase",
+      "status": "idle",
+      "round": 3,
+      "duration": 240,
+      "timeElapsed": 19.016,
+      "actualTime": {
+        "s": "2025-05-10T22:39:33.551-04:00",
+        "e": "2025-05-12T16:55:40.455-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "mBIUo",
+      "type": "Societal Phase",
+      "status": "idle",
+      "round": 3,
+      "duration": 600,
+      "timeElapsed": 1900.2769999999953,
+      "actualTime": {
+        "s": "2025-04-16T18:14:26.371-04:00",
+        "e": "2025-04-17T21:32:02.384-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "KnY3K",
+      "type": "Galactic Phase",
+      "status": "complete",
+      "round": 3,
+      "duration": 720,
+      "timeElapsed": 673.122999999999,
+      "actualTime": {
+        "s": "2025-04-17T21:32:04.337-04:00",
+        "e": "2025-04-17T21:43:06.624-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "vS8v2",
+      "type": "Universal Phase",
+      "status": "paused",
+      "round": 4,
+      "duration": 240,
+      "timeElapsed": 1,
+      "actualTime": {
+        "s": "2025-05-10T18:07:51.603-04:00",
+        "e": "2025-05-10T18:11:51.603-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "MFyrT",
+      "type": "Societal Phase",
+      "status": "complete",
+      "round": 4,
+      "duration": 600,
+      "timeElapsed": 477.31299999999766,
+      "actualTime": {
+        "s": "2025-04-20T15:28:15.501-04:00",
+        "e": "2025-05-10T13:48:47.649-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "dr96n",
+      "type": "Galactic Phase",
+      "status": "complete",
+      "round": 4,
+      "duration": 720,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-09T23:53:00.133-04:00",
+        "e": "2025-05-10T13:48:56.974-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "Z6ovG",
+      "type": "Individual Phase",
+      "status": "complete",
+      "round": 4,
+      "duration": 480,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-10T12:06:16.286-04:00",
+        "e": "2025-05-10T13:49:04.987-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "f34as",
+      "type": "Break",
+      "status": "playing",
+      "round": 4,
+      "duration": 0,
+      "timeElapsed": 18537.444000002477,
+      "actualTime": {
+        "s": "2025-05-10T13:51:25.097-04:00",
+        "e": "2025-05-10T13:51:25.097-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "vKnt4",
+      "type": "Universal Phase",
+      "status": "idle",
+      "round": 5,
+      "duration": 240,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-09T23:53:00.133-04:00",
+        "e": "2025-05-09T23:53:00.133-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "sJnY3",
+      "type": "Societal Phase",
+      "status": "idle",
+      "round": 5,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-09T23:53:00.133-04:00",
+        "e": "2025-05-09T23:53:00.133-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "C7lmW",
+      "type": "Galactic Phase",
+      "status": "idle",
+      "round": 5,
+      "duration": 720,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-09T23:53:00.133-04:00",
+        "e": "2025-05-09T23:53:00.133-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "uf9xF",
+      "type": "Universal Phase",
+      "status": "idle",
+      "round": 6,
+      "duration": 240,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-10T09:19:08.740-04:00",
+        "e": "2025-05-10T09:19:08.740-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "ebgeJ",
+      "type": "Societal Phase",
+      "status": "idle",
+      "round": 6,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-10T09:27:26.238-04:00",
+        "e": "2025-05-10T09:27:26.238-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "eTVTw",
+      "type": "Galactic Phase",
+      "status": "idle",
+      "round": 6,
+      "duration": 720,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-12T17:35:21.813-04:00",
+        "e": "2025-05-12T17:35:21.813-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "lyb7N",
+      "type": "Generational Phase",
+      "status": "idle",
+      "round": 6,
+      "duration": 900,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-10T11:52:59.017-04:00",
+        "e": "2025-05-10T11:52:59.017-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "YTkJJ",
+      "type": "Conclusion",
+      "status": "idle",
+      "round": 6,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-10T12:06:55.646-04:00",
+        "e": "2025-05-10T12:06:55.646-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    }
+  ],
+  "players": [],
+  "resources": [
+    {
+      "id": "Ridpo",
+      "communityId": "o7kHM",
+      "name": "dogs",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "HOzO6",
+      "communityId": "Qw0Xm",
+      "name": "cats",
+      "tags": {
+        "_type": "Tags",
+        "value": [
+          "vital"
+        ]
+      }
+    },
+    {
+      "id": "FADd2",
+      "communityId": "lHvo5",
+      "name": "lillypadz",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    }
+  ],
+  "societies": [
+    {
+      "id": "et0k8",
+      "name": "Frog house",
+      "archetype": "the curious",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "V9xbw",
+      "name": "Toad Shack",
+      "archetype": "the aesthetic",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "Feay0",
+      "name": "Beetle Junkies",
+      "archetype": "the intrepid",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "e-JcG",
+      "name": "Better Burritos",
+      "archetype": "the mighty",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "yXHVO",
+      "name": "Musical Chairs",
+      "archetype": "the enterprise",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    }
+  ],
+  "records": [
+    {
+      "id": "yxo_p",
+      "timestamp": "2025-04-16T18:12:27.348-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 0: Setup Phase",
+      "value": "2025-04-16T18:12:27.348-04:00"
+    },
+    {
+      "id": "hi0Ny",
+      "timestamp": "2025-04-16T18:12:30.475-04:00",
+      "type": "PhaseEnded",
+      "description": "Round 0: Setup Phase",
+      "value": "2025-04-16T18:12:30.475-04:00"
+    },
+    {
+      "id": "NKic2",
+      "timestamp": "2025-04-16T18:12:30.475-04:00",
+      "type": "PhaseDuration",
+      "description": "Round 0: Setup Phase",
+      "value": 0.052116666666666665
+    },
+    {
+      "id": "h9t6T",
+      "timestamp": "2025-04-16T18:12:30.475-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "First Society",
+      "value": 0
+    },
+    {
+      "id": "A5XPR",
+      "timestamp": "2025-04-16T18:12:30.475-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Second Society",
+      "value": 0
+    },
+    {
+      "id": "CQU3S",
+      "timestamp": "2025-04-16T18:12:30.475-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Third Society",
+      "value": 0
+    },
+    {
+      "id": "lH-YA",
+      "timestamp": "2025-04-16T18:12:31.858-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 1: Universal Phase",
+      "value": "2025-04-16T18:12:31.858-04:00"
+    },
+    {
+      "id": "BMmxG",
+      "timestamp": "2025-04-16T18:12:50.298-04:00",
+      "type": "PhaseEnded",
+      "description": "Round 1: Universal Phase",
+      "value": "2025-04-16T18:12:50.298-04:00"
+    },
+    {
+      "id": "j18Cc",
+      "timestamp": "2025-04-16T18:12:50.298-04:00",
+      "type": "PhaseDuration",
+      "description": "Round 1: Universal Phase",
+      "value": 0.30733333333333335
+    },
+    {
+      "id": "j3tYz",
+      "timestamp": "2025-04-16T18:12:53.129-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-04-16T18:12:53.129-04:00"
+    },
+    {
+      "id": "YVjR3",
+      "timestamp": "2025-04-16T18:14:26.371-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-04-16T18:14:26.371-04:00"
+    },
+    {
+      "id": "Mg5AK",
+      "timestamp": "2025-04-17T20:39:20.763-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-04-17T20:39:20.763-04:00"
+    },
+    {
+      "id": "iZ-xi",
+      "timestamp": "2025-04-17T20:39:32.348-04:00",
+      "type": "PhaseEnded",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-04-17T20:39:32.348-04:00"
+    },
+    {
+      "id": "Q0RV1",
+      "timestamp": "2025-04-17T20:39:32.350-04:00",
+      "type": "PhaseDuration",
+      "description": "Round 1: Galactic Phase",
+      "value": 0.19308333333333333
+    },
+    {
+      "id": "KNugS",
+      "timestamp": "2025-04-17T20:39:39.028-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "First Society",
+      "value": 0
+    },
+    {
+      "id": "eGQkJ",
+      "timestamp": "2025-04-17T20:39:39.028-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Second Society",
+      "value": 0
+    },
+    {
+      "id": "cc0e5",
+      "timestamp": "2025-04-17T20:39:39.028-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Third Society",
+      "value": 0
+    },
+    {
+      "id": "XDoEZ",
+      "timestamp": "2025-04-17T21:29:15.120-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 2: Universal Phase",
+      "value": "2025-04-17T21:29:15.120-04:00"
+    },
+    {
+      "id": "tOQ0w",
+      "timestamp": "2025-04-17T21:29:17.416-04:00",
+      "type": "PhaseEnded",
+      "description": "Round 2: Universal Phase",
+      "value": "2025-04-17T21:29:17.416-04:00"
+    },
+    {
+      "id": "uGaDT",
+      "timestamp": "2025-04-17T21:29:17.416-04:00",
+      "type": "PhaseDuration",
+      "description": "Round 2: Universal Phase",
+      "value": 0.03825
+    },
+    {
+      "id": "Ljzj7",
+      "timestamp": "2025-04-17T21:30:54.802-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 1: Individual Phase",
+      "value": "2025-04-17T21:30:54.802-04:00"
+    },
+    {
+      "id": "RKVUU",
+      "timestamp": "2025-04-17T21:32:04.337-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-04-17T21:32:04.337-04:00"
+    },
+    {
+      "id": "y7T6T",
+      "timestamp": "2025-04-17T21:43:06.624-04:00",
+      "type": "PhaseEnded",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-04-17T21:43:06.624-04:00"
+    },
+    {
+      "id": "nFBDp",
+      "timestamp": "2025-04-17T21:43:06.664-04:00",
+      "type": "PhaseDuration",
+      "description": "Round 1: Galactic Phase",
+      "value": 11.038116666666667
+    },
+    {
+      "id": "U7lGn",
+      "timestamp": "2025-04-17T21:43:40.834-04:00",
+      "type": "ResourceCreated",
+      "value": "dogs"
+    },
+    {
+      "id": "HWpb_",
+      "timestamp": "2025-04-17T21:43:48.543-04:00",
+      "type": "ResourceCreated",
+      "value": "cats"
+    },
+    {
+      "id": "dnpZ1",
+      "timestamp": "2025-04-20T15:16:14.219-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 1: Individual Phase",
+      "value": "2025-04-20T15:16:14.219-04:00"
+    },
+    {
+      "id": "ZVZRu",
+      "timestamp": "2025-04-20T15:16:15.964-04:00",
+      "type": "PhaseEnded",
+      "description": "Round 1: Individual Phase",
+      "value": "2025-04-20T15:16:15.964-04:00"
+    },
+    {
+      "id": "X2bcV",
+      "timestamp": "2025-04-20T15:16:15.965-04:00",
+      "type": "PhaseDuration",
+      "description": "Round 1: Individual Phase",
+      "value": 0.029083333333333333
+    },
+    {
+      "id": "cYUzG",
+      "timestamp": "2025-04-20T15:16:15.965-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "First Society",
+      "value": 1
+    },
+    {
+      "id": "iU1qS",
+      "timestamp": "2025-04-20T15:16:15.965-04:00",
+      "type": "ActionResources",
+      "description": "First Society used dogs,cats to take action.",
+      "value": 2
+    },
+    {
+      "id": "rAdV-",
+      "timestamp": "2025-04-20T15:16:15.965-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Second Society",
+      "value": 0
+    },
+    {
+      "id": "h36_Q",
+      "timestamp": "2025-04-20T15:16:15.965-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Third Society",
+      "value": 0
+    },
+    {
+      "id": "fWyPf",
+      "timestamp": "2025-04-20T15:17:34.606-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 2: Universal Phase",
+      "value": "2025-04-20T15:17:34.606-04:00"
+    },
+    {
+      "id": "OvfFf",
+      "timestamp": "2025-04-20T15:27:28.862-04:00",
+      "type": "ResourceCreated",
+      "value": "lillypadz"
+    },
+    {
+      "id": "tRua8",
+      "timestamp": "2025-04-20T15:28:02.211-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-04-20T15:28:02.211-04:00"
+    },
+    {
+      "id": "T3wKa",
+      "timestamp": "2025-04-20T15:28:15.502-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-04-20T15:28:15.502-04:00"
+    },
+    {
+      "id": "X-PS4",
+      "timestamp": "2025-05-10T13:48:47.649-04:00",
+      "type": "PhaseEnded",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-05-10T13:48:47.649-04:00"
+    },
+    {
+      "id": "gPTcN",
+      "timestamp": "2025-05-10T13:48:47.650-04:00",
+      "type": "PhaseDuration",
+      "description": "Round 2: Societal Phase",
+      "value": 28700.5358
+    },
+    {
+      "id": "VOG5w",
+      "timestamp": "2025-05-10T13:51:25.097-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 2: Break",
+      "value": "2025-05-10T13:51:25.097-04:00"
+    }
+  ]
+}
