@@ -205,13 +205,13 @@
     {
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 240,
-      "timeElapsed": 0,
+      "timeElapsed": 120.1060000000001,
       "actualTime": {
-        "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-12T16:55:53.629-04:00",
+        "s": "2025-05-13T19:22:59.827-04:00",
+        "e": "2025-05-13T19:26:59.827-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -478,7 +478,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 1687.807999999982,
+      "timeElapsed": 1887.9809999999782,
       "actualTime": {
         "s": "2025-05-10T13:51:25.097-04:00",
         "e": "2025-05-10T13:51:25.097-04:00",
@@ -991,6 +991,13 @@
       "type": "PhaseStarted",
       "description": "Round 2: Break",
       "value": "2025-05-10T13:51:25.097-04:00"
+    },
+    {
+      "id": "Cm2RO",
+      "timestamp": "2025-05-13T19:22:59.827-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 1: Universal Phase",
+      "value": "2025-05-13T19:22:59.827-04:00"
     }
   ]
 }
