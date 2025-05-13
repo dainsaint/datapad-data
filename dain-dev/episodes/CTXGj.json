@@ -188,6 +188,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "UDMgC",
+      "societyId": "et0k8",
+      "name": "Bobby",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -485,7 +495,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 3572.395000000125,
+      "timeElapsed": 3872.7280000001515,
       "actualTime": {
         "s": "2025-05-10T13:51:25.097-04:00",
         "e": "2025-05-10T13:51:25.097-04:00",
