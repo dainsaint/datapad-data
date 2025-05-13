@@ -89,9 +89,16 @@
       "id": "zCz57",
       "round": 1,
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
+      "resourceIds": [
+        "HOzO6",
+        "Ridpo"
+      ],
+      "texts": [
+        "MANA",
+        "wetaegar",
+        ""
+      ],
+      "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -208,10 +215,10 @@
       "status": "paused",
       "round": 1,
       "duration": 240,
-      "timeElapsed": 151.13600000000022,
+      "timeElapsed": 174.15800000000033,
       "actualTime": {
-        "s": "2025-05-13T19:22:59.827-04:00",
-        "e": "2025-05-13T19:26:59.827-04:00",
+        "s": "2025-05-13T19:51:02.029-04:00",
+        "e": "2025-05-13T19:55:02.029-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -478,7 +485,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 3272.1490000000936,
+      "timeElapsed": 3572.395000000125,
       "actualTime": {
         "s": "2025-05-10T13:51:25.097-04:00",
         "e": "2025-05-10T13:51:25.097-04:00",
@@ -998,6 +1005,13 @@
       "type": "PhaseStarted",
       "description": "Round 1: Universal Phase",
       "value": "2025-05-13T19:22:59.827-04:00"
+    },
+    {
+      "id": "frvLq",
+      "timestamp": "2025-05-13T23:51:02.030Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Universal Phase",
+      "value": "2025-05-13T23:51:02.030Z"
     }
   ]
 }
