@@ -495,7 +495,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 3872.7280000001515,
+      "timeElapsed": 4117.93900000018,
       "actualTime": {
         "s": "2025-05-10T13:51:25.097-04:00",
         "e": "2025-05-10T13:51:25.097-04:00",
@@ -1018,10 +1018,10 @@
     },
     {
       "id": "frvLq",
-      "timestamp": "2025-05-13T23:51:02.030Z",
+      "timestamp": "2025-05-13T19:51:02.030-04:00",
       "type": "PhaseStarted",
       "description": "Round 1: Universal Phase",
-      "value": "2025-05-13T23:51:02.030Z"
+      "value": "2025-05-13T19:51:02.030-04:00"
     }
   ]
 }
