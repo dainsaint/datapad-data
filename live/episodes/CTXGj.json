@@ -205,13 +205,13 @@
     {
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 240,
       "timeElapsed": 3,
       "actualTime": {
         "s": "2025-05-14T22:12:00.520+00:00",
-        "e": "2025-05-14T22:12:03.860+00:00",
+        "e": "2025-05-14T22:17:08.805+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -223,13 +223,13 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-12T20:55:34.772+00:00",
+        "e": "2025-05-14T22:17:10.914+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -241,7 +241,7 @@
     {
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 720,
       "timeElapsed": 0,
@@ -478,7 +478,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 2588.1249999999864,
+      "timeElapsed": 2888.1539999999923,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
