@@ -229,7 +229,7 @@
       "timeElapsed": 17.006999999999998,
       "actualTime": {
         "s": "2025-05-14T23:26:29.790+00:00",
-        "e": "2025-05-14T23:26:46.599+00:00",
+        "e": "2025-05-14T23:28:50.848+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -241,13 +241,13 @@
     {
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 720,
-      "timeElapsed": 0,
+      "timeElapsed": 292.15799999999984,
       "actualTime": {
-        "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-14T23:26:49.158+00:00",
+        "s": "2025-05-14T23:28:44.816+00:00",
+        "e": "2025-05-14T23:40:44.816+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -262,7 +262,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 157.0870000000002,
+      "timeElapsed": 456.2459999999983,
       "actualTime": {
         "s": "2025-05-14T23:26:18.865+00:00",
         "e": "2025-05-14T23:30:18.865+00:00",
@@ -478,7 +478,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 7089.509000000469,
+      "timeElapsed": 7389.669000000502,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
@@ -1166,6 +1166,13 @@
       "type": "SocietyActionsTaken",
       "description": "Musical Chairs",
       "value": 0
+    },
+    {
+      "id": "T0Apk",
+      "timestamp": "2025-05-14T23:28:44.816Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-05-14T23:28:44.816Z"
     }
   ]
 }
