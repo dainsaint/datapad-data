@@ -229,7 +229,7 @@
       "timeElapsed": 17.006999999999998,
       "actualTime": {
         "s": "2025-05-14T23:26:29.790+00:00",
-        "e": "2025-05-14T23:42:51.998+00:00",
+        "e": "2025-05-14T23:48:01.554+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -244,10 +244,10 @@
       "status": "playing",
       "round": 1,
       "duration": 720,
-      "timeElapsed": 892.5659999999924,
+      "timeElapsed": 950.5719999999923,
       "actualTime": {
-        "s": "2025-05-14T23:28:44.816+00:00",
-        "e": "2025-05-14T23:40:44.816+00:00",
+        "s": "2025-05-14T23:47:54.982+00:00",
+        "e": "2025-05-14T23:59:54.982+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -262,7 +262,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 1056.654999999989,
+      "timeElapsed": 1356.6829999999884,
       "actualTime": {
         "s": "2025-05-14T23:26:18.865+00:00",
         "e": "2025-05-14T23:30:18.865+00:00",
@@ -478,7 +478,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 7990.078000000584,
+      "timeElapsed": 8290.10600000059,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
@@ -1173,6 +1173,13 @@
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
       "value": "2025-05-14T23:28:44.816Z"
+    },
+    {
+      "id": "s52Ig",
+      "timestamp": "2025-05-14T23:47:54.982Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-05-14T23:47:54.982Z"
     }
   ]
 }
