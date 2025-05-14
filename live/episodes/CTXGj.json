@@ -205,13 +205,13 @@
     {
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-14T21:51:52.796+00:00",
+        "e": "2025-05-12T20:55:53.629+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -223,13 +223,13 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-14T21:51:58.996+00:00",
+        "e": "2025-05-12T20:55:34.772+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -478,7 +478,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 88464.45699996721,
+      "timeElapsed": 1687.809999999982,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
@@ -639,7 +639,7 @@
   "resources": [
     {
       "id": "Ridpo",
-      "communityId": "Qw0Xm",
+      "communityId": "o7kHM",
       "name": "dogs",
       "tags": {
         "_type": "Tags",
