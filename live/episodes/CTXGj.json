@@ -229,7 +229,7 @@
       "timeElapsed": 159.06300000000016,
       "actualTime": {
         "s": "2025-05-15T19:11:29.594+00:00",
-        "e": "2025-05-15T19:11:30.773+00:00",
+        "e": "2025-05-15T19:15:30.048+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -241,13 +241,13 @@
     {
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 1,
       "duration": 720,
       "timeElapsed": 14663.794000001622,
       "actualTime": {
         "s": "2025-05-15T15:41:23.298+00:00",
-        "e": "2025-05-15T15:53:23.298+00:00",
+        "e": "2025-05-15T19:15:32.264+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -259,13 +259,13 @@
     {
       "id": "ml6Q3",
       "type": "Universal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 71313.71299995146,
+      "timeElapsed": 71375.7229999515,
       "actualTime": {
         "s": "2025-05-14T23:26:18.865+00:00",
-        "e": "2025-05-14T23:30:18.865+00:00",
+        "e": "2025-05-15T19:15:42.602+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -277,13 +277,13 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-12T20:55:36.563+00:00",
+        "e": "2025-05-15T19:15:53.884+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -295,13 +295,13 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "paused",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 0,
+      "timeElapsed": 50.005,
       "actualTime": {
-        "s": "2025-05-11T02:35:11.677+00:00",
-        "e": "2025-05-12T20:55:37.008+00:00",
+        "s": "2025-05-15T19:15:58.430+00:00",
+        "e": "2025-05-15T19:27:58.430+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -478,7 +478,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 78246.13599995225,
+      "timeElapsed": 78547.1749999524,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
@@ -1292,6 +1292,48 @@
       "type": "PhaseDuration",
       "description": "Round 1: Societal Phase",
       "value": 0.01965
+    },
+    {
+      "id": "D3x_m",
+      "timestamp": "2025-05-15T19:15:32.264Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 0
+    },
+    {
+      "id": "xyKGa",
+      "timestamp": "2025-05-15T19:15:32.264Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "QrLy7",
+      "timestamp": "2025-05-15T19:15:32.264Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "LfY04",
+      "timestamp": "2025-05-15T19:15:32.264Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "r9Qqz",
+      "timestamp": "2025-05-15T19:15:32.264Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
+    },
+    {
+      "id": "HrGGF",
+      "timestamp": "2025-05-15T19:15:58.431Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Galactic Phase",
+      "value": "2025-05-15T19:15:58.431Z"
     }
   ]
 }
