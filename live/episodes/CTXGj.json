@@ -698,10 +698,10 @@
       "status": "complete",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 10.999999999999998,
+      "timeElapsed": 89.011,
       "actualTime": {
-        "s": "2025-05-15T19:54:43.742+00:00",
-        "e": "2025-05-15T19:54:54.487+00:00",
+        "s": "2025-05-15T21:08:03.733+00:00",
+        "e": "2025-05-15T21:12:09.493+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -716,10 +716,10 @@
       "status": "complete",
       "round": 6,
       "duration": 720,
-      "timeElapsed": 10.002999999999998,
+      "timeElapsed": 154.01700000000002,
       "actualTime": {
-        "s": "2025-05-15T19:54:59.491+00:00",
-        "e": "2025-05-15T21:07:48.033+00:00",
+        "s": "2025-05-15T21:08:01.311+00:00",
+        "e": "2025-05-15T21:13:32.052+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -734,10 +734,10 @@
       "status": "idle",
       "round": 6,
       "duration": 900,
-      "timeElapsed": 0,
+      "timeElapsed": 3.001,
       "actualTime": {
-        "s": "2025-05-10T15:52:59.017+00:00",
-        "e": "2025-05-10T15:52:59.017+00:00",
+        "s": "2025-05-15T21:07:52.730+00:00",
+        "e": "2025-05-15T21:07:56.023+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1793,6 +1793,69 @@
       "type": "PhaseStarted",
       "description": "Round 6: Galactic Phase",
       "value": "2025-05-15T19:54:59.491Z"
+    },
+    {
+      "id": "msLJT",
+      "timestamp": "2025-05-15T21:07:52.730Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Generational Phase",
+      "value": "2025-05-15T21:07:52.730Z"
+    },
+    {
+      "id": "rYvs0",
+      "timestamp": "2025-05-15T21:07:56.023Z",
+      "type": "PhaseEnded",
+      "description": "Round 6: Generational Phase",
+      "value": "2025-05-15T21:07:56.023Z"
+    },
+    {
+      "id": "eo03Q",
+      "timestamp": "2025-05-15T21:07:56.023Z",
+      "type": "PhaseDuration",
+      "description": "Round 6: Generational Phase",
+      "value": 0.05488333333333333
+    },
+    {
+      "id": "HeooN",
+      "timestamp": "2025-05-15T21:08:01.311Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Galactic Phase",
+      "value": "2025-05-15T21:08:01.311Z"
+    },
+    {
+      "id": "hvmE5",
+      "timestamp": "2025-05-15T21:08:03.733Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Societal Phase",
+      "value": "2025-05-15T21:08:03.733Z"
+    },
+    {
+      "id": "fQE4I",
+      "timestamp": "2025-05-15T21:09:21.265Z",
+      "type": "PhaseEnded",
+      "description": "Round 6: Societal Phase",
+      "value": "2025-05-15T21:09:21.265Z"
+    },
+    {
+      "id": "egVkf",
+      "timestamp": "2025-05-15T21:09:21.265Z",
+      "type": "PhaseDuration",
+      "description": "Round 6: Societal Phase",
+      "value": 1.2922
+    },
+    {
+      "id": "e1QD-",
+      "timestamp": "2025-05-15T21:10:25.844Z",
+      "type": "PhaseEnded",
+      "description": "Round 6: Galactic Phase",
+      "value": "2025-05-15T21:10:25.844Z"
+    },
+    {
+      "id": "RlhC_",
+      "timestamp": "2025-05-15T21:10:25.845Z",
+      "type": "PhaseDuration",
+      "description": "Round 6: Galactic Phase",
+      "value": 2.4088833333333333
     }
   ]
 }
