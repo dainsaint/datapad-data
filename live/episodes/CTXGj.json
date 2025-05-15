@@ -713,13 +713,13 @@
     {
       "id": "eTVTw",
       "type": "Galactic Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 6,
       "duration": 720,
       "timeElapsed": 10.002999999999998,
       "actualTime": {
         "s": "2025-05-15T19:54:59.491+00:00",
-        "e": "2025-05-15T20:06:59.491+00:00",
+        "e": "2025-05-15T21:07:48.033+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
