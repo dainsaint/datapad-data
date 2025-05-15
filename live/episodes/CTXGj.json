@@ -223,13 +223,13 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 19.006999999999998,
+      "timeElapsed": 158.06200000000015,
       "actualTime": {
-        "s": "2025-05-15T18:44:31.033+00:00",
-        "e": "2025-05-15T18:54:31.033+00:00",
+        "s": "2025-05-15T18:44:38.786+00:00",
+        "e": "2025-05-15T18:54:38.786+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -244,7 +244,7 @@
       "status": "playing",
       "round": 1,
       "duration": 720,
-      "timeElapsed": 13035.070000001475,
+      "timeElapsed": 13336.200000001501,
       "actualTime": {
         "s": "2025-05-15T15:41:23.298+00:00",
         "e": "2025-05-15T15:53:23.298+00:00",
@@ -262,7 +262,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 69511.97699995001,
+      "timeElapsed": 69812.10599995044,
       "actualTime": {
         "s": "2025-05-14T23:26:18.865+00:00",
         "e": "2025-05-14T23:30:18.865+00:00",
@@ -478,7 +478,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 76445.39999995081,
+      "timeElapsed": 76745.52899995123,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
@@ -1250,6 +1250,27 @@
       "type": "PhaseStarted",
       "description": "Round 1: Societal Phase",
       "value": "2025-05-15T18:44:31.033Z"
+    },
+    {
+      "id": "dwRxG",
+      "timestamp": "2025-05-15T18:44:32.971Z",
+      "type": "PhaseEnded",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-05-15T18:44:32.971Z"
+    },
+    {
+      "id": "JpZ1D",
+      "timestamp": "2025-05-15T18:44:32.972Z",
+      "type": "PhaseDuration",
+      "description": "Round 1: Societal Phase",
+      "value": 0.0323
+    },
+    {
+      "id": "dzdL7",
+      "timestamp": "2025-05-15T18:44:38.786Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-05-15T18:44:38.786Z"
     }
   ]
 }
