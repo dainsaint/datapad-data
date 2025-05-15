@@ -701,7 +701,7 @@
       "timeElapsed": 89.011,
       "actualTime": {
         "s": "2025-05-15T21:08:03.733+00:00",
-        "e": "2025-05-15T21:12:09.493+00:00",
+        "e": "2025-05-15T21:26:38.129+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -713,13 +713,13 @@
     {
       "id": "eTVTw",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 6,
       "duration": 720,
       "timeElapsed": 154.01700000000002,
       "actualTime": {
         "s": "2025-05-15T21:08:01.311+00:00",
-        "e": "2025-05-15T21:17:54.014+00:00",
+        "e": "2025-05-15T21:26:42.161+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -737,7 +737,7 @@
       "timeElapsed": 3.001,
       "actualTime": {
         "s": "2025-05-15T21:07:52.730+00:00",
-        "e": "2025-05-15T21:07:56.023+00:00",
+        "e": "2025-05-15T21:25:45.481+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
