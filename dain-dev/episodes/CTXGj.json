@@ -90,11 +90,9 @@
       "round": 1,
       "societyId": "et0k8",
       "resourceIds": [
-        "HOzO6"
+        "JvqsG"
       ],
       "texts": [
-        "MANA",
-        "wetaegar",
         ""
       ],
       "risk": "1",
@@ -544,7 +542,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 25818.51500000393,
+      "timeElapsed": 25952.641000003954,
       "actualTime": {
         "s": "2025-05-10T13:51:25.097-04:00",
         "e": "2025-05-10T13:51:25.097-04:00",
@@ -714,7 +712,7 @@
     },
     {
       "id": "HOzO6",
-      "communityId": "o7kHM",
+      "communityId": "UDMgC",
       "name": "cats",
       "tags": {
         "_type": "Tags",
@@ -734,7 +732,7 @@
     },
     {
       "id": "QvweM",
-      "communityId": "cV-Kn",
+      "communityId": "B95dD",
       "name": "arg",
       "tags": {
         "_type": "Tags",
@@ -761,7 +759,7 @@
     },
     {
       "id": "arNw1",
-      "communityId": "B95dD",
+      "communityId": "cV-Kn",
       "name": "afergre",
       "tags": {
         "_type": "Tags",
@@ -770,7 +768,7 @@
     },
     {
       "id": "BqPmG",
-      "communityId": "UDMgC",
+      "communityId": "LiQVN",
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
