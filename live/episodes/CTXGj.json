@@ -223,13 +223,13 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 158.06200000000015,
+      "timeElapsed": 159.06300000000016,
       "actualTime": {
-        "s": "2025-05-15T18:44:38.786+00:00",
-        "e": "2025-05-15T18:54:38.786+00:00",
+        "s": "2025-05-15T19:11:29.594+00:00",
+        "e": "2025-05-15T19:11:30.773+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -241,10 +241,10 @@
     {
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 1,
       "duration": 720,
-      "timeElapsed": 14536.773000001618,
+      "timeElapsed": 14663.794000001622,
       "actualTime": {
         "s": "2025-05-15T15:41:23.298+00:00",
         "e": "2025-05-15T15:53:23.298+00:00",
@@ -262,7 +262,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 71012.68099995134,
+      "timeElapsed": 71313.71299995146,
       "actualTime": {
         "s": "2025-05-14T23:26:18.865+00:00",
         "e": "2025-05-14T23:30:18.865+00:00",
@@ -478,7 +478,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 77946.10399995213,
+      "timeElapsed": 78246.13599995225,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
@@ -1271,6 +1271,27 @@
       "type": "PhaseStarted",
       "description": "Round 1: Societal Phase",
       "value": "2025-05-15T18:44:38.786Z"
+    },
+    {
+      "id": "s0tHx",
+      "timestamp": "2025-05-15T19:11:29.595Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-05-15T19:11:29.595Z"
+    },
+    {
+      "id": "yc5M9",
+      "timestamp": "2025-05-15T19:11:30.774Z",
+      "type": "PhaseEnded",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-05-15T19:11:30.774Z"
+    },
+    {
+      "id": "zi0I0",
+      "timestamp": "2025-05-15T19:11:30.774Z",
+      "type": "PhaseDuration",
+      "description": "Round 1: Societal Phase",
+      "value": 0.01965
     }
   ]
 }
