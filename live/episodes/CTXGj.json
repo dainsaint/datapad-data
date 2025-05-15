@@ -223,13 +223,13 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 17.006999999999998,
+      "timeElapsed": 19.006999999999998,
       "actualTime": {
-        "s": "2025-05-14T23:26:29.790+00:00",
-        "e": "2025-05-14T23:54:29.745+00:00",
+        "s": "2025-05-15T18:44:31.033+00:00",
+        "e": "2025-05-15T18:54:31.033+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -244,7 +244,7 @@
       "status": "playing",
       "round": 1,
       "duration": 720,
-      "timeElapsed": 12735.911000001443,
+      "timeElapsed": 13035.070000001475,
       "actualTime": {
         "s": "2025-05-15T15:41:23.298+00:00",
         "e": "2025-05-15T15:53:23.298+00:00",
@@ -262,7 +262,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 69211.81699994962,
+      "timeElapsed": 69511.97699995001,
       "actualTime": {
         "s": "2025-05-14T23:26:18.865+00:00",
         "e": "2025-05-14T23:30:18.865+00:00",
@@ -478,7 +478,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 76145.23999995041,
+      "timeElapsed": 76445.39999995081,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
@@ -1243,6 +1243,13 @@
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
       "value": "2025-05-15T15:41:23.298Z"
+    },
+    {
+      "id": "e7nzK",
+      "timestamp": "2025-05-15T18:44:31.033Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-05-15T18:44:31.033Z"
     }
   ]
 }
