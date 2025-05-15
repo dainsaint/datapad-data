@@ -241,13 +241,13 @@
     {
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 1,
       "duration": 720,
-      "timeElapsed": 1850.709999999989,
+      "timeElapsed": 2046.7529999999879,
       "actualTime": {
-        "s": "2025-05-14T23:47:54.982+00:00",
-        "e": "2025-05-14T23:59:54.982+00:00",
+        "s": "2025-05-15T00:07:48.991+00:00",
+        "e": "2025-05-15T00:19:48.991+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -262,7 +262,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 2256.8199999999915,
+      "timeElapsed": 2557.892000000006,
       "actualTime": {
         "s": "2025-05-14T23:26:18.865+00:00",
         "e": "2025-05-14T23:30:18.865+00:00",
@@ -478,7 +478,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 9190.243000000617,
+      "timeElapsed": 9490.314000000631,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
@@ -1180,6 +1180,62 @@
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
       "value": "2025-05-14T23:47:54.982Z"
+    },
+    {
+      "id": "oriUV",
+      "timestamp": "2025-05-15T00:06:51.683Z",
+      "type": "PhaseEnded",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-05-15T00:06:51.683Z"
+    },
+    {
+      "id": "PBbox",
+      "timestamp": "2025-05-15T00:06:51.683Z",
+      "type": "PhaseDuration",
+      "description": "Round 1: Galactic Phase",
+      "value": 18.945016666666668
+    },
+    {
+      "id": "UP9zR",
+      "timestamp": "2025-05-15T00:06:51.683Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 0
+    },
+    {
+      "id": "hWGIh",
+      "timestamp": "2025-05-15T00:06:51.683Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "ANM5_",
+      "timestamp": "2025-05-15T00:06:51.683Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "Sy_bh",
+      "timestamp": "2025-05-15T00:06:51.683Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "hE_qh",
+      "timestamp": "2025-05-15T00:06:51.683Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
+    },
+    {
+      "id": "Y6FXB",
+      "timestamp": "2025-05-15T00:07:48.991Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-05-15T00:07:48.991Z"
     }
   ]
 }
