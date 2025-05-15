@@ -542,7 +542,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 27309.808000004177,
+      "timeElapsed": 27412.9160000042,
       "actualTime": {
         "s": "2025-05-10T13:51:25.097-04:00",
         "e": "2025-05-10T13:51:25.097-04:00",
@@ -703,7 +703,7 @@
   "resources": [
     {
       "id": "Ridpo",
-      "communityId": "o7kHM",
+      "communityId": "B95dD",
       "name": "dogs",
       "tags": {
         "_type": "Tags",
@@ -732,7 +732,7 @@
     },
     {
       "id": "QvweM",
-      "communityId": "B95dD",
+      "communityId": "o7kHM",
       "name": "arg",
       "tags": {
         "_type": "Tags",
