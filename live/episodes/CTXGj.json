@@ -187,7 +187,7 @@
     {
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
-      "status": "complete",
+      "status": "idle",
       "round": 0,
       "duration": 1200,
       "timeElapsed": 0,
@@ -205,13 +205,13 @@
     {
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 240,
-      "timeElapsed": 0,
+      "timeElapsed": 121.03600000000006,
       "actualTime": {
-        "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-12T20:55:53.629+00:00",
+        "s": "2025-05-16T17:04:28.200+00:00",
+        "e": "2025-05-16T17:08:28.200+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -478,7 +478,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 67747.4299999515,
+      "timeElapsed": 68046.58299995183,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
@@ -991,6 +991,13 @@
       "type": "PhaseStarted",
       "description": "Round 2: Break",
       "value": "2025-05-10T17:51:25.097+00:00"
+    },
+    {
+      "id": "yT4Z8",
+      "timestamp": "2025-05-16T17:04:28.201Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Universal Phase",
+      "value": "2025-05-16T17:04:28.201Z"
     }
   ]
 }
