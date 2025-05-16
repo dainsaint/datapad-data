@@ -90,11 +90,10 @@
       "round": 1,
       "societyId": "et0k8",
       "resourceIds": [
-        "JvqsG",
-        "QvweM"
+        "HOzO6"
       ],
       "texts": [
-        "",
+        "dddddd",
         ""
       ],
       "risk": "1",
@@ -291,7 +290,7 @@
       "type": "Societal Phase",
       "status": "idle",
       "round": 1,
-      "duration": 660,
+      "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
@@ -530,6 +529,24 @@
       "actualTime": {
         "s": "2025-05-10T12:06:16.286-04:00",
         "e": "2025-05-10T13:49:04.987-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "f34as",
+      "type": "Break",
+      "status": "playing",
+      "round": 4,
+      "duration": 0,
+      "timeElapsed": 1921.9579999999785,
+      "actualTime": {
+        "s": "2025-05-10T13:51:25.097-04:00",
+        "e": "2025-05-10T13:51:25.097-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
