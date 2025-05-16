@@ -288,13 +288,13 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-16T15:29:26.165+00:00",
+        "e": "2025-05-16T22:21:48.388+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -543,7 +543,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 3723.6330000002185,
+      "timeElapsed": 4023.88000000026,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
