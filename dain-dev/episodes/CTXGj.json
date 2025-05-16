@@ -94,7 +94,6 @@
       ],
       "texts": [
         "rob the dogs",
-        "",
         ""
       ],
       "risk": "1",
@@ -544,7 +543,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 104765.72900000129,
+      "timeElapsed": 105065.98900000162,
       "actualTime": {
         "s": "2025-05-10T13:51:25.097-04:00",
         "e": "2025-05-10T13:51:25.097-04:00",
@@ -770,7 +769,7 @@
     },
     {
       "id": "BqPmG",
-      "communityId": "B95dD",
+      "communityId": "UDMgC",
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
