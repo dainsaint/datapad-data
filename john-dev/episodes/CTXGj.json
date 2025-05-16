@@ -210,13 +210,13 @@
     {
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-16T13:57:05.539-04:00",
+        "e": "2025-05-12T16:55:53.629-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -228,13 +228,13 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-16T13:57:07.287-04:00",
+        "e": "2025-05-12T16:55:34.772-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -252,7 +252,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-16T17:25:31.469-04:00",
+        "e": "2025-05-12T16:55:35.243-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -483,7 +483,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 15606.612000000541,
+      "timeElapsed": 1921.9599999999784,
       "actualTime": {
         "s": "2025-05-10T13:51:25.097-04:00",
         "e": "2025-05-10T13:51:25.097-04:00",
@@ -693,7 +693,7 @@
     },
     {
       "id": "Feay0",
-      "name": "Beetle Junkies forever",
+      "name": "Beetle Junkies",
       "archetype": "the intrepid",
       "tags": {
         "_type": "Tags",
@@ -996,48 +996,6 @@
       "type": "PhaseStarted",
       "description": "Round 2: Break",
       "value": "2025-05-10T13:51:25.097-04:00"
-    },
-    {
-      "id": "C7oWC",
-      "timestamp": "2025-05-16T17:25:31.469-04:00",
-      "type": "SocietyActionsTaken",
-      "description": "Frog house",
-      "value": 1
-    },
-    {
-      "id": "GKMeM",
-      "timestamp": "2025-05-16T17:25:31.469-04:00",
-      "type": "ActionResources",
-      "description": "Frog house used cats to take action.",
-      "value": 1
-    },
-    {
-      "id": "fLzBV",
-      "timestamp": "2025-05-16T17:25:31.470-04:00",
-      "type": "SocietyActionsTaken",
-      "description": "Toad Shack",
-      "value": 0
-    },
-    {
-      "id": "vY6yj",
-      "timestamp": "2025-05-16T17:25:31.470-04:00",
-      "type": "SocietyActionsTaken",
-      "description": "Beetle Junkies forever",
-      "value": 0
-    },
-    {
-      "id": "a4gGr",
-      "timestamp": "2025-05-16T17:25:31.470-04:00",
-      "type": "SocietyActionsTaken",
-      "description": "Better Burritos",
-      "value": 0
-    },
-    {
-      "id": "lhlC2",
-      "timestamp": "2025-05-16T17:25:31.470-04:00",
-      "type": "SocietyActionsTaken",
-      "description": "Musical Chairs",
-      "value": 0
     }
   ]
 }
