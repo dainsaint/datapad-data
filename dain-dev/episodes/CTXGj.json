@@ -90,11 +90,11 @@
       "round": 1,
       "societyId": "et0k8",
       "resourceIds": [
-        "HOzO6"
+        "JvqsG",
+        "QvweM"
       ],
       "texts": [
-        "rob the dogs",
-        "fuel the cats",
+        "",
         ""
       ],
       "risk": "1",
@@ -291,7 +291,7 @@
       "type": "Societal Phase",
       "status": "idle",
       "round": 1,
-      "duration": 600,
+      "duration": 660,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
