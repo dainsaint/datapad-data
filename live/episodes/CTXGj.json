@@ -483,7 +483,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 15434.354000002268,
+      "timeElapsed": 1921.9589999999785,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
@@ -666,15 +666,6 @@
       "id": "FADd2",
       "communityId": "lHvo5",
       "name": "lillypadz",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "tbWWY",
-      "communityId": "Qw0Xm",
-      "name": "Stuff",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1005,12 +996,6 @@
       "type": "PhaseStarted",
       "description": "Round 2: Break",
       "value": "2025-05-10T17:51:25.097+00:00"
-    },
-    {
-      "id": "v2IPs",
-      "timestamp": "2025-05-16T19:59:16.587Z",
-      "type": "ResourceCreated",
-      "value": "Stuff"
     }
   ]
 }
