@@ -90,10 +90,12 @@
       "round": 1,
       "societyId": "et0k8",
       "resourceIds": [
-        "HOzO6"
+        "HOzO6",
+        "JvqsG"
       ],
       "texts": [
         "rob the dogs",
+        "fuel the cats",
         ""
       ],
       "risk": "1",
@@ -742,7 +744,7 @@
     },
     {
       "id": "arNw1",
-      "communityId": "cV-Kn",
+      "communityId": "LiQVN",
       "name": "afergre",
       "tags": {
         "_type": "Tags",
