@@ -544,7 +544,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 102948.14699999998,
+      "timeElapsed": 103006.19600000001,
       "actualTime": {
         "s": "2025-05-10T13:51:25.097-04:00",
         "e": "2025-05-10T13:51:25.097-04:00",
@@ -826,8 +826,7 @@
     }
   ],
   "documentIds": [
-    "Wt6ry",
-    "vXmhY"
+    "Wt6ry"
   ],
   "records": [
     {
