@@ -159,7 +159,7 @@
     {
       "id": "o7kHM",
       "societyId": "et0k8",
-      "name": "Frank",
+      "name": "Wizened Elders",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -542,7 +542,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 43778.33899999607,
+      "timeElapsed": 43926.46599999581,
       "actualTime": {
         "s": "2025-05-10T13:51:25.097-04:00",
         "e": "2025-05-10T13:51:25.097-04:00",
