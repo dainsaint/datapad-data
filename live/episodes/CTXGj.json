@@ -89,13 +89,20 @@
       "id": "zCz57",
       "round": 1,
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
+      "resourceIds": [
+        "HOzO6"
+      ],
+      "texts": [
+        "drink a bowl of milk",
+        ""
+      ],
+      "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "committed"
+        ]
       }
     },
     {
@@ -478,7 +485,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 68347.69599995209,
+      "timeElapsed": 68647.86599995228,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
