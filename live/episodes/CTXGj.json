@@ -93,16 +93,14 @@
         "HOzO6"
       ],
       "texts": [
-        "drink a bowl of milk",
+        "dddddd",
         ""
       ],
       "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": [
-          "committed"
-        ]
+        "value": []
       }
     },
     {
@@ -200,7 +198,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-12T20:52:56.814+00:00",
-        "e": "2025-05-16T17:07:16.905+00:00",
+        "e": "2025-05-12T20:55:48.276+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -212,13 +210,13 @@
     {
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 240,
-      "timeElapsed": 170.05300000000014,
+      "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-05-16T17:04:28.200+00:00",
-        "e": "2025-05-16T17:07:18.099+00:00",
+        "s": "2025-05-10T03:53:00.133+00:00",
+        "e": "2025-05-12T20:55:53.629+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -230,13 +228,13 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-16T17:07:19.471+00:00",
+        "e": "2025-05-12T20:55:34.772+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -485,7 +483,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 70748.78199995327,
+      "timeElapsed": 1921.9579999999785,
       "actualTime": {
         "s": "2025-05-10T17:51:25.097+00:00",
         "e": "2025-05-10T17:51:25.097+00:00",
@@ -998,97 +996,6 @@
       "type": "PhaseStarted",
       "description": "Round 2: Break",
       "value": "2025-05-10T17:51:25.097+00:00"
-    },
-    {
-      "id": "yT4Z8",
-      "timestamp": "2025-05-16T17:04:28.201Z",
-      "type": "PhaseStarted",
-      "description": "Round 1: Universal Phase",
-      "value": "2025-05-16T17:04:28.201Z"
-    },
-    {
-      "id": "mvhD4",
-      "timestamp": "2025-05-16T17:07:09.586Z",
-      "type": "SocietyActionsTaken",
-      "description": "Frog house",
-      "value": 0
-    },
-    {
-      "id": "PdEox",
-      "timestamp": "2025-05-16T17:07:09.586Z",
-      "type": "SocietyActionsTaken",
-      "description": "Toad Shack",
-      "value": 0
-    },
-    {
-      "id": "gvbVh",
-      "timestamp": "2025-05-16T17:07:09.586Z",
-      "type": "SocietyActionsTaken",
-      "description": "Beetle Junkies",
-      "value": 0
-    },
-    {
-      "id": "Q-rxD",
-      "timestamp": "2025-05-16T17:07:09.586Z",
-      "type": "SocietyActionsTaken",
-      "description": "Better Burritos",
-      "value": 0
-    },
-    {
-      "id": "BUazG",
-      "timestamp": "2025-05-16T17:07:09.586Z",
-      "type": "SocietyActionsTaken",
-      "description": "Musical Chairs",
-      "value": 0
-    },
-    {
-      "id": "Iw205",
-      "timestamp": "2025-05-16T17:07:16.905Z",
-      "type": "SocietyActionsTaken",
-      "description": "Frog house",
-      "value": 0
-    },
-    {
-      "id": "OpiF9",
-      "timestamp": "2025-05-16T17:07:16.905Z",
-      "type": "SocietyActionsTaken",
-      "description": "Toad Shack",
-      "value": 0
-    },
-    {
-      "id": "vWMsb",
-      "timestamp": "2025-05-16T17:07:16.905Z",
-      "type": "SocietyActionsTaken",
-      "description": "Beetle Junkies",
-      "value": 0
-    },
-    {
-      "id": "LxTlu",
-      "timestamp": "2025-05-16T17:07:16.905Z",
-      "type": "SocietyActionsTaken",
-      "description": "Better Burritos",
-      "value": 0
-    },
-    {
-      "id": "Kc_9o",
-      "timestamp": "2025-05-16T17:07:16.905Z",
-      "type": "SocietyActionsTaken",
-      "description": "Musical Chairs",
-      "value": 0
-    },
-    {
-      "id": "QzV5q",
-      "timestamp": "2025-05-16T17:07:18.099Z",
-      "type": "PhaseEnded",
-      "description": "Round 1: Universal Phase",
-      "value": "2025-05-16T17:07:18.099Z"
-    },
-    {
-      "id": "FVqzw",
-      "timestamp": "2025-05-16T17:07:18.100Z",
-      "type": "PhaseDuration",
-      "description": "Round 1: Universal Phase",
-      "value": 2.83165
     }
   ]
 }
