@@ -90,9 +90,11 @@
       "round": 1,
       "societyId": "et0k8",
       "resourceIds": [
-        "JvqsG"
+        "HOzO6"
       ],
       "texts": [
+        "",
+        "",
         ""
       ],
       "risk": "1",
@@ -542,7 +544,7 @@
       "status": "playing",
       "round": 4,
       "duration": 0,
-      "timeElapsed": 89911.4639999913,
+      "timeElapsed": 90116.64299999164,
       "actualTime": {
         "s": "2025-05-10T13:51:25.097-04:00",
         "e": "2025-05-10T13:51:25.097-04:00",
