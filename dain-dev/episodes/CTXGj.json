@@ -781,7 +781,10 @@
     {
       "id": "et0k8",
       "name": "Frog house",
-      "archetype": "the curious",
+      "archetype": [
+        "the curious",
+        "color-canary-diamond"
+      ],
       "tags": {
         "_type": "Tags",
         "value": []
