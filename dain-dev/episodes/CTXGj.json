@@ -714,16 +714,18 @@
   "resources": [
     {
       "id": "Ridpo",
-      "communityId": "B95dD",
+      "communityId": "o7kHM",
       "name": "dogs",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
       "id": "HOzO6",
-      "communityId": "o7kHM",
+      "communityId": "B95dD",
       "name": "cats",
       "tags": {
         "_type": "Tags",
@@ -743,7 +745,7 @@
     },
     {
       "id": "QvweM",
-      "communityId": "o7kHM",
+      "communityId": "cV-Kn",
       "name": "arg",
       "tags": {
         "_type": "Tags",
@@ -752,7 +754,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "kATHn",
+      "communityId": "R9tmF",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -770,7 +772,7 @@
     },
     {
       "id": "arNw1",
-      "communityId": "LiQVN",
+      "communityId": "kATHn",
       "name": "afergre",
       "tags": {
         "_type": "Tags",
