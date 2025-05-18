@@ -284,6 +284,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "NzLOs",
+      "societyId": "Feay0",
+      "name": "dada",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -1499,7 +1509,7 @@
     },
     {
       "id": "BGlIO",
-      "timestamp": "2025-05-18T13:02:00.820Z",
+      "timestamp": "2025-05-18T09:02:00.820-04:00",
       "type": "ResourceCreated",
       "value": "hey now"
     }
