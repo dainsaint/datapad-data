@@ -456,13 +456,13 @@
     {
       "id": "iFRIY",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-18T09:50:08.334-04:00",
+        "e": "2025-05-18T09:59:28.095-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
