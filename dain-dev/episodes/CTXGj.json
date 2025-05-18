@@ -776,24 +776,6 @@
         "_type": "Tags",
         "value": []
       }
-    },
-    {
-      "id": "oEzud",
-      "type": "Break",
-      "status": "idle",
-      "round": 6,
-      "duration": 480,
-      "timeElapsed": 0,
-      "actualTime": {
-        "s": "2025-05-18T09:25:20.794-04:00",
-        "e": "2025-05-18T09:25:20.794-04:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
     }
   ],
   "players": [],
