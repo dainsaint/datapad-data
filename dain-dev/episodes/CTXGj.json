@@ -776,6 +776,24 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "H9io2",
+      "type": "Setup/Onboarding",
+      "status": "idle",
+      "round": 6,
+      "duration": 0,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-18T09:43:29.003-04:00",
+        "e": "2025-05-18T09:43:29.003-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "players": [],
