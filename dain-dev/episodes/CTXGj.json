@@ -94,7 +94,7 @@
       ],
       "texts": [
         "dddddd",
-        "Another action",
+        "",
         ""
       ],
       "risk": "1",
@@ -259,6 +259,26 @@
       "id": "G_9_r",
       "societyId": "Feay0",
       "name": "nana",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "ssnLF",
+      "societyId": "Feay0",
+      "name": "baba",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "FRomU",
+      "societyId": "Feay0",
+      "name": "gaga",
       "voice": "people",
       "tags": {
         "_type": "Tags",
