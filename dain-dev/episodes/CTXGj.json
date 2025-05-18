@@ -420,13 +420,13 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "playing",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-18T10:01:47.176-04:00",
+        "s": "2025-05-18T10:03:51.647-04:00",
+        "e": "2025-05-18T10:13:51.647-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -438,7 +438,7 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 720,
       "timeElapsed": 0,
@@ -462,7 +462,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-18T10:01:42.002-04:00",
+        "e": "2025-05-18T10:03:33.642-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -480,7 +480,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-12T15:38:12.770-04:00",
-        "e": "2025-05-18T09:50:42.806-04:00",
+        "e": "2025-05-18T10:03:34.093-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1868,6 +1868,55 @@
       "type": "SocietyActionsTaken",
       "description": "Musical Chairs",
       "value": 0
+    },
+    {
+      "id": "T49TB",
+      "timestamp": "2025-05-18T10:03:34.093-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "X18G6",
+      "timestamp": "2025-05-18T10:03:34.093-04:00",
+      "type": "ActionResources",
+      "description": "Frog house used cats to take action.",
+      "value": 1
+    },
+    {
+      "id": "V9uZu",
+      "timestamp": "2025-05-18T10:03:34.094-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "KPSXN",
+      "timestamp": "2025-05-18T10:03:34.094-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "nkFeW",
+      "timestamp": "2025-05-18T10:03:34.094-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "EvR9u",
+      "timestamp": "2025-05-18T10:03:34.094-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
+    },
+    {
+      "id": "vAmxL",
+      "timestamp": "2025-05-18T14:03:51.647Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-05-18T14:03:51.647Z"
     }
   ]
 }
