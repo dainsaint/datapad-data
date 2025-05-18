@@ -76,9 +76,13 @@
       "id": "VmMzV",
       "round": 2,
       "societyId": "yXHVO",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
+      "resourceIds": [
+        "KB9VT"
+      ],
+      "texts": [
+        ""
+      ],
+      "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -793,7 +797,7 @@
     },
     {
       "id": "HOzO6",
-      "communityId": "LiQVN",
+      "communityId": "cV-Kn",
       "name": "cats",
       "tags": {
         "_type": "Tags",
@@ -822,7 +826,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "cV-Kn",
+      "communityId": "R9tmF",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -840,7 +844,7 @@
     },
     {
       "id": "arNw1",
-      "communityId": "kATHn",
+      "communityId": "LiQVN",
       "name": "afergre",
       "tags": {
         "_type": "Tags",
@@ -849,7 +853,7 @@
     },
     {
       "id": "BqPmG",
-      "communityId": "R9tmF",
+      "communityId": "kATHn",
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
@@ -965,7 +969,7 @@
       "id": "yXHVO",
       "name": "Musical Chairs",
       "archetype": "the enterprise",
-      "color": "color-river-stone",
+      "color": "color-red-sun-rising",
       "tags": {
         "_type": "Tags",
         "value": []
