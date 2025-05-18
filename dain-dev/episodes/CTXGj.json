@@ -366,13 +366,13 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 900,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-17T08:17:07.574-04:00",
+        "e": "2025-05-18T09:45:37.996-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -769,24 +769,6 @@
       "actualTime": {
         "s": "2025-05-10T12:06:55.646-04:00",
         "e": "2025-05-10T12:06:55.646-04:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "H9io2",
-      "type": "Setup/Onboarding",
-      "status": "idle",
-      "round": 6,
-      "duration": 0,
-      "timeElapsed": 0,
-      "actualTime": {
-        "s": "2025-05-18T09:43:29.003-04:00",
-        "e": "2025-05-18T09:43:29.003-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
