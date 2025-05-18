@@ -420,10 +420,10 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 8.003,
+      "timeElapsed": 18.013,
       "actualTime": {
         "s": "2025-05-18T10:06:27.460-04:00",
         "e": "2025-05-18T10:16:27.460-04:00",
@@ -976,6 +976,9 @@
     "Wt6ry",
     "ZWFCD"
   ],
+  "links": {
+    "discord": "discord://-/channels/1063250197993492480/1063254140341473350"
+  },
   "records": [
     {
       "id": "yxo_p",
@@ -1927,10 +1930,10 @@
     },
     {
       "id": "n3j9a",
-      "timestamp": "2025-05-18T14:06:27.460Z",
+      "timestamp": "2025-05-18T10:06:27.460-04:00",
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
-      "value": "2025-05-18T14:06:27.460Z"
+      "value": "2025-05-18T10:06:27.460-04:00"
     }
   ]
 }
