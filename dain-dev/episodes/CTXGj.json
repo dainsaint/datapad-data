@@ -824,6 +824,15 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "zj1sr",
+      "communityId": "ssnLF",
+      "name": "hey now",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -1487,6 +1496,12 @@
       "timestamp": "2025-05-17T08:52:32.197-04:00",
       "type": "ResourceCreated",
       "value": "blergh"
+    },
+    {
+      "id": "BGlIO",
+      "timestamp": "2025-05-18T13:02:00.820Z",
+      "type": "ResourceCreated",
+      "value": "hey now"
     }
   ]
 }
