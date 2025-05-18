@@ -839,7 +839,9 @@
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
