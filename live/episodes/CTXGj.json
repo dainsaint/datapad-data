@@ -306,13 +306,13 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 9909.137000001156,
+      "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-05-17T23:31:23.779+00:00",
-        "e": "2025-05-17T23:41:23.779+00:00",
+        "s": "2025-05-10T03:53:00.133+00:00",
+        "e": "2025-05-18T14:55:33.308+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1467,13 +1467,6 @@
       "timestamp": "2025-05-17T12:52:32.197+00:00",
       "type": "ResourceCreated",
       "value": "blergh"
-    },
-    {
-      "id": "pFsSA",
-      "timestamp": "2025-05-17T23:31:23.779Z",
-      "type": "PhaseStarted",
-      "description": "Round 1: Societal Phase",
-      "value": "2025-05-17T23:31:23.779Z"
     }
   ]
 }
