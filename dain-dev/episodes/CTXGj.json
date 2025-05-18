@@ -384,13 +384,13 @@
     {
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-17T08:17:07.991-04:00",
+        "e": "2025-05-18T09:45:42.925-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -402,13 +402,13 @@
     {
       "id": "ml6Q3",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 240,
       "timeElapsed": 19.018,
       "actualTime": {
         "s": "2025-05-10T16:26:21.020-04:00",
-        "e": "2025-05-17T08:14:33.197-04:00",
+        "e": "2025-05-18T09:46:20.192-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1637,6 +1637,55 @@
       "timestamp": "2025-05-18T09:23:49.018-04:00",
       "type": "ResourceCreated",
       "value": "scum"
+    },
+    {
+      "id": "Uu1vM",
+      "timestamp": "2025-05-18T09:45:42.926-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "bjrYR",
+      "timestamp": "2025-05-18T09:45:42.927-04:00",
+      "type": "ActionResources",
+      "description": "Frog house used cats to take action.",
+      "value": 1
+    },
+    {
+      "id": "s1DZB",
+      "timestamp": "2025-05-18T09:45:42.927-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "D0KDI",
+      "timestamp": "2025-05-18T09:45:42.927-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 1
+    },
+    {
+      "id": "zOkxo",
+      "timestamp": "2025-05-18T09:45:42.927-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used blergh to take action.",
+      "value": 1
+    },
+    {
+      "id": "QXEgX",
+      "timestamp": "2025-05-18T09:45:42.927-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "VkRiu",
+      "timestamp": "2025-05-18T09:45:42.927-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
     }
   ]
 }
