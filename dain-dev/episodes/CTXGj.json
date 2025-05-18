@@ -314,6 +314,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "jaCtF",
+      "societyId": "yXHVO",
+      "name": "big ol shair",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -936,6 +946,7 @@
       "id": "e-JcG",
       "name": "Better Burritos",
       "archetype": "the mighty",
+      "color": "color-violet-strands",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -945,6 +956,7 @@
       "id": "yXHVO",
       "name": "Musical Chairs",
       "archetype": "the enterprise",
+      "color": "color-river-stone",
       "tags": {
         "_type": "Tags",
         "value": []
