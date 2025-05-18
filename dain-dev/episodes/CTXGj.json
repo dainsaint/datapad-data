@@ -778,28 +778,10 @@
       }
     },
     {
-      "id": "BqGY4",
-      "type": "Universal Phase",
-      "status": "idle",
-      "round": 7,
-      "duration": 240,
-      "timeElapsed": 0,
-      "actualTime": {
-        "s": "2025-05-18T09:38:11.714-04:00",
-        "e": "2025-05-18T09:38:11.714-04:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
       "id": "YrnPo",
       "type": "Societal Phase",
       "status": "idle",
-      "round": 7,
+      "round": 6,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
@@ -817,7 +799,7 @@
       "id": "izu8x",
       "type": "Galactic Phase",
       "status": "idle",
-      "round": 7,
+      "round": 6,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
