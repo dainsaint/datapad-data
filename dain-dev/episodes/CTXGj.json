@@ -140,8 +140,10 @@
       "round": 1,
       "societyId": "e-JcG",
       "resourceIds": [],
-      "texts": [],
-      "risk": 1,
+      "texts": [
+        ""
+      ],
+      "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
