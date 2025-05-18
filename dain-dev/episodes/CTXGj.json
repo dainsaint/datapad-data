@@ -390,7 +390,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-18T09:45:42.925-04:00",
+        "e": "2025-05-18T09:46:34.443-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -408,7 +408,7 @@
       "timeElapsed": 19.018,
       "actualTime": {
         "s": "2025-05-10T16:26:21.020-04:00",
-        "e": "2025-05-18T09:46:20.192-04:00",
+        "e": "2025-05-18T09:46:30.420-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -420,13 +420,13 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-17T08:14:33.549-04:00",
+        "e": "2025-05-18T09:47:26.030-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -438,13 +438,13 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T22:35:11.677-04:00",
-        "e": "2025-05-17T08:14:33.907-04:00",
+        "e": "2025-05-18T09:49:23.320-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1683,6 +1683,104 @@
     {
       "id": "VkRiu",
       "timestamp": "2025-05-18T09:45:42.927-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
+    },
+    {
+      "id": "R6hry",
+      "timestamp": "2025-05-18T09:46:32.804-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "FE-K5",
+      "timestamp": "2025-05-18T09:46:32.804-04:00",
+      "type": "ActionResources",
+      "description": "Frog house used cats to take action.",
+      "value": 1
+    },
+    {
+      "id": "jM5oJ",
+      "timestamp": "2025-05-18T09:46:32.804-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "ToBho",
+      "timestamp": "2025-05-18T09:46:32.804-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 1
+    },
+    {
+      "id": "w_pkM",
+      "timestamp": "2025-05-18T09:46:32.804-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used blergh to take action.",
+      "value": 1
+    },
+    {
+      "id": "uRX88",
+      "timestamp": "2025-05-18T09:46:32.805-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "HQoaN",
+      "timestamp": "2025-05-18T09:46:32.805-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
+    },
+    {
+      "id": "PijmU",
+      "timestamp": "2025-05-18T09:46:34.444-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "XC2tw",
+      "timestamp": "2025-05-18T09:46:34.444-04:00",
+      "type": "ActionResources",
+      "description": "Frog house used cats to take action.",
+      "value": 1
+    },
+    {
+      "id": "thTyL",
+      "timestamp": "2025-05-18T09:46:34.444-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "HVgmZ",
+      "timestamp": "2025-05-18T09:46:34.444-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 1
+    },
+    {
+      "id": "h1DcB",
+      "timestamp": "2025-05-18T09:46:34.444-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used blergh to take action.",
+      "value": 1
+    },
+    {
+      "id": "II89K",
+      "timestamp": "2025-05-18T09:46:34.444-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "i-Id7",
+      "timestamp": "2025-05-18T09:46:34.444-04:00",
       "type": "SocietyActionsTaken",
       "description": "Musical Chairs",
       "value": 0
