@@ -845,9 +845,9 @@
       }
     },
     {
-      "id": "mx8jO",
+      "id": "h463E",
       "communityId": "G_9_r",
-      "name": "a new resource",
+      "name": "new",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1524,9 +1524,15 @@
     },
     {
       "id": "plxGt",
-      "timestamp": "2025-05-18T13:07:04.561Z",
+      "timestamp": "2025-05-18T09:07:04.561-04:00",
       "type": "ResourceCreated",
       "value": "a new resource"
+    },
+    {
+      "id": "gS5no",
+      "timestamp": "2025-05-18T13:09:15.068Z",
+      "type": "ResourceCreated",
+      "value": "new"
     }
   ]
 }
