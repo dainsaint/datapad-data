@@ -408,7 +408,7 @@
       "timeElapsed": 19.018,
       "actualTime": {
         "s": "2025-05-10T16:26:21.020-04:00",
-        "e": "2025-05-18T09:46:30.420-04:00",
+        "e": "2025-05-18T09:59:34.842-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -426,7 +426,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-18T09:51:37.465-04:00",
+        "e": "2025-05-18T10:01:40.733-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -438,13 +438,13 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T22:35:11.677-04:00",
-        "e": "2025-05-18T09:55:42.361-04:00",
+        "e": "2025-05-18T09:59:35.237-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -456,13 +456,13 @@
     {
       "id": "iFRIY",
       "type": "Individual Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-18T09:59:28.095-04:00",
+        "e": "2025-05-18T09:59:36.500-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -474,7 +474,7 @@
     {
       "id": "VZQ7m",
       "type": "Break",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 0,
       "timeElapsed": 0,
