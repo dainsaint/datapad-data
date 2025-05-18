@@ -420,13 +420,13 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 8.003,
       "actualTime": {
-        "s": "2025-05-18T10:03:51.647-04:00",
-        "e": "2025-05-18T10:13:51.647-04:00",
+        "s": "2025-05-18T10:03:54.141-04:00",
+        "e": "2025-05-18T10:05:51.456-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1913,10 +1913,17 @@
     },
     {
       "id": "vAmxL",
-      "timestamp": "2025-05-18T14:03:51.647Z",
+      "timestamp": "2025-05-18T10:03:51.647-04:00",
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
-      "value": "2025-05-18T14:03:51.647Z"
+      "value": "2025-05-18T10:03:51.647-04:00"
+    },
+    {
+      "id": "iJf0x",
+      "timestamp": "2025-05-18T10:03:54.141-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-05-18T10:03:54.141-04:00"
     }
   ]
 }
