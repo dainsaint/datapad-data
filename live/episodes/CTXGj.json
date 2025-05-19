@@ -50,13 +50,21 @@
       "id": "iTkZy",
       "round": 2,
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
+      "resourceIds": [
+        "zj1sr"
+      ],
+      "texts": [
+        "",
+        "",
+        ""
+      ],
+      "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "committed"
+        ]
       }
     },
     {
@@ -161,6 +169,22 @@
       "resourceIds": [],
       "texts": [],
       "risk": 1,
+      "result": [],
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "vISYl",
+      "round": "2",
+      "societyId": "Feay0",
+      "resourceIds": [],
+      "texts": [
+        "",
+        ""
+      ],
+      "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -426,11 +450,11 @@
       "type": "Societal Phase",
       "status": "paused",
       "round": 2,
-      "duration": 600,
-      "timeElapsed": 18.013,
+      "duration": 660,
+      "timeElapsed": 42.033,
       "actualTime": {
-        "s": "2025-05-18T14:06:27.460+00:00",
-        "e": "2025-05-18T14:16:27.460+00:00",
+        "s": "2025-05-19T20:06:55.833+00:00",
+        "e": "2025-05-19T20:17:55.833+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -786,7 +810,7 @@
   "resources": [
     {
       "id": "Ridpo",
-      "communityId": "Qw0Xm",
+      "communityId": "o7kHM",
       "name": "dogs",
       "tags": {
         "_type": "Tags",
@@ -844,7 +868,7 @@
     },
     {
       "id": "arNw1",
-      "communityId": "kATHn",
+      "communityId": "LiQVN",
       "name": "afergre",
       "tags": {
         "_type": "Tags",
@@ -853,7 +877,7 @@
     },
     {
       "id": "BqPmG",
-      "communityId": "LiQVN",
+      "communityId": "kATHn",
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
@@ -929,7 +953,7 @@
       "id": "et0k8",
       "name": "Frog house",
       "archetype": "the curious",
-      "color": "color-river-stone",
+      "color": "color-strawberry-quartz",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -948,7 +972,7 @@
     {
       "id": "Feay0",
       "name": "Beetle Junkies",
-      "archetype": "the intrepid",
+      "archetype": "the grounded",
       "color": "color-strawberry-quartz",
       "tags": {
         "_type": "Tags",
@@ -1938,6 +1962,20 @@
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
       "value": "2025-05-18T14:06:27.460+00:00"
+    },
+    {
+      "id": "eM9rH",
+      "timestamp": "2025-05-19T20:06:12.475+00:00",
+      "type": "PhaseStarted",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-05-19T20:06:12.474+00:00"
+    },
+    {
+      "id": "Ne8zA",
+      "timestamp": "2025-05-19T20:06:55.833+00:00",
+      "type": "PhaseStarted",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-05-19T20:06:55.833+00:00"
     }
   ]
 }
