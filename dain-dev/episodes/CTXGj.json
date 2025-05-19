@@ -179,7 +179,10 @@
       "id": "vISYl",
       "round": "2",
       "societyId": "Feay0",
-      "resourceIds": [],
+      "resourceIds": [
+        "zj1sr",
+        "Mqfth"
+      ],
       "texts": [
         "",
         ""
@@ -188,7 +191,9 @@
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "committed"
+        ]
       }
     }
   ],
