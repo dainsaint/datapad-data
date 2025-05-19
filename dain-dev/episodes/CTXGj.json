@@ -451,10 +451,10 @@
       "status": "paused",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 42.033,
+      "timeElapsed": 50.041000000000004,
       "actualTime": {
-        "s": "2025-05-19T16:06:55.833-04:00",
-        "e": "2025-05-19T16:17:55.833-04:00",
+        "s": "2025-05-19T18:13:39.960-04:00",
+        "e": "2025-05-19T18:24:39.960-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -841,7 +841,7 @@
     },
     {
       "id": "QvweM",
-      "communityId": "cV-Kn",
+      "communityId": "B95dD",
       "name": "arg",
       "tags": {
         "_type": "Tags",
@@ -859,7 +859,7 @@
     },
     {
       "id": "JvqsG",
-      "communityId": "B95dD",
+      "communityId": "LiQVN",
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
@@ -973,7 +973,7 @@
       "id": "Feay0",
       "name": "Beetle Junkies",
       "archetype": "the grounded",
-      "color": "color-strawberry-quartz",
+      "color": "color-common-ground",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1976,6 +1976,13 @@
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
       "value": "2025-05-19T16:06:55.833-04:00"
+    },
+    {
+      "id": "GtkHj",
+      "timestamp": "2025-05-19T22:13:39.960Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-05-19T22:13:39.960Z"
     }
   ]
 }
