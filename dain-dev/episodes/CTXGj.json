@@ -50,13 +50,21 @@
       "id": "iTkZy",
       "round": 2,
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
+      "resourceIds": [
+        "zj1sr"
+      ],
+      "texts": [
+        "",
+        "",
+        ""
+      ],
+      "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "committed"
+        ]
       }
     },
     {
@@ -172,8 +180,11 @@
       "round": "2",
       "societyId": "Feay0",
       "resourceIds": [],
-      "texts": [],
-      "risk": 1,
+      "texts": [
+        "",
+        ""
+      ],
+      "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
