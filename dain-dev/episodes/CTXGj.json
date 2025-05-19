@@ -166,6 +166,19 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "vISYl",
+      "round": "2",
+      "societyId": "Feay0",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "result": [],
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -948,7 +961,7 @@
     {
       "id": "Feay0",
       "name": "Beetle Junkies",
-      "archetype": "the intrepid",
+      "archetype": "the grounded",
       "color": "color-strawberry-quartz",
       "tags": {
         "_type": "Tags",
