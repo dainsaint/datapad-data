@@ -938,7 +938,7 @@
     {
       "id": "V9xbw",
       "name": "Toad Shack",
-      "archetype": "the aesthetic",
+      "archetype": "the faithful",
       "color": "color-canary-diamond",
       "tags": {
         "_type": "Tags",
@@ -1941,17 +1941,17 @@
     },
     {
       "id": "eM9rH",
-      "timestamp": "2025-05-19T20:06:12.475Z",
+      "timestamp": "2025-05-19T16:06:12.475-04:00",
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
-      "value": "2025-05-19T20:06:12.474Z"
+      "value": "2025-05-19T16:06:12.474-04:00"
     },
     {
       "id": "Ne8zA",
-      "timestamp": "2025-05-19T20:06:55.833Z",
+      "timestamp": "2025-05-19T16:06:55.833-04:00",
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
-      "value": "2025-05-19T20:06:55.833Z"
+      "value": "2025-05-19T16:06:55.833-04:00"
     }
   ]
 }
