@@ -39,12 +39,16 @@
       "round": 2,
       "societyId": "V9xbw",
       "resourceIds": [],
-      "texts": [],
-      "risk": 1,
+      "texts": [
+        "Hop hop"
+      ],
+      "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "committed"
+        ]
       }
     },
     {
@@ -73,8 +77,10 @@
       "round": 2,
       "societyId": "e-JcG",
       "resourceIds": [],
-      "texts": [],
-      "risk": 1,
+      "texts": [
+        "Duck Astrid and fund our"
+      ],
+      "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -822,7 +828,7 @@
     },
     {
       "id": "HOzO6",
-      "communityId": "cV-Kn",
+      "communityId": "B95dD",
       "name": "cats",
       "tags": {
         "_type": "Tags",
@@ -842,7 +848,7 @@
     },
     {
       "id": "QvweM",
-      "communityId": "cV-Kn",
+      "communityId": "B95dD",
       "name": "arg",
       "tags": {
         "_type": "Tags",
