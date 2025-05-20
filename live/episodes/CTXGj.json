@@ -540,10 +540,10 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 50.018999999999984,
+      "timeElapsed": 52.02099999999998,
       "actualTime": {
         "s": "2025-05-20T17:57:25.252+00:00",
         "e": "2025-05-20T18:09:25.252+00:00",
@@ -561,7 +561,7 @@
       "status": "playing",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 57.02399999999999,
+      "timeElapsed": 358.13399999999933,
       "actualTime": {
         "s": "2025-05-20T17:57:17.760+00:00",
         "e": "2025-05-20T18:07:17.760+00:00",
