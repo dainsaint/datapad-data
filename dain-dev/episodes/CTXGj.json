@@ -20,10 +20,12 @@
       "round": 2,
       "societyId": "et0k8",
       "resourceIds": [
-        "HOzO6"
+        "HOzO6",
+        "JvqsG"
       ],
       "texts": [
-        "blarbhrbagr",
+        "attack the empire",
+        "embolden the cats",
         ""
       ],
       "risk": "1",
@@ -827,7 +829,7 @@
     {
       "id": "HOzO6",
       "communityId": "cV-Kn",
-      "name": "cats",
+      "name": "feral cats",
       "tags": {
         "_type": "Tags",
         "value": [
