@@ -202,9 +202,14 @@
       "id": "tevM1",
       "round": "2",
       "societyId": "V9xbw",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
+      "resourceIds": [
+        "FADd2"
+      ],
+      "texts": [
+        "Doab",
+        ""
+      ],
+      "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
