@@ -19,12 +19,9 @@
       "id": "pzr-F",
       "round": 2,
       "societyId": "et0k8",
-      "resourceIds": [
-        "HOzO6"
-      ],
+      "resourceIds": [],
       "texts": [
-        "meow meow meow",
-        ""
+        "meow meow meow"
       ],
       "risk": "1",
       "result": [],
@@ -235,6 +232,28 @@
       "texts": [
         "to make trub",
         "meow trub",
+        ""
+      ],
+      "risk": "1",
+      "result": [],
+      "tags": {
+        "_type": "Tags",
+        "value": [
+          "committed"
+        ]
+      }
+    },
+    {
+      "id": "rW2ng",
+      "round": "2",
+      "societyId": "et0k8",
+      "resourceIds": [
+        "arNw1",
+        "HOzO6"
+      ],
+      "texts": [
+        "afgree????",
+        "meoooow",
         ""
       ],
       "risk": "1",
@@ -876,7 +895,7 @@
     },
     {
       "id": "HOzO6",
-      "communityId": "B95dD",
+      "communityId": "LiQVN",
       "name": "cats",
       "tags": {
         "_type": "Tags",
@@ -914,7 +933,7 @@
     },
     {
       "id": "JvqsG",
-      "communityId": "Qw0Xm",
+      "communityId": "kATHn",
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
@@ -923,7 +942,7 @@
     },
     {
       "id": "arNw1",
-      "communityId": "LiQVN",
+      "communityId": "cV-Kn",
       "name": "afergre",
       "tags": {
         "_type": "Tags",
