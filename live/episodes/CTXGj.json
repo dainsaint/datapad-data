@@ -540,13 +540,13 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "paused",
+      "status": "idle",
       "round": 2,
       "duration": 720,
       "timeElapsed": 2,
       "actualTime": {
         "s": "2025-05-20T01:00:10.186+00:00",
-        "e": "2025-05-20T01:12:10.186+00:00",
+        "e": "2025-05-20T17:48:02.690+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -558,13 +558,13 @@
     {
       "id": "iFRIY",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "paused",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 2.001,
       "actualTime": {
-        "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-18T14:03:33.642+00:00",
+        "s": "2025-05-20T17:48:06.794+00:00",
+        "e": "2025-05-20T17:58:06.794+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -2093,6 +2093,13 @@
       "timestamp": "2025-05-20T04:39:48.101Z",
       "type": "ResourceCreated",
       "value": "Butt Seat"
+    },
+    {
+      "id": "THEEM",
+      "timestamp": "2025-05-20T17:48:06.794Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Individual Phase",
+      "value": "2025-05-20T17:48:06.794Z"
     }
   ]
 }
