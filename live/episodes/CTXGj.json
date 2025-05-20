@@ -228,13 +228,22 @@
       "id": "MkPu0",
       "round": "2",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
+      "resourceIds": [
+        "YaD-S",
+        "HOzO6"
+      ],
+      "texts": [
+        "to make trub",
+        "meow trub",
+        ""
+      ],
+      "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "committed"
+        ]
       }
     }
   ],
