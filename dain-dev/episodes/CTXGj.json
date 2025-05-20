@@ -203,7 +203,7 @@
     {
       "id": "o7kHM",
       "societyId": "et0k8",
-      "name": "Wizened Elders",
+      "name": "Wizened Youth",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -458,10 +458,10 @@
       "status": "paused",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 69.05400000000002,
+      "timeElapsed": 73.05700000000002,
       "actualTime": {
-        "s": "2025-05-20T17:13:24.191-04:00",
-        "e": "2025-05-20T17:24:24.191-04:00",
+        "s": "2025-05-20T19:35:24.461-04:00",
+        "e": "2025-05-20T19:46:24.461-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -848,7 +848,7 @@
     },
     {
       "id": "QvweM",
-      "communityId": "o7kHM",
+      "communityId": "kATHn",
       "name": "arg",
       "tags": {
         "_type": "Tags",
@@ -857,7 +857,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "o7kHM",
+      "communityId": "B95dD",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -2482,6 +2482,13 @@
       "timestamp": "2025-05-20T17:16:47.347-04:00",
       "type": "ResourceCreated",
       "value": "gwgwrtgwrt"
+    },
+    {
+      "id": "Gh3vO",
+      "timestamp": "2025-05-20T23:35:24.461Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-05-20T23:35:24.461Z"
     }
   ]
 }
