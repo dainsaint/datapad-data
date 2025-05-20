@@ -461,7 +461,7 @@
       "timeElapsed": 50.041000000000004,
       "actualTime": {
         "s": "2025-05-19T18:13:39.960-04:00",
-        "e": "2025-05-20T17:08:55.141-04:00",
+        "e": "2025-05-20T17:11:48.270-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -473,7 +473,7 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 720,
       "timeElapsed": 0,
@@ -491,7 +491,7 @@
     {
       "id": "iFRIY",
       "type": "Individual Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
@@ -509,7 +509,7 @@
     {
       "id": "VZQ7m",
       "type": "Break",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 0,
       "timeElapsed": 0,
@@ -527,7 +527,7 @@
     {
       "id": "tJXlr",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 3,
       "duration": 240,
       "timeElapsed": 19.016,
@@ -545,7 +545,7 @@
     {
       "id": "mBIUo",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 3,
       "duration": 600,
       "timeElapsed": 1900.2769999999953,
@@ -569,7 +569,7 @@
       "timeElapsed": 673.122999999999,
       "actualTime": {
         "s": "2025-04-17T21:32:04.337-04:00",
-        "e": "2025-05-17T08:14:35.842-04:00",
+        "e": "2025-05-20T17:11:32.598-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -2368,6 +2368,41 @@
       "type": "ActionResources",
       "description": "Musical Chairs used scum to take action.",
       "value": 1
+    },
+    {
+      "id": "QaH_b",
+      "timestamp": "2025-05-20T17:11:32.598-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 0
+    },
+    {
+      "id": "KjKMr",
+      "timestamp": "2025-05-20T17:11:32.598-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "P-d3F",
+      "timestamp": "2025-05-20T17:11:32.598-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "XuBnh",
+      "timestamp": "2025-05-20T17:11:32.599-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "g2eBF",
+      "timestamp": "2025-05-20T17:11:32.599-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
     }
   ]
 }
