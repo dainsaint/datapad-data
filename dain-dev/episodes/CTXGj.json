@@ -461,7 +461,7 @@
       "timeElapsed": 50.041000000000004,
       "actualTime": {
         "s": "2025-05-19T18:13:39.960-04:00",
-        "e": "2025-05-20T17:11:57.697-04:00",
+        "e": "2025-05-20T17:12:49.998-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -473,13 +473,13 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "playing",
       "round": 2,
       "duration": 720,
       "timeElapsed": 4.004,
       "actualTime": {
-        "s": "2025-05-20T17:12:03.821-04:00",
-        "e": "2025-05-20T17:12:45.021-04:00",
+        "s": "2025-05-20T17:13:10.220-04:00",
+        "e": "2025-05-20T17:25:10.220-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -2417,6 +2417,13 @@
       "type": "PhaseStarted",
       "description": "Round 2: Galactic Phase",
       "value": "2025-05-20T17:12:03.821-04:00"
+    },
+    {
+      "id": "DAyr0",
+      "timestamp": "2025-05-20T21:13:10.220Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Galactic Phase",
+      "value": "2025-05-20T21:13:10.220Z"
     }
   ]
 }
