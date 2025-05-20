@@ -223,6 +223,19 @@
           "committed"
         ]
       }
+    },
+    {
+      "id": "MkPu0",
+      "round": "2",
+      "societyId": "et0k8",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "result": [],
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
