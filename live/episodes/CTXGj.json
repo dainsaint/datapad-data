@@ -503,13 +503,13 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 660,
       "timeElapsed": 135.08300000000014,
       "actualTime": {
         "s": "2025-05-20T00:56:24.133+00:00",
-        "e": "2025-05-20T00:57:56.729+00:00",
+        "e": "2025-05-20T17:07:14.028+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
