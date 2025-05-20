@@ -955,7 +955,7 @@
     },
     {
       "id": "Mqfth",
-      "communityId": "NzLOs",
+      "communityId": "NVQbL",
       "name": "bytes",
       "tags": {
         "_type": "Tags",
@@ -979,13 +979,22 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "JtQIO",
+      "communityId": "jaCtF",
+      "name": "Butt Seat",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
     {
       "id": "et0k8",
       "name": "Frog house",
-      "archetype": "the curious",
+      "archetype": "the intrepid",
       "color": "color-strawberry-quartz",
       "tags": {
         "_type": "Tags",
@@ -1005,7 +1014,7 @@
     {
       "id": "Feay0",
       "name": "Beetle Junkies",
-      "archetype": "the grounded",
+      "archetype": "the scholars",
       "color": "color-strawberry-quartz",
       "tags": {
         "_type": "Tags",
@@ -2037,6 +2046,12 @@
       "type": "PhaseStarted",
       "description": "Round 2: Galactic Phase",
       "value": "2025-05-20T01:00:10.186Z"
+    },
+    {
+      "id": "lXxj3",
+      "timestamp": "2025-05-20T04:39:48.101Z",
+      "type": "ResourceCreated",
+      "value": "Butt Seat"
     }
   ]
 }
