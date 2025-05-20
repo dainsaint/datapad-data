@@ -455,13 +455,13 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "paused",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 50.041000000000004,
+      "timeElapsed": 69.05400000000002,
       "actualTime": {
-        "s": "2025-05-19T18:13:39.960-04:00",
-        "e": "2025-05-20T17:12:49.998-04:00",
+        "s": "2025-05-20T17:13:24.191-04:00",
+        "e": "2025-05-20T17:24:24.191-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -473,13 +473,13 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "idle",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 4.004,
+      "timeElapsed": 9.009999999999998,
       "actualTime": {
-        "s": "2025-05-20T17:13:10.220-04:00",
-        "e": "2025-05-20T17:25:10.220-04:00",
+        "s": "2025-05-20T17:13:18.473-04:00",
+        "e": "2025-05-20T17:13:20.937-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -2420,10 +2420,38 @@
     },
     {
       "id": "DAyr0",
-      "timestamp": "2025-05-20T21:13:10.220Z",
+      "timestamp": "2025-05-20T17:13:10.220-04:00",
       "type": "PhaseStarted",
       "description": "Round 2: Galactic Phase",
-      "value": "2025-05-20T21:13:10.220Z"
+      "value": "2025-05-20T17:13:10.220-04:00"
+    },
+    {
+      "id": "bgi_-",
+      "timestamp": "2025-05-20T17:13:18.473-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 2: Galactic Phase",
+      "value": "2025-05-20T17:13:18.473-04:00"
+    },
+    {
+      "id": "Ws-aS",
+      "timestamp": "2025-05-20T17:13:20.937-04:00",
+      "type": "PhaseEnded",
+      "description": "Round 2: Galactic Phase",
+      "value": "2025-05-20T17:13:20.937-04:00"
+    },
+    {
+      "id": "uDoJB",
+      "timestamp": "2025-05-20T17:13:20.937-04:00",
+      "type": "PhaseDuration",
+      "description": "Round 2: Galactic Phase",
+      "value": 0.04106666666666667
+    },
+    {
+      "id": "lbo6r",
+      "timestamp": "2025-05-20T17:13:24.192-04:00",
+      "type": "PhaseStarted",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-05-20T17:13:24.192-04:00"
     }
   ]
 }
