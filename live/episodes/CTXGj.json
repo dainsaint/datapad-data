@@ -39,13 +39,20 @@
       "id": "Mjt4w",
       "round": 2,
       "societyId": "V9xbw",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
+      "resourceIds": [
+        "FADd2"
+      ],
+      "texts": [
+        "Do the thing",
+        ""
+      ],
+      "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "committed"
+        ]
       }
     },
     {
@@ -828,7 +835,7 @@
     },
     {
       "id": "HOzO6",
-      "communityId": "o7kHM",
+      "communityId": "Qw0Xm",
       "name": "feral cats",
       "tags": {
         "_type": "Tags",
@@ -848,7 +855,7 @@
     },
     {
       "id": "QvweM",
-      "communityId": "o7kHM",
+      "communityId": "R9tmF",
       "name": "arg",
       "tags": {
         "_type": "Tags",
@@ -857,7 +864,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "Qw0Xm",
+      "communityId": "kATHn",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -866,7 +873,7 @@
     },
     {
       "id": "JvqsG",
-      "communityId": "o7kHM",
+      "communityId": "UDMgC",
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
@@ -884,7 +891,7 @@
     },
     {
       "id": "BqPmG",
-      "communityId": "cV-Kn",
+      "communityId": "B95dD",
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
