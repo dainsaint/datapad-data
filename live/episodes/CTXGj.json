@@ -30,7 +30,9 @@
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "committed"
+        ]
       }
     },
     {
@@ -58,9 +60,7 @@
         "zj1sr"
       ],
       "texts": [
-        "",
-        "",
-        ""
+        "twist"
       ],
       "risk": "1",
       "result": [],
@@ -94,13 +94,16 @@
         "KB9VT"
       ],
       "texts": [
+        "scum",
         ""
       ],
       "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "committed"
+        ]
       }
     },
     {
@@ -205,14 +208,16 @@
         "FADd2"
       ],
       "texts": [
-        "Doab",
+        "hop hop hop",
         ""
       ],
       "risk": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "committed"
+        ]
       }
     }
   ],
@@ -472,13 +477,13 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 42.033,
+      "timeElapsed": 135.08300000000014,
       "actualTime": {
-        "s": "2025-05-19T20:06:55.833+00:00",
-        "e": "2025-05-19T20:17:55.833+00:00",
+        "s": "2025-05-20T00:56:24.133+00:00",
+        "e": "2025-05-20T00:57:56.729+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -490,13 +495,13 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "paused",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 0,
+      "timeElapsed": 2,
       "actualTime": {
-        "s": "2025-05-11T02:35:11.677+00:00",
-        "e": "2025-05-18T14:05:52.104+00:00",
+        "s": "2025-05-20T01:00:10.186+00:00",
+        "e": "2025-05-20T01:12:10.186+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -2000,6 +2005,34 @@
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
       "value": "2025-05-19T20:06:55.833+00:00"
+    },
+    {
+      "id": "mRyVP",
+      "timestamp": "2025-05-20T00:56:24.134Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-05-20T00:56:24.134Z"
+    },
+    {
+      "id": "WfEtL",
+      "timestamp": "2025-05-20T00:57:56.729Z",
+      "type": "PhaseEnded",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-05-20T00:57:56.729Z"
+    },
+    {
+      "id": "u6Iw1",
+      "timestamp": "2025-05-20T00:57:56.729Z",
+      "type": "PhaseDuration",
+      "description": "Round 2: Societal Phase",
+      "value": 1.5432666666666666
+    },
+    {
+      "id": "EnKSE",
+      "timestamp": "2025-05-20T01:00:10.186Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Galactic Phase",
+      "value": "2025-05-20T01:00:10.186Z"
     }
   ]
 }
