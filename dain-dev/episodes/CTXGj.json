@@ -473,13 +473,13 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T22:35:11.677-04:00",
-        "e": "2025-05-18T10:05:52.104-04:00",
+        "e": "2025-05-20T17:08:56.360-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -491,13 +491,13 @@
     {
       "id": "iFRIY",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-18T10:03:33.642-04:00",
+        "e": "2025-05-20T17:08:58.072-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -509,13 +509,13 @@
     {
       "id": "VZQ7m",
       "type": "Break",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 0,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-12T15:38:12.770-04:00",
-        "e": "2025-05-18T10:03:34.093-04:00",
+        "e": "2025-05-20T17:09:18.672-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -527,13 +527,13 @@
     {
       "id": "tJXlr",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 3,
       "duration": 240,
       "timeElapsed": 19.016,
       "actualTime": {
         "s": "2025-05-10T22:39:33.551-04:00",
-        "e": "2025-05-17T08:14:35.041-04:00",
+        "e": "2025-05-20T17:09:11.055-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -545,13 +545,13 @@
     {
       "id": "mBIUo",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 3,
       "duration": 600,
       "timeElapsed": 1900.2769999999953,
       "actualTime": {
         "s": "2025-04-16T18:14:26.371-04:00",
-        "e": "2025-05-17T08:14:35.476-04:00",
+        "e": "2025-05-20T17:11:09.135-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1990,6 +1990,384 @@
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
       "value": "2025-05-19T18:13:39.960-04:00"
+    },
+    {
+      "id": "UcdA1",
+      "timestamp": "2025-05-20T17:09:06.367-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "OgXhx",
+      "timestamp": "2025-05-20T17:09:06.367-04:00",
+      "type": "ActionResources",
+      "description": "Frog house used feral cats,righteous anger to take action.",
+      "value": 2
+    },
+    {
+      "id": "tLBwB",
+      "timestamp": "2025-05-20T17:09:06.367-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "n5Idk",
+      "timestamp": "2025-05-20T17:09:06.367-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 2
+    },
+    {
+      "id": "H7-fo",
+      "timestamp": "2025-05-20T17:09:06.367-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now to take action.",
+      "value": 1
+    },
+    {
+      "id": "aQjJE",
+      "timestamp": "2025-05-20T17:09:06.367-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now,bytes to take action.",
+      "value": 2
+    },
+    {
+      "id": "pWEws",
+      "timestamp": "2025-05-20T17:09:06.367-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "RBUN9",
+      "timestamp": "2025-05-20T17:09:06.367-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 1
+    },
+    {
+      "id": "A6YBd",
+      "timestamp": "2025-05-20T17:09:06.368-04:00",
+      "type": "ActionResources",
+      "description": "Musical Chairs used scum to take action.",
+      "value": 1
+    },
+    {
+      "id": "HH1AA",
+      "timestamp": "2025-05-20T17:09:08.142-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "x-iyO",
+      "timestamp": "2025-05-20T17:09:08.142-04:00",
+      "type": "ActionResources",
+      "description": "Frog house used feral cats,righteous anger to take action.",
+      "value": 2
+    },
+    {
+      "id": "gCQa7",
+      "timestamp": "2025-05-20T17:09:08.142-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "w-j4M",
+      "timestamp": "2025-05-20T17:09:08.142-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 2
+    },
+    {
+      "id": "yEGgt",
+      "timestamp": "2025-05-20T17:09:08.142-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now to take action.",
+      "value": 1
+    },
+    {
+      "id": "l_6DY",
+      "timestamp": "2025-05-20T17:09:08.142-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now,bytes to take action.",
+      "value": 2
+    },
+    {
+      "id": "T80aJ",
+      "timestamp": "2025-05-20T17:09:08.142-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "BfoY8",
+      "timestamp": "2025-05-20T17:09:08.142-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 1
+    },
+    {
+      "id": "XnPA0",
+      "timestamp": "2025-05-20T17:09:08.142-04:00",
+      "type": "ActionResources",
+      "description": "Musical Chairs used scum to take action.",
+      "value": 1
+    },
+    {
+      "id": "hsJ19",
+      "timestamp": "2025-05-20T17:09:09.071-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "XZvyM",
+      "timestamp": "2025-05-20T17:09:09.071-04:00",
+      "type": "ActionResources",
+      "description": "Frog house used feral cats,righteous anger to take action.",
+      "value": 2
+    },
+    {
+      "id": "GBynl",
+      "timestamp": "2025-05-20T17:09:09.071-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "MR0f3",
+      "timestamp": "2025-05-20T17:09:09.071-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 2
+    },
+    {
+      "id": "aZNy_",
+      "timestamp": "2025-05-20T17:09:09.071-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now to take action.",
+      "value": 1
+    },
+    {
+      "id": "AWDR7",
+      "timestamp": "2025-05-20T17:09:09.071-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now,bytes to take action.",
+      "value": 2
+    },
+    {
+      "id": "dJ_I0",
+      "timestamp": "2025-05-20T17:09:09.071-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "zHjci",
+      "timestamp": "2025-05-20T17:09:09.071-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 1
+    },
+    {
+      "id": "uT-Ig",
+      "timestamp": "2025-05-20T17:09:09.071-04:00",
+      "type": "ActionResources",
+      "description": "Musical Chairs used scum to take action.",
+      "value": 1
+    },
+    {
+      "id": "ae9BH",
+      "timestamp": "2025-05-20T17:09:16.321-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "bfaO5",
+      "timestamp": "2025-05-20T17:09:16.321-04:00",
+      "type": "ActionResources",
+      "description": "Frog house used feral cats,righteous anger to take action.",
+      "value": 2
+    },
+    {
+      "id": "e9OG2",
+      "timestamp": "2025-05-20T17:09:16.321-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "ECl7e",
+      "timestamp": "2025-05-20T17:09:16.321-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 2
+    },
+    {
+      "id": "P3k4m",
+      "timestamp": "2025-05-20T17:09:16.321-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now to take action.",
+      "value": 1
+    },
+    {
+      "id": "gqAab",
+      "timestamp": "2025-05-20T17:09:16.321-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now,bytes to take action.",
+      "value": 2
+    },
+    {
+      "id": "bQtz4",
+      "timestamp": "2025-05-20T17:09:16.321-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "uth4a",
+      "timestamp": "2025-05-20T17:09:16.321-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 1
+    },
+    {
+      "id": "UO-K_",
+      "timestamp": "2025-05-20T17:09:16.321-04:00",
+      "type": "ActionResources",
+      "description": "Musical Chairs used scum to take action.",
+      "value": 1
+    },
+    {
+      "id": "HJ3Y_",
+      "timestamp": "2025-05-20T17:09:17.399-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "z_62n",
+      "timestamp": "2025-05-20T17:09:17.399-04:00",
+      "type": "ActionResources",
+      "description": "Frog house used feral cats,righteous anger to take action.",
+      "value": 2
+    },
+    {
+      "id": "i-zrS",
+      "timestamp": "2025-05-20T17:09:17.399-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "y_0qu",
+      "timestamp": "2025-05-20T17:09:17.399-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 2
+    },
+    {
+      "id": "xUI1c",
+      "timestamp": "2025-05-20T17:09:17.400-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now to take action.",
+      "value": 1
+    },
+    {
+      "id": "IhWAQ",
+      "timestamp": "2025-05-20T17:09:17.400-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now,bytes to take action.",
+      "value": 2
+    },
+    {
+      "id": "YoQJk",
+      "timestamp": "2025-05-20T17:09:17.400-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "Bp7RM",
+      "timestamp": "2025-05-20T17:09:17.400-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 1
+    },
+    {
+      "id": "gjBJR",
+      "timestamp": "2025-05-20T17:09:17.400-04:00",
+      "type": "ActionResources",
+      "description": "Musical Chairs used scum to take action.",
+      "value": 1
+    },
+    {
+      "id": "fVVgB",
+      "timestamp": "2025-05-20T17:09:18.672-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "D83zQ",
+      "timestamp": "2025-05-20T17:09:18.672-04:00",
+      "type": "ActionResources",
+      "description": "Frog house used feral cats,righteous anger to take action.",
+      "value": 2
+    },
+    {
+      "id": "X6N5B",
+      "timestamp": "2025-05-20T17:09:18.672-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "XvrOO",
+      "timestamp": "2025-05-20T17:09:18.672-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 2
+    },
+    {
+      "id": "dc--6",
+      "timestamp": "2025-05-20T17:09:18.672-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now to take action.",
+      "value": 1
+    },
+    {
+      "id": "PrIJW",
+      "timestamp": "2025-05-20T17:09:18.672-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now,bytes to take action.",
+      "value": 2
+    },
+    {
+      "id": "mBTfF",
+      "timestamp": "2025-05-20T17:09:18.672-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "NgRNb",
+      "timestamp": "2025-05-20T17:09:18.672-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 1
+    },
+    {
+      "id": "zad-j",
+      "timestamp": "2025-05-20T17:09:18.672-04:00",
+      "type": "ActionResources",
+      "description": "Musical Chairs used scum to take action.",
+      "value": 1
     }
   ]
 }
