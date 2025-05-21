@@ -473,13 +473,13 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 720,
       "timeElapsed": 9.009999999999998,
       "actualTime": {
         "s": "2025-05-20T21:13:18.473+00:00",
-        "e": "2025-05-21T19:12:12.847+00:00",
+        "e": "2025-05-21T20:16:35.228+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
