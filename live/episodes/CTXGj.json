@@ -455,13 +455,13 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 69.05400000000002,
+      "timeElapsed": 76.05600000000003,
       "actualTime": {
-        "s": "2025-05-21T19:09:34.105+00:00",
-        "e": "2025-05-21T19:20:34.105+00:00",
+        "s": "2025-05-21T19:09:45.598+00:00",
+        "e": "2025-05-21T19:11:47.464+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -479,7 +479,7 @@
       "timeElapsed": 9.009999999999998,
       "actualTime": {
         "s": "2025-05-20T21:13:18.473+00:00",
-        "e": "2025-05-20T21:13:20.937+00:00",
+        "e": "2025-05-21T19:12:12.847+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -2489,6 +2489,27 @@
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
       "value": "2025-05-21T19:09:34.106Z"
+    },
+    {
+      "id": "aL6Fn",
+      "timestamp": "2025-05-21T19:09:35.630Z",
+      "type": "PhaseEnded",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-05-21T19:09:35.630Z"
+    },
+    {
+      "id": "Q6UT6",
+      "timestamp": "2025-05-21T19:09:35.631Z",
+      "type": "PhaseDuration",
+      "description": "Round 2: Societal Phase",
+      "value": 0.025416666666666667
+    },
+    {
+      "id": "oD8Iy",
+      "timestamp": "2025-05-21T19:09:45.598Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-05-21T19:09:45.598Z"
     }
   ]
 }
