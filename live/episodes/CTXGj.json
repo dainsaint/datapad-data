@@ -32,7 +32,9 @@
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "committed"
+        ]
       }
     },
     {
