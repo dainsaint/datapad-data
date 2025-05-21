@@ -32,29 +32,20 @@
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": [
-          "committed"
-        ]
+        "value": []
       }
     },
     {
       "id": "Mjt4w",
       "round": 2,
       "societyId": "V9xbw",
-      "resourceIds": [
-        "FADd2"
-      ],
-      "texts": [
-        "Do the thing",
-        ""
-      ],
-      "risk": "1",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
       "result": [],
       "tags": {
         "_type": "Tags",
-        "value": [
-          "committed"
-        ]
+        "value": []
       }
     },
     {
@@ -464,13 +455,13 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "playing",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 71.05500000000002,
+      "timeElapsed": 69.05400000000002,
       "actualTime": {
-        "s": "2025-05-21T16:18:11.759+00:00",
-        "e": "2025-05-21T16:18:13.325+00:00",
+        "s": "2025-05-21T19:09:34.105+00:00",
+        "e": "2025-05-21T19:20:34.105+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -482,13 +473,13 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 720,
       "timeElapsed": 9.009999999999998,
       "actualTime": {
         "s": "2025-05-20T21:13:18.473+00:00",
-        "e": "2025-05-21T16:18:14.896+00:00",
+        "e": "2025-05-20T21:13:20.937+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -500,13 +491,13 @@
     {
       "id": "iFRIY",
       "type": "Individual Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-21T16:18:16.361+00:00",
+        "e": "2025-05-20T21:08:58.072+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -518,13 +509,13 @@
     {
       "id": "VZQ7m",
       "type": "Break",
-      "status": "paused",
+      "status": "idle",
       "round": 2,
       "duration": 0,
-      "timeElapsed": 12.001999999999999,
+      "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-05-21T16:18:17.710+00:00",
-        "e": "2025-05-21T16:18:17.710+00:00",
+        "s": "2025-05-12T19:38:12.770+00:00",
+        "e": "2025-05-20T21:09:18.672+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -837,7 +828,7 @@
     },
     {
       "id": "HOzO6",
-      "communityId": "Qw0Xm",
+      "communityId": "o7kHM",
       "name": "feral cats",
       "tags": {
         "_type": "Tags",
@@ -857,7 +848,7 @@
     },
     {
       "id": "QvweM",
-      "communityId": "R9tmF",
+      "communityId": "o7kHM",
       "name": "arg",
       "tags": {
         "_type": "Tags",
@@ -866,7 +857,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "kATHn",
+      "communityId": "Qw0Xm",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -875,7 +866,7 @@
     },
     {
       "id": "JvqsG",
-      "communityId": "UDMgC",
+      "communityId": "B95dD",
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
@@ -893,7 +884,7 @@
     },
     {
       "id": "BqPmG",
-      "communityId": "B95dD",
+      "communityId": "cV-Kn",
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
@@ -2493,32 +2484,11 @@
       "value": "gwgwrtgwrt"
     },
     {
-      "id": "RZrZJ",
-      "timestamp": "2025-05-21T16:18:11.759Z",
+      "id": "kRy3i",
+      "timestamp": "2025-05-21T19:09:34.106Z",
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
-      "value": "2025-05-21T16:18:11.759Z"
-    },
-    {
-      "id": "w_1-E",
-      "timestamp": "2025-05-21T16:18:13.326Z",
-      "type": "PhaseEnded",
-      "description": "Round 2: Societal Phase",
-      "value": "2025-05-21T16:18:13.325Z"
-    },
-    {
-      "id": "jeacj",
-      "timestamp": "2025-05-21T16:18:13.326Z",
-      "type": "PhaseDuration",
-      "description": "Round 2: Societal Phase",
-      "value": 0.0261
-    },
-    {
-      "id": "Xf7j3",
-      "timestamp": "2025-05-21T16:18:17.710Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Break",
-      "value": "2025-05-21T16:18:17.710Z"
+      "value": "2025-05-21T19:09:34.106Z"
     }
   ]
 }
