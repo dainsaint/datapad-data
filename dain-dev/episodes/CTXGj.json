@@ -226,6 +226,21 @@
           "voted"
         ]
       }
+    },
+    {
+      "id": "do6_p",
+      "round": "2",
+      "societyId": "Feay0",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -922,7 +937,7 @@
     },
     {
       "id": "oxn07",
-      "communityId": "G_9_r",
+      "communityId": "NzLOs",
       "name": "blergh",
       "tags": {
         "_type": "Tags",
@@ -931,7 +946,7 @@
     },
     {
       "id": "zj1sr",
-      "communityId": "ssnLF",
+      "communityId": "NzLOs",
       "name": "hey now",
       "tags": {
         "_type": "Tags",
@@ -949,7 +964,7 @@
     },
     {
       "id": "wRedp",
-      "communityId": "NVQbL",
+      "communityId": "NzLOs",
       "name": "adfasd",
       "tags": {
         "_type": "Tags",
