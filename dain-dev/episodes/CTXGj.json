@@ -370,7 +370,7 @@
       "disadvantage": "2",
       "result": [],
       "voteTime": "2025-05-23T17:51:41.110-04:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -386,14 +386,15 @@
       ],
       "texts": [
         "aergar",
-        "",
+        "sgrtgsret",
         ""
       ],
       "risk": "1",
       "advantage": "0",
       "disadvantage": "0",
       "result": [],
-      "status": "open",
+      "voteTime": "2025-05-23T18:05:30.161-04:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -726,13 +727,13 @@
     {
       "id": "VZQ7m",
       "type": "Break",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 0,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-12T15:38:12.770-04:00",
-        "e": "2025-05-23T17:13:40.258-04:00",
+        "e": "2025-05-23T18:07:31.953-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -2899,6 +2900,62 @@
       "type": "ActionResources",
       "description": "Musical Chairs used scum to take action.",
       "value": 1
+    },
+    {
+      "id": "PjQZe",
+      "timestamp": "2025-05-23T22:07:31.953Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "gJzBO",
+      "timestamp": "2025-05-23T22:07:31.953Z",
+      "type": "ActionResources",
+      "description": "Frog house used  to take action.",
+      "value": 0
+    },
+    {
+      "id": "MX4r8",
+      "timestamp": "2025-05-23T22:07:31.953Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "E4Kzc",
+      "timestamp": "2025-05-23T22:07:31.953Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 1
+    },
+    {
+      "id": "fnJpv",
+      "timestamp": "2025-05-23T22:07:31.954Z",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used gwgwrtgwrt,new to take action.",
+      "value": 2
+    },
+    {
+      "id": "ejhAw",
+      "timestamp": "2025-05-23T22:07:31.954Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "yKk5f",
+      "timestamp": "2025-05-23T22:07:31.954Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 1
+    },
+    {
+      "id": "yiPIb",
+      "timestamp": "2025-05-23T22:07:31.954Z",
+      "type": "ActionResources",
+      "description": "Musical Chairs used  to take action.",
+      "value": 0
     }
   ]
 }
