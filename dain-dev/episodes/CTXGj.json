@@ -363,11 +363,10 @@
         "psJiM"
       ],
       "texts": [
-        "",
         ""
       ],
-      "risk": "1",
-      "advantage": "0",
+      "risk": "3",
+      "advantage": "Adv 0",
       "disadvantage": "2",
       "result": [],
       "voteTime": "2025-05-23T17:51:41.110-04:00",
