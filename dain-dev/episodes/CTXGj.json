@@ -423,8 +423,8 @@
       "id": "cV-Kn",
       "societyId": "et0k8",
       "name": "Fredrick",
-      "voice": "leader",
-      "ambassadorTo": "yXHVO",
+      "voice": "people",
+      "ambassadorTo": "Feay0",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1168,8 +1168,8 @@
     {
       "id": "et0k8",
       "name": "Frog house",
-      "archetype": "the curious",
-      "color": "color-strawberry-quartz",
+      "archetype": "the faithful",
+      "color": "color-common-ground",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1179,7 +1179,7 @@
       "id": "V9xbw",
       "name": "Toad Shack",
       "archetype": "the aesthetic",
-      "color": "color-canary-diamond",
+      "color": "color-river-stone",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1188,8 +1188,8 @@
     {
       "id": "Feay0",
       "name": "Beetle Junkies",
-      "archetype": "the grounded",
-      "color": "color-common-ground",
+      "archetype": "the mighty",
+      "color": "color-huckleberry",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1198,8 +1198,8 @@
     {
       "id": "e-JcG",
       "name": "Better Burritos",
-      "archetype": "the mighty",
-      "color": "color-violet-strands",
+      "archetype": "the intrepid",
+      "color": "color-river-stone",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1209,7 +1209,7 @@
       "id": "yXHVO",
       "name": "Musical Chairs",
       "archetype": "the enterprise",
-      "color": "color-red-sun-rising",
+      "color": "color-canary-diamond",
       "tags": {
         "_type": "Tags",
         "value": []
