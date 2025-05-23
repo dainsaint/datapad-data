@@ -68,12 +68,13 @@
       "advantage": "0",
       "disadvantage": "0",
       "result": [],
-      "voteTime": "2025-05-23T18:48:12.937Z",
+      "voteTime": "2025-05-23T14:48:12.937-04:00",
       "tags": {
         "_type": "Tags",
         "value": [
           "committed",
-          "voted"
+          "voted",
+          "invalid"
         ]
       }
     },
@@ -209,17 +210,20 @@
       ],
       "texts": [
         "",
+        "",
         ""
       ],
       "risk": "1",
-      "advantage": 0,
-      "disadvantage": 0,
+      "advantage": "0",
+      "disadvantage": "0",
       "result": [],
+      "voteTime": "2025-05-23T14:48:17.183-04:00",
       "tags": {
         "_type": "Tags",
         "value": [
           "committed",
-          "invalid"
+          "invalid",
+          "voted"
         ]
       }
     }
