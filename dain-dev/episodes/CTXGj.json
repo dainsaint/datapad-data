@@ -413,7 +413,7 @@
       "societyId": "et0k8",
       "name": "Jason",
       "voice": "leader",
-      "ambassadorTo": "V9xbw",
+      "ambassadorTo": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -424,6 +424,7 @@
       "societyId": "et0k8",
       "name": "Fredrick",
       "voice": "people",
+      "ambassadorTo": "yXHVO",
       "tags": {
         "_type": "Tags",
         "value": []
