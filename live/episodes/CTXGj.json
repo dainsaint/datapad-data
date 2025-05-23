@@ -203,7 +203,7 @@
     {
       "id": "o7kHM",
       "societyId": "et0k8",
-      "name": "Wizened Elders",
+      "name": "Wizened Youth",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -443,7 +443,7 @@
       "timeElapsed": 19.018,
       "actualTime": {
         "s": "2025-05-10T20:26:21.020+00:00",
-        "e": "2025-05-21T20:44:40.373+00:00",
+        "e": "2025-05-20T21:11:54.442+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -458,10 +458,10 @@
       "status": "paused",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 86.05500000000002,
+      "timeElapsed": 73.05700000000002,
       "actualTime": {
-        "s": "2025-05-21T20:26:59.765+00:00",
-        "e": "2025-05-21T20:37:59.765+00:00",
+        "s": "2025-05-20T23:35:24.461+00:00",
+        "e": "2025-05-20T23:46:24.461+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -473,13 +473,13 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "idle",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 82579.9889999603,
+      "timeElapsed": 9.009999999999998,
       "actualTime": {
-        "s": "2025-05-21T20:16:40.528+00:00",
-        "e": "2025-05-21T20:28:40.528+00:00",
+        "s": "2025-05-20T21:13:18.473+00:00",
+        "e": "2025-05-20T21:13:20.937+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -491,13 +491,13 @@
     {
       "id": "iFRIY",
       "type": "Individual Phase",
-      "status": "playing",
+      "status": "idle",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 82573.98099996029,
+      "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-05-21T20:16:36.419+00:00",
-        "e": "2025-05-21T20:26:36.419+00:00",
+        "s": "2025-05-10T03:53:00.133+00:00",
+        "e": "2025-05-20T21:08:58.072+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -828,7 +828,7 @@
     },
     {
       "id": "HOzO6",
-      "communityId": "o7kHM",
+      "communityId": "Qw0Xm",
       "name": "feral cats",
       "tags": {
         "_type": "Tags",
@@ -848,7 +848,7 @@
     },
     {
       "id": "QvweM",
-      "communityId": "o7kHM",
+      "communityId": "kATHn",
       "name": "arg",
       "tags": {
         "_type": "Tags",
@@ -857,7 +857,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "Qw0Xm",
+      "communityId": "B95dD",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -866,7 +866,7 @@
     },
     {
       "id": "JvqsG",
-      "communityId": "B95dD",
+      "communityId": "UDMgC",
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
@@ -884,7 +884,7 @@
     },
     {
       "id": "BqPmG",
-      "communityId": "cV-Kn",
+      "communityId": "B95dD",
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
@@ -2484,60 +2484,11 @@
       "value": "gwgwrtgwrt"
     },
     {
-      "id": "kRy3i",
-      "timestamp": "2025-05-21T19:09:34.106Z",
+      "id": "Gh3vO",
+      "timestamp": "2025-05-20T23:35:24.461+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
-      "value": "2025-05-21T19:09:34.106Z"
-    },
-    {
-      "id": "aL6Fn",
-      "timestamp": "2025-05-21T19:09:35.630Z",
-      "type": "PhaseEnded",
-      "description": "Round 2: Societal Phase",
-      "value": "2025-05-21T19:09:35.630Z"
-    },
-    {
-      "id": "Q6UT6",
-      "timestamp": "2025-05-21T19:09:35.631Z",
-      "type": "PhaseDuration",
-      "description": "Round 2: Societal Phase",
-      "value": 0.025416666666666667
-    },
-    {
-      "id": "oD8Iy",
-      "timestamp": "2025-05-21T19:09:45.598Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Societal Phase",
-      "value": "2025-05-21T19:09:45.598Z"
-    },
-    {
-      "id": "WX8Fi",
-      "timestamp": "2025-05-21T20:16:36.420Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Individual Phase",
-      "value": "2025-05-21T20:16:36.419Z"
-    },
-    {
-      "id": "MzkzR",
-      "timestamp": "2025-05-21T20:16:40.528Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Galactic Phase",
-      "value": "2025-05-21T20:16:40.528Z"
-    },
-    {
-      "id": "jxPka",
-      "timestamp": "2025-05-21T20:26:56.421Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Societal Phase",
-      "value": "2025-05-21T20:26:56.421Z"
-    },
-    {
-      "id": "hNFcM",
-      "timestamp": "2025-05-21T20:26:59.765Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Societal Phase",
-      "value": "2025-05-21T20:26:59.765Z"
+      "value": "2025-05-20T23:35:24.461+00:00"
     }
   ]
 }
