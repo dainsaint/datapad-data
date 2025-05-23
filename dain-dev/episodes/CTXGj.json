@@ -103,7 +103,7 @@
       "advantage": "0",
       "disadvantage": "0",
       "result": [],
-      "voteTime": "2025-05-23T22:01:32.805Z",
+      "voteTime": "2025-05-23T18:01:32.805-04:00",
       "status": "voted",
       "tags": {
         "_type": "Tags",
@@ -371,6 +371,22 @@
       "result": [],
       "voteTime": "2025-05-23T17:51:41.110-04:00",
       "status": "voted",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "gIzO5",
+      "round": "2",
+      "societyId": "Feay0",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
