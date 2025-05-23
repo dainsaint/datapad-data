@@ -71,7 +71,7 @@
       "disadvantage": "0",
       "result": [],
       "voteTime": "2025-05-23T15:15:18.818-04:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -309,13 +309,19 @@
       "id": "XPSBA",
       "round": "2",
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "oxn07"
+      ],
+      "texts": [
+        "try again",
+        ""
+      ],
+      "risk": "1",
+      "advantage": "0",
+      "disadvantage": "0",
       "result": [],
-      "status": "open",
+      "voteTime": "2025-05-23T19:27:54.948Z",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
