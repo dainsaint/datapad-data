@@ -19,18 +19,11 @@
       "id": "pzr-F",
       "round": 2,
       "societyId": "et0k8",
-      "resourceIds": [
-        "HOzO6",
-        "JvqsG"
-      ],
-      "texts": [
-        "attack the empire",
-        "embolden the cats",
-        ""
-      ],
-      "risk": "3",
+      "resourceIds": [],
+      "texts": [],
+      "risk": "1",
       "advantage": "1",
-      "disadvantage": "0",
+      "disadvantage": "Dis 0",
       "result": [],
       "voteTime": "2025-05-23T15:28:12.818-04:00",
       "status": "voted",
@@ -321,7 +314,7 @@
       "disadvantage": "0",
       "result": [],
       "voteTime": "2025-05-23T15:27:54.948-04:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -366,13 +359,19 @@
       "id": "cxA76",
       "round": "2",
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "psJiM"
+      ],
+      "texts": [
+        "",
+        ""
+      ],
+      "risk": "1",
+      "advantage": "0",
+      "disadvantage": "2",
       "result": [],
-      "status": "open",
+      "voteTime": "2025-05-23T17:51:41.110-04:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
