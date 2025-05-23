@@ -26,11 +26,12 @@
       "texts": [
         "attack the empire",
         "embolden the cats",
+        "frfrae",
         ""
       ],
       "risk": "3",
-      "advantage": "0",
-      "disadvantage": "1",
+      "advantage": "1",
+      "disadvantage": "0",
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -61,17 +62,18 @@
       ],
       "texts": [
         "",
-        "",
         ""
       ],
       "risk": "1",
-      "advantage": 0,
-      "disadvantage": 0,
+      "advantage": "0",
+      "disadvantage": "0",
       "result": [],
+      "voteTime": "2025-05-23T18:48:12.937Z",
       "tags": {
         "_type": "Tags",
         "value": [
-          "committed"
+          "committed",
+          "voted"
         ]
       }
     },
@@ -216,7 +218,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "committed"
+          "committed",
+          "invalid"
         ]
       }
     }
