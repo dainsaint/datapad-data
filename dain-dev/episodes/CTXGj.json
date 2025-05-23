@@ -26,14 +26,14 @@
       "texts": [
         "attack the empire",
         "embolden the cats",
-        "frfrae",
         ""
       ],
       "risk": "3",
       "advantage": "1",
       "disadvantage": "0",
       "result": [],
-      "status": "open",
+      "voteTime": "2025-05-23T15:28:12.818-04:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -320,8 +320,24 @@
       "advantage": "0",
       "disadvantage": "0",
       "result": [],
-      "voteTime": "2025-05-23T19:27:54.948Z",
+      "voteTime": "2025-05-23T15:27:54.948-04:00",
       "status": "voted",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "B_pLW",
+      "round": "2",
+      "societyId": "et0k8",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -584,13 +600,13 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 2,
       "duration": 660,
       "timeElapsed": 73.05700000000002,
       "actualTime": {
         "s": "2025-05-20T19:35:24.461-04:00",
-        "e": "2025-05-20T19:46:24.461-04:00",
+        "e": "2025-05-23T17:10:29.526-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
