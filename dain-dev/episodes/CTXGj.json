@@ -462,7 +462,7 @@
       "societyId": "et0k8",
       "name": "Fredrick",
       "voice": "people",
-      "ambassadorTo": "Feay0",
+      "ambassadorTo": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -715,7 +715,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-09T23:53:00.133-04:00",
-        "e": "2025-05-23T17:10:31.710-04:00",
+        "e": "2025-05-23T18:07:41.423-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -733,7 +733,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-12T15:38:12.770-04:00",
-        "e": "2025-05-23T18:07:31.953-04:00",
+        "e": "2025-05-23T18:07:41.942-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -745,13 +745,13 @@
     {
       "id": "tJXlr",
       "type": "Universal Phase",
-      "status": "paused",
+      "status": "idle",
       "round": 3,
       "duration": 240,
-      "timeElapsed": 184.15800000000024,
+      "timeElapsed": 185.15900000000025,
       "actualTime": {
-        "s": "2025-05-23T17:10:33.324-04:00",
-        "e": "2025-05-23T17:14:33.324-04:00",
+        "s": "2025-05-23T18:07:46.977-04:00",
+        "e": "2025-05-23T18:07:49.775-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -769,7 +769,7 @@
       "timeElapsed": 1900.2769999999953,
       "actualTime": {
         "s": "2025-04-16T18:14:26.371-04:00",
-        "e": "2025-05-20T17:11:09.135-04:00",
+        "e": "2025-05-23T18:07:43.507-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1049,8 +1049,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "vital",
-          "exhausted"
+          "vital"
         ]
       }
     },
@@ -1087,9 +1086,7 @@
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1138,7 +1135,9 @@
       "name": "new",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1169,7 +1168,9 @@
       "name": "urk87kru",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1178,9 +1179,7 @@
       "name": "scum",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1198,7 +1197,9 @@
       "name": "gwgwrtgwrt",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     }
   ],
@@ -2956,6 +2957,76 @@
       "type": "ActionResources",
       "description": "Musical Chairs used  to take action.",
       "value": 0
+    },
+    {
+      "id": "Ds0CM",
+      "timestamp": "2025-05-23T22:07:41.942Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "GlPdG",
+      "timestamp": "2025-05-23T22:07:41.943Z",
+      "type": "ActionResources",
+      "description": "Frog house used  to take action.",
+      "value": 0
+    },
+    {
+      "id": "rCo28",
+      "timestamp": "2025-05-23T22:07:41.943Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "NRgEW",
+      "timestamp": "2025-05-23T22:07:41.943Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 1
+    },
+    {
+      "id": "dv4_P",
+      "timestamp": "2025-05-23T22:07:41.943Z",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used gwgwrtgwrt,new to take action.",
+      "value": 2
+    },
+    {
+      "id": "jj-9y",
+      "timestamp": "2025-05-23T22:07:41.943Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "nbZl3",
+      "timestamp": "2025-05-23T22:07:41.943Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 1
+    },
+    {
+      "id": "sN9tv",
+      "timestamp": "2025-05-23T22:07:41.943Z",
+      "type": "ActionResources",
+      "description": "Musical Chairs used  to take action.",
+      "value": 0
+    },
+    {
+      "id": "wfHa1",
+      "timestamp": "2025-05-23T22:07:46.977Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Universal Phase",
+      "value": "2025-05-23T22:07:46.977Z"
+    },
+    {
+      "id": "roFTY",
+      "timestamp": "2025-05-23T22:07:46.978Z",
+      "type": "CommunitiesEndangered",
+      "description": "New Episode: Lapiz,nana,baba,popo,skreeee",
+      "value": 5
     }
   ]
 }
