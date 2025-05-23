@@ -348,10 +348,13 @@
       "round": "3",
       "societyId": "et0k8",
       "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "texts": [
+        "",
+        ""
+      ],
+      "risk": "1",
+      "advantage": "0",
+      "disadvantage": "0",
       "result": [],
       "status": "open",
       "tags": {
@@ -363,7 +366,10 @@
   "communities": [
     {
       "id": "o7kHM",
-      "societyId": "et0k8",
+      "societyId": [
+        "et0k8",
+        "Feay0"
+      ],
       "name": "Wizened Youth",
       "voice": "people",
       "tags": {
@@ -680,13 +686,13 @@
     {
       "id": "VZQ7m",
       "type": "Break",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 0,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-12T15:38:12.770-04:00",
-        "e": "2025-05-23T17:10:32.131-04:00",
+        "e": "2025-05-23T17:13:40.258-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -698,10 +704,10 @@
     {
       "id": "tJXlr",
       "type": "Universal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 3,
       "duration": 240,
-      "timeElapsed": 79.07400000000001,
+      "timeElapsed": 184.15800000000024,
       "actualTime": {
         "s": "2025-05-23T17:10:33.324-04:00",
         "e": "2025-05-23T17:14:33.324-04:00",
@@ -2769,6 +2775,90 @@
       "type": "CommunitiesEndangered",
       "description": "New Episode: Lapiz,nana,baba,popo,skreeee",
       "value": 5
+    },
+    {
+      "id": "wCTs2",
+      "timestamp": "2025-05-23T17:13:40.258-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "tvrJQ",
+      "timestamp": "2025-05-23T17:13:40.259-04:00",
+      "type": "ActionResources",
+      "description": "Frog house used feral cats,righteous anger to take action.",
+      "value": 2
+    },
+    {
+      "id": "nKcJU",
+      "timestamp": "2025-05-23T17:13:40.259-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "GcnVK",
+      "timestamp": "2025-05-23T17:13:40.259-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 5
+    },
+    {
+      "id": "mtrUX",
+      "timestamp": "2025-05-23T17:13:40.259-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now to take action.",
+      "value": 1
+    },
+    {
+      "id": "MaP_7",
+      "timestamp": "2025-05-23T17:13:40.259-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used hey now,bytes to take action.",
+      "value": 2
+    },
+    {
+      "id": "JYKr2",
+      "timestamp": "2025-05-23T17:13:40.259-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used bytes to take action.",
+      "value": 1
+    },
+    {
+      "id": "prmBi",
+      "timestamp": "2025-05-23T17:13:40.259-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used adfasd,bytes to take action.",
+      "value": 2
+    },
+    {
+      "id": "in4ep",
+      "timestamp": "2025-05-23T17:13:40.259-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used blergh to take action.",
+      "value": 1
+    },
+    {
+      "id": "oEgim",
+      "timestamp": "2025-05-23T17:13:40.259-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "w8qhE",
+      "timestamp": "2025-05-23T17:13:40.259-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 1
+    },
+    {
+      "id": "PnfW6",
+      "timestamp": "2025-05-23T17:13:40.259-04:00",
+      "type": "ActionResources",
+      "description": "Musical Chairs used scum to take action.",
+      "value": 1
     }
   ]
 }
