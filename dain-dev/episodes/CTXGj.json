@@ -28,9 +28,9 @@
         "embolden the cats",
         ""
       ],
-      "risk": "1",
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "3",
+      "advantage": "0",
+      "disadvantage": "1",
       "result": [],
       "tags": {
         "_type": "Tags",
