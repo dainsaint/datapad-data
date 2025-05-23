@@ -94,17 +94,17 @@
       "id": "VmMzV",
       "round": 2,
       "societyId": "yXHVO",
-      "resourceIds": [
-        "KB9VT"
-      ],
+      "resourceIds": [],
       "texts": [
+        "",
         ""
       ],
       "risk": "1",
-      "advantage": 0,
-      "disadvantage": 0,
+      "advantage": "0",
+      "disadvantage": "0",
       "result": [],
-      "status": "open",
+      "voteTime": "2025-05-23T22:01:32.805Z",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -365,7 +365,7 @@
       "texts": [
         ""
       ],
-      "risk": "3",
+      "risk": "1",
       "advantage": "Adv 0",
       "disadvantage": "2",
       "result": [],
