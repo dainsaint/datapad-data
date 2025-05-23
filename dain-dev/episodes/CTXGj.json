@@ -33,6 +33,7 @@
       "advantage": "1",
       "disadvantage": "0",
       "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -48,6 +49,7 @@
       "advantage": 0,
       "disadvantage": 0,
       "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -68,7 +70,8 @@
       "advantage": "0",
       "disadvantage": "0",
       "result": [],
-      "voteTime": "2025-05-23T14:48:12.937-04:00",
+      "voteTime": "2025-05-23T19:15:18.818Z",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -88,6 +91,7 @@
       "advantage": 0,
       "disadvantage": 0,
       "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -107,6 +111,7 @@
       "advantage": 0,
       "disadvantage": 0,
       "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -128,6 +133,7 @@
       "advantage": 0,
       "disadvantage": 0,
       "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -143,6 +149,7 @@
       "advantage": 0,
       "disadvantage": 0,
       "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -163,6 +170,7 @@
       "advantage": 0,
       "disadvantage": 0,
       "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -180,6 +188,7 @@
       "advantage": 0,
       "disadvantage": 0,
       "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -195,6 +204,7 @@
       "advantage": 0,
       "disadvantage": 0,
       "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -218,6 +228,7 @@
       "disadvantage": "0",
       "result": [],
       "voteTime": "2025-05-23T14:48:17.183-04:00",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -243,6 +254,7 @@
       "disadvantage": "0",
       "result": [],
       "voteTime": "2025-05-23T15:00:00.965-04:00",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -269,6 +281,7 @@
       "disadvantage": "0",
       "result": [],
       "voteTime": "2025-05-23T15:00:19.536-04:00",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -286,6 +299,7 @@
       "advantage": 0,
       "disadvantage": 0,
       "result": [],
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
