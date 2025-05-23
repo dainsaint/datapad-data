@@ -231,7 +231,9 @@
       "id": "do6_p",
       "round": "2",
       "societyId": "Feay0",
-      "resourceIds": [],
+      "resourceIds": [
+        "Mqfth"
+      ],
       "texts": [
         "",
         ""
@@ -239,6 +241,50 @@
       "risk": "1",
       "advantage": "0",
       "disadvantage": "0",
+      "result": [],
+      "voteTime": "2025-05-23T15:00:00.965-04:00",
+      "tags": {
+        "_type": "Tags",
+        "value": [
+          "voted",
+          "invalid"
+        ]
+      }
+    },
+    {
+      "id": "LsBu2",
+      "round": "2",
+      "societyId": "Feay0",
+      "resourceIds": [
+        "wRedp",
+        "Mqfth"
+      ],
+      "texts": [
+        "",
+        "",
+        ""
+      ],
+      "risk": "1",
+      "advantage": "0",
+      "disadvantage": "0",
+      "result": [],
+      "voteTime": "2025-05-23T15:00:19.536-04:00",
+      "tags": {
+        "_type": "Tags",
+        "value": [
+          "voted"
+        ]
+      }
+    },
+    {
+      "id": "iJ-3k",
+      "round": "2",
+      "societyId": "Feay0",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "tags": {
         "_type": "Tags",
