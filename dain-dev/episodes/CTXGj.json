@@ -29,6 +29,8 @@
         ""
       ],
       "risk": "1",
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -42,6 +44,8 @@
       "resourceIds": [],
       "texts": [],
       "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -61,6 +65,8 @@
         ""
       ],
       "risk": "1",
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -76,6 +82,8 @@
       "resourceIds": [],
       "texts": [],
       "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -93,6 +101,8 @@
         ""
       ],
       "risk": "1",
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -112,6 +122,8 @@
         ""
       ],
       "risk": "1",
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -125,6 +137,8 @@
       "resourceIds": [],
       "texts": [],
       "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -143,6 +157,8 @@
         ""
       ],
       "risk": "1",
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -158,6 +174,8 @@
         ""
       ],
       "risk": "1",
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -171,6 +189,8 @@
       "resourceIds": [],
       "texts": [],
       "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "tags": {
         "_type": "Tags",
@@ -190,6 +210,8 @@
         ""
       ],
       "risk": "1",
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "tags": {
         "_type": "Tags",
