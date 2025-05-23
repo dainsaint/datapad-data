@@ -2485,10 +2485,10 @@
     },
     {
       "id": "Gh3vO",
-      "timestamp": "2025-05-20T23:35:24.461Z",
+      "timestamp": "2025-05-20T19:35:24.461-04:00",
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
-      "value": "2025-05-20T23:35:24.461Z"
+      "value": "2025-05-20T19:35:24.461-04:00"
     }
   ]
 }
