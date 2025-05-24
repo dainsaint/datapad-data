@@ -745,13 +745,13 @@
     {
       "id": "tJXlr",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 3,
       "duration": 240,
       "timeElapsed": 185.15900000000025,
       "actualTime": {
-        "s": "2025-05-23T18:07:46.977-04:00",
-        "e": "2025-05-23T18:07:49.775-04:00",
+        "s": "2025-05-23T23:26:28.659-04:00",
+        "e": "2025-05-23T23:30:28.659-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -3024,6 +3024,20 @@
     {
       "id": "roFTY",
       "timestamp": "2025-05-23T22:07:46.978Z",
+      "type": "CommunitiesEndangered",
+      "description": "New Episode: Lapiz,nana,baba,popo,skreeee",
+      "value": 5
+    },
+    {
+      "id": "O7zJV",
+      "timestamp": "2025-05-24T03:26:28.661Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Universal Phase",
+      "value": "2025-05-24T03:26:28.661Z"
+    },
+    {
+      "id": "ACBUf",
+      "timestamp": "2025-05-24T03:26:28.662Z",
       "type": "CommunitiesEndangered",
       "description": "New Episode: Lapiz,nana,baba,popo,skreeee",
       "value": 5
