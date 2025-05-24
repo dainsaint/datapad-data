@@ -733,7 +733,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-12T15:38:12.770-04:00",
-        "e": "2025-05-23T18:07:41.942-04:00",
+        "e": "2025-05-23T23:30:03.746-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -751,7 +751,7 @@
       "timeElapsed": 188.16100000000026,
       "actualTime": {
         "s": "2025-05-23T23:26:28.659-04:00",
-        "e": "2025-05-23T23:29:14.880-04:00",
+        "e": "2025-05-23T23:30:04.835-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -769,7 +769,7 @@
       "timeElapsed": 1900.2769999999953,
       "actualTime": {
         "s": "2025-04-16T18:14:26.371-04:00",
-        "e": "2025-05-23T23:29:43.621-04:00",
+        "e": "2025-05-23T23:30:05.480-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -781,7 +781,7 @@
     {
       "id": "KnY3K",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 3,
       "duration": 720,
       "timeElapsed": 673.122999999999,
@@ -1257,7 +1257,8 @@
   ],
   "documentIds": [
     "Wt6ry",
-    "ZWFCD"
+    "ZWFCD",
+    "qUEMf"
   ],
   "links": {
     "discord": "discord://-/channels/1063250197993492480/1063254140341473350"
@@ -3044,37 +3045,93 @@
     },
     {
       "id": "G4hl_",
-      "timestamp": "2025-05-24T03:30:00.987Z",
+      "timestamp": "2025-05-23T23:30:00.987-04:00",
       "type": "SocietyActionsTaken",
       "description": "Frog house",
       "value": 0
     },
     {
       "id": "kLif9",
-      "timestamp": "2025-05-24T03:30:00.987Z",
+      "timestamp": "2025-05-23T23:30:00.987-04:00",
       "type": "SocietyActionsTaken",
       "description": "Toad Shack",
       "value": 0
     },
     {
       "id": "xpuef",
-      "timestamp": "2025-05-24T03:30:00.987Z",
+      "timestamp": "2025-05-23T23:30:00.987-04:00",
       "type": "SocietyActionsTaken",
       "description": "Beetle Junkies",
       "value": 0
     },
     {
       "id": "P_Poo",
-      "timestamp": "2025-05-24T03:30:00.987Z",
+      "timestamp": "2025-05-23T23:30:00.987-04:00",
       "type": "SocietyActionsTaken",
       "description": "Better Burritos",
       "value": 0
     },
     {
       "id": "tvBGy",
-      "timestamp": "2025-05-24T03:30:00.987Z",
+      "timestamp": "2025-05-23T23:30:00.987-04:00",
       "type": "SocietyActionsTaken",
       "description": "Musical Chairs",
+      "value": 0
+    },
+    {
+      "id": "z1VE1",
+      "timestamp": "2025-05-23T23:30:03.746-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "PqSCj",
+      "timestamp": "2025-05-23T23:30:03.747-04:00",
+      "type": "ActionResources",
+      "description": "Frog house used  to take action.",
+      "value": 0
+    },
+    {
+      "id": "Gkc8Y",
+      "timestamp": "2025-05-23T23:30:03.747-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "UIo5N",
+      "timestamp": "2025-05-23T23:30:03.747-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 1
+    },
+    {
+      "id": "GcGKs",
+      "timestamp": "2025-05-23T23:30:03.747-04:00",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used gwgwrtgwrt,new to take action.",
+      "value": 2
+    },
+    {
+      "id": "xjYRa",
+      "timestamp": "2025-05-23T23:30:03.747-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "xVX66",
+      "timestamp": "2025-05-23T23:30:03.748-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 1
+    },
+    {
+      "id": "scdUW",
+      "timestamp": "2025-05-23T23:30:03.748-04:00",
+      "type": "ActionResources",
+      "description": "Musical Chairs used  to take action.",
       "value": 0
     }
   ]
