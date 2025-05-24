@@ -781,13 +781,13 @@
     {
       "id": "KnY3K",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 3,
       "duration": 720,
       "timeElapsed": 673.122999999999,
       "actualTime": {
         "s": "2025-04-17T21:32:04.337-04:00",
-        "e": "2025-05-20T17:11:32.598-04:00",
+        "e": "2025-05-23T23:30:00.987-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -3041,6 +3041,41 @@
       "type": "CommunitiesEndangered",
       "description": "New Episode: Lapiz,nana,baba,popo,skreeee",
       "value": 5
+    },
+    {
+      "id": "G4hl_",
+      "timestamp": "2025-05-24T03:30:00.987Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 0
+    },
+    {
+      "id": "kLif9",
+      "timestamp": "2025-05-24T03:30:00.987Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "xpuef",
+      "timestamp": "2025-05-24T03:30:00.987Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "P_Poo",
+      "timestamp": "2025-05-24T03:30:00.987Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "tvBGy",
+      "timestamp": "2025-05-24T03:30:00.987Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
     }
   ]
 }
