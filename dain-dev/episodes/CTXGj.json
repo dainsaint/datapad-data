@@ -745,13 +745,13 @@
     {
       "id": "tJXlr",
       "type": "Universal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 3,
       "duration": 240,
-      "timeElapsed": 185.15900000000025,
+      "timeElapsed": 188.16100000000026,
       "actualTime": {
         "s": "2025-05-23T23:26:28.659-04:00",
-        "e": "2025-05-23T23:30:28.659-04:00",
+        "e": "2025-05-23T23:26:32.467-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -763,13 +763,13 @@
     {
       "id": "mBIUo",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 3,
       "duration": 600,
       "timeElapsed": 1900.2769999999953,
       "actualTime": {
         "s": "2025-04-16T18:14:26.371-04:00",
-        "e": "2025-05-23T18:07:43.507-04:00",
+        "e": "2025-05-23T23:29:10.881-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -2904,140 +2904,140 @@
     },
     {
       "id": "PjQZe",
-      "timestamp": "2025-05-23T22:07:31.953Z",
+      "timestamp": "2025-05-23T18:07:31.953-04:00",
       "type": "SocietyActionsTaken",
       "description": "Frog house",
       "value": 1
     },
     {
       "id": "gJzBO",
-      "timestamp": "2025-05-23T22:07:31.953Z",
+      "timestamp": "2025-05-23T18:07:31.953-04:00",
       "type": "ActionResources",
       "description": "Frog house used  to take action.",
       "value": 0
     },
     {
       "id": "MX4r8",
-      "timestamp": "2025-05-23T22:07:31.953Z",
+      "timestamp": "2025-05-23T18:07:31.953-04:00",
       "type": "SocietyActionsTaken",
       "description": "Toad Shack",
       "value": 0
     },
     {
       "id": "E4Kzc",
-      "timestamp": "2025-05-23T22:07:31.953Z",
+      "timestamp": "2025-05-23T18:07:31.953-04:00",
       "type": "SocietyActionsTaken",
       "description": "Beetle Junkies",
       "value": 1
     },
     {
       "id": "fnJpv",
-      "timestamp": "2025-05-23T22:07:31.954Z",
+      "timestamp": "2025-05-23T18:07:31.954-04:00",
       "type": "ActionResources",
       "description": "Beetle Junkies used gwgwrtgwrt,new to take action.",
       "value": 2
     },
     {
       "id": "ejhAw",
-      "timestamp": "2025-05-23T22:07:31.954Z",
+      "timestamp": "2025-05-23T18:07:31.954-04:00",
       "type": "SocietyActionsTaken",
       "description": "Better Burritos",
       "value": 0
     },
     {
       "id": "yKk5f",
-      "timestamp": "2025-05-23T22:07:31.954Z",
+      "timestamp": "2025-05-23T18:07:31.954-04:00",
       "type": "SocietyActionsTaken",
       "description": "Musical Chairs",
       "value": 1
     },
     {
       "id": "yiPIb",
-      "timestamp": "2025-05-23T22:07:31.954Z",
+      "timestamp": "2025-05-23T18:07:31.954-04:00",
       "type": "ActionResources",
       "description": "Musical Chairs used  to take action.",
       "value": 0
     },
     {
       "id": "Ds0CM",
-      "timestamp": "2025-05-23T22:07:41.942Z",
+      "timestamp": "2025-05-23T18:07:41.942-04:00",
       "type": "SocietyActionsTaken",
       "description": "Frog house",
       "value": 1
     },
     {
       "id": "GlPdG",
-      "timestamp": "2025-05-23T22:07:41.943Z",
+      "timestamp": "2025-05-23T18:07:41.943-04:00",
       "type": "ActionResources",
       "description": "Frog house used  to take action.",
       "value": 0
     },
     {
       "id": "rCo28",
-      "timestamp": "2025-05-23T22:07:41.943Z",
+      "timestamp": "2025-05-23T18:07:41.943-04:00",
       "type": "SocietyActionsTaken",
       "description": "Toad Shack",
       "value": 0
     },
     {
       "id": "NRgEW",
-      "timestamp": "2025-05-23T22:07:41.943Z",
+      "timestamp": "2025-05-23T18:07:41.943-04:00",
       "type": "SocietyActionsTaken",
       "description": "Beetle Junkies",
       "value": 1
     },
     {
       "id": "dv4_P",
-      "timestamp": "2025-05-23T22:07:41.943Z",
+      "timestamp": "2025-05-23T18:07:41.943-04:00",
       "type": "ActionResources",
       "description": "Beetle Junkies used gwgwrtgwrt,new to take action.",
       "value": 2
     },
     {
       "id": "jj-9y",
-      "timestamp": "2025-05-23T22:07:41.943Z",
+      "timestamp": "2025-05-23T18:07:41.943-04:00",
       "type": "SocietyActionsTaken",
       "description": "Better Burritos",
       "value": 0
     },
     {
       "id": "nbZl3",
-      "timestamp": "2025-05-23T22:07:41.943Z",
+      "timestamp": "2025-05-23T18:07:41.943-04:00",
       "type": "SocietyActionsTaken",
       "description": "Musical Chairs",
       "value": 1
     },
     {
       "id": "sN9tv",
-      "timestamp": "2025-05-23T22:07:41.943Z",
+      "timestamp": "2025-05-23T18:07:41.943-04:00",
       "type": "ActionResources",
       "description": "Musical Chairs used  to take action.",
       "value": 0
     },
     {
       "id": "wfHa1",
-      "timestamp": "2025-05-23T22:07:46.977Z",
+      "timestamp": "2025-05-23T18:07:46.977-04:00",
       "type": "PhaseStarted",
       "description": "Round 3: Universal Phase",
-      "value": "2025-05-23T22:07:46.977Z"
+      "value": "2025-05-23T18:07:46.977-04:00"
     },
     {
       "id": "roFTY",
-      "timestamp": "2025-05-23T22:07:46.978Z",
+      "timestamp": "2025-05-23T18:07:46.978-04:00",
       "type": "CommunitiesEndangered",
       "description": "New Episode: Lapiz,nana,baba,popo,skreeee",
       "value": 5
     },
     {
       "id": "O7zJV",
-      "timestamp": "2025-05-24T03:26:28.661Z",
+      "timestamp": "2025-05-23T23:26:28.661-04:00",
       "type": "PhaseStarted",
       "description": "Round 3: Universal Phase",
-      "value": "2025-05-24T03:26:28.661Z"
+      "value": "2025-05-23T23:26:28.661-04:00"
     },
     {
       "id": "ACBUf",
-      "timestamp": "2025-05-24T03:26:28.662Z",
+      "timestamp": "2025-05-23T23:26:28.662-04:00",
       "type": "CommunitiesEndangered",
       "description": "New Episode: Lapiz,nana,baba,popo,skreeee",
       "value": 5
