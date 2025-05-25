@@ -1241,6 +1241,21 @@
           },
           "emissaryCommunityId": "cV-Kn",
           "leadershipOverrides": {}
+        },
+        {
+          "round": {
+            "round": 3,
+            "societyId": "et0k8"
+          },
+          "leadershipOverrides": {}
+        },
+        {
+          "round": {
+            "round": "round=",
+            "societyId": "et0k8"
+          },
+          "emissaryCommunityId": "B95dD",
+          "leadershipOverrides": {}
         }
       ]
     },
