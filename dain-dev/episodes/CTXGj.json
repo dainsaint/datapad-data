@@ -1256,6 +1256,12 @@
           },
           "emissaryCommunityId": "B95dD",
           "leadershipOverrides": {}
+        },
+        {
+          "round": 3,
+          "societyId": "et0k8",
+          "emissaryCommunityId": "R9tmF",
+          "leadershipOverrides": {}
         }
       ]
     },
