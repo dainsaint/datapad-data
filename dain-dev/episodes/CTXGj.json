@@ -430,8 +430,10 @@
     {
       "id": "lHvo5",
       "societyId": "V9xbw",
+      "player": "",
       "name": "ribs",
       "voice": "leader",
+      "ambassadorTo": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -563,7 +565,7 @@
       "player": "",
       "name": "skreeee",
       "voice": "people",
-      "ambassadorTo": "Feay0",
+      "ambassadorTo": "",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -574,8 +576,10 @@
     {
       "id": "jaCtF",
       "societyId": "yXHVO",
+      "player": "",
       "name": "big ol shair",
       "voice": "people",
+      "ambassadorTo": "",
       "tags": {
         "_type": "Tags",
         "value": []
