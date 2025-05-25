@@ -418,10 +418,10 @@
     {
       "id": "Qw0Xm",
       "societyId": "et0k8",
+      "ambassadorSocietyId": "",
       "player": "Jim (he/him)",
       "name": "todd",
       "voice": "leader",
-      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -430,10 +430,10 @@
     {
       "id": "lHvo5",
       "societyId": "V9xbw",
+      "ambassadorSocietyId": "",
       "player": "",
       "name": "ribs",
       "voice": "leader",
-      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -452,9 +452,9 @@
     {
       "id": "B95dD",
       "societyId": "et0k8",
+      "ambassadorSocietyId": "",
       "name": "Jason",
       "voice": "leader",
-      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -463,9 +463,9 @@
     {
       "id": "cV-Kn",
       "societyId": "et0k8",
+      "ambassadorSocietyId": "",
       "name": "Fredrick",
       "voice": "people",
-      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -506,10 +506,10 @@
     {
       "id": "G_9_r",
       "societyId": "Feay0",
+      "ambassadorSocietyId": "",
       "player": "",
       "name": "nana",
       "voice": "people",
-      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -520,10 +520,10 @@
     {
       "id": "ssnLF",
       "societyId": "Feay0",
+      "ambassadorSocietyId": "",
       "player": "",
       "name": "baba",
       "voice": "leader",
-      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -544,10 +544,10 @@
     {
       "id": "NzLOs",
       "societyId": "Feay0",
+      "ambassadorSocietyId": "",
       "player": "",
       "name": "dada",
       "voice": "leader",
-      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -568,10 +568,10 @@
     {
       "id": "u0fa0",
       "societyId": "e-JcG",
+      "ambassadorSocietyId": "",
       "player": "",
       "name": "skreeee",
       "voice": "people",
-      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -582,10 +582,10 @@
     {
       "id": "jaCtF",
       "societyId": "yXHVO",
+      "ambassadorSocietyId": "",
       "player": "",
       "name": "big ol shair",
       "voice": "people",
-      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1260,7 +1260,7 @@
         {
           "round": 3,
           "societyId": "et0k8",
-          "emissaryCommunityId": "LiQVN",
+          "emissaryCommunityId": "B95dD",
           "leadershipOverrides": {}
         }
       ]
