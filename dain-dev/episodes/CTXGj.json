@@ -534,6 +534,7 @@
     {
       "id": "FRomU",
       "societyId": "Feay0",
+      "ambassadorSocietyId": "e-JcG",
       "name": "gaga",
       "voice": "people",
       "tags": {
@@ -1286,7 +1287,7 @@
     {
       "id": "Feay0",
       "name": "Beetle Junkies",
-      "archetype": "the curious",
+      "archetype": "the mighty",
       "color": "color-deep-purple",
       "tags": {
         "_type": "Tags",
