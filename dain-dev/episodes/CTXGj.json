@@ -506,9 +506,10 @@
     {
       "id": "G_9_r",
       "societyId": "Feay0",
+      "player": "",
       "name": "nana",
       "voice": "people",
-      "ambassadorSocietyId": "et0k8",
+      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -521,6 +522,7 @@
       "societyId": "Feay0",
       "name": "baba",
       "voice": "leader",
+      "ambassadorSocietyId": "e-JcG",
       "tags": {
         "_type": "Tags",
         "value": [
