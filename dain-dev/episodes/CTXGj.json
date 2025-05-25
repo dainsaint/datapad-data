@@ -1278,7 +1278,8 @@
         {
           "round": 3,
           "societyId": "V9xbw",
-          "leadershipOverrides": {}
+          "leadershipOverrides": {},
+          "emissaryCommunityId": "lHvo5"
         }
       ]
     },
@@ -1296,7 +1297,7 @@
           "round": 3,
           "societyId": "Feay0",
           "leadershipOverrides": {},
-          "emissaryCommunityId": "NzLOs"
+          "emissaryCommunityId": ""
         }
       ]
     },
