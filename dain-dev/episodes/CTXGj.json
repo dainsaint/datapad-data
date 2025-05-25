@@ -346,7 +346,7 @@
       "texts": [
         "airfare"
       ],
-      "risk": "4",
+      "risk": "1",
       "advantage": "Adv 0",
       "disadvantage": "Dis 0",
       "result": [],
@@ -1343,7 +1343,8 @@
   "documentIds": [
     "Wt6ry",
     "ZWFCD",
-    "oauHF"
+    "oauHF",
+    "kGnnI"
   ],
   "links": {
     "discord": "discord://-/channels/1063250197993492480/1063254140341473350"
