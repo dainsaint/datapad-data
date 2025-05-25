@@ -520,9 +520,10 @@
     {
       "id": "ssnLF",
       "societyId": "Feay0",
+      "player": "",
       "name": "baba",
       "voice": "leader",
-      "ambassadorSocietyId": "e-JcG",
+      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -543,8 +544,10 @@
     {
       "id": "NzLOs",
       "societyId": "Feay0",
+      "player": "",
       "name": "dada",
-      "voice": "people",
+      "voice": "leader",
+      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1222,7 +1225,24 @@
       "tags": {
         "_type": "Tags",
         "value": []
-      }
+      },
+      "roundData": [
+        {
+          "round": {
+            "round": 3,
+            "societyId": "et0k8"
+          },
+          "leadershipOverrides": {}
+        },
+        {
+          "round": {
+            "round": "round=",
+            "societyId": "et0k8"
+          },
+          "emissaryCommunityId": "cV-Kn",
+          "leadershipOverrides": {}
+        }
+      ]
     },
     {
       "id": "V9xbw",
@@ -1232,7 +1252,8 @@
       "tags": {
         "_type": "Tags",
         "value": []
-      }
+      },
+      "roundData": []
     },
     {
       "id": "Feay0",
@@ -1242,7 +1263,8 @@
       "tags": {
         "_type": "Tags",
         "value": []
-      }
+      },
+      "roundData": []
     },
     {
       "id": "e-JcG",
@@ -1252,7 +1274,8 @@
       "tags": {
         "_type": "Tags",
         "value": []
-      }
+      },
+      "roundData": []
     },
     {
       "id": "yXHVO",
@@ -1262,7 +1285,8 @@
       "tags": {
         "_type": "Tags",
         "value": []
-      }
+      },
+      "roundData": []
     }
   ],
   "documentIds": [
