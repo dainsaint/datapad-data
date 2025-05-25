@@ -421,7 +421,7 @@
       "player": "Jim (he/him)",
       "name": "todd",
       "voice": "leader",
-      "ambassadorTo": "",
+      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -433,7 +433,7 @@
       "player": "",
       "name": "ribs",
       "voice": "leader",
-      "ambassadorTo": "",
+      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -454,7 +454,7 @@
       "societyId": "et0k8",
       "name": "Jason",
       "voice": "leader",
-      "ambassadorTo": "",
+      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -465,7 +465,7 @@
       "societyId": "et0k8",
       "name": "Fredrick",
       "voice": "people",
-      "ambassadorTo": "",
+      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -508,6 +508,7 @@
       "societyId": "Feay0",
       "name": "nana",
       "voice": "people",
+      "ambassadorSocietyId": "et0k8",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -565,7 +566,7 @@
       "player": "",
       "name": "skreeee",
       "voice": "people",
-      "ambassadorTo": "",
+      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -579,7 +580,7 @@
       "player": "",
       "name": "big ol shair",
       "voice": "people",
-      "ambassadorTo": "",
+      "ambassadorSocietyId": "",
       "tags": {
         "_type": "Tags",
         "value": []
