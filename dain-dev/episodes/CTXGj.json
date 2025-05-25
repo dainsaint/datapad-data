@@ -1260,7 +1260,7 @@
         {
           "round": 3,
           "societyId": "et0k8",
-          "emissaryCommunityId": "B95dD",
+          "emissaryCommunityId": "Qw0Xm",
           "leadershipOverrides": {}
         }
       ]
@@ -1274,7 +1274,13 @@
         "_type": "Tags",
         "value": []
       },
-      "roundData": []
+      "roundData": [
+        {
+          "round": 3,
+          "societyId": "V9xbw",
+          "leadershipOverrides": {}
+        }
+      ]
     },
     {
       "id": "Feay0",
@@ -1285,7 +1291,13 @@
         "_type": "Tags",
         "value": []
       },
-      "roundData": []
+      "roundData": [
+        {
+          "round": 3,
+          "societyId": "Feay0",
+          "leadershipOverrides": {}
+        }
+      ]
     },
     {
       "id": "e-JcG",
@@ -1296,7 +1308,13 @@
         "_type": "Tags",
         "value": []
       },
-      "roundData": []
+      "roundData": [
+        {
+          "round": 3,
+          "societyId": "e-JcG",
+          "leadershipOverrides": {}
+        }
+      ]
     },
     {
       "id": "yXHVO",
@@ -1307,7 +1325,13 @@
         "_type": "Tags",
         "value": []
       },
-      "roundData": []
+      "roundData": [
+        {
+          "round": 3,
+          "societyId": "yXHVO",
+          "leadershipOverrides": {}
+        }
+      ]
     }
   ],
   "documentIds": [
