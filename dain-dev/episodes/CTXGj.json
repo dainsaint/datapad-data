@@ -421,7 +421,7 @@
       "ambassadorSocietyId": "",
       "player": "Jim (he/him)",
       "name": "Calendar Daddies",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "JvqsG",
-      "communityId": "UDMgC",
+      "communityId": "B95dD",
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
@@ -1262,7 +1262,7 @@
         {
           "round": 3,
           "societyId": "et0k8",
-          "emissaryCommunityId": "Qw0Xm",
+          "emissaryCommunityId": "",
           "leadershipOverrides": {}
         }
       ]
