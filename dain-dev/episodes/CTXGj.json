@@ -534,7 +534,8 @@
     {
       "id": "FRomU",
       "societyId": "Feay0",
-      "ambassadorSocietyId": "e-JcG",
+      "ambassadorSocietyId": "",
+      "player": "",
       "name": "gaga",
       "voice": "people",
       "tags": {
@@ -1298,7 +1299,7 @@
           "round": 3,
           "societyId": "Feay0",
           "leadershipOverrides": {},
-          "emissaryCommunityId": ""
+          "emissaryCommunityId": "ssnLF"
         }
       ]
     },
