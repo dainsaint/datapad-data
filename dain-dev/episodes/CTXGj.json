@@ -340,16 +340,18 @@
       "id": "qx50W",
       "round": "3",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [
-        "",
-        ""
+      "resourceIds": [
+        "JvqsG"
       ],
-      "risk": "1",
-      "advantage": "0",
-      "disadvantage": "0",
+      "texts": [
+        "airfare"
+      ],
+      "risk": "4",
+      "advantage": "Adv 0",
+      "disadvantage": "Dis 0",
       "result": [],
-      "status": "open",
+      "voteTime": "2025-05-25T19:44:53.602-04:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1115,7 +1117,7 @@
     },
     {
       "id": "BqPmG",
-      "communityId": "B95dD",
+      "communityId": "UDMgC",
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
