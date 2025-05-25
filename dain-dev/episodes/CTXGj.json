@@ -420,7 +420,7 @@
       "societyId": "et0k8",
       "ambassadorSocietyId": "",
       "player": "Jim (he/him)",
-      "name": "todd",
+      "name": "Calendar Daddies",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -1295,7 +1295,8 @@
         {
           "round": 3,
           "societyId": "Feay0",
-          "leadershipOverrides": {}
+          "leadershipOverrides": {},
+          "emissaryCommunityId": "ssnLF"
         }
       ]
     },
