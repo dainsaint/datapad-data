@@ -351,7 +351,7 @@
       "disadvantage": "Dis 0",
       "result": [],
       "voteTime": "2025-05-25T23:44:53.602+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -407,10 +407,75 @@
       "round": "3",
       "societyId": "V9xbw",
       "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "texts": [
+        "Thing"
+      ],
+      "risk": "1",
+      "advantage": "0",
+      "disadvantage": "0",
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "q0FAF",
+      "round": "3",
+      "societyId": "Feay0",
+      "resourceIds": [],
+      "texts": [
+        "Todd and good deed"
+      ],
+      "risk": "1",
+      "advantage": "0",
+      "disadvantage": "0",
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "uw127",
+      "round": "3",
+      "societyId": "et0k8",
+      "resourceIds": [
+        "vi3Gq",
+        "JvqsG"
+      ],
+      "texts": [
+        "Do a good deed",
+        "",
+        ""
+      ],
+      "risk": "1",
+      "advantage": "0",
+      "disadvantage": "0",
+      "result": [],
+      "voteTime": "2025-05-26T02:17:30.240+00:00",
+      "status": "voted",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "c4XbP",
+      "round": "3",
+      "societyId": "et0k8",
+      "resourceIds": [
+        "JvqsG"
+      ],
+      "texts": [
+        "LoppppNnnnYyyyout0 Helpout He.p.He",
+        ""
+      ],
+      "risk": "1",
+      "advantage": "0",
+      "disadvantage": "0",
       "result": [],
       "status": "open",
       "tags": {
@@ -1106,7 +1171,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "cV-Kn",
+      "communityId": "LiQVN",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -1115,7 +1180,7 @@
     },
     {
       "id": "JvqsG",
-      "communityId": "UDMgC",
+      "communityId": "cV-Kn",
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
@@ -1133,7 +1198,7 @@
     },
     {
       "id": "BqPmG",
-      "communityId": "UDMgC",
+      "communityId": "cV-Kn",
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
@@ -1142,7 +1207,7 @@
     },
     {
       "id": "oxn07",
-      "communityId": "NzLOs",
+      "communityId": "FRomU",
       "name": "blergh",
       "tags": {
         "_type": "Tags",
@@ -1153,7 +1218,7 @@
     },
     {
       "id": "zj1sr",
-      "communityId": "NzLOs",
+      "communityId": "G_9_r",
       "name": "hey now",
       "tags": {
         "_type": "Tags",
@@ -1186,7 +1251,7 @@
     },
     {
       "id": "Mqfth",
-      "communityId": "NzLOs",
+      "communityId": "ssnLF",
       "name": "bytes",
       "tags": {
         "_type": "Tags",
@@ -1197,7 +1262,7 @@
     },
     {
       "id": "psJiM",
-      "communityId": "NzLOs",
+      "communityId": "ssnLF",
       "name": "urk87kru",
       "tags": {
         "_type": "Tags",
@@ -1317,7 +1382,7 @@
           "round": 3,
           "societyId": "Feay0",
           "leadershipOverrides": {},
-          "emissaryCommunityId": "ssnLF"
+          "emissaryCommunityId": "NVQbL"
         }
       ]
     },
