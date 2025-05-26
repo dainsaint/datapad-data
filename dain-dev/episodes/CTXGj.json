@@ -758,7 +758,7 @@
     {
       "id": "iFRIY",
       "type": "Individual Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
@@ -776,7 +776,7 @@
     {
       "id": "VZQ7m",
       "type": "Break",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 0,
       "timeElapsed": 0,
@@ -794,7 +794,7 @@
     {
       "id": "tJXlr",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 3,
       "duration": 240,
       "timeElapsed": 188.16100000000026,
@@ -1294,6 +1294,12 @@
           "leadershipOverrides": {}
         },
         {
+          "round": 2,
+          "societyId": "et0k8",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
           "round": 3,
           "societyId": "et0k8",
           "emissaryCommunityId": "",
@@ -1311,6 +1317,12 @@
         "value": []
       },
       "roundData": [
+        {
+          "round": 2,
+          "societyId": "V9xbw",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
         {
           "round": 3,
           "societyId": "V9xbw",
@@ -1330,6 +1342,12 @@
       },
       "roundData": [
         {
+          "round": 2,
+          "societyId": "Feay0",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
           "round": 3,
           "societyId": "Feay0",
           "leadershipOverrides": {},
@@ -1348,6 +1366,12 @@
       },
       "roundData": [
         {
+          "round": 2,
+          "societyId": "e-JcG",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
           "round": 3,
           "societyId": "e-JcG",
           "leadershipOverrides": {},
@@ -1365,6 +1389,12 @@
         "value": []
       },
       "roundData": [
+        {
+          "round": 2,
+          "societyId": "yXHVO",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
         {
           "round": 3,
           "societyId": "yXHVO",
