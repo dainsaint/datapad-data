@@ -406,11 +406,15 @@
       "id": "fnRCI",
       "round": "3",
       "societyId": "V9xbw",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "FADd2"
+      ],
+      "texts": [
+        ""
+      ],
+      "risk": "1",
+      "advantage": "0",
+      "disadvantage": "0",
       "result": [],
       "status": "open",
       "tags": {
@@ -808,7 +812,7 @@
     {
       "id": "mBIUo",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 3,
       "duration": 600,
       "timeElapsed": 1900.2769999999953,
