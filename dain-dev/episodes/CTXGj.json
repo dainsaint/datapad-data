@@ -614,9 +614,10 @@
     {
       "id": "Bd8RN",
       "societyId": "V9xbw",
+      "ambassadorSocietyId": "",
       "player": "",
       "name": "My Guys",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
