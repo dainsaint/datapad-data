@@ -1334,7 +1334,8 @@
         {
           "round": 3,
           "societyId": "e-JcG",
-          "leadershipOverrides": {}
+          "leadershipOverrides": {},
+          "emissaryCommunityId": ""
         }
       ]
     },
