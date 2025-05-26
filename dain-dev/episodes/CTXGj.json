@@ -784,7 +784,7 @@
       "timeElapsed": 188.16100000000026,
       "actualTime": {
         "s": "2025-05-23T23:26:28.659-04:00",
-        "e": "2025-05-23T23:30:04.835-04:00",
+        "e": "2025-05-25T20:07:03.242-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -802,7 +802,7 @@
       "timeElapsed": 1900.2769999999953,
       "actualTime": {
         "s": "2025-04-16T18:14:26.371-04:00",
-        "e": "2025-05-23T23:30:05.480-04:00",
+        "e": "2025-05-25T20:07:05.892-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -814,13 +814,13 @@
     {
       "id": "KnY3K",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "idle",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 673.122999999999,
+      "timeElapsed": 676.124999999999,
       "actualTime": {
         "s": "2025-05-25T20:06:55.382-04:00",
-        "e": "2025-05-25T20:18:55.382-04:00",
+        "e": "2025-05-25T20:06:59.241-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -3237,10 +3237,52 @@
     },
     {
       "id": "tzU_R",
-      "timestamp": "2025-05-26T00:06:55.382Z",
+      "timestamp": "2025-05-25T20:06:55.382-04:00",
       "type": "PhaseStarted",
       "description": "Round 3: Galactic Phase",
-      "value": "2025-05-26T00:06:55.382Z"
+      "value": "2025-05-25T20:06:55.382-04:00"
+    },
+    {
+      "id": "eZxt9",
+      "timestamp": "2025-05-25T20:06:59.241-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "vdqz_",
+      "timestamp": "2025-05-25T20:06:59.241-04:00",
+      "type": "ActionResources",
+      "description": "Frog house used righteous anger to take action.",
+      "value": 1
+    },
+    {
+      "id": "rpo4a",
+      "timestamp": "2025-05-25T20:06:59.242-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "mJJCh",
+      "timestamp": "2025-05-25T20:06:59.242-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "qR4TY",
+      "timestamp": "2025-05-25T20:06:59.242-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "yfN3F",
+      "timestamp": "2025-05-25T20:06:59.242-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
     }
   ]
 }
