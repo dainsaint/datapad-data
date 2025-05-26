@@ -814,13 +814,13 @@
     {
       "id": "KnY3K",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 3,
       "duration": 720,
       "timeElapsed": 673.122999999999,
       "actualTime": {
-        "s": "2025-04-17T21:32:04.337-04:00",
-        "e": "2025-05-23T23:30:00.987-04:00",
+        "s": "2025-05-25T20:06:55.382-04:00",
+        "e": "2025-05-25T20:18:55.382-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -3234,6 +3234,13 @@
       "type": "ActionResources",
       "description": "Musical Chairs used  to take action.",
       "value": 0
+    },
+    {
+      "id": "tzU_R",
+      "timestamp": "2025-05-26T00:06:55.382Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Galactic Phase",
+      "value": "2025-05-26T00:06:55.382Z"
     }
   ]
 }
