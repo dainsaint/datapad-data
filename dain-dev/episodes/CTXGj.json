@@ -1230,7 +1230,9 @@
       "name": "gwgwrtgwrt",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     }
   ],
