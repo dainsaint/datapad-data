@@ -898,13 +898,13 @@
     {
       "id": "Z6ovG",
       "type": "Individual Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 337.07099999999963,
+      "timeElapsed": 370.0769999999995,
       "actualTime": {
         "s": "2025-05-27T21:14:06.937+00:00",
-        "e": "2025-05-27T21:22:06.937+00:00",
+        "e": "2025-05-27T21:20:10.833+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -3464,6 +3464,20 @@
       "type": "PhaseStarted",
       "description": "Round 4: Galactic Phase",
       "value": "2025-05-27T21:14:12.290Z"
+    },
+    {
+      "id": "H_6rT",
+      "timestamp": "2025-05-27T21:20:10.833Z",
+      "type": "PhaseEnded",
+      "description": "Round 4: Individual Phase",
+      "value": "2025-05-27T21:20:10.833Z"
+    },
+    {
+      "id": "HuVuQ",
+      "timestamp": "2025-05-27T21:20:10.833Z",
+      "type": "PhaseDuration",
+      "description": "Round 4: Individual Phase",
+      "value": 6.064933333333333
     }
   ]
 }
