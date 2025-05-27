@@ -880,13 +880,13 @@
     {
       "id": "dr96n",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 25.005,
+      "timeElapsed": 117.02300000000001,
       "actualTime": {
         "s": "2025-05-27T21:14:12.290+00:00",
-        "e": "2025-05-27T21:26:12.290+00:00",
+        "e": "2025-05-27T21:17:29.060+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -901,7 +901,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 36.006,
+      "timeElapsed": 337.07099999999963,
       "actualTime": {
         "s": "2025-05-27T21:14:06.937+00:00",
         "e": "2025-05-27T21:22:06.937+00:00",
