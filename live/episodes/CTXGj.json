@@ -351,7 +351,7 @@
       "disadvantage": "Dis 0",
       "result": [],
       "voteTime": "2025-05-25T23:44:53.602+00:00",
-      "status": "invalid",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -407,75 +407,10 @@
       "round": "3",
       "societyId": "V9xbw",
       "resourceIds": [],
-      "texts": [
-        "Thing"
-      ],
-      "risk": "1",
-      "advantage": "0",
-      "disadvantage": "0",
-      "result": [],
-      "status": "open",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "q0FAF",
-      "round": "3",
-      "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [
-        "Todd and good deed"
-      ],
-      "risk": "1",
-      "advantage": "0",
-      "disadvantage": "0",
-      "result": [],
-      "status": "open",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "uw127",
-      "round": "3",
-      "societyId": "et0k8",
-      "resourceIds": [
-        "vi3Gq",
-        "JvqsG"
-      ],
-      "texts": [
-        "Do a good deed",
-        "",
-        ""
-      ],
-      "risk": "1",
-      "advantage": "0",
-      "disadvantage": "0",
-      "result": [],
-      "voteTime": "2025-05-26T02:17:30.240+00:00",
-      "status": "voted",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "c4XbP",
-      "round": "3",
-      "societyId": "et0k8",
-      "resourceIds": [
-        "JvqsG"
-      ],
-      "texts": [
-        "uiiiiiiiiiTtoooooottttrfggggghuuuuLoppppNnnnYyyyout0 Helpout He.p.He",
-        ""
-      ],
-      "risk": "1",
-      "advantage": "0",
-      "disadvantage": "0",
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -670,6 +605,18 @@
       "ambassadorSocietyId": "",
       "player": "",
       "name": "big ol shair",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "Bd8RN",
+      "societyId": "V9xbw",
+      "ambassadorSocietyId": "",
+      "player": "",
+      "name": "My Guys",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1142,7 +1089,7 @@
     },
     {
       "id": "HOzO6",
-      "communityId": "UDMgC",
+      "communityId": "Qw0Xm",
       "name": "feral cats",
       "tags": {
         "_type": "Tags",
@@ -1162,7 +1109,7 @@
     },
     {
       "id": "QvweM",
-      "communityId": "cV-Kn",
+      "communityId": "kATHn",
       "name": "arg",
       "tags": {
         "_type": "Tags",
@@ -1171,7 +1118,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "LiQVN",
+      "communityId": "cV-Kn",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -1180,7 +1127,7 @@
     },
     {
       "id": "JvqsG",
-      "communityId": "B95dD",
+      "communityId": "UDMgC",
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
@@ -1189,7 +1136,7 @@
     },
     {
       "id": "arNw1",
-      "communityId": "Qw0Xm",
+      "communityId": "B95dD",
       "name": "afergre",
       "tags": {
         "_type": "Tags",
@@ -1207,7 +1154,7 @@
     },
     {
       "id": "oxn07",
-      "communityId": "FRomU",
+      "communityId": "NzLOs",
       "name": "blergh",
       "tags": {
         "_type": "Tags",
@@ -1218,7 +1165,7 @@
     },
     {
       "id": "zj1sr",
-      "communityId": "G_9_r",
+      "communityId": "NzLOs",
       "name": "hey now",
       "tags": {
         "_type": "Tags",
@@ -1240,7 +1187,7 @@
     },
     {
       "id": "wRedp",
-      "communityId": "NVQbL",
+      "communityId": "NzLOs",
       "name": "adfasd",
       "tags": {
         "_type": "Tags",
@@ -1251,7 +1198,7 @@
     },
     {
       "id": "Mqfth",
-      "communityId": "ssnLF",
+      "communityId": "NzLOs",
       "name": "bytes",
       "tags": {
         "_type": "Tags",
@@ -1262,7 +1209,7 @@
     },
     {
       "id": "psJiM",
-      "communityId": "ssnLF",
+      "communityId": "NzLOs",
       "name": "urk87kru",
       "tags": {
         "_type": "Tags",
@@ -1382,7 +1329,7 @@
           "round": 3,
           "societyId": "Feay0",
           "leadershipOverrides": {},
-          "emissaryCommunityId": "NVQbL"
+          "emissaryCommunityId": "ssnLF"
         }
       ]
     },
