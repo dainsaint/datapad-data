@@ -1126,7 +1126,9 @@
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
