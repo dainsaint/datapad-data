@@ -528,7 +528,7 @@
     {
       "id": "G_9_r",
       "societyId": "Feay0",
-      "ambassadorSocietyId": "",
+      "ambassadorSocietyId": "V9xbw",
       "player": "",
       "name": "nana",
       "voice": "people",
@@ -1242,7 +1242,7 @@
     },
     {
       "id": "AwCCh",
-      "communityId": "kATHn",
+      "communityId": "LiQVN",
       "name": "gwgwrtgwrt",
       "tags": {
         "_type": "Tags",
@@ -1345,7 +1345,8 @@
           "round": 2,
           "societyId": "Feay0",
           "leadershipOverrides": {},
-          "ambassadorsSent": []
+          "ambassadorsSent": [],
+          "emissaryCommunityId": "NzLOs"
         },
         {
           "round": 3,
