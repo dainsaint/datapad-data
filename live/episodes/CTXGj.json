@@ -1294,6 +1294,12 @@
           "societyId": "et0k8",
           "emissaryCommunityId": "",
           "leadershipOverrides": {}
+        },
+        {
+          "round": 5,
+          "societyId": "et0k8",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
         }
       ]
     },
