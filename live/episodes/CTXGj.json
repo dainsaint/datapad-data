@@ -826,13 +826,13 @@
     {
       "id": "KnY3K",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 3,
       "duration": 720,
       "timeElapsed": 676.124999999999,
       "actualTime": {
-        "s": "2025-05-26T00:06:55.382+00:00",
-        "e": "2025-05-26T00:06:59.241+00:00",
+        "s": "2025-05-27T19:25:56.598+00:00",
+        "e": "2025-05-27T19:37:56.598+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -3296,6 +3296,13 @@
       "type": "SocietyActionsTaken",
       "description": "Musical Chairs",
       "value": 0
+    },
+    {
+      "id": "AtFGt",
+      "timestamp": "2025-05-27T19:25:56.600Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Galactic Phase",
+      "value": "2025-05-27T19:25:56.599Z"
     }
   ]
 }
