@@ -916,13 +916,13 @@
     {
       "id": "Oa_Yg",
       "type": "Break",
-      "status": "idle",
+      "status": "complete",
       "round": 4,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-17T12:14:53.780+00:00",
-        "e": "2025-05-17T12:14:53.780+00:00",
+        "e": "2025-05-27T21:26:29.825+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -934,13 +934,13 @@
     {
       "id": "vKnt4",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 5,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-10T03:53:00.133+00:00",
+        "e": "2025-05-27T21:28:21.997+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -3478,6 +3478,41 @@
       "type": "PhaseDuration",
       "description": "Round 4: Individual Phase",
       "value": 6.064933333333333
+    },
+    {
+      "id": "q8ER3",
+      "timestamp": "2025-05-27T21:26:29.825Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 0
+    },
+    {
+      "id": "c6bgQ",
+      "timestamp": "2025-05-27T21:26:29.825Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "YScOn",
+      "timestamp": "2025-05-27T21:26:29.825Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "w5g7R",
+      "timestamp": "2025-05-27T21:26:29.825Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "RKDrq",
+      "timestamp": "2025-05-27T21:26:29.825Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
     }
   ]
 }
