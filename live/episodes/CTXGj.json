@@ -952,13 +952,13 @@
     {
       "id": "sJnY3",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 5,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-10T03:53:00.133+00:00",
+        "e": "2025-05-28T00:44:08.248+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1318,6 +1318,12 @@
           "societyId": "V9xbw",
           "leadershipOverrides": {},
           "emissaryCommunityId": "lHvo5"
+        },
+        {
+          "round": 5,
+          "societyId": "V9xbw",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
         }
       ]
     },
@@ -1336,6 +1342,12 @@
           "societyId": "Feay0",
           "leadershipOverrides": {},
           "emissaryCommunityId": "ssnLF"
+        },
+        {
+          "round": 5,
+          "societyId": "Feay0",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
         }
       ]
     },
@@ -1354,6 +1366,12 @@
           "societyId": "e-JcG",
           "leadershipOverrides": {},
           "emissaryCommunityId": ""
+        },
+        {
+          "round": 5,
+          "societyId": "e-JcG",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
         }
       ]
     },
@@ -1371,6 +1389,12 @@
           "round": 3,
           "societyId": "yXHVO",
           "leadershipOverrides": {}
+        },
+        {
+          "round": 5,
+          "societyId": "yXHVO",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
         }
       ]
     }
