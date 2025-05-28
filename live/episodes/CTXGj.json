@@ -486,6 +486,22 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "AdAhv",
+      "round": "3",
+      "societyId": "yXHVO",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -935,7 +951,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 14411.32300000172,
+      "timeElapsed": 14711.336000001722,
       "actualTime": {
         "s": "2025-05-28T15:36:19.218+00:00",
         "e": "2025-05-28T15:48:19.218+00:00",
@@ -953,7 +969,7 @@
       "status": "playing",
       "round": 4,
       "duration": 240,
-      "timeElapsed": 11189.473000001297,
+      "timeElapsed": 11489.4860000013,
       "actualTime": {
         "s": "2025-05-28T16:33:10.602+00:00",
         "e": "2025-05-28T16:37:10.602+00:00",
