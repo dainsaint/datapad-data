@@ -736,11 +736,11 @@
       "type": "Setup/Onboarding",
       "status": "complete",
       "round": 0,
-      "duration": 1200,
-      "timeElapsed": 0,
+      "duration": 1065,
+      "timeElapsed": 28.01900000000001,
       "actualTime": {
-        "s": "2025-05-12T20:52:56.814+00:00",
-        "e": "2025-05-16T15:29:56.330+00:00",
+        "s": "2025-05-28T19:22:46.449+00:00",
+        "e": "2025-05-28T19:23:14.505+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -758,7 +758,7 @@
       "timeElapsed": 174.15800000000033,
       "actualTime": {
         "s": "2025-05-13T23:51:02.029+00:00",
-        "e": "2025-05-16T20:21:21.525+00:00",
+        "e": "2025-05-28T19:23:14.941+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -776,7 +776,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-18T13:45:37.996+00:00",
+        "e": "2025-05-28T19:24:04.329+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -791,10 +791,10 @@
       "status": "complete",
       "round": 1,
       "duration": 720,
-      "timeElapsed": 0,
+      "timeElapsed": 42.023999999999994,
       "actualTime": {
-        "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-18T13:46:34.443+00:00",
+        "s": "2025-05-28T19:23:16.636+00:00",
+        "e": "2025-05-28T19:24:05.025+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -812,7 +812,7 @@
       "timeElapsed": 19.018,
       "actualTime": {
         "s": "2025-05-10T20:26:21.020+00:00",
-        "e": "2025-05-20T21:11:54.442+00:00",
+        "e": "2025-05-28T19:24:05.710+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -830,7 +830,7 @@
       "timeElapsed": 73.05700000000002,
       "actualTime": {
         "s": "2025-05-20T23:35:24.461+00:00",
-        "e": "2025-05-28T15:59:41.038+00:00",
+        "e": "2025-05-28T19:24:06.341+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -848,7 +848,25 @@
       "timeElapsed": 627.3809999999974,
       "actualTime": {
         "s": "2025-05-28T16:04:38.231+00:00",
-        "e": "2025-05-28T16:08:04.852+00:00",
+        "e": "2025-05-28T19:24:06.991+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "VZQ7m",
+      "type": "Break",
+      "status": "complete",
+      "round": 2,
+      "duration": 0,
+      "timeElapsed": 1,
+      "actualTime": {
+        "s": "2025-05-28T16:04:45.244+00:00",
+        "e": "2025-05-28T19:24:07.748+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -876,87 +894,15 @@
       }
     },
     {
-      "id": "VZQ7m",
-      "type": "Break",
-      "status": "idle",
-      "round": 2,
-      "duration": 0,
-      "timeElapsed": 1,
-      "actualTime": {
-        "s": "2025-05-28T16:04:45.244+00:00",
-        "e": "2025-05-28T16:10:00.811+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "tJXlr",
-      "type": "Universal Phase",
-      "status": "playing",
-      "round": 3,
-      "duration": 240,
-      "timeElapsed": 10290.070000001215,
-      "actualTime": {
-        "s": "2025-05-28T16:33:10.602+00:00",
-        "e": "2025-05-28T16:37:10.602+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "mBIUo",
-      "type": "Societal Phase",
-      "status": "idle",
-      "round": 3,
-      "duration": 600,
-      "timeElapsed": 1900.2769999999953,
-      "actualTime": {
-        "s": "2025-04-16T22:14:26.371+00:00",
-        "e": "2025-05-26T00:07:05.892+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "KnY3K",
-      "type": "Galactic Phase",
-      "status": "idle",
-      "round": 3,
-      "duration": 720,
-      "timeElapsed": 676.124999999999,
-      "actualTime": {
-        "s": "2025-05-26T00:06:55.382+00:00",
-        "e": "2025-05-26T00:06:59.241+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
       "id": "vS8v2",
       "type": "Universal Phase",
-      "status": "idle",
-      "round": 4,
+      "status": "complete",
+      "round": 3,
       "duration": 240,
       "timeElapsed": 1,
       "actualTime": {
         "s": "2025-05-10T22:07:51.603+00:00",
-        "e": "2025-05-17T12:14:36.354+00:00",
+        "e": "2025-05-28T19:24:09.602+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -969,7 +915,7 @@
       "id": "MFyrT",
       "type": "Societal Phase",
       "status": "idle",
-      "round": 4,
+      "round": 3,
       "duration": 600,
       "timeElapsed": 477.31299999999766,
       "actualTime": {
@@ -987,12 +933,66 @@
       "id": "dr96n",
       "type": "Galactic Phase",
       "status": "playing",
-      "round": 4,
+      "round": 3,
       "duration": 720,
-      "timeElapsed": 13509.920000001637,
+      "timeElapsed": 13811.104000001675,
       "actualTime": {
         "s": "2025-05-28T15:36:19.218+00:00",
         "e": "2025-05-28T15:48:19.218+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "tJXlr",
+      "type": "Universal Phase",
+      "status": "playing",
+      "round": 4,
+      "duration": 240,
+      "timeElapsed": 10589.253000001252,
+      "actualTime": {
+        "s": "2025-05-28T16:33:10.602+00:00",
+        "e": "2025-05-28T16:37:10.602+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "mBIUo",
+      "type": "Societal Phase",
+      "status": "idle",
+      "round": 4,
+      "duration": 600,
+      "timeElapsed": 1900.2769999999953,
+      "actualTime": {
+        "s": "2025-04-16T22:14:26.371+00:00",
+        "e": "2025-05-26T00:07:05.892+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "KnY3K",
+      "type": "Galactic Phase",
+      "status": "idle",
+      "round": 4,
+      "duration": 720,
+      "timeElapsed": 676.124999999999,
+      "actualTime": {
+        "s": "2025-05-26T00:06:55.382+00:00",
+        "e": "2025-05-26T00:06:59.241+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1390,6 +1390,18 @@
           "leadershipOverrides": {}
         },
         {
+          "round": 0,
+          "societyId": "et0k8",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
+          "round": 1,
+          "societyId": "et0k8",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
           "round": 2,
           "societyId": "et0k8",
           "leadershipOverrides": {},
@@ -1414,6 +1426,18 @@
       },
       "roundData": [
         {
+          "round": 0,
+          "societyId": "V9xbw",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
+          "round": 1,
+          "societyId": "V9xbw",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
           "round": 2,
           "societyId": "V9xbw",
           "leadershipOverrides": {},
@@ -1437,6 +1461,18 @@
         "value": []
       },
       "roundData": [
+        {
+          "round": 0,
+          "societyId": "Feay0",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
+          "round": 1,
+          "societyId": "Feay0",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
         {
           "round": 2,
           "societyId": "Feay0",
@@ -1463,6 +1499,18 @@
       },
       "roundData": [
         {
+          "round": 0,
+          "societyId": "e-JcG",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
+          "round": 1,
+          "societyId": "e-JcG",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
           "round": 2,
           "societyId": "e-JcG",
           "leadershipOverrides": {},
@@ -1486,6 +1534,18 @@
         "value": []
       },
       "roundData": [
+        {
+          "round": 0,
+          "societyId": "yXHVO",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
+          "round": 1,
+          "societyId": "yXHVO",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
         {
           "round": 2,
           "societyId": "yXHVO",
@@ -1511,7 +1571,25 @@
       },
       "roundData": [
         {
+          "round": 0,
+          "societyId": "ONOqG",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
+          "round": 1,
+          "societyId": "ONOqG",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
           "round": 2,
+          "societyId": "ONOqG",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
+        },
+        {
+          "round": 3,
           "societyId": "ONOqG",
           "leadershipOverrides": {},
           "ambassadorsSent": []
@@ -3814,6 +3892,174 @@
       "type": "PhaseDuration",
       "description": "Round 2: Individual Phase",
       "value": 0.03886666666666667
+    },
+    {
+      "id": "w4Q55",
+      "timestamp": "2025-05-28T19:22:46.449Z",
+      "type": "PhaseStarted",
+      "description": "Round 0: Setup/Onboarding",
+      "value": "2025-05-28T19:22:46.449Z"
+    },
+    {
+      "id": "lMn_T",
+      "timestamp": "2025-05-28T19:23:14.505Z",
+      "type": "PhaseEnded",
+      "description": "Round 0: Setup/Onboarding",
+      "value": "2025-05-28T19:23:14.505Z"
+    },
+    {
+      "id": "BcgZh",
+      "timestamp": "2025-05-28T19:23:14.506Z",
+      "type": "PhaseDuration",
+      "description": "Round 0: Setup/Onboarding",
+      "value": 0.4676
+    },
+    {
+      "id": "ESBs1",
+      "timestamp": "2025-05-28T19:23:14.506Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 0
+    },
+    {
+      "id": "vDl98",
+      "timestamp": "2025-05-28T19:23:14.506Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "MQc2n",
+      "timestamp": "2025-05-28T19:23:14.506Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "vazmE",
+      "timestamp": "2025-05-28T19:23:14.506Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "qvfwk",
+      "timestamp": "2025-05-28T19:23:14.506Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
+    },
+    {
+      "id": "xzgLW",
+      "timestamp": "2025-05-28T19:23:14.506Z",
+      "type": "SocietyActionsTaken",
+      "description": "Sibby",
+      "value": 0
+    },
+    {
+      "id": "imawU",
+      "timestamp": "2025-05-28T19:23:16.636Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-05-28T19:23:16.636Z"
+    },
+    {
+      "id": "RynCz",
+      "timestamp": "2025-05-28T19:23:58.655Z",
+      "type": "PhaseEnded",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-05-28T19:23:58.655Z"
+    },
+    {
+      "id": "nwtbE",
+      "timestamp": "2025-05-28T19:23:58.655Z",
+      "type": "PhaseDuration",
+      "description": "Round 1: Galactic Phase",
+      "value": 0.7003166666666667
+    },
+    {
+      "id": "MLBDj",
+      "timestamp": "2025-05-28T19:23:58.655Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 0
+    },
+    {
+      "id": "UcQj8",
+      "timestamp": "2025-05-28T19:23:58.655Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "InM6a",
+      "timestamp": "2025-05-28T19:23:58.655Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "veCWx",
+      "timestamp": "2025-05-28T19:23:58.655Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "U-m5A",
+      "timestamp": "2025-05-28T19:23:58.655Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
+    },
+    {
+      "id": "DFKr0",
+      "timestamp": "2025-05-28T19:23:58.655Z",
+      "type": "SocietyActionsTaken",
+      "description": "Sibby",
+      "value": 0
+    },
+    {
+      "id": "tLLZ0",
+      "timestamp": "2025-05-28T19:24:05.025Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 0
+    },
+    {
+      "id": "KGw9D",
+      "timestamp": "2025-05-28T19:24:05.025Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "BIdsX",
+      "timestamp": "2025-05-28T19:24:05.025Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "ieOMo",
+      "timestamp": "2025-05-28T19:24:05.025Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "xtuas",
+      "timestamp": "2025-05-28T19:24:05.025Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
+    },
+    {
+      "id": "gRhkg",
+      "timestamp": "2025-05-28T19:24:05.025Z",
+      "type": "SocietyActionsTaken",
+      "description": "Sibby",
+      "value": 0
     }
   ]
 }
