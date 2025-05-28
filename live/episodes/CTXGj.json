@@ -954,13 +954,13 @@
     {
       "id": "sJnY3",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 5,
       "duration": 600,
-      "timeElapsed": 477.3259999999985,
+      "timeElapsed": 479.3259999999985,
       "actualTime": {
         "s": "2025-05-28T03:18:19.964+00:00",
-        "e": "2025-05-28T03:28:19.964+00:00",
+        "e": "2025-05-28T03:18:42.001+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -972,13 +972,13 @@
     {
       "id": "C7lmW",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 5,
       "duration": 720,
       "timeElapsed": 1,
       "actualTime": {
         "s": "2025-05-28T00:44:09.626+00:00",
-        "e": "2025-05-28T00:44:11.193+00:00",
+        "e": "2025-05-28T03:18:46.360+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -3785,6 +3785,55 @@
       "type": "PhaseStarted",
       "description": "Round 5: Societal Phase",
       "value": "2025-05-28T03:18:19.964Z"
+    },
+    {
+      "id": "bUTpU",
+      "timestamp": "2025-05-28T03:18:21.866Z",
+      "type": "PhaseEnded",
+      "description": "Round 5: Societal Phase",
+      "value": "2025-05-28T03:18:21.866Z"
+    },
+    {
+      "id": "LZOU-",
+      "timestamp": "2025-05-28T03:18:21.866Z",
+      "type": "PhaseDuration",
+      "description": "Round 5: Societal Phase",
+      "value": 0.0317
+    },
+    {
+      "id": "qEz6D",
+      "timestamp": "2025-05-28T03:18:46.360Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 0
+    },
+    {
+      "id": "BmF8-",
+      "timestamp": "2025-05-28T03:18:46.360Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "x2USY",
+      "timestamp": "2025-05-28T03:18:46.360Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "rqqW9",
+      "timestamp": "2025-05-28T03:18:46.360Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "TSTuz",
+      "timestamp": "2025-05-28T03:18:46.360Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
     }
   ]
 }
