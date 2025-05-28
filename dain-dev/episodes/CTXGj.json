@@ -504,6 +504,8 @@
     {
       "id": "LiQVN",
       "societyId": "et0k8",
+      "ambassadorSocietyId": "",
+      "player": "Jeff",
       "name": "Lapiz",
       "voice": "people",
       "tags": {
@@ -1121,7 +1123,7 @@
     },
     {
       "id": "QvweM",
-      "communityId": "cV-Kn",
+      "communityId": "UDMgC",
       "name": "arg",
       "tags": {
         "_type": "Tags",
@@ -1130,7 +1132,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "cV-Kn",
+      "communityId": "UDMgC",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -1139,7 +1141,7 @@
     },
     {
       "id": "JvqsG",
-      "communityId": "B95dD",
+      "communityId": "UDMgC",
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
@@ -1148,7 +1150,7 @@
     },
     {
       "id": "arNw1",
-      "communityId": "Qw0Xm",
+      "communityId": "UDMgC",
       "name": "afergre",
       "tags": {
         "_type": "Tags",
@@ -1157,7 +1159,7 @@
     },
     {
       "id": "BqPmG",
-      "communityId": "LiQVN",
+      "communityId": "UDMgC",
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
@@ -1250,7 +1252,7 @@
     },
     {
       "id": "AwCCh",
-      "communityId": "LiQVN",
+      "communityId": "UDMgC",
       "name": "gwgwrtgwrt",
       "tags": {
         "_type": "Tags",
