@@ -1026,7 +1026,7 @@
     {
       "id": "eTVTw",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 6,
       "duration": 720,
       "timeElapsed": 0,
@@ -1047,10 +1047,10 @@
       "status": "playing",
       "round": 6,
       "duration": 900,
-      "timeElapsed": 791.3589999999942,
+      "timeElapsed": 1080.5709999999892,
       "actualTime": {
-        "s": "2025-05-28T00:45:58.170+00:00",
-        "e": "2025-05-28T01:00:58.170+00:00",
+        "s": "2025-05-28T01:01:05.327+00:00",
+        "e": "2025-05-28T01:16:05.327+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1062,13 +1062,13 @@
     {
       "id": "YTkJJ",
       "type": "Conclusion",
-      "status": "idle",
+      "status": "playing",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 191.16000000000034,
       "actualTime": {
-        "s": "2025-05-10T16:06:55.646+00:00",
-        "e": "2025-05-10T16:06:55.646+00:00",
+        "s": "2025-05-28T01:00:56.865+00:00",
+        "e": "2025-05-28T01:10:56.865+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -3673,6 +3673,34 @@
       "type": "PhaseStarted",
       "description": "Round 6: Generational Phase",
       "value": "2025-05-28T00:45:58.170Z"
+    },
+    {
+      "id": "ibN0r",
+      "timestamp": "2025-05-28T01:00:53.996Z",
+      "type": "PhaseEnded",
+      "description": "Round 6: Generational Phase",
+      "value": "2025-05-28T01:00:53.996Z"
+    },
+    {
+      "id": "m_cn5",
+      "timestamp": "2025-05-28T01:00:53.997Z",
+      "type": "PhaseDuration",
+      "description": "Round 6: Generational Phase",
+      "value": 14.930433333333333
+    },
+    {
+      "id": "ZFXTI",
+      "timestamp": "2025-05-28T01:00:56.865Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Conclusion",
+      "value": "2025-05-28T01:00:56.865Z"
+    },
+    {
+      "id": "vOIml",
+      "timestamp": "2025-05-28T01:01:05.327Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Generational Phase",
+      "value": "2025-05-28T01:01:05.327Z"
     }
   ]
 }
