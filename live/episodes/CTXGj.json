@@ -930,13 +930,13 @@
     {
       "id": "MFyrT",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 3,
       "duration": 600,
       "timeElapsed": 477.31299999999766,
       "actualTime": {
         "s": "2025-04-20T19:28:15.501+00:00",
-        "e": "2025-05-10T17:48:47.649+00:00",
+        "e": "2025-05-28T20:14:54.006+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -948,10 +948,10 @@
     {
       "id": "dr96n",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 16512.199000001896,
+      "timeElapsed": 16753.31400000192,
       "actualTime": {
         "s": "2025-05-28T15:36:19.218+00:00",
         "e": "2025-05-28T15:48:19.218+00:00",
@@ -969,7 +969,7 @@
       "status": "playing",
       "round": 4,
       "duration": 240,
-      "timeElapsed": 13290.348000001473,
+      "timeElapsed": 13591.466000001497,
       "actualTime": {
         "s": "2025-05-28T16:33:10.602+00:00",
         "e": "2025-05-28T16:37:10.602+00:00",
