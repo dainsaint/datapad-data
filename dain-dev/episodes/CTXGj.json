@@ -472,7 +472,9 @@
     {
       "id": "UDMgC",
       "societyId": "et0k8",
-      "name": "Bobby",
+      "ambassadorSocietyId": "",
+      "player": "Bobby",
+      "name": "Jeffrey Bezos",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -483,7 +485,8 @@
       "id": "B95dD",
       "societyId": "et0k8",
       "ambassadorSocietyId": "",
-      "name": "Jason",
+      "player": "Jason",
+      "name": "Dirty Harries",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -494,7 +497,8 @@
       "id": "cV-Kn",
       "societyId": "et0k8",
       "ambassadorSocietyId": "",
-      "name": "Fredrick",
+      "player": "Fredrick",
+      "name": "Elders",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -506,7 +510,7 @@
       "societyId": "et0k8",
       "ambassadorSocietyId": "",
       "player": "Jeff",
-      "name": "Lapiz",
+      "name": "Pencils Down",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1103,7 +1107,7 @@
     },
     {
       "id": "HOzO6",
-      "communityId": "UDMgC",
+      "communityId": "LiQVN",
       "name": "feral cats",
       "tags": {
         "_type": "Tags",
@@ -1123,7 +1127,7 @@
     },
     {
       "id": "QvweM",
-      "communityId": "UDMgC",
+      "communityId": "cV-Kn",
       "name": "arg",
       "tags": {
         "_type": "Tags",
@@ -1132,7 +1136,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "UDMgC",
+      "communityId": "kATHn",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -1141,7 +1145,7 @@
     },
     {
       "id": "JvqsG",
-      "communityId": "UDMgC",
+      "communityId": "Qw0Xm",
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
@@ -1150,7 +1154,7 @@
     },
     {
       "id": "arNw1",
-      "communityId": "UDMgC",
+      "communityId": "B95dD",
       "name": "afergre",
       "tags": {
         "_type": "Tags",
@@ -1159,7 +1163,7 @@
     },
     {
       "id": "BqPmG",
-      "communityId": "UDMgC",
+      "communityId": "kATHn",
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
@@ -1243,7 +1247,7 @@
     },
     {
       "id": "vi3Gq",
-      "communityId": "UDMgC",
+      "communityId": "R9tmF",
       "name": "wgrtgrtgw",
       "tags": {
         "_type": "Tags",
