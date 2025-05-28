@@ -26,7 +26,7 @@
       "disadvantage": "Dis 0",
       "result": [],
       "voteTime": "2025-05-23T15:28:12.818-04:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -324,13 +324,21 @@
       "id": "B_pLW",
       "round": "2",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
+      "resourceIds": [
+        "JvqsG",
+        "HOzO6"
+      ],
+      "texts": [
+        "fsggsdgre",
+        "dsgsrrae",
+        ""
+      ],
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
       "result": [],
-      "status": "open",
+      "voteTime": "2025-05-28T10:31:53.179-04:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
