@@ -1096,28 +1096,10 @@
       }
     },
     {
-      "id": "DB7i0",
-      "type": "Universal Phase",
-      "status": "idle",
-      "round": 7,
-      "duration": 240,
-      "timeElapsed": 0,
-      "actualTime": {
-        "s": "2025-05-28T16:07:37.244-04:00",
-        "e": "2025-05-28T16:07:37.244-04:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
       "id": "xJbTW",
       "type": "Societal Phase",
       "status": "idle",
-      "round": 7,
+      "round": 6,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
@@ -1135,12 +1117,66 @@
       "id": "IwpYJ",
       "type": "Galactic Phase",
       "status": "idle",
-      "round": 7,
+      "round": 6,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-28T16:07:37.244-04:00",
         "e": "2025-05-28T16:07:37.244-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "L2bOi",
+      "type": "Universal Phase",
+      "status": "idle",
+      "round": 7,
+      "duration": 240,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-28T16:07:38.836-04:00",
+        "e": "2025-05-28T16:07:38.836-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "xAnd1",
+      "type": "Societal Phase",
+      "status": "idle",
+      "round": 7,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-28T16:07:38.837-04:00",
+        "e": "2025-05-28T16:07:38.837-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "RKJyW",
+      "type": "Galactic Phase",
+      "status": "idle",
+      "round": 7,
+      "duration": 720,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-28T16:07:38.837-04:00",
+        "e": "2025-05-28T16:07:38.837-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
