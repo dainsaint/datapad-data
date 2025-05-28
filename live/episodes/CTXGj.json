@@ -969,7 +969,7 @@
       "status": "playing",
       "round": 4,
       "duration": 240,
-      "timeElapsed": 13591.466000001497,
+      "timeElapsed": 13891.569000001518,
       "actualTime": {
         "s": "2025-05-28T16:33:10.602+00:00",
         "e": "2025-05-28T16:37:10.602+00:00",
@@ -1573,42 +1573,6 @@
           "round": 3,
           "societyId": "yXHVO",
           "leadershipOverrides": {}
-        }
-      ]
-    },
-    {
-      "id": "ONOqG",
-      "name": "Sibby",
-      "archetype": "the intrepid",
-      "color": "color-deep-orange",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      },
-      "roundData": [
-        {
-          "round": 0,
-          "societyId": "ONOqG",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
-        },
-        {
-          "round": 1,
-          "societyId": "ONOqG",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
-        },
-        {
-          "round": 2,
-          "societyId": "ONOqG",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
-        },
-        {
-          "round": 3,
-          "societyId": "ONOqG",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
         }
       ]
     }
