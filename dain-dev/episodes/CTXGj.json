@@ -1138,7 +1138,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "kATHn",
+      "communityId": "R9tmF",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -1249,7 +1249,7 @@
     },
     {
       "id": "vi3Gq",
-      "communityId": "R9tmF",
+      "communityId": "cV-Kn",
       "name": "wgrtgrtgw",
       "tags": {
         "_type": "Tags",
@@ -1313,7 +1313,8 @@
           "round": 2,
           "societyId": "et0k8",
           "leadershipOverrides": {},
-          "ambassadorsSent": []
+          "ambassadorsSent": [],
+          "emissaryCommunityId": "B95dD"
         },
         {
           "round": 3,
