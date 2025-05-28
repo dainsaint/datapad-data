@@ -954,13 +954,13 @@
     {
       "id": "sJnY3",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "playing",
       "round": 5,
       "duration": 600,
       "timeElapsed": 477.3259999999985,
       "actualTime": {
-        "s": "2025-05-28T01:39:44.259+00:00",
-        "e": "2025-05-28T01:49:44.259+00:00",
+        "s": "2025-05-28T03:18:19.964+00:00",
+        "e": "2025-05-28T03:28:19.964+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -3778,6 +3778,13 @@
       "type": "PhaseStarted",
       "description": "Round 5: Societal Phase",
       "value": "2025-05-28T01:39:44.259Z"
+    },
+    {
+      "id": "aaYAx",
+      "timestamp": "2025-05-28T03:18:19.964Z",
+      "type": "PhaseStarted",
+      "description": "Round 5: Societal Phase",
+      "value": "2025-05-28T03:18:19.964Z"
     }
   ]
 }
