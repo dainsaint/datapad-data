@@ -850,7 +850,7 @@
       "timeElapsed": 1,
       "actualTime": {
         "s": "2025-05-10T22:07:51.603+00:00",
-        "e": "2025-05-28T15:00:25.462+00:00",
+        "e": "2025-05-28T15:16:51.950+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -868,7 +868,7 @@
       "timeElapsed": 491.32199999999744,
       "actualTime": {
         "s": "2025-05-28T15:00:17.561+00:00",
-        "e": "2025-05-28T15:00:27.628+00:00",
+        "e": "2025-05-28T15:16:54.182+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -880,13 +880,13 @@
     {
       "id": "dr96n",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 4,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-28T15:15:48.956+00:00",
+        "e": "2025-05-28T15:17:07.576+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -904,7 +904,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T16:06:16.286+00:00",
-        "e": "2025-05-10T17:49:04.987+00:00",
+        "e": "2025-05-28T15:17:12.827+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1294,6 +1294,12 @@
           "societyId": "et0k8",
           "emissaryCommunityId": "",
           "leadershipOverrides": {}
+        },
+        {
+          "round": 4,
+          "societyId": "et0k8",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
         }
       ]
     },
@@ -1312,6 +1318,12 @@
           "societyId": "V9xbw",
           "leadershipOverrides": {},
           "emissaryCommunityId": "lHvo5"
+        },
+        {
+          "round": 4,
+          "societyId": "V9xbw",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
         }
       ]
     },
@@ -1330,6 +1342,12 @@
           "societyId": "Feay0",
           "leadershipOverrides": {},
           "emissaryCommunityId": "ssnLF"
+        },
+        {
+          "round": 4,
+          "societyId": "Feay0",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
         }
       ]
     },
@@ -1348,6 +1366,12 @@
           "societyId": "e-JcG",
           "leadershipOverrides": {},
           "emissaryCommunityId": ""
+        },
+        {
+          "round": 4,
+          "societyId": "e-JcG",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
         }
       ]
     },
@@ -1365,6 +1389,12 @@
           "round": 3,
           "societyId": "yXHVO",
           "leadershipOverrides": {}
+        },
+        {
+          "round": 4,
+          "societyId": "yXHVO",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
         }
       ]
     }
