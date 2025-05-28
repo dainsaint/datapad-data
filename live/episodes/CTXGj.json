@@ -753,10 +753,10 @@
       "status": "idle",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 623.3799999999974,
+      "timeElapsed": 627.3809999999974,
       "actualTime": {
-        "s": "2025-05-28T15:39:29.045+00:00",
-        "e": "2025-05-28T16:00:55.901+00:00",
+        "s": "2025-05-28T16:04:38.231+00:00",
+        "e": "2025-05-28T16:04:41.850+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -771,10 +771,10 @@
       "status": "idle",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 1,
+      "timeElapsed": 24.006,
       "actualTime": {
-        "s": "2025-05-28T15:36:28.109+00:00",
-        "e": "2025-05-28T15:50:57.128+00:00",
+        "s": "2025-05-28T16:04:19.905+00:00",
+        "e": "2025-05-28T16:04:43.099+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -789,10 +789,10 @@
       "status": "idle",
       "round": 2,
       "duration": 0,
-      "timeElapsed": 0,
+      "timeElapsed": 1,
       "actualTime": {
-        "s": "2025-05-12T19:38:12.770+00:00",
-        "e": "2025-05-28T15:36:35.675+00:00",
+        "s": "2025-05-28T16:04:45.244+00:00",
+        "e": "2025-05-28T16:04:45.934+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -810,7 +810,7 @@
       "timeElapsed": 190.16100000000026,
       "actualTime": {
         "s": "2025-05-28T15:37:14.486+00:00",
-        "e": "2025-05-28T15:37:16.089+00:00",
+        "e": "2025-05-28T16:05:14.861+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -897,7 +897,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 1501.616999999991,
+      "timeElapsed": 1801.6989999999892,
       "actualTime": {
         "s": "2025-05-28T15:36:19.218+00:00",
         "e": "2025-05-28T15:48:19.218+00:00",
@@ -3476,6 +3476,125 @@
       "type": "PhaseDuration",
       "description": "Round 2: Galactic Phase",
       "value": 10.241516666666667
+    },
+    {
+      "id": "Xvf4P",
+      "timestamp": "2025-05-28T16:04:19.905Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Individual Phase",
+      "value": "2025-05-28T16:04:19.905Z"
+    },
+    {
+      "id": "p3hhY",
+      "timestamp": "2025-05-28T16:04:38.231Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Galactic Phase",
+      "value": "2025-05-28T16:04:38.231Z"
+    },
+    {
+      "id": "HJp4v",
+      "timestamp": "2025-05-28T16:04:41.850Z",
+      "type": "PhaseEnded",
+      "description": "Round 2: Galactic Phase",
+      "value": "2025-05-28T16:04:41.850Z"
+    },
+    {
+      "id": "Bvd1Z",
+      "timestamp": "2025-05-28T16:04:41.851Z",
+      "type": "PhaseDuration",
+      "description": "Round 2: Galactic Phase",
+      "value": 0.060316666666666664
+    },
+    {
+      "id": "Xv8WJ",
+      "timestamp": "2025-05-28T16:04:43.099Z",
+      "type": "PhaseEnded",
+      "description": "Round 2: Individual Phase",
+      "value": "2025-05-28T16:04:43.099Z"
+    },
+    {
+      "id": "IKPzF",
+      "timestamp": "2025-05-28T16:04:43.099Z",
+      "type": "PhaseDuration",
+      "description": "Round 2: Individual Phase",
+      "value": 0.38656666666666667
+    },
+    {
+      "id": "m7pBv",
+      "timestamp": "2025-05-28T16:04:45.245Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Break",
+      "value": "2025-05-28T16:04:45.245Z"
+    },
+    {
+      "id": "d6toj",
+      "timestamp": "2025-05-28T16:04:45.934Z",
+      "type": "PhaseEnded",
+      "description": "Round 2: Break",
+      "value": "2025-05-28T16:04:45.934Z"
+    },
+    {
+      "id": "vUqy0",
+      "timestamp": "2025-05-28T16:04:45.934Z",
+      "type": "PhaseDuration",
+      "description": "Round 2: Break",
+      "value": 0.0115
+    },
+    {
+      "id": "xza8c",
+      "timestamp": "2025-05-28T16:04:45.935Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "pHpkO",
+      "timestamp": "2025-05-28T16:04:45.935Z",
+      "type": "ActionResources",
+      "description": "Frog house used righteous anger,feral cats to take action.",
+      "value": 2
+    },
+    {
+      "id": "r89oh",
+      "timestamp": "2025-05-28T16:04:45.935Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "n_UFP",
+      "timestamp": "2025-05-28T16:04:45.935Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 1
+    },
+    {
+      "id": "B7TZj",
+      "timestamp": "2025-05-28T16:04:45.935Z",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used gwgwrtgwrt,new to take action.",
+      "value": 2
+    },
+    {
+      "id": "TAjE4",
+      "timestamp": "2025-05-28T16:04:45.935Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "pRwEJ",
+      "timestamp": "2025-05-28T16:04:45.935Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 1
+    },
+    {
+      "id": "YCl3E",
+      "timestamp": "2025-05-28T16:04:45.935Z",
+      "type": "ActionResources",
+      "description": "Musical Chairs used  to take action.",
+      "value": 0
     }
   ]
 }
