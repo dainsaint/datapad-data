@@ -1094,6 +1094,60 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "DB7i0",
+      "type": "Universal Phase",
+      "status": "idle",
+      "round": 7,
+      "duration": 240,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-28T16:07:37.244-04:00",
+        "e": "2025-05-28T16:07:37.244-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "xJbTW",
+      "type": "Societal Phase",
+      "status": "idle",
+      "round": 7,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-28T16:07:37.244-04:00",
+        "e": "2025-05-28T16:07:37.244-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "IwpYJ",
+      "type": "Galactic Phase",
+      "status": "idle",
+      "round": 7,
+      "duration": 720,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-28T16:07:37.244-04:00",
+        "e": "2025-05-28T16:07:37.244-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "players": [],
