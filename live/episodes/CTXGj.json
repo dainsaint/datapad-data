@@ -732,13 +732,13 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 660,
       "timeElapsed": 73.05700000000002,
       "actualTime": {
         "s": "2025-05-20T23:35:24.461+00:00",
-        "e": "2025-05-28T15:39:32.597+00:00",
+        "e": "2025-05-28T15:59:41.038+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -756,7 +756,7 @@
       "timeElapsed": 623.3799999999974,
       "actualTime": {
         "s": "2025-05-28T15:39:29.045+00:00",
-        "e": "2025-05-28T15:50:52.659+00:00",
+        "e": "2025-05-28T16:00:55.901+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -897,7 +897,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 1201.5369999999928,
+      "timeElapsed": 1501.616999999991,
       "actualTime": {
         "s": "2025-05-28T15:36:19.218+00:00",
         "e": "2025-05-28T15:48:19.218+00:00",
