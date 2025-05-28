@@ -462,6 +462,25 @@
       ],
       "result": [],
       "voteTime": "2025-05-28T19:16:07.585+00:00",
+      "status": "invalid",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "II0iK",
+      "round": "2",
+      "societyId": "Feay0",
+      "resourceIds": [
+        "h463E"
+      ],
+      "texts": [
+        "bew",
+        ""
+      ],
+      "result": [],
+      "voteTime": "2025-05-28T19:16:51.511+00:00",
       "status": "voted",
       "tags": {
         "_type": "Tags",
@@ -686,6 +705,29 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "PIBFt",
+      "societyId": "yXHVO",
+      "player": "me",
+      "name": "hi",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "SEm5M",
+      "societyId": "yXHVO",
+      "ambassadorSocietyId": "",
+      "player": "",
+      "name": "ok",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -818,13 +860,13 @@
     {
       "id": "iFRIY",
       "type": "Individual Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 29.013,
+      "timeElapsed": 31.015000000000004,
       "actualTime": {
-        "s": "2025-05-28T19:09:05.416+00:00",
-        "e": "2025-05-28T19:19:05.416+00:00",
+        "s": "2025-05-28T19:20:31.073+00:00",
+        "e": "2025-05-28T19:20:33.405+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -857,7 +899,7 @@
       "status": "playing",
       "round": 3,
       "duration": 240,
-      "timeElapsed": 9989.937000001188,
+      "timeElapsed": 10290.070000001215,
       "actualTime": {
         "s": "2025-05-28T16:33:10.602+00:00",
         "e": "2025-05-28T16:37:10.602+00:00",
@@ -947,28 +989,10 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 13209.78600000161,
+      "timeElapsed": 13509.920000001637,
       "actualTime": {
         "s": "2025-05-28T15:36:19.218+00:00",
         "e": "2025-05-28T15:48:19.218+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "Z6ovG",
-      "type": "Individual Phase",
-      "status": "idle",
-      "round": 4,
-      "duration": 480,
-      "timeElapsed": 0,
-      "actualTime": {
-        "s": "2025-05-10T16:06:16.286+00:00",
-        "e": "2025-05-10T17:49:04.987+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1311,6 +1335,17 @@
           "exhausted"
         ]
       }
+    },
+    {
+      "id": "KE7q4",
+      "communityId": "PIBFt",
+      "name": "toads",
+      "tags": {
+        "_type": "Tags",
+        "value": [
+          "exhausted"
+        ]
+      }
     }
   ],
   "societies": [
@@ -1455,7 +1490,8 @@
           "round": 2,
           "societyId": "yXHVO",
           "leadershipOverrides": {},
-          "ambassadorsSent": []
+          "ambassadorsSent": [],
+          "emissaryCommunityId": "jaCtF"
         },
         {
           "round": 3,
@@ -3751,6 +3787,33 @@
       "timestamp": "2025-05-28T19:11:19.810Z",
       "type": "ResourceCreated",
       "value": "Hello"
+    },
+    {
+      "id": "Qkib5",
+      "timestamp": "2025-05-28T19:19:02.729Z",
+      "type": "ResourceCreated",
+      "value": "toads"
+    },
+    {
+      "id": "s4ZQB",
+      "timestamp": "2025-05-28T19:20:31.073Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Individual Phase",
+      "value": "2025-05-28T19:20:31.073Z"
+    },
+    {
+      "id": "il_2i",
+      "timestamp": "2025-05-28T19:20:33.405Z",
+      "type": "PhaseEnded",
+      "description": "Round 2: Individual Phase",
+      "value": "2025-05-28T19:20:33.405Z"
+    },
+    {
+      "id": "wivOR",
+      "timestamp": "2025-05-28T19:20:33.405Z",
+      "type": "PhaseDuration",
+      "description": "Round 2: Individual Phase",
+      "value": 0.03886666666666667
     }
   ]
 }
