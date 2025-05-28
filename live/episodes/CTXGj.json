@@ -338,7 +338,7 @@
       "disadvantage": 0,
       "result": [],
       "voteTime": "2025-05-28T14:31:53.179+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -404,7 +404,7 @@
       "disadvantage": "0",
       "result": [],
       "voteTime": "2025-05-23T22:05:30.161+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -425,6 +425,44 @@
       "disadvantage": "0",
       "result": [],
       "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "PJu6m",
+      "round": "2",
+      "societyId": "et0k8",
+      "resourceIds": [
+        "QvweM"
+      ],
+      "texts": [
+        "test test",
+        ""
+      ],
+      "result": [],
+      "voteTime": "2025-05-28T19:12:24.827+00:00",
+      "status": "voted",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "IJJCb",
+      "round": "2",
+      "societyId": "Feay0",
+      "resourceIds": [
+        "FADd2"
+      ],
+      "texts": [
+        "hi",
+        ""
+      ],
+      "result": [],
+      "voteTime": "2025-05-28T19:16:07.585+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -577,7 +615,7 @@
       "id": "NzLOs",
       "societyId": "Feay0",
       "ambassadorSocietyId": "",
-      "player": "",
+      "player": "Hi",
       "name": "dada",
       "voice": "leader",
       "tags": {
@@ -640,9 +678,10 @@
     {
       "id": "g-uC_",
       "societyId": "et0k8",
+      "ambassadorSocietyId": "",
       "player": "Person (they/them)",
       "name": "Test",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -818,7 +857,7 @@
       "status": "playing",
       "round": 3,
       "duration": 240,
-      "timeElapsed": 9689.823000001164,
+      "timeElapsed": 9989.937000001188,
       "actualTime": {
         "s": "2025-05-28T16:33:10.602+00:00",
         "e": "2025-05-28T16:37:10.602+00:00",
@@ -908,7 +947,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 12909.672000001587,
+      "timeElapsed": 13209.78600000161,
       "actualTime": {
         "s": "2025-05-28T15:36:19.218+00:00",
         "e": "2025-05-28T15:48:19.218+00:00",
@@ -1208,9 +1247,7 @@
       "name": "new",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1273,15 +1310,6 @@
         "value": [
           "exhausted"
         ]
-      }
-    },
-    {
-      "id": "IqEAN",
-      "communityId": "g-uC_",
-      "name": "Hello",
-      "tags": {
-        "_type": "Tags",
-        "value": []
       }
     }
   ],
@@ -1433,6 +1461,24 @@
           "round": 3,
           "societyId": "yXHVO",
           "leadershipOverrides": {}
+        }
+      ]
+    },
+    {
+      "id": "ONOqG",
+      "name": "Sibby",
+      "archetype": "the intrepid",
+      "color": "color-deep-orange",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      },
+      "roundData": [
+        {
+          "round": 2,
+          "societyId": "ONOqG",
+          "leadershipOverrides": {},
+          "ambassadorsSent": []
         }
       ]
     }
