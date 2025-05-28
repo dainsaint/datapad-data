@@ -1026,13 +1026,13 @@
     {
       "id": "eTVTw",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 6,
       "duration": 720,
-      "timeElapsed": 0,
+      "timeElapsed": 0.999,
       "actualTime": {
-        "s": "2025-05-12T21:35:21.813+00:00",
-        "e": "2025-05-28T00:45:55.061+00:00",
+        "s": "2025-05-28T01:08:27.600+00:00",
+        "e": "2025-05-28T01:08:29.032+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1044,13 +1044,13 @@
     {
       "id": "lyb7N",
       "type": "Generational Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 6,
       "duration": 900,
-      "timeElapsed": 1080.5709999999892,
+      "timeElapsed": 1347.7229999999856,
       "actualTime": {
         "s": "2025-05-28T01:01:05.327+00:00",
-        "e": "2025-05-28T01:16:05.327+00:00",
+        "e": "2025-05-28T01:08:36.154+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1065,7 +1065,7 @@
       "status": "playing",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 191.16000000000034,
+      "timeElapsed": 492.3189999999993,
       "actualTime": {
         "s": "2025-05-28T01:00:56.865+00:00",
         "e": "2025-05-28T01:10:56.865+00:00",
@@ -3701,6 +3701,41 @@
       "type": "PhaseStarted",
       "description": "Round 6: Generational Phase",
       "value": "2025-05-28T01:01:05.327Z"
+    },
+    {
+      "id": "YtaeU",
+      "timestamp": "2025-05-28T01:08:27.600Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Galactic Phase",
+      "value": "2025-05-28T01:08:27.600Z"
+    },
+    {
+      "id": "cW77F",
+      "timestamp": "2025-05-28T01:08:29.032Z",
+      "type": "PhaseEnded",
+      "description": "Round 6: Galactic Phase",
+      "value": "2025-05-28T01:08:29.032Z"
+    },
+    {
+      "id": "OtbXT",
+      "timestamp": "2025-05-28T01:08:29.032Z",
+      "type": "PhaseDuration",
+      "description": "Round 6: Galactic Phase",
+      "value": 0.023866666666666668
+    },
+    {
+      "id": "jwPP2",
+      "timestamp": "2025-05-28T01:08:36.154Z",
+      "type": "PhaseEnded",
+      "description": "Round 6: Generational Phase",
+      "value": "2025-05-28T01:08:36.154Z"
+    },
+    {
+      "id": "BYi4E",
+      "timestamp": "2025-05-28T01:08:36.154Z",
+      "type": "PhaseDuration",
+      "description": "Round 6: Generational Phase",
+      "value": 7.5137833333333335
     }
   ]
 }
