@@ -594,6 +594,8 @@
     {
       "id": "NVQbL",
       "societyId": "Feay0",
+      "ambassadorSocietyId": "",
+      "player": "",
       "name": "popo",
       "voice": "people",
       "tags": {
@@ -1118,7 +1120,7 @@
     },
     {
       "id": "FADd2",
-      "communityId": "lHvo5",
+      "communityId": "NVQbL",
       "name": "lillypadz",
       "tags": {
         "_type": "Tags",
@@ -1172,7 +1174,7 @@
     },
     {
       "id": "oxn07",
-      "communityId": "NzLOs",
+      "communityId": "lHvo5",
       "name": "blergh",
       "tags": {
         "_type": "Tags",
@@ -1216,7 +1218,7 @@
     },
     {
       "id": "Mqfth",
-      "communityId": "NVQbL",
+      "communityId": "lHvo5",
       "name": "bytes",
       "tags": {
         "_type": "Tags",
