@@ -508,7 +508,7 @@
     {
       "id": "LiQVN",
       "societyId": "et0k8",
-      "ambassadorSocietyId": "yXHVO",
+      "ambassadorSocietyId": "",
       "player": "Jeff",
       "name": "Pencils Down",
       "voice": "people",
@@ -542,7 +542,7 @@
     {
       "id": "G_9_r",
       "societyId": "Feay0",
-      "ambassadorSocietyId": "V9xbw",
+      "ambassadorSocietyId": "",
       "player": "",
       "name": "nana",
       "voice": "people",
@@ -1419,6 +1419,17 @@
           "leadershipOverrides": {}
         }
       ]
+    }
+  ],
+  "turns": [
+    {
+      "id": "owUPw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadorCommunityIds": [],
+      "ambassadorSocietyIds": [],
+      "alterLeadership": {}
     }
   ],
   "documentIds": [
