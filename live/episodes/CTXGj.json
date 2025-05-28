@@ -1026,13 +1026,13 @@
     {
       "id": "eTVTw",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "playing",
       "round": 6,
       "duration": 720,
-      "timeElapsed": 0.999,
+      "timeElapsed": 273.2350000000006,
       "actualTime": {
-        "s": "2025-05-28T01:08:27.600+00:00",
-        "e": "2025-05-28T01:08:29.032+00:00",
+        "s": "2025-05-28T01:09:38.054+00:00",
+        "e": "2025-05-28T01:21:38.054+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1044,13 +1044,13 @@
     {
       "id": "lyb7N",
       "type": "Generational Phase",
-      "status": "complete",
+      "status": "playing",
       "round": 6,
       "duration": 900,
-      "timeElapsed": 1347.7229999999856,
+      "timeElapsed": 1620.95799999998,
       "actualTime": {
-        "s": "2025-05-28T01:01:05.327+00:00",
-        "e": "2025-05-28T01:08:36.154+00:00",
+        "s": "2025-05-28T01:09:35.517+00:00",
+        "e": "2025-05-28T01:24:35.517+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1062,10 +1062,10 @@
     {
       "id": "YTkJJ",
       "type": "Conclusion",
-      "status": "playing",
+      "status": "paused",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 492.3189999999993,
+      "timeElapsed": 515.3209999999992,
       "actualTime": {
         "s": "2025-05-28T01:00:56.865+00:00",
         "e": "2025-05-28T01:10:56.865+00:00",
@@ -3736,6 +3736,20 @@
       "type": "PhaseDuration",
       "description": "Round 6: Generational Phase",
       "value": 7.5137833333333335
+    },
+    {
+      "id": "V7h45",
+      "timestamp": "2025-05-28T01:09:35.517Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Generational Phase",
+      "value": "2025-05-28T01:09:35.517Z"
+    },
+    {
+      "id": "BA2mR",
+      "timestamp": "2025-05-28T01:09:38.054Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Galactic Phase",
+      "value": "2025-05-28T01:09:38.054Z"
     }
   ]
 }
