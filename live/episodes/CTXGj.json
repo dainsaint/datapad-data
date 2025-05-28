@@ -514,9 +514,7 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -548,9 +546,7 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -562,9 +558,7 @@
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -600,9 +594,7 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -640,7 +632,9 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     }
   ],
@@ -744,7 +738,7 @@
       "timeElapsed": 73.05700000000002,
       "actualTime": {
         "s": "2025-05-20T23:35:24.461+00:00",
-        "e": "2025-05-23T21:10:29.526+00:00",
+        "e": "2025-05-28T15:39:32.597+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -756,13 +750,13 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "playing",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 9.009999999999998,
+      "timeElapsed": 120.08800000000014,
       "actualTime": {
-        "s": "2025-05-20T21:13:18.473+00:00",
-        "e": "2025-05-23T21:10:30.048+00:00",
+        "s": "2025-05-28T15:39:29.045+00:00",
+        "e": "2025-05-28T15:51:29.045+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -777,10 +771,10 @@
       "status": "idle",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 1,
       "actualTime": {
-        "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-23T22:07:41.423+00:00",
+        "s": "2025-05-28T15:36:28.109+00:00",
+        "e": "2025-05-28T15:36:29.116+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -798,7 +792,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-12T19:38:12.770+00:00",
-        "e": "2025-05-24T03:30:03.746+00:00",
+        "e": "2025-05-28T15:36:35.675+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -813,10 +807,10 @@
       "status": "idle",
       "round": 3,
       "duration": 240,
-      "timeElapsed": 188.16100000000026,
+      "timeElapsed": 190.16100000000026,
       "actualTime": {
-        "s": "2025-05-24T03:26:28.659+00:00",
-        "e": "2025-05-26T00:07:03.242+00:00",
+        "s": "2025-05-28T15:37:14.486+00:00",
+        "e": "2025-05-28T15:37:16.089+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -903,7 +897,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 0,
+      "timeElapsed": 300.17299999999983,
       "actualTime": {
         "s": "2025-05-28T15:36:19.218+00:00",
         "e": "2025-05-28T15:48:19.218+00:00",
@@ -1114,7 +1108,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "vital"
+          "vital",
+          "exhausted"
         ]
       }
     },
@@ -1151,7 +1146,9 @@
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -3353,6 +3350,118 @@
       "type": "PhaseStarted",
       "description": "Round 4: Galactic Phase",
       "value": "2025-05-28T15:36:19.218Z"
+    },
+    {
+      "id": "vm4lj",
+      "timestamp": "2025-05-28T15:36:28.110Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Individual Phase",
+      "value": "2025-05-28T15:36:28.110Z"
+    },
+    {
+      "id": "jiAMm",
+      "timestamp": "2025-05-28T15:36:29.116Z",
+      "type": "PhaseEnded",
+      "description": "Round 2: Individual Phase",
+      "value": "2025-05-28T15:36:29.116Z"
+    },
+    {
+      "id": "kJh8f",
+      "timestamp": "2025-05-28T15:36:29.116Z",
+      "type": "PhaseDuration",
+      "description": "Round 2: Individual Phase",
+      "value": 0.016783333333333334
+    },
+    {
+      "id": "Gd-4B",
+      "timestamp": "2025-05-28T15:36:35.676Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 1
+    },
+    {
+      "id": "w4zY3",
+      "timestamp": "2025-05-28T15:36:35.676Z",
+      "type": "ActionResources",
+      "description": "Frog house used righteous anger,feral cats to take action.",
+      "value": 2
+    },
+    {
+      "id": "JX8Qa",
+      "timestamp": "2025-05-28T15:36:35.676Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "BPDUQ",
+      "timestamp": "2025-05-28T15:36:35.676Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 1
+    },
+    {
+      "id": "Rs_Ia",
+      "timestamp": "2025-05-28T15:36:35.676Z",
+      "type": "ActionResources",
+      "description": "Beetle Junkies used gwgwrtgwrt,new to take action.",
+      "value": 2
+    },
+    {
+      "id": "ZKKvF",
+      "timestamp": "2025-05-28T15:36:35.676Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "w4LAJ",
+      "timestamp": "2025-05-28T15:36:35.676Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 1
+    },
+    {
+      "id": "UOGpo",
+      "timestamp": "2025-05-28T15:36:35.676Z",
+      "type": "ActionResources",
+      "description": "Musical Chairs used  to take action.",
+      "value": 0
+    },
+    {
+      "id": "ZEZVc",
+      "timestamp": "2025-05-28T15:37:14.486Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Universal Phase",
+      "value": "2025-05-28T15:37:14.486Z"
+    },
+    {
+      "id": "MRn07",
+      "timestamp": "2025-05-28T15:37:14.486Z",
+      "type": "CommunitiesEndangered",
+      "description": "New Episode: skreeee,My Guys",
+      "value": 2
+    },
+    {
+      "id": "cxDv0",
+      "timestamp": "2025-05-28T15:37:16.089Z",
+      "type": "PhaseEnded",
+      "description": "Round 3: Universal Phase",
+      "value": "2025-05-28T15:37:16.089Z"
+    },
+    {
+      "id": "vTImf",
+      "timestamp": "2025-05-28T15:37:16.089Z",
+      "type": "PhaseDuration",
+      "description": "Round 3: Universal Phase",
+      "value": 0.026716666666666666
+    },
+    {
+      "id": "O2nFy",
+      "timestamp": "2025-05-28T15:39:29.046Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Galactic Phase",
+      "value": "2025-05-28T15:39:29.046Z"
     }
   ]
 }
