@@ -732,7 +732,7 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 660,
       "timeElapsed": 73.05700000000002,
@@ -750,13 +750,13 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "idle",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 420.2889999999993,
+      "timeElapsed": 623.3799999999974,
       "actualTime": {
         "s": "2025-05-28T15:39:29.045+00:00",
-        "e": "2025-05-28T15:51:29.045+00:00",
+        "e": "2025-05-28T15:50:52.659+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -774,7 +774,7 @@
       "timeElapsed": 1,
       "actualTime": {
         "s": "2025-05-28T15:36:28.109+00:00",
-        "e": "2025-05-28T15:36:29.116+00:00",
+        "e": "2025-05-28T15:50:57.128+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -897,7 +897,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 600.3759999999966,
+      "timeElapsed": 901.4799999999941,
       "actualTime": {
         "s": "2025-05-28T15:36:19.218+00:00",
         "e": "2025-05-28T15:48:19.218+00:00",
@@ -3462,6 +3462,20 @@
       "type": "PhaseStarted",
       "description": "Round 2: Galactic Phase",
       "value": "2025-05-28T15:39:29.046Z"
+    },
+    {
+      "id": "wF60k",
+      "timestamp": "2025-05-28T15:49:43.536Z",
+      "type": "PhaseEnded",
+      "description": "Round 2: Galactic Phase",
+      "value": "2025-05-28T15:49:43.536Z"
+    },
+    {
+      "id": "w7QzX",
+      "timestamp": "2025-05-28T15:49:43.536Z",
+      "type": "PhaseDuration",
+      "description": "Round 2: Galactic Phase",
+      "value": 10.241516666666667
     }
   ]
 }
