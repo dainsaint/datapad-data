@@ -1447,7 +1447,9 @@
       "advantage": 0,
       "disadvantage": 0,
       "emissaryCommunityId": "cV-Kn",
-      "ambassadors": {},
+      "ambassadors": {
+        "Qw0Xm": "Feay0"
+      },
       "alterLeadership": {}
     },
     {
