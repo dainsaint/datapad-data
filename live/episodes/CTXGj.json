@@ -638,10 +638,10 @@
       "status": "complete",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 0,
+      "timeElapsed": 3.001,
       "actualTime": {
-        "s": "2025-05-12T20:52:56.814+00:00",
-        "e": "2025-05-16T15:29:56.330+00:00",
+        "s": "2025-05-30T20:16:06.585+00:00",
+        "e": "2025-05-30T20:16:13.221+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -653,7 +653,7 @@
     {
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 240,
       "timeElapsed": 174.15800000000033,
@@ -671,7 +671,7 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 900,
       "timeElapsed": 0,
@@ -689,7 +689,7 @@
     {
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 720,
       "timeElapsed": 0,
@@ -707,7 +707,7 @@
     {
       "id": "ml6Q3",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 240,
       "timeElapsed": 19.018,
@@ -725,7 +725,7 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 660,
       "timeElapsed": 73.05700000000002,
@@ -743,7 +743,7 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 720,
       "timeElapsed": 9.009999999999998,
@@ -761,7 +761,7 @@
     {
       "id": "iFRIY",
       "type": "Individual Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
@@ -1468,6 +1468,56 @@
       "risk": "1",
       "advantage": "2",
       "disadvantage": "2",
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "hwg5-",
+      "round": 1,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "mUJ8x",
+      "round": 1,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "ggMy0",
+      "round": 1,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "gbFoS",
+      "round": 1,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "Kul-w",
+      "round": 1,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "ambassadors": {},
       "alterLeadership": {}
     }
@@ -3395,6 +3445,48 @@
     {
       "id": "yfN3F",
       "timestamp": "2025-05-26T00:06:59.242+00:00",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
+    },
+    {
+      "id": "tKytd",
+      "timestamp": "2025-05-30T20:16:06.585Z",
+      "type": "PhaseStarted",
+      "description": "Round 0: Setup/Onboarding",
+      "value": "2025-05-30T20:16:06.585Z"
+    },
+    {
+      "id": "G28uW",
+      "timestamp": "2025-05-30T20:16:13.221Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 0
+    },
+    {
+      "id": "t0HNA",
+      "timestamp": "2025-05-30T20:16:13.221Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "z_lrO",
+      "timestamp": "2025-05-30T20:16:13.221Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "xFAeo",
+      "timestamp": "2025-05-30T20:16:13.222Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "DWAiM",
+      "timestamp": "2025-05-30T20:16:13.222Z",
       "type": "SocietyActionsTaken",
       "description": "Musical Chairs",
       "value": 0
