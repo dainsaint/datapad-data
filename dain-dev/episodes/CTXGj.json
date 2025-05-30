@@ -1472,9 +1472,9 @@
       "id": "kezZk",
       "round": 2,
       "societyId": "yXHVO",
-      "risk": "4",
+      "risk": "1",
       "advantage": "0",
-      "disadvantage": "0",
+      "disadvantage": "1",
       "ambassadorCommunityIds": [],
       "ambassadorSocietyIds": [],
       "alterLeadership": {}
