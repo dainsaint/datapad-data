@@ -539,7 +539,7 @@
       "societyId": "Feay0",
       "player": "",
       "name": "nana",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -1427,7 +1427,10 @@
       "advantage": 0,
       "disadvantage": 0,
       "emissaryCommunityId": "G_9_r",
-      "ambassadors": {},
+      "ambassadors": {
+        "NVQbL": "",
+        "G_9_r": ""
+      },
       "alterLeadership": {}
     },
     {
@@ -1450,7 +1453,8 @@
       "emissaryCommunityId": "cV-Kn",
       "ambassadors": {
         "Qw0Xm": "",
-        "R9tmF": ""
+        "R9tmF": "",
+        "LiQVN": ""
       },
       "alterLeadership": {}
     },
