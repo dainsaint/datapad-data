@@ -448,7 +448,6 @@
     {
       "id": "Qw0Xm",
       "societyId": "et0k8",
-      "ambassadorSocietyId": "",
       "player": "Jim (he/him)",
       "name": "Calendar Daddies",
       "voice": "leader",
@@ -460,7 +459,6 @@
     {
       "id": "lHvo5",
       "societyId": "V9xbw",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "ribs",
       "voice": "leader",
@@ -472,7 +470,6 @@
     {
       "id": "UDMgC",
       "societyId": "et0k8",
-      "ambassadorSocietyId": "",
       "player": "Bobby",
       "name": "Jeffrey Bezos",
       "voice": "people",
@@ -484,7 +481,6 @@
     {
       "id": "B95dD",
       "societyId": "et0k8",
-      "ambassadorSocietyId": "",
       "player": "Jason",
       "name": "Dirty Harries",
       "voice": "leader",
@@ -496,7 +492,6 @@
     {
       "id": "cV-Kn",
       "societyId": "et0k8",
-      "ambassadorSocietyId": "",
       "player": "Fredrick",
       "name": "Elders",
       "voice": "people",
@@ -508,7 +503,6 @@
     {
       "id": "LiQVN",
       "societyId": "et0k8",
-      "ambassadorSocietyId": "",
       "player": "Jeff",
       "name": "Pencils Down",
       "voice": "people",
@@ -542,7 +536,6 @@
     {
       "id": "G_9_r",
       "societyId": "Feay0",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "nana",
       "voice": "people",
@@ -556,7 +549,6 @@
     {
       "id": "ssnLF",
       "societyId": "Feay0",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "baba",
       "voice": "leader",
@@ -570,7 +562,6 @@
     {
       "id": "FRomU",
       "societyId": "Feay0",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "gaga",
       "voice": "people",
@@ -582,7 +573,6 @@
     {
       "id": "NzLOs",
       "societyId": "Feay0",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "dada",
       "voice": "leader",
@@ -594,7 +584,6 @@
     {
       "id": "NVQbL",
       "societyId": "Feay0",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "popo",
       "voice": "people",
@@ -608,7 +597,6 @@
     {
       "id": "u0fa0",
       "societyId": "e-JcG",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "skreeee",
       "voice": "people",
@@ -622,7 +610,6 @@
     {
       "id": "jaCtF",
       "societyId": "yXHVO",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "big ol shair",
       "voice": "people",
@@ -634,7 +621,6 @@
     {
       "id": "Bd8RN",
       "societyId": "V9xbw",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "My Guys",
       "voice": "people",
@@ -1429,8 +1415,7 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadorCommunityIds": [],
-      "ambassadorSocietyIds": [],
+      "ambassadors": {},
       "alterLeadership": {}
     },
     {
@@ -1441,8 +1426,7 @@
       "advantage": 0,
       "disadvantage": 0,
       "emissaryCommunityId": "G_9_r",
-      "ambassadorCommunityIds": [],
-      "ambassadorSocietyIds": [],
+      "ambassadors": {},
       "alterLeadership": {}
     },
     {
@@ -1452,8 +1436,7 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadorCommunityIds": [],
-      "ambassadorSocietyIds": [],
+      "ambassadors": {},
       "alterLeadership": {}
     },
     {
@@ -1464,8 +1447,7 @@
       "advantage": 0,
       "disadvantage": 0,
       "emissaryCommunityId": "cV-Kn",
-      "ambassadorCommunityIds": [],
-      "ambassadorSocietyIds": [],
+      "ambassadors": {},
       "alterLeadership": {}
     },
     {
@@ -1473,10 +1455,9 @@
       "round": 2,
       "societyId": "yXHVO",
       "risk": "1",
-      "advantage": "0",
-      "disadvantage": "1",
-      "ambassadorCommunityIds": [],
-      "ambassadorSocietyIds": [],
+      "advantage": "2",
+      "disadvantage": "2",
+      "ambassadors": {},
       "alterLeadership": {}
     }
   ],
