@@ -338,7 +338,7 @@
       "disadvantage": 0,
       "result": [],
       "voteTime": "2025-05-28T14:31:53.179+00:00",
-      "status": "invalid",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -404,7 +404,7 @@
       "disadvantage": "0",
       "result": [],
       "voteTime": "2025-05-23T22:05:30.161+00:00",
-      "status": "invalid",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -423,79 +423,6 @@
       "risk": "1",
       "advantage": "0",
       "disadvantage": "0",
-      "result": [],
-      "status": "open",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "PJu6m",
-      "round": "2",
-      "societyId": "et0k8",
-      "resourceIds": [
-        "QvweM"
-      ],
-      "texts": [
-        "test test",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-05-28T19:12:24.827+00:00",
-      "status": "voted",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "IJJCb",
-      "round": "2",
-      "societyId": "Feay0",
-      "resourceIds": [
-        "FADd2"
-      ],
-      "texts": [
-        "hi",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-05-28T19:16:07.585+00:00",
-      "status": "invalid",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "II0iK",
-      "round": "2",
-      "societyId": "Feay0",
-      "resourceIds": [
-        "h463E"
-      ],
-      "texts": [
-        "bew",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-05-28T19:16:51.511+00:00",
-      "status": "voted",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "AdAhv",
-      "round": "3",
-      "societyId": "yXHVO",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -521,10 +448,9 @@
     {
       "id": "Qw0Xm",
       "societyId": "et0k8",
-      "ambassadorSocietyId": "",
       "player": "Jim (he/him)",
       "name": "Calendar Daddies",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -533,7 +459,6 @@
     {
       "id": "lHvo5",
       "societyId": "V9xbw",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "ribs",
       "voice": "leader",
@@ -545,7 +470,6 @@
     {
       "id": "UDMgC",
       "societyId": "et0k8",
-      "ambassadorSocietyId": "",
       "player": "Bobby",
       "name": "Jeffrey Bezos",
       "voice": "people",
@@ -557,7 +481,6 @@
     {
       "id": "B95dD",
       "societyId": "et0k8",
-      "ambassadorSocietyId": "",
       "player": "Jason",
       "name": "Dirty Harries",
       "voice": "leader",
@@ -569,7 +492,6 @@
     {
       "id": "cV-Kn",
       "societyId": "et0k8",
-      "ambassadorSocietyId": "",
       "player": "Fredrick",
       "name": "Elders",
       "voice": "people",
@@ -581,18 +503,20 @@
     {
       "id": "LiQVN",
       "societyId": "et0k8",
-      "ambassadorSocietyId": "",
       "player": "Jeff",
       "name": "Pencils Down",
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
       "id": "R9tmF",
       "societyId": "et0k8",
+      "player": "",
       "name": "Quinn",
       "voice": "people",
       "tags": {
@@ -613,32 +537,33 @@
     {
       "id": "G_9_r",
       "societyId": "Feay0",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "nana",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
       "id": "ssnLF",
       "societyId": "Feay0",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "baba",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
       "id": "FRomU",
       "societyId": "Feay0",
-      "ambassadorSocietyId": "",
-      "player": "",
+      "player": "freddie (she/they))",
       "name": "gaga",
       "voice": "people",
       "tags": {
@@ -649,8 +574,7 @@
     {
       "id": "NzLOs",
       "societyId": "Feay0",
-      "ambassadorSocietyId": "",
-      "player": "Hi",
+      "player": "",
       "name": "dada",
       "voice": "leader",
       "tags": {
@@ -661,19 +585,19 @@
     {
       "id": "NVQbL",
       "societyId": "Feay0",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "popo",
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
       "id": "u0fa0",
       "societyId": "e-JcG",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "skreeee",
       "voice": "people",
@@ -687,7 +611,6 @@
     {
       "id": "jaCtF",
       "societyId": "yXHVO",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "big ol shair",
       "voice": "people",
@@ -699,46 +622,8 @@
     {
       "id": "Bd8RN",
       "societyId": "V9xbw",
-      "ambassadorSocietyId": "",
       "player": "",
       "name": "My Guys",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
-      }
-    },
-    {
-      "id": "g-uC_",
-      "societyId": "et0k8",
-      "ambassadorSocietyId": "",
-      "player": "Person (they/them)",
-      "name": "Test",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "PIBFt",
-      "societyId": "yXHVO",
-      "player": "me",
-      "name": "hi",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "SEm5M",
-      "societyId": "yXHVO",
-      "ambassadorSocietyId": "",
-      "player": "",
-      "name": "ok",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -752,11 +637,11 @@
       "type": "Setup/Onboarding",
       "status": "complete",
       "round": 0,
-      "duration": 1065,
-      "timeElapsed": 28.01900000000001,
+      "duration": 1200,
+      "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-05-28T19:22:46.449+00:00",
-        "e": "2025-05-28T19:23:14.505+00:00",
+        "s": "2025-05-12T20:52:56.814+00:00",
+        "e": "2025-05-16T15:29:56.330+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -774,7 +659,7 @@
       "timeElapsed": 174.15800000000033,
       "actualTime": {
         "s": "2025-05-13T23:51:02.029+00:00",
-        "e": "2025-05-28T19:23:14.941+00:00",
+        "e": "2025-05-16T20:21:21.525+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -792,7 +677,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-28T19:24:04.329+00:00",
+        "e": "2025-05-18T13:45:37.996+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -807,10 +692,10 @@
       "status": "complete",
       "round": 1,
       "duration": 720,
-      "timeElapsed": 42.023999999999994,
+      "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-05-28T19:23:16.636+00:00",
-        "e": "2025-05-28T19:24:05.025+00:00",
+        "s": "2025-05-10T03:53:00.133+00:00",
+        "e": "2025-05-18T13:46:34.443+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -828,7 +713,7 @@
       "timeElapsed": 19.018,
       "actualTime": {
         "s": "2025-05-10T20:26:21.020+00:00",
-        "e": "2025-05-28T19:24:05.710+00:00",
+        "e": "2025-05-20T21:11:54.442+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -846,7 +731,7 @@
       "timeElapsed": 73.05700000000002,
       "actualTime": {
         "s": "2025-05-20T23:35:24.461+00:00",
-        "e": "2025-05-28T19:24:06.341+00:00",
+        "e": "2025-05-23T21:10:29.526+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -861,28 +746,10 @@
       "status": "complete",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 627.3809999999974,
+      "timeElapsed": 9.009999999999998,
       "actualTime": {
-        "s": "2025-05-28T16:04:38.231+00:00",
-        "e": "2025-05-28T19:24:06.991+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "VZQ7m",
-      "type": "Break",
-      "status": "complete",
-      "round": 2,
-      "duration": 0,
-      "timeElapsed": 1,
-      "actualTime": {
-        "s": "2025-05-28T16:04:45.244+00:00",
-        "e": "2025-05-28T19:24:07.748+00:00",
+        "s": "2025-05-20T21:13:18.473+00:00",
+        "e": "2025-05-23T21:10:30.048+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -897,10 +764,10 @@
       "status": "complete",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 31.015000000000004,
+      "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-05-28T19:20:31.073+00:00",
-        "e": "2025-05-28T19:20:33.405+00:00",
+        "s": "2025-05-10T03:53:00.133+00:00",
+        "e": "2025-05-30T20:15:59.778+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -910,51 +777,15 @@
       }
     },
     {
-      "id": "vS8v2",
-      "type": "Universal Phase",
-      "status": "complete",
-      "round": 3,
-      "duration": 240,
-      "timeElapsed": 1,
+      "id": "VZQ7m",
+      "type": "Break",
+      "status": "idle",
+      "round": 2,
+      "duration": 0,
+      "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-05-10T22:07:51.603+00:00",
-        "e": "2025-05-28T19:24:09.602+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "MFyrT",
-      "type": "Societal Phase",
-      "status": "complete",
-      "round": 3,
-      "duration": 600,
-      "timeElapsed": 477.31299999999766,
-      "actualTime": {
-        "s": "2025-04-20T19:28:15.501+00:00",
-        "e": "2025-05-28T20:14:54.006+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "dr96n",
-      "type": "Galactic Phase",
-      "status": "paused",
-      "round": 3,
-      "duration": 720,
-      "timeElapsed": 16753.31400000192,
-      "actualTime": {
-        "s": "2025-05-28T15:36:19.218+00:00",
-        "e": "2025-05-28T15:48:19.218+00:00",
+        "s": "2025-05-12T19:38:12.770+00:00",
+        "e": "2025-05-24T03:30:03.746+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -966,13 +797,13 @@
     {
       "id": "tJXlr",
       "type": "Universal Phase",
-      "status": "playing",
-      "round": 4,
+      "status": "idle",
+      "round": 3,
       "duration": 240,
-      "timeElapsed": 83538.65399997345,
+      "timeElapsed": 188.16100000000026,
       "actualTime": {
-        "s": "2025-05-28T16:33:10.602+00:00",
-        "e": "2025-05-28T16:37:10.602+00:00",
+        "s": "2025-05-24T03:26:28.659+00:00",
+        "e": "2025-05-26T00:07:03.242+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -985,7 +816,7 @@
       "id": "mBIUo",
       "type": "Societal Phase",
       "status": "idle",
-      "round": 4,
+      "round": 3,
       "duration": 600,
       "timeElapsed": 1900.2769999999953,
       "actualTime": {
@@ -1003,12 +834,84 @@
       "id": "KnY3K",
       "type": "Galactic Phase",
       "status": "idle",
-      "round": 4,
+      "round": 3,
       "duration": 720,
       "timeElapsed": 676.124999999999,
       "actualTime": {
         "s": "2025-05-26T00:06:55.382+00:00",
         "e": "2025-05-26T00:06:59.241+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "vS8v2",
+      "type": "Universal Phase",
+      "status": "idle",
+      "round": 4,
+      "duration": 240,
+      "timeElapsed": 1,
+      "actualTime": {
+        "s": "2025-05-10T22:07:51.603+00:00",
+        "e": "2025-05-17T12:14:36.354+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "MFyrT",
+      "type": "Societal Phase",
+      "status": "idle",
+      "round": 4,
+      "duration": 600,
+      "timeElapsed": 477.31299999999766,
+      "actualTime": {
+        "s": "2025-04-20T19:28:15.501+00:00",
+        "e": "2025-05-10T17:48:47.649+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "dr96n",
+      "type": "Galactic Phase",
+      "status": "idle",
+      "round": 4,
+      "duration": 720,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-10T03:53:00.133+00:00",
+        "e": "2025-05-10T17:48:56.974+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "Z6ovG",
+      "type": "Individual Phase",
+      "status": "idle",
+      "round": 4,
+      "duration": 480,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-05-10T16:06:16.286+00:00",
+        "e": "2025-05-10T17:49:04.987+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1193,19 +1096,18 @@
     },
     {
       "id": "HOzO6",
-      "communityId": "LiQVN",
+      "communityId": "Qw0Xm",
       "name": "feral cats",
       "tags": {
         "_type": "Tags",
         "value": [
-          "vital",
-          "exhausted"
+          "vital"
         ]
       }
     },
     {
       "id": "FADd2",
-      "communityId": "NVQbL",
+      "communityId": "B95dD",
       "name": "lillypadz",
       "tags": {
         "_type": "Tags",
@@ -1223,7 +1125,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "kATHn",
+      "communityId": "LiQVN",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -1231,19 +1133,8 @@
       }
     },
     {
-      "id": "JvqsG",
-      "communityId": "Qw0Xm",
-      "name": "righteous anger",
-      "tags": {
-        "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
-      }
-    },
-    {
       "id": "arNw1",
-      "communityId": "B95dD",
+      "communityId": "R9tmF",
       "name": "afergre",
       "tags": {
         "_type": "Tags",
@@ -1287,7 +1178,9 @@
       "name": "new",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1334,7 +1227,7 @@
     },
     {
       "id": "vi3Gq",
-      "communityId": "R9tmF",
+      "communityId": "UDMgC",
       "name": "wgrtgrtgw",
       "tags": {
         "_type": "Tags",
@@ -1343,7 +1236,7 @@
     },
     {
       "id": "AwCCh",
-      "communityId": "UDMgC",
+      "communityId": "kATHn",
       "name": "gwgwrtgwrt",
       "tags": {
         "_type": "Tags",
@@ -1353,13 +1246,13 @@
       }
     },
     {
-      "id": "KE7q4",
-      "communityId": "PIBFt",
-      "name": "toads",
+      "id": "JvqsG",
+      "communityId": "NVQbL",
+      "name": "righteous anger",
       "tags": {
         "_type": "Tags",
         "value": [
-          "exhausted"
+          "destroyed"
         ]
       }
     }
@@ -1406,22 +1299,11 @@
           "leadershipOverrides": {}
         },
         {
-          "round": 0,
-          "societyId": "et0k8",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
-        },
-        {
-          "round": 1,
-          "societyId": "et0k8",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
-        },
-        {
           "round": 2,
           "societyId": "et0k8",
           "leadershipOverrides": {},
-          "ambassadorsSent": []
+          "ambassadorsSent": [],
+          "emissaryCommunityId": "B95dD"
         },
         {
           "round": 3,
@@ -1441,18 +1323,6 @@
         "value": []
       },
       "roundData": [
-        {
-          "round": 0,
-          "societyId": "V9xbw",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
-        },
-        {
-          "round": 1,
-          "societyId": "V9xbw",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
-        },
         {
           "round": 2,
           "societyId": "V9xbw",
@@ -1477,18 +1347,6 @@
         "value": []
       },
       "roundData": [
-        {
-          "round": 0,
-          "societyId": "Feay0",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
-        },
-        {
-          "round": 1,
-          "societyId": "Feay0",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
-        },
         {
           "round": 2,
           "societyId": "Feay0",
@@ -1515,18 +1373,6 @@
       },
       "roundData": [
         {
-          "round": 0,
-          "societyId": "e-JcG",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
-        },
-        {
-          "round": 1,
-          "societyId": "e-JcG",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
-        },
-        {
           "round": 2,
           "societyId": "e-JcG",
           "leadershipOverrides": {},
@@ -1551,23 +1397,10 @@
       },
       "roundData": [
         {
-          "round": 0,
-          "societyId": "yXHVO",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
-        },
-        {
-          "round": 1,
-          "societyId": "yXHVO",
-          "leadershipOverrides": {},
-          "ambassadorsSent": []
-        },
-        {
           "round": 2,
           "societyId": "yXHVO",
           "leadershipOverrides": {},
-          "ambassadorsSent": [],
-          "emissaryCommunityId": "jaCtF"
+          "ambassadorsSent": []
         },
         {
           "round": 3,
@@ -1577,10 +1410,71 @@
       ]
     }
   ],
+  "turns": [
+    {
+      "id": "B2CW4",
+      "round": 2,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "YQyms",
+      "round": 2,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "emissaryCommunityId": "FRomU",
+      "ambassadors": {
+        "NVQbL": "",
+        "G_9_r": "",
+        "FRomU": ""
+      },
+      "alterLeadership": {}
+    },
+    {
+      "id": "jfuy-",
+      "round": 2,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "CoGAL",
+      "round": 2,
+      "societyId": "et0k8",
+      "risk": "1",
+      "advantage": "2",
+      "disadvantage": "0",
+      "emissaryCommunityId": "cV-Kn",
+      "ambassadors": {
+        "Qw0Xm": "",
+        "R9tmF": "",
+        "LiQVN": ""
+      },
+      "alterLeadership": {}
+    },
+    {
+      "id": "kezZk",
+      "round": 2,
+      "societyId": "yXHVO",
+      "risk": "1",
+      "advantage": "2",
+      "disadvantage": "2",
+      "ambassadors": {},
+      "alterLeadership": {}
+    }
+  ],
   "documentIds": [
     "Wt6ry",
-    "ZWFCD",
-    "Ka3FF"
+    "ZWFCD"
   ],
   "links": {
     "discord": "discord://-/channels/1063250197993492480/1063254140341473350"
@@ -3503,543 +3397,6 @@
       "timestamp": "2025-05-26T00:06:59.242+00:00",
       "type": "SocietyActionsTaken",
       "description": "Musical Chairs",
-      "value": 0
-    },
-    {
-      "id": "McI_E",
-      "timestamp": "2025-05-28T15:36:19.218Z",
-      "type": "PhaseStarted",
-      "description": "Round 4: Galactic Phase",
-      "value": "2025-05-28T15:36:19.218Z"
-    },
-    {
-      "id": "vm4lj",
-      "timestamp": "2025-05-28T15:36:28.110Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Individual Phase",
-      "value": "2025-05-28T15:36:28.110Z"
-    },
-    {
-      "id": "jiAMm",
-      "timestamp": "2025-05-28T15:36:29.116Z",
-      "type": "PhaseEnded",
-      "description": "Round 2: Individual Phase",
-      "value": "2025-05-28T15:36:29.116Z"
-    },
-    {
-      "id": "kJh8f",
-      "timestamp": "2025-05-28T15:36:29.116Z",
-      "type": "PhaseDuration",
-      "description": "Round 2: Individual Phase",
-      "value": 0.016783333333333334
-    },
-    {
-      "id": "Gd-4B",
-      "timestamp": "2025-05-28T15:36:35.676Z",
-      "type": "SocietyActionsTaken",
-      "description": "Frog house",
-      "value": 1
-    },
-    {
-      "id": "w4zY3",
-      "timestamp": "2025-05-28T15:36:35.676Z",
-      "type": "ActionResources",
-      "description": "Frog house used righteous anger,feral cats to take action.",
-      "value": 2
-    },
-    {
-      "id": "JX8Qa",
-      "timestamp": "2025-05-28T15:36:35.676Z",
-      "type": "SocietyActionsTaken",
-      "description": "Toad Shack",
-      "value": 0
-    },
-    {
-      "id": "BPDUQ",
-      "timestamp": "2025-05-28T15:36:35.676Z",
-      "type": "SocietyActionsTaken",
-      "description": "Beetle Junkies",
-      "value": 1
-    },
-    {
-      "id": "Rs_Ia",
-      "timestamp": "2025-05-28T15:36:35.676Z",
-      "type": "ActionResources",
-      "description": "Beetle Junkies used gwgwrtgwrt,new to take action.",
-      "value": 2
-    },
-    {
-      "id": "ZKKvF",
-      "timestamp": "2025-05-28T15:36:35.676Z",
-      "type": "SocietyActionsTaken",
-      "description": "Better Burritos",
-      "value": 0
-    },
-    {
-      "id": "w4LAJ",
-      "timestamp": "2025-05-28T15:36:35.676Z",
-      "type": "SocietyActionsTaken",
-      "description": "Musical Chairs",
-      "value": 1
-    },
-    {
-      "id": "UOGpo",
-      "timestamp": "2025-05-28T15:36:35.676Z",
-      "type": "ActionResources",
-      "description": "Musical Chairs used  to take action.",
-      "value": 0
-    },
-    {
-      "id": "ZEZVc",
-      "timestamp": "2025-05-28T15:37:14.486Z",
-      "type": "PhaseStarted",
-      "description": "Round 3: Universal Phase",
-      "value": "2025-05-28T15:37:14.486Z"
-    },
-    {
-      "id": "MRn07",
-      "timestamp": "2025-05-28T15:37:14.486Z",
-      "type": "CommunitiesEndangered",
-      "description": "New Episode: skreeee,My Guys",
-      "value": 2
-    },
-    {
-      "id": "cxDv0",
-      "timestamp": "2025-05-28T15:37:16.089Z",
-      "type": "PhaseEnded",
-      "description": "Round 3: Universal Phase",
-      "value": "2025-05-28T15:37:16.089Z"
-    },
-    {
-      "id": "vTImf",
-      "timestamp": "2025-05-28T15:37:16.089Z",
-      "type": "PhaseDuration",
-      "description": "Round 3: Universal Phase",
-      "value": 0.026716666666666666
-    },
-    {
-      "id": "O2nFy",
-      "timestamp": "2025-05-28T15:39:29.046Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Galactic Phase",
-      "value": "2025-05-28T15:39:29.046Z"
-    },
-    {
-      "id": "wF60k",
-      "timestamp": "2025-05-28T15:49:43.536Z",
-      "type": "PhaseEnded",
-      "description": "Round 2: Galactic Phase",
-      "value": "2025-05-28T15:49:43.536Z"
-    },
-    {
-      "id": "w7QzX",
-      "timestamp": "2025-05-28T15:49:43.536Z",
-      "type": "PhaseDuration",
-      "description": "Round 2: Galactic Phase",
-      "value": 10.241516666666667
-    },
-    {
-      "id": "Xvf4P",
-      "timestamp": "2025-05-28T16:04:19.905Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Individual Phase",
-      "value": "2025-05-28T16:04:19.905Z"
-    },
-    {
-      "id": "p3hhY",
-      "timestamp": "2025-05-28T16:04:38.231Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Galactic Phase",
-      "value": "2025-05-28T16:04:38.231Z"
-    },
-    {
-      "id": "HJp4v",
-      "timestamp": "2025-05-28T16:04:41.850Z",
-      "type": "PhaseEnded",
-      "description": "Round 2: Galactic Phase",
-      "value": "2025-05-28T16:04:41.850Z"
-    },
-    {
-      "id": "Bvd1Z",
-      "timestamp": "2025-05-28T16:04:41.851Z",
-      "type": "PhaseDuration",
-      "description": "Round 2: Galactic Phase",
-      "value": 0.060316666666666664
-    },
-    {
-      "id": "Xv8WJ",
-      "timestamp": "2025-05-28T16:04:43.099Z",
-      "type": "PhaseEnded",
-      "description": "Round 2: Individual Phase",
-      "value": "2025-05-28T16:04:43.099Z"
-    },
-    {
-      "id": "IKPzF",
-      "timestamp": "2025-05-28T16:04:43.099Z",
-      "type": "PhaseDuration",
-      "description": "Round 2: Individual Phase",
-      "value": 0.38656666666666667
-    },
-    {
-      "id": "m7pBv",
-      "timestamp": "2025-05-28T16:04:45.245Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Break",
-      "value": "2025-05-28T16:04:45.245Z"
-    },
-    {
-      "id": "d6toj",
-      "timestamp": "2025-05-28T16:04:45.934Z",
-      "type": "PhaseEnded",
-      "description": "Round 2: Break",
-      "value": "2025-05-28T16:04:45.934Z"
-    },
-    {
-      "id": "vUqy0",
-      "timestamp": "2025-05-28T16:04:45.934Z",
-      "type": "PhaseDuration",
-      "description": "Round 2: Break",
-      "value": 0.0115
-    },
-    {
-      "id": "xza8c",
-      "timestamp": "2025-05-28T16:04:45.935Z",
-      "type": "SocietyActionsTaken",
-      "description": "Frog house",
-      "value": 1
-    },
-    {
-      "id": "pHpkO",
-      "timestamp": "2025-05-28T16:04:45.935Z",
-      "type": "ActionResources",
-      "description": "Frog house used righteous anger,feral cats to take action.",
-      "value": 2
-    },
-    {
-      "id": "r89oh",
-      "timestamp": "2025-05-28T16:04:45.935Z",
-      "type": "SocietyActionsTaken",
-      "description": "Toad Shack",
-      "value": 0
-    },
-    {
-      "id": "n_UFP",
-      "timestamp": "2025-05-28T16:04:45.935Z",
-      "type": "SocietyActionsTaken",
-      "description": "Beetle Junkies",
-      "value": 1
-    },
-    {
-      "id": "B7TZj",
-      "timestamp": "2025-05-28T16:04:45.935Z",
-      "type": "ActionResources",
-      "description": "Beetle Junkies used gwgwrtgwrt,new to take action.",
-      "value": 2
-    },
-    {
-      "id": "TAjE4",
-      "timestamp": "2025-05-28T16:04:45.935Z",
-      "type": "SocietyActionsTaken",
-      "description": "Better Burritos",
-      "value": 0
-    },
-    {
-      "id": "pRwEJ",
-      "timestamp": "2025-05-28T16:04:45.935Z",
-      "type": "SocietyActionsTaken",
-      "description": "Musical Chairs",
-      "value": 1
-    },
-    {
-      "id": "YCl3E",
-      "timestamp": "2025-05-28T16:04:45.935Z",
-      "type": "ActionResources",
-      "description": "Musical Chairs used  to take action.",
-      "value": 0
-    },
-    {
-      "id": "Y6pod",
-      "timestamp": "2025-05-28T16:10:00.811Z",
-      "type": "SocietyActionsTaken",
-      "description": "Frog house",
-      "value": 1
-    },
-    {
-      "id": "EEpQY",
-      "timestamp": "2025-05-28T16:10:00.811Z",
-      "type": "ActionResources",
-      "description": "Frog house used righteous anger,feral cats to take action.",
-      "value": 2
-    },
-    {
-      "id": "oM5hY",
-      "timestamp": "2025-05-28T16:10:00.811Z",
-      "type": "SocietyActionsTaken",
-      "description": "Toad Shack",
-      "value": 0
-    },
-    {
-      "id": "sJLyz",
-      "timestamp": "2025-05-28T16:10:00.811Z",
-      "type": "SocietyActionsTaken",
-      "description": "Beetle Junkies",
-      "value": 1
-    },
-    {
-      "id": "GWwDu",
-      "timestamp": "2025-05-28T16:10:00.811Z",
-      "type": "ActionResources",
-      "description": "Beetle Junkies used gwgwrtgwrt,new to take action.",
-      "value": 2
-    },
-    {
-      "id": "jqOhE",
-      "timestamp": "2025-05-28T16:10:00.811Z",
-      "type": "SocietyActionsTaken",
-      "description": "Better Burritos",
-      "value": 0
-    },
-    {
-      "id": "EOhGy",
-      "timestamp": "2025-05-28T16:10:00.811Z",
-      "type": "SocietyActionsTaken",
-      "description": "Musical Chairs",
-      "value": 1
-    },
-    {
-      "id": "TBcti",
-      "timestamp": "2025-05-28T16:10:00.811Z",
-      "type": "ActionResources",
-      "description": "Musical Chairs used  to take action.",
-      "value": 0
-    },
-    {
-      "id": "VtMOH",
-      "timestamp": "2025-05-28T16:33:10.602Z",
-      "type": "PhaseStarted",
-      "description": "Round 3: Universal Phase",
-      "value": "2025-05-28T16:33:10.602Z"
-    },
-    {
-      "id": "iPlSH",
-      "timestamp": "2025-05-28T16:33:10.602Z",
-      "type": "CommunitiesEndangered",
-      "description": "New Episode: skreeee,My Guys",
-      "value": 2
-    },
-    {
-      "id": "iYphe",
-      "timestamp": "2025-05-28T16:33:21.174Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Individual Phase",
-      "value": "2025-05-28T16:33:21.174Z"
-    },
-    {
-      "id": "FhuXs",
-      "timestamp": "2025-05-28T19:09:05.416Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Individual Phase",
-      "value": "2025-05-28T19:09:05.416Z"
-    },
-    {
-      "id": "BRsMV",
-      "timestamp": "2025-05-28T19:11:19.810Z",
-      "type": "ResourceCreated",
-      "value": "Hello"
-    },
-    {
-      "id": "Qkib5",
-      "timestamp": "2025-05-28T19:19:02.729Z",
-      "type": "ResourceCreated",
-      "value": "toads"
-    },
-    {
-      "id": "s4ZQB",
-      "timestamp": "2025-05-28T19:20:31.073Z",
-      "type": "PhaseStarted",
-      "description": "Round 2: Individual Phase",
-      "value": "2025-05-28T19:20:31.073Z"
-    },
-    {
-      "id": "il_2i",
-      "timestamp": "2025-05-28T19:20:33.405Z",
-      "type": "PhaseEnded",
-      "description": "Round 2: Individual Phase",
-      "value": "2025-05-28T19:20:33.405Z"
-    },
-    {
-      "id": "wivOR",
-      "timestamp": "2025-05-28T19:20:33.405Z",
-      "type": "PhaseDuration",
-      "description": "Round 2: Individual Phase",
-      "value": 0.03886666666666667
-    },
-    {
-      "id": "w4Q55",
-      "timestamp": "2025-05-28T19:22:46.449Z",
-      "type": "PhaseStarted",
-      "description": "Round 0: Setup/Onboarding",
-      "value": "2025-05-28T19:22:46.449Z"
-    },
-    {
-      "id": "lMn_T",
-      "timestamp": "2025-05-28T19:23:14.505Z",
-      "type": "PhaseEnded",
-      "description": "Round 0: Setup/Onboarding",
-      "value": "2025-05-28T19:23:14.505Z"
-    },
-    {
-      "id": "BcgZh",
-      "timestamp": "2025-05-28T19:23:14.506Z",
-      "type": "PhaseDuration",
-      "description": "Round 0: Setup/Onboarding",
-      "value": 0.4676
-    },
-    {
-      "id": "ESBs1",
-      "timestamp": "2025-05-28T19:23:14.506Z",
-      "type": "SocietyActionsTaken",
-      "description": "Frog house",
-      "value": 0
-    },
-    {
-      "id": "vDl98",
-      "timestamp": "2025-05-28T19:23:14.506Z",
-      "type": "SocietyActionsTaken",
-      "description": "Toad Shack",
-      "value": 0
-    },
-    {
-      "id": "MQc2n",
-      "timestamp": "2025-05-28T19:23:14.506Z",
-      "type": "SocietyActionsTaken",
-      "description": "Beetle Junkies",
-      "value": 0
-    },
-    {
-      "id": "vazmE",
-      "timestamp": "2025-05-28T19:23:14.506Z",
-      "type": "SocietyActionsTaken",
-      "description": "Better Burritos",
-      "value": 0
-    },
-    {
-      "id": "qvfwk",
-      "timestamp": "2025-05-28T19:23:14.506Z",
-      "type": "SocietyActionsTaken",
-      "description": "Musical Chairs",
-      "value": 0
-    },
-    {
-      "id": "xzgLW",
-      "timestamp": "2025-05-28T19:23:14.506Z",
-      "type": "SocietyActionsTaken",
-      "description": "Sibby",
-      "value": 0
-    },
-    {
-      "id": "imawU",
-      "timestamp": "2025-05-28T19:23:16.636Z",
-      "type": "PhaseStarted",
-      "description": "Round 1: Galactic Phase",
-      "value": "2025-05-28T19:23:16.636Z"
-    },
-    {
-      "id": "RynCz",
-      "timestamp": "2025-05-28T19:23:58.655Z",
-      "type": "PhaseEnded",
-      "description": "Round 1: Galactic Phase",
-      "value": "2025-05-28T19:23:58.655Z"
-    },
-    {
-      "id": "nwtbE",
-      "timestamp": "2025-05-28T19:23:58.655Z",
-      "type": "PhaseDuration",
-      "description": "Round 1: Galactic Phase",
-      "value": 0.7003166666666667
-    },
-    {
-      "id": "MLBDj",
-      "timestamp": "2025-05-28T19:23:58.655Z",
-      "type": "SocietyActionsTaken",
-      "description": "Frog house",
-      "value": 0
-    },
-    {
-      "id": "UcQj8",
-      "timestamp": "2025-05-28T19:23:58.655Z",
-      "type": "SocietyActionsTaken",
-      "description": "Toad Shack",
-      "value": 0
-    },
-    {
-      "id": "InM6a",
-      "timestamp": "2025-05-28T19:23:58.655Z",
-      "type": "SocietyActionsTaken",
-      "description": "Beetle Junkies",
-      "value": 0
-    },
-    {
-      "id": "veCWx",
-      "timestamp": "2025-05-28T19:23:58.655Z",
-      "type": "SocietyActionsTaken",
-      "description": "Better Burritos",
-      "value": 0
-    },
-    {
-      "id": "U-m5A",
-      "timestamp": "2025-05-28T19:23:58.655Z",
-      "type": "SocietyActionsTaken",
-      "description": "Musical Chairs",
-      "value": 0
-    },
-    {
-      "id": "DFKr0",
-      "timestamp": "2025-05-28T19:23:58.655Z",
-      "type": "SocietyActionsTaken",
-      "description": "Sibby",
-      "value": 0
-    },
-    {
-      "id": "tLLZ0",
-      "timestamp": "2025-05-28T19:24:05.025Z",
-      "type": "SocietyActionsTaken",
-      "description": "Frog house",
-      "value": 0
-    },
-    {
-      "id": "KGw9D",
-      "timestamp": "2025-05-28T19:24:05.025Z",
-      "type": "SocietyActionsTaken",
-      "description": "Toad Shack",
-      "value": 0
-    },
-    {
-      "id": "BIdsX",
-      "timestamp": "2025-05-28T19:24:05.025Z",
-      "type": "SocietyActionsTaken",
-      "description": "Beetle Junkies",
-      "value": 0
-    },
-    {
-      "id": "ieOMo",
-      "timestamp": "2025-05-28T19:24:05.025Z",
-      "type": "SocietyActionsTaken",
-      "description": "Better Burritos",
-      "value": 0
-    },
-    {
-      "id": "xtuas",
-      "timestamp": "2025-05-28T19:24:05.025Z",
-      "type": "SocietyActionsTaken",
-      "description": "Musical Chairs",
-      "value": 0
-    },
-    {
-      "id": "gRhkg",
-      "timestamp": "2025-05-28T19:24:05.025Z",
-      "type": "SocietyActionsTaken",
-      "description": "Sibby",
       "value": 0
     }
   ]
