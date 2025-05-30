@@ -782,7 +782,7 @@
     {
       "id": "VZQ7m",
       "type": "Break",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 0,
       "timeElapsed": 0,
@@ -800,7 +800,7 @@
     {
       "id": "tJXlr",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 3,
       "duration": 240,
       "timeElapsed": 188.16100000000026,
@@ -818,7 +818,7 @@
     {
       "id": "mBIUo",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 3,
       "duration": 600,
       "timeElapsed": 1900.2769999999953,
@@ -1257,6 +1257,15 @@
         "value": [
           "destroyed"
         ]
+      }
+    },
+    {
+      "id": "kDphD",
+      "communityId": "FRomU",
+      "name": "Incredible Thighs",
+      "tags": {
+        "_type": "Tags",
+        "value": []
       }
     }
   ],
@@ -3656,6 +3665,12 @@
       "type": "SocietyActionsTaken",
       "description": "Musical Chairs",
       "value": 0
+    },
+    {
+      "id": "YLXCz",
+      "timestamp": "2025-05-30T20:56:34.054Z",
+      "type": "ResourceCreated",
+      "value": "Incredible Thighs"
     }
   ]
 }
