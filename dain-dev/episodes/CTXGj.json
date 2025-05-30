@@ -563,7 +563,7 @@
     {
       "id": "FRomU",
       "societyId": "Feay0",
-      "player": "",
+      "player": "freddie (she/they))",
       "name": "gaga",
       "voice": "people",
       "tags": {
@@ -1096,7 +1096,7 @@
     },
     {
       "id": "HOzO6",
-      "communityId": "LiQVN",
+      "communityId": "B95dD",
       "name": "feral cats",
       "tags": {
         "_type": "Tags",
@@ -1107,7 +1107,7 @@
     },
     {
       "id": "FADd2",
-      "communityId": "Qw0Xm",
+      "communityId": "B95dD",
       "name": "lillypadz",
       "tags": {
         "_type": "Tags",
@@ -1125,7 +1125,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "LiQVN",
+      "communityId": "cV-Kn",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -1152,7 +1152,7 @@
     },
     {
       "id": "BqPmG",
-      "communityId": "UDMgC",
+      "communityId": "kATHn",
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
@@ -1426,10 +1426,11 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "emissaryCommunityId": "G_9_r",
+      "emissaryCommunityId": "FRomU",
       "ambassadors": {
         "NVQbL": "",
-        "G_9_r": ""
+        "G_9_r": "",
+        "FRomU": ""
       },
       "alterLeadership": {}
     },
@@ -3396,5 +3397,9 @@
       "description": "Musical Chairs",
       "value": 0
     }
-  ]
+  ],
+  "lost": {
+    "communities": [],
+    "resources": []
+  }
 }
