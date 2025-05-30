@@ -516,6 +516,7 @@
     {
       "id": "R9tmF",
       "societyId": "et0k8",
+      "player": "",
       "name": "Quinn",
       "voice": "people",
       "tags": {
@@ -1106,7 +1107,7 @@
     },
     {
       "id": "FADd2",
-      "communityId": "NVQbL",
+      "communityId": "Qw0Xm",
       "name": "lillypadz",
       "tags": {
         "_type": "Tags",
@@ -1124,7 +1125,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "R9tmF",
+      "communityId": "LiQVN",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -1133,7 +1134,7 @@
     },
     {
       "id": "JvqsG",
-      "communityId": "Qw0Xm",
+      "communityId": "NVQbL",
       "name": "righteous anger",
       "tags": {
         "_type": "Tags",
@@ -1443,12 +1444,13 @@
       "id": "CoGAL",
       "round": 2,
       "societyId": "et0k8",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "1",
+      "advantage": "2",
+      "disadvantage": "0",
       "emissaryCommunityId": "cV-Kn",
       "ambassadors": {
-        "Qw0Xm": "Feay0"
+        "Qw0Xm": "",
+        "R9tmF": ""
       },
       "alterLeadership": {}
     },
