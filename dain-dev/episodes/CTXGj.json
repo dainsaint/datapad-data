@@ -1244,6 +1244,17 @@
           "exhausted"
         ]
       }
+    },
+    {
+      "id": "JvqsG",
+      "communityId": "NVQbL",
+      "name": "righteous anger",
+      "tags": {
+        "_type": "Tags",
+        "value": [
+          "destroyed"
+        ]
+      }
     }
   ],
   "societies": [
@@ -3388,19 +3399,5 @@
       "description": "Musical Chairs",
       "value": 0
     }
-  ],
-  "lost": {
-    "communities": [],
-    "resources": [
-      {
-        "id": "JvqsG",
-        "communityId": "NVQbL",
-        "name": "righteous anger",
-        "tags": {
-          "_type": "Tags",
-          "value": []
-        }
-      }
-    ]
-  }
+  ]
 }
