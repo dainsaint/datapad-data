@@ -1444,6 +1444,40 @@
       "ambassadorCommunityIds": [],
       "ambassadorSocietyIds": [],
       "alterLeadership": {}
+    },
+    {
+      "id": "jfuy-",
+      "round": 2,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadorCommunityIds": [],
+      "ambassadorSocietyIds": [],
+      "alterLeadership": {}
+    },
+    {
+      "id": "CoGAL",
+      "round": 2,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "emissaryCommunityId": "cV-Kn",
+      "ambassadorCommunityIds": [],
+      "ambassadorSocietyIds": [],
+      "alterLeadership": {}
+    },
+    {
+      "id": "kezZk",
+      "round": 2,
+      "societyId": "yXHVO",
+      "risk": "4",
+      "advantage": "0",
+      "disadvantage": "0",
+      "ambassadorCommunityIds": [],
+      "ambassadorSocietyIds": [],
+      "alterLeadership": {}
     }
   ],
   "documentIds": [
