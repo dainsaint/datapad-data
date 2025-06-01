@@ -338,7 +338,7 @@
       "disadvantage": 0,
       "result": [],
       "voteTime": "2025-05-28T14:31:53.179+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -456,13 +456,18 @@
       "id": "irjqL",
       "round": "2",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "QvweM",
+        "vi3Gq"
+      ],
+      "texts": [
+        "partaaaaaaay",
+        "",
+        ""
+      ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-01T02:17:54.640+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
