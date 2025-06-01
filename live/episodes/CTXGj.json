@@ -464,6 +464,44 @@
       ],
       "result": [],
       "voteTime": "2025-06-01T01:49:00.676+00:00",
+      "status": "invalid",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "PUhJB",
+      "round": "2",
+      "societyId": "et0k8",
+      "resourceIds": [
+        "arNw1"
+      ],
+      "texts": [
+        "",
+        ""
+      ],
+      "result": [],
+      "voteTime": "2025-06-01T01:54:54.995+00:00",
+      "status": "invalid",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "FYZVW",
+      "round": "2",
+      "societyId": "et0k8",
+      "resourceIds": [
+        "vi3Gq"
+      ],
+      "texts": [
+        "dffdfdf",
+        ""
+      ],
+      "result": [],
+      "voteTime": "2025-06-01T01:55:52.252+00:00",
       "status": "voted",
       "tags": {
         "_type": "Tags",
@@ -768,7 +806,7 @@
       "status": "playing",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 102.06100000000004,
+      "timeElapsed": 402.1109999999993,
       "actualTime": {
         "s": "2025-06-01T01:52:00.536+00:00",
         "e": "2025-06-01T02:03:00.536+00:00",
@@ -786,7 +824,7 @@
       "status": "playing",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 1805.5089999999905,
+      "timeElapsed": 2105.557999999992,
       "actualTime": {
         "s": "2025-06-01T01:22:32.211+00:00",
         "e": "2025-06-01T01:34:32.211+00:00",
