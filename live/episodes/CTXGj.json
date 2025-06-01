@@ -472,6 +472,22 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "JdyXC",
+      "round": "2",
+      "societyId": "et0k8",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
