@@ -450,6 +450,22 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "bykb_",
+      "round": "2",
+      "societyId": "et0k8",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -767,7 +783,7 @@
       "status": "playing",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 1206.442999999992,
+      "timeElapsed": 1506.4799999999912,
       "actualTime": {
         "s": "2025-06-01T01:22:32.211+00:00",
         "e": "2025-06-01T01:34:32.211+00:00",
