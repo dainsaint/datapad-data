@@ -429,6 +429,22 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "IvEu8",
+      "round": "2",
+      "societyId": "Feay0",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
