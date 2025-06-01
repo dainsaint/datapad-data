@@ -445,7 +445,7 @@
       ],
       "result": [],
       "voteTime": "2025-06-01T01:24:28.582+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -455,13 +455,16 @@
       "id": "bykb_",
       "round": "2",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "arNw1"
+      ],
+      "texts": [
+        "",
+        ""
+      ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-01T01:49:00.676+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -762,13 +765,13 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "playing",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 73.05700000000002,
+      "timeElapsed": 102.06100000000004,
       "actualTime": {
-        "s": "2025-05-20T23:35:24.461+00:00",
-        "e": "2025-05-23T21:10:29.526+00:00",
+        "s": "2025-06-01T01:52:00.536+00:00",
+        "e": "2025-06-01T02:03:00.536+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -783,7 +786,7 @@
       "status": "playing",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 1506.4799999999912,
+      "timeElapsed": 1805.5089999999905,
       "actualTime": {
         "s": "2025-06-01T01:22:32.211+00:00",
         "e": "2025-06-01T01:34:32.211+00:00",
@@ -3442,6 +3445,13 @@
       "type": "PhaseStarted",
       "description": "Round 2: Galactic Phase",
       "value": "2025-06-01T01:22:32.211Z"
+    },
+    {
+      "id": "ZJC9N",
+      "timestamp": "2025-06-01T01:52:00.536Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-06-01T01:52:00.536Z"
     }
   ]
 }
