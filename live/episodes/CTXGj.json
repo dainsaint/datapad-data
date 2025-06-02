@@ -617,7 +617,7 @@
       ],
       "result": [],
       "voteTime": "2025-06-02T16:12:22.861+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -662,13 +662,18 @@
       "id": "GVcdG",
       "round": "3",
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "kDphD",
+        "SCrpz"
+      ],
+      "texts": [
+        "Nmdmd",
+        "Hhduos",
+        ""
+      ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-02T19:17:45.610+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1764,9 +1769,9 @@
       "id": "BBuJC",
       "round": 3,
       "societyId": "Feay0",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "1",
+      "advantage": "2",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     },
