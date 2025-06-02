@@ -154,17 +154,15 @@
       "round": 1,
       "societyId": "Feay0",
       "resourceIds": [
-        "oxn07"
+        "kDphD"
       ],
       "texts": [
         "",
-        ""
+        "Win"
       ],
-      "risk": "1",
-      "advantage": 0,
-      "disadvantage": 0,
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-02T22:45:51.669+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -468,6 +466,21 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "Db6Ti",
+      "round": "1",
+      "societyId": "Feay0",
+      "resourceIds": [],
+      "texts": [
+        "Hhduos"
+      ],
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -597,7 +610,7 @@
     {
       "id": "FRomU",
       "societyId": "Feay0",
-      "player": "freddie (she/they))",
+      "player": "freddie (she/they)",
       "name": "gaga",
       "voice": "people",
       "tags": {
@@ -620,7 +633,7 @@
       "id": "NVQbL",
       "societyId": "Feay0",
       "player": "",
-      "name": "popo",
+      "name": "pop Pop",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1255,7 +1268,7 @@
     },
     {
       "id": "psJiM",
-      "communityId": "NzLOs",
+      "communityId": "NVQbL",
       "name": "urk87kru",
       "tags": {
         "_type": "Tags",
@@ -1302,7 +1315,7 @@
     },
     {
       "id": "kDphD",
-      "communityId": "FRomU",
+      "communityId": "NVQbL",
       "name": "Incredible Thighs",
       "tags": {
         "_type": "Tags",
@@ -1322,6 +1335,15 @@
       "id": "J9Elj",
       "communityId": "wyWh4",
       "name": "Adele CDs",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "EfFde",
+      "communityId": "G_9_r",
+      "name": "Juice ",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1720,7 +1742,11 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "NVQbL": "",
+        "G_9_r": "",
+        "FRomU": ""
+      },
       "alterLeadership": {}
     },
     {
@@ -3933,6 +3959,12 @@
       "type": "CommunitiesEndangered",
       "description": "Main Test Episode: skreeee,My Guys,Big bois",
       "value": 3
+    },
+    {
+      "id": "oLGhV",
+      "timestamp": "2025-06-02T22:46:10.199Z",
+      "type": "ResourceCreated",
+      "value": "Juice "
     }
   ]
 }
