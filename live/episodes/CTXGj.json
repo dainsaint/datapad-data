@@ -118,19 +118,18 @@
       "round": 1,
       "societyId": "et0k8",
       "resourceIds": [
-        "HOzO6",
-        "vi3Gq",
-        "YaD-S"
+        "HOzO6"
       ],
       "texts": [
-        "Here it goes",
-        "",
+        "dddddd",
         "",
         ""
       ],
+      "risk": "1",
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
-      "voteTime": "2025-06-02T22:52:48.074+00:00",
-      "status": "voted",
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -140,12 +139,11 @@
       "id": "Dh8rS",
       "round": 1,
       "societyId": "V9xbw",
-      "resourceIds": [
-        "qwUwl"
-      ],
-      "texts": [
-        ""
-      ],
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -158,15 +156,17 @@
       "round": 1,
       "societyId": "Feay0",
       "resourceIds": [
-        "kDphD"
+        "oxn07"
       ],
       "texts": [
         "",
-        "Win"
+        ""
       ],
+      "risk": "1",
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
-      "voteTime": "2025-06-02T22:45:51.669+00:00",
-      "status": "voted",
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -459,39 +459,14 @@
       "id": "m_XgE",
       "round": "0",
       "societyId": "et0k8",
-      "resourceIds": [],
+      "resourceIds": [
+        "HOzO6"
+      ],
       "texts": [
+        "",
         "",
         ""
       ],
-      "result": [],
-      "status": "open",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "Db6Ti",
-      "round": "1",
-      "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [
-        "Hhduos"
-      ],
-      "result": [],
-      "status": "open",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "ZP5Bo",
-      "round": "1",
-      "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
@@ -580,7 +555,9 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
@@ -608,12 +585,14 @@
     {
       "id": "G_9_r",
       "societyId": "Feay0",
-      "player": "Grandmuva He/him ",
+      "player": "",
       "name": "nana",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
@@ -624,13 +603,15 @@
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
       "id": "FRomU",
       "societyId": "Feay0",
-      "player": "freddie (she/they)",
+      "player": "freddie (she/they))",
       "name": "gaga",
       "voice": "people",
       "tags": {
@@ -653,11 +634,13 @@
       "id": "NVQbL",
       "societyId": "Feay0",
       "player": "",
-      "name": "pop Pop",
+      "name": "popo",
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
@@ -693,8 +676,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "lost",
-          "endangered"
+          "lost"
         ]
       }
     },
@@ -705,9 +687,7 @@
       "name": "Big bois",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -726,13 +706,13 @@
     {
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
-      "status": "complete",
+      "status": "idle",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 21.003,
+      "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-02T22:38:10.680+00:00",
-        "e": "2025-06-02T22:39:47.524+00:00",
+        "s": "2025-05-12T20:52:56.814+00:00",
+        "e": "2025-05-16T15:29:56.330+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -744,13 +724,13 @@
     {
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "paused",
+      "status": "idle",
       "round": 1,
       "duration": 240,
-      "timeElapsed": 179.1610000000003,
+      "timeElapsed": 174.15800000000033,
       "actualTime": {
-        "s": "2025-06-02T22:41:24.217+00:00",
-        "e": "2025-06-02T22:45:24.217+00:00",
+        "s": "2025-05-13T23:51:02.029+00:00",
+        "e": "2025-05-16T20:21:21.525+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1247,7 +1227,9 @@
       "name": "blergh",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1256,7 +1238,9 @@
       "name": "hey now",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1265,7 +1249,9 @@
       "name": "new",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1274,7 +1260,9 @@
       "name": "adfasd",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1283,16 +1271,20 @@
       "name": "bytes",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
       "id": "psJiM",
-      "communityId": "NVQbL",
+      "communityId": "NzLOs",
       "name": "urk87kru",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1319,7 +1311,9 @@
       "name": "gwgwrtgwrt",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1335,7 +1329,7 @@
     },
     {
       "id": "kDphD",
-      "communityId": "NVQbL",
+      "communityId": "FRomU",
       "name": "Incredible Thighs",
       "tags": {
         "_type": "Tags",
@@ -1355,15 +1349,6 @@
       "id": "J9Elj",
       "communityId": "wyWh4",
       "name": "Adele CDs",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "EfFde",
-      "communityId": "G_9_r",
-      "name": "Juice ",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1692,6 +1677,7 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
+      "emissaryCommunityId": "LiQVN",
       "ambassadors": {},
       "alterLeadership": {}
     },
@@ -1742,7 +1728,6 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "emissaryCommunityId": "",
       "ambassadors": {},
       "alterLeadership": {}
     },
@@ -1763,12 +1748,7 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "emissaryCommunityId": "NzLOs",
-      "ambassadors": {
-        "NVQbL": "",
-        "G_9_r": "",
-        "FRomU": ""
-      },
+      "ambassadors": {},
       "alterLeadership": {}
     },
     {
@@ -3904,89 +3884,6 @@
       "type": "PhaseStarted",
       "description": "Round 2: Break",
       "value": "2025-06-02T18:41:47.648+00:00"
-    },
-    {
-      "id": "opwhL",
-      "timestamp": "2025-06-02T22:38:08.645Z",
-      "type": "PhaseStarted",
-      "description": "Round 0: Setup/Onboarding",
-      "value": "2025-06-02T22:38:08.644Z"
-    },
-    {
-      "id": "Jjglk",
-      "timestamp": "2025-06-02T22:38:10.680Z",
-      "type": "PhaseStarted",
-      "description": "Round 0: Setup/Onboarding",
-      "value": "2025-06-02T22:38:10.680Z"
-    },
-    {
-      "id": "hbjnE",
-      "timestamp": "2025-06-02T22:39:47.524Z",
-      "type": "SocietyActionsTaken",
-      "description": "Frog house",
-      "value": 0
-    },
-    {
-      "id": "WTV9B",
-      "timestamp": "2025-06-02T22:39:47.524Z",
-      "type": "SocietyActionsTaken",
-      "description": "Toad Shack",
-      "value": 0
-    },
-    {
-      "id": "a2Kym",
-      "timestamp": "2025-06-02T22:39:47.524Z",
-      "type": "SocietyActionsTaken",
-      "description": "Beetle Junkies",
-      "value": 0
-    },
-    {
-      "id": "pLk60",
-      "timestamp": "2025-06-02T22:39:47.524Z",
-      "type": "SocietyActionsTaken",
-      "description": "Better Burritos",
-      "value": 0
-    },
-    {
-      "id": "ZM1YP",
-      "timestamp": "2025-06-02T22:39:47.524Z",
-      "type": "SocietyActionsTaken",
-      "description": "Musical Chairs",
-      "value": 0
-    },
-    {
-      "id": "GhaLJ",
-      "timestamp": "2025-06-02T22:40:41.497Z",
-      "type": "PhaseStarted",
-      "description": "Round 1: Universal Phase",
-      "value": "2025-06-02T22:40:41.497Z"
-    },
-    {
-      "id": "qMJd1",
-      "timestamp": "2025-06-02T22:40:41.498Z",
-      "type": "CommunitiesEndangered",
-      "description": "Main Test Episode: skreeee,My Guys,Big bois",
-      "value": 3
-    },
-    {
-      "id": "EMMld",
-      "timestamp": "2025-06-02T22:41:24.217Z",
-      "type": "PhaseStarted",
-      "description": "Round 1: Universal Phase",
-      "value": "2025-06-02T22:41:24.217Z"
-    },
-    {
-      "id": "h8ozr",
-      "timestamp": "2025-06-02T22:41:24.217Z",
-      "type": "CommunitiesEndangered",
-      "description": "Main Test Episode: skreeee,My Guys,Big bois",
-      "value": 3
-    },
-    {
-      "id": "oLGhV",
-      "timestamp": "2025-06-02T22:46:10.199Z",
-      "type": "ResourceCreated",
-      "value": "Juice "
     }
   ]
 }
