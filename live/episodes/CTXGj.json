@@ -503,7 +503,7 @@
       ],
       "result": [],
       "voteTime": "2025-06-02T04:40:27.238+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -522,6 +522,25 @@
       ],
       "result": [],
       "voteTime": "2025-06-02T04:59:52.672+00:00",
+      "status": "voted",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "VyZ_A",
+      "round": "2",
+      "societyId": "Feay0",
+      "resourceIds": [
+        "kDphD"
+      ],
+      "texts": [
+        "do incredible squats",
+        ""
+      ],
+      "result": [],
+      "voteTime": "2025-06-02T05:08:01.509+00:00",
       "status": "voted",
       "tags": {
         "_type": "Tags",
