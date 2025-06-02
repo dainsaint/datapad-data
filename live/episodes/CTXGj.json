@@ -118,16 +118,14 @@
       "round": 1,
       "societyId": "et0k8",
       "resourceIds": [
-        "HOzO6"
+        "HOzO6",
+        "BqPmG"
       ],
       "texts": [
-        "dddddd",
+        "",
         "",
         ""
       ],
-      "risk": "1",
-      "advantage": 0,
-      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -459,17 +457,11 @@
       "id": "m_XgE",
       "round": "0",
       "societyId": "et0k8",
-      "resourceIds": [
-        "HOzO6"
-      ],
+      "resourceIds": [],
       "texts": [
-        "",
         "",
         ""
       ],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -555,9 +547,7 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -590,9 +580,7 @@
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -603,9 +591,7 @@
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -638,9 +624,7 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -676,7 +660,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "lost"
+          "lost",
+          "endangered"
         ]
       }
     },
@@ -687,7 +672,9 @@
       "name": "Big bois",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
@@ -706,13 +693,13 @@
     {
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
-      "status": "playing",
+      "status": "complete",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 0,
+      "timeElapsed": 21.003,
       "actualTime": {
-        "s": "2025-06-02T22:38:08.644+00:00",
-        "e": "2025-06-02T22:58:08.644+00:00",
+        "s": "2025-06-02T22:38:10.680+00:00",
+        "e": "2025-06-02T22:39:47.524+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -724,13 +711,13 @@
     {
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "paused",
       "round": 1,
       "duration": 240,
-      "timeElapsed": 174.15800000000033,
+      "timeElapsed": 179.1610000000003,
       "actualTime": {
-        "s": "2025-05-13T23:51:02.029+00:00",
-        "e": "2025-05-16T20:21:21.525+00:00",
+        "s": "2025-06-02T22:41:24.217+00:00",
+        "e": "2025-06-02T22:45:24.217+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1227,9 +1214,7 @@
       "name": "blergh",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1238,9 +1223,7 @@
       "name": "hey now",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1249,9 +1232,7 @@
       "name": "new",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1260,9 +1241,7 @@
       "name": "adfasd",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1271,9 +1250,7 @@
       "name": "bytes",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1282,9 +1259,7 @@
       "name": "urk87kru",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1311,9 +1286,7 @@
       "name": "gwgwrtgwrt",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -3890,6 +3863,76 @@
       "type": "PhaseStarted",
       "description": "Round 0: Setup/Onboarding",
       "value": "2025-06-02T22:38:08.644Z"
+    },
+    {
+      "id": "Jjglk",
+      "timestamp": "2025-06-02T22:38:10.680Z",
+      "type": "PhaseStarted",
+      "description": "Round 0: Setup/Onboarding",
+      "value": "2025-06-02T22:38:10.680Z"
+    },
+    {
+      "id": "hbjnE",
+      "timestamp": "2025-06-02T22:39:47.524Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 0
+    },
+    {
+      "id": "WTV9B",
+      "timestamp": "2025-06-02T22:39:47.524Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "a2Kym",
+      "timestamp": "2025-06-02T22:39:47.524Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "pLk60",
+      "timestamp": "2025-06-02T22:39:47.524Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "ZM1YP",
+      "timestamp": "2025-06-02T22:39:47.524Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
+    },
+    {
+      "id": "GhaLJ",
+      "timestamp": "2025-06-02T22:40:41.497Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Universal Phase",
+      "value": "2025-06-02T22:40:41.497Z"
+    },
+    {
+      "id": "qMJd1",
+      "timestamp": "2025-06-02T22:40:41.498Z",
+      "type": "CommunitiesEndangered",
+      "description": "Main Test Episode: skreeee,My Guys,Big bois",
+      "value": 3
+    },
+    {
+      "id": "EMMld",
+      "timestamp": "2025-06-02T22:41:24.217Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Universal Phase",
+      "value": "2025-06-02T22:41:24.217Z"
+    },
+    {
+      "id": "h8ozr",
+      "timestamp": "2025-06-02T22:41:24.217Z",
+      "type": "CommunitiesEndangered",
+      "description": "Main Test Episode: skreeee,My Guys,Big bois",
+      "value": 3
     }
   ]
 }
