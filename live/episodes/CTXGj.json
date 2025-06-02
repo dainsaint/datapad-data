@@ -752,9 +752,9 @@
     {
       "id": "LiQVN",
       "societyId": "et0k8",
-      "player": "Jeff",
+      "player": "Sam Reich (he/him(",
       "name": "Pencils Down",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -1751,7 +1751,8 @@
       "disadvantage": 0,
       "emissaryCommunityId": "Qw0Xm",
       "ambassadors": {
-        "cV-Kn": "V9xbw"
+        "cV-Kn": "V9xbw",
+        "LiQVN": ""
       },
       "alterLeadership": {}
     },
