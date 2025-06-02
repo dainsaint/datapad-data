@@ -104,7 +104,7 @@
       "disadvantage": "0",
       "result": [],
       "voteTime": "2025-05-23T22:01:32.805+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -338,7 +338,7 @@
       "disadvantage": 0,
       "result": [],
       "voteTime": "2025-05-28T14:31:53.179+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -446,7 +446,7 @@
       "disadvantage": 0,
       "result": [],
       "voteTime": "2025-06-01T02:01:43.190+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -456,13 +456,54 @@
       "id": "ynkKk",
       "round": "2",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "QvweM"
+      ],
+      "texts": [
+        "AAAAARRRRGGGGG",
+        ""
+      ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-02T04:37:49.250+00:00",
+      "status": "voted",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "qhsmj",
+      "round": "2",
+      "societyId": "yXHVO",
+      "resourceIds": [
+        "KB9VT"
+      ],
+      "texts": [
+        "be a scum bum",
+        ""
+      ],
+      "result": [],
+      "voteTime": "2025-06-02T04:39:05.544+00:00",
+      "status": "voted",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "RCGbd",
+      "round": "2",
+      "societyId": "Feay0",
+      "resourceIds": [
+        "SCrpz"
+      ],
+      "texts": [
+        "bool ceanz",
+        ""
+      ],
+      "result": [],
+      "voteTime": "2025-06-02T04:40:27.238+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1301,6 +1342,15 @@
       "id": "kDphD",
       "communityId": "FRomU",
       "name": "Incredible Thighs",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "SCrpz",
+      "communityId": "NVQbL",
+      "name": "cool beanz",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -3709,6 +3759,12 @@
       "timestamp": "2025-05-30T20:56:34.054+00:00",
       "type": "ResourceCreated",
       "value": "Incredible Thighs"
+    },
+    {
+      "id": "FNiNk",
+      "timestamp": "2025-06-02T04:40:04.880Z",
+      "type": "ResourceCreated",
+      "value": "cool beanz"
     }
   ]
 }
