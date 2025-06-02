@@ -1694,7 +1694,9 @@
       "advantage": 0,
       "disadvantage": 0,
       "emissaryCommunityId": "Qw0Xm",
-      "ambassadors": {},
+      "ambassadors": {
+        "cV-Kn": "V9xbw"
+      },
       "alterLeadership": {}
     },
     {
