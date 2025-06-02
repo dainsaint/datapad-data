@@ -522,7 +522,7 @@
       ],
       "result": [],
       "voteTime": "2025-06-02T04:59:52.672+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -541,6 +541,25 @@
       ],
       "result": [],
       "voteTime": "2025-06-02T05:08:01.509+00:00",
+      "status": "voted",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "vwWUB",
+      "round": "2",
+      "societyId": "et0k8",
+      "resourceIds": [
+        "YaD-S"
+      ],
+      "texts": [
+        "start shit",
+        ""
+      ],
+      "result": [],
+      "voteTime": "2025-06-02T16:00:33.558+00:00",
       "status": "voted",
       "tags": {
         "_type": "Tags",
