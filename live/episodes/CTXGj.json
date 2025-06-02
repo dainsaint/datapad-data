@@ -338,7 +338,7 @@
       "disadvantage": 0,
       "result": [],
       "voteTime": "2025-05-28T14:31:53.179+00:00",
-      "status": "invalid",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -453,42 +453,16 @@
       }
     },
     {
-      "id": "irjqL",
+      "id": "ynkKk",
       "round": "2",
       "societyId": "et0k8",
-      "resourceIds": [
-        "QvweM",
-        "vi3Gq"
-      ],
-      "texts": [
-        "partaaaaaaay",
-        "",
-        ""
-      ],
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
-      "voteTime": "2025-06-01T02:17:54.640+00:00",
-      "status": "invalid",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "JdyXC",
-      "round": "2",
-      "societyId": "et0k8",
-      "resourceIds": [
-        "arNw1",
-        "YaD-S"
-      ],
-      "texts": [
-        "dddddddddddd",
-        "",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-06-01T02:58:21.176+00:00",
-      "status": "voted",
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
