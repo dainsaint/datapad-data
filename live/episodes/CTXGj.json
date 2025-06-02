@@ -678,6 +678,25 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "Jyx7h",
+      "round": "3",
+      "societyId": "et0k8",
+      "resourceIds": [
+        "arNw1",
+        "HOzO6"
+      ],
+      "texts": [
+        "",
+        ""
+      ],
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
