@@ -1,7 +1,7 @@
 {
   "id": "CTXGj",
-  "name": "New Episode",
-  "date": "2025-05-10T03:53:00.132+00:00",
+  "name": "Main Test Episode",
+  "date": "2025-05-09T04:00:00.000+00:00",
   "scheduledTime": {
     "s": "2025-05-10T03:53:00.132+00:00",
     "e": "2025-05-10T08:53:00.132+00:00",
@@ -37,7 +37,10 @@
       "round": 2,
       "societyId": "V9xbw",
       "resourceIds": [],
-      "texts": [],
+      "texts": [
+        "",
+        ""
+      ],
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
@@ -104,7 +107,7 @@
       "disadvantage": "0",
       "result": [],
       "voteTime": "2025-05-23T22:01:32.805+00:00",
-      "status": "invalid",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -338,7 +341,7 @@
       "disadvantage": 0,
       "result": [],
       "voteTime": "2025-05-28T14:31:53.179+00:00",
-      "status": "invalid",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -359,7 +362,7 @@
       "disadvantage": "Dis 0",
       "result": [],
       "voteTime": "2025-05-25T23:44:53.602+00:00",
-      "status": "invalid",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -446,44 +449,6 @@
       "disadvantage": 0,
       "result": [],
       "voteTime": "2025-06-01T02:01:43.190+00:00",
-      "status": "invalid",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "ynkKk",
-      "round": "2",
-      "societyId": "et0k8",
-      "resourceIds": [
-        "QvweM"
-      ],
-      "texts": [
-        "AAAAARRRRGGGGG",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-06-02T04:37:49.250+00:00",
-      "status": "invalid",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "qhsmj",
-      "round": "2",
-      "societyId": "yXHVO",
-      "resourceIds": [
-        "KB9VT"
-      ],
-      "texts": [
-        "be a scum bum",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-06-02T04:39:05.544+00:00",
       "status": "voted",
       "tags": {
         "_type": "Tags",
@@ -491,206 +456,20 @@
       }
     },
     {
-      "id": "RCGbd",
-      "round": "2",
-      "societyId": "Feay0",
-      "resourceIds": [
-        "SCrpz"
-      ],
-      "texts": [
-        "bool ceanz",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-06-02T04:40:27.238+00:00",
-      "status": "invalid",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "rHbfs",
-      "round": "2",
+      "id": "m_XgE",
+      "round": "0",
       "societyId": "et0k8",
       "resourceIds": [
-        "HOzO6"
-      ],
-      "texts": [
-        "meee-yow!",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-06-02T04:59:52.672+00:00",
-      "status": "invalid",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "VyZ_A",
-      "round": "2",
-      "societyId": "Feay0",
-      "resourceIds": [
-        "kDphD"
-      ],
-      "texts": [
-        "do incredible squats",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-06-02T05:08:01.509+00:00",
-      "status": "invalid",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "vwWUB",
-      "round": "2",
-      "societyId": "et0k8",
-      "resourceIds": [
-        "YaD-S"
-      ],
-      "texts": [
-        "start shit",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-06-02T16:00:33.558+00:00",
-      "status": "invalid",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "zYtRt",
-      "round": "2",
-      "societyId": "Feay0",
-      "resourceIds": [
-        "SCrpz"
-      ],
-      "texts": [
-        "Cool beanstalk",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-06-02T16:07:31.547+00:00",
-      "status": "voted",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "QM2gP",
-      "round": "2",
-      "societyId": "et0k8",
-      "resourceIds": [
-        "FADd2"
-      ],
-      "texts": [
-        "hop till we drop",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-06-02T16:11:17.907+00:00",
-      "status": "voted",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "z75Ma",
-      "round": "3",
-      "societyId": "Feay0",
-      "resourceIds": [
-        "SCrpz"
-      ],
-      "texts": [
-        "cool jets",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-06-02T16:12:22.861+00:00",
-      "status": "invalid",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "U_4ML",
-      "round": "3",
-      "societyId": "et0k8",
-      "resourceIds": [
-        "HOzO6"
-      ],
-      "texts": [
-        "Dooooo",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-06-02T19:11:53.897+00:00",
-      "status": "voted",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "S9q48",
-      "round": "3",
-      "societyId": "e-JcG",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
-      "result": [],
-      "status": "open",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "GVcdG",
-      "round": "3",
-      "societyId": "Feay0",
-      "resourceIds": [
-        "kDphD",
-        "SCrpz"
-      ],
-      "texts": [
-        "Nmdmd",
-        "Hhduos",
-        ""
-      ],
-      "result": [],
-      "voteTime": "2025-06-02T19:17:45.610+00:00",
-      "status": "voted",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "Jyx7h",
-      "round": "3",
-      "societyId": "et0k8",
-      "resourceIds": [
-        "arNw1",
         "HOzO6"
       ],
       "texts": [
         "",
+        "",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -771,9 +550,9 @@
     {
       "id": "LiQVN",
       "societyId": "et0k8",
-      "player": "Sam Reich (he/him(",
+      "player": "Jeff",
       "name": "Pencils Down",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -784,7 +563,7 @@
     {
       "id": "R9tmF",
       "societyId": "et0k8",
-      "player": "Sam Reich (he/him(",
+      "player": "Sam Reich (he/him)",
       "name": "Quinn",
       "voice": "people",
       "tags": {
@@ -900,19 +679,40 @@
           "lost"
         ]
       }
+    },
+    {
+      "id": "EyA7h",
+      "societyId": "et0k8",
+      "player": "Natalie (she/they)",
+      "name": "Big bois",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "wyWh4",
+      "societyId": "V9xbw",
+      "player": "Here",
+      "name": "What happened",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
     {
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
-      "status": "complete",
+      "status": "playing",
       "round": 0,
       "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-05-12T20:52:56.814+00:00",
-        "e": "2025-05-16T15:29:56.330+00:00",
+        "s": "2025-06-02T22:38:08.644+00:00",
+        "e": "2025-06-02T22:58:08.644+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -924,7 +724,7 @@
     {
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 240,
       "timeElapsed": 174.15800000000033,
@@ -942,7 +742,7 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 900,
       "timeElapsed": 0,
@@ -960,7 +760,7 @@
     {
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 720,
       "timeElapsed": 0,
@@ -978,7 +778,7 @@
     {
       "id": "ml6Q3",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 240,
       "timeElapsed": 19.018,
@@ -996,7 +796,7 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 660,
       "timeElapsed": 73.05700000000002,
@@ -1014,7 +814,7 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 720,
       "timeElapsed": 9.009999999999998,
@@ -1032,7 +832,7 @@
     {
       "id": "iFRIY",
       "type": "Individual Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
@@ -1050,13 +850,13 @@
     {
       "id": "VZQ7m",
       "type": "Break",
-      "status": "complete",
+      "status": "paused",
       "round": 2,
-      "duration": 0,
-      "timeElapsed": 0,
+      "duration": 300,
+      "timeElapsed": 16.013999999999996,
       "actualTime": {
-        "s": "2025-05-12T19:38:12.770+00:00",
-        "e": "2025-06-02T16:11:42.657+00:00",
+        "s": "2025-06-02T18:41:47.647+00:00",
+        "e": "2025-06-02T18:46:47.647+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1405,7 +1205,7 @@
     },
     {
       "id": "arNw1",
-      "communityId": "kATHn",
+      "communityId": "R9tmF",
       "name": "afergre",
       "tags": {
         "_type": "Tags",
@@ -1537,9 +1337,18 @@
       }
     },
     {
-      "id": "SCrpz",
-      "communityId": "NVQbL",
-      "name": "cool beanz",
+      "id": "qwUwl",
+      "communityId": "wyWh4",
+      "name": "Spring Rolls",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "J9Elj",
+      "communityId": "wyWh4",
+      "name": "Adele CDs",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1740,9 +1549,9 @@
       "round": 2,
       "societyId": "et0k8",
       "risk": "1",
-      "advantage": "2",
+      "advantage": "0",
       "disadvantage": "0",
-      "emissaryCommunityId": "cV-Kn",
+      "emissaryCommunityId": "R9tmF",
       "ambassadors": {
         "Qw0Xm": "",
         "R9tmF": "",
@@ -1756,8 +1565,8 @@
       "round": 2,
       "societyId": "yXHVO",
       "risk": "1",
-      "advantage": "2",
-      "disadvantage": "2",
+      "advantage": "0",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     },
@@ -1768,11 +1577,7 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "emissaryCommunityId": "Qw0Xm",
-      "ambassadors": {
-        "cV-Kn": "V9xbw",
-        "LiQVN": ""
-      },
+      "ambassadors": {},
       "alterLeadership": {}
     },
     {
@@ -1789,9 +1594,9 @@
       "id": "BBuJC",
       "round": 3,
       "societyId": "Feay0",
-      "risk": "1",
-      "advantage": "2",
-      "disadvantage": "0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "ambassadors": {},
       "alterLeadership": {}
     },
@@ -1858,6 +1663,106 @@
     {
       "id": "ExKuK",
       "round": 4,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "Tw149",
+      "round": 0,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "ZCFzl",
+      "round": 0,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "bAwL4",
+      "round": 0,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "VV_io",
+      "round": 0,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "AwU2e",
+      "round": 0,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "oVaP8",
+      "round": 1,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "mlK-8",
+      "round": 1,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "SCRMy",
+      "round": 1,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "bRsbe",
+      "round": 1,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "id": "vdo8r",
+      "round": 1,
       "societyId": "yXHVO",
       "risk": 1,
       "advantage": 0,
@@ -3954,66 +3859,37 @@
       "value": "Incredible Thighs"
     },
     {
-      "id": "FNiNk",
-      "timestamp": "2025-06-02T04:40:04.880Z",
+      "id": "uTZ3X",
+      "timestamp": "2025-06-02T18:36:53.487+00:00",
       "type": "ResourceCreated",
-      "value": "cool beanz"
+      "value": "Spring Rolls"
     },
     {
-      "id": "oeenZ",
-      "timestamp": "2025-06-02T16:11:42.657Z",
-      "type": "SocietyActionsTaken",
-      "description": "Frog house",
-      "value": 1
+      "id": "ryKZy",
+      "timestamp": "2025-06-02T18:38:20.939+00:00",
+      "type": "ResourceCreated",
+      "value": "Adele CDs"
     },
     {
-      "id": "bwF8n",
-      "timestamp": "2025-06-02T16:11:42.657Z",
-      "type": "ActionResources",
-      "description": "Frog house used lillypadz to take action.",
-      "value": 1
+      "id": "ryKt7",
+      "timestamp": "2025-06-02T18:41:31.375+00:00",
+      "type": "PhaseStarted",
+      "description": "Round 2: Break",
+      "value": "2025-06-02T18:41:31.375+00:00"
     },
     {
-      "id": "wNdmo",
-      "timestamp": "2025-06-02T16:11:42.657Z",
-      "type": "SocietyActionsTaken",
-      "description": "Toad Shack",
-      "value": 0
+      "id": "LqChp",
+      "timestamp": "2025-06-02T18:41:47.648+00:00",
+      "type": "PhaseStarted",
+      "description": "Round 2: Break",
+      "value": "2025-06-02T18:41:47.648+00:00"
     },
     {
-      "id": "PSIWI",
-      "timestamp": "2025-06-02T16:11:42.657Z",
-      "type": "SocietyActionsTaken",
-      "description": "Beetle Junkies",
-      "value": 1
-    },
-    {
-      "id": "chFDz",
-      "timestamp": "2025-06-02T16:11:42.658Z",
-      "type": "ActionResources",
-      "description": "Beetle Junkies used cool beanz to take action.",
-      "value": 1
-    },
-    {
-      "id": "Qs6R0",
-      "timestamp": "2025-06-02T16:11:42.658Z",
-      "type": "SocietyActionsTaken",
-      "description": "Better Burritos",
-      "value": 0
-    },
-    {
-      "id": "sQF84",
-      "timestamp": "2025-06-02T16:11:42.658Z",
-      "type": "SocietyActionsTaken",
-      "description": "Musical Chairs",
-      "value": 1
-    },
-    {
-      "id": "KeYTa",
-      "timestamp": "2025-06-02T16:11:42.658Z",
-      "type": "ActionResources",
-      "description": "Musical Chairs used scum to take action.",
-      "value": 1
+      "id": "opwhL",
+      "timestamp": "2025-06-02T22:38:08.645Z",
+      "type": "PhaseStarted",
+      "description": "Round 0: Setup/Onboarding",
+      "value": "2025-06-02T22:38:08.644Z"
     }
   ]
 }
