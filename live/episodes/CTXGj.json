@@ -119,15 +119,18 @@
       "societyId": "et0k8",
       "resourceIds": [
         "HOzO6",
-        "BqPmG"
+        "vi3Gq",
+        "YaD-S"
       ],
       "texts": [
+        "Here it goes",
         "",
         "",
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-02T22:52:48.074+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -137,11 +140,12 @@
       "id": "Dh8rS",
       "round": 1,
       "societyId": "V9xbw",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "qwUwl"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -481,6 +485,22 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "ZP5Bo",
+      "round": "1",
+      "societyId": "et0k8",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -588,7 +608,7 @@
     {
       "id": "G_9_r",
       "societyId": "Feay0",
-      "player": "",
+      "player": "Grandmuva He/him ",
       "name": "nana",
       "voice": "leader",
       "tags": {
@@ -1722,6 +1742,7 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
+      "emissaryCommunityId": "",
       "ambassadors": {},
       "alterLeadership": {}
     },
@@ -1742,6 +1763,7 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
+      "emissaryCommunityId": "NzLOs",
       "ambassadors": {
         "NVQbL": "",
         "G_9_r": "",
