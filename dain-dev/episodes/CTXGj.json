@@ -333,10 +333,16 @@
       ],
       "texts": [
         "be disagreeable",
-        "dsgsrrae",
+        "hurt people",
         ""
       ],
-      "result": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [
+        0,
+        6
+      ],
       "voteTime": "2025-06-03T15:04:35.836-04:00",
       "status": "voted",
       "tags": {
@@ -438,13 +444,15 @@
         "kDphD"
       ],
       "texts": [
-        "",
+        "crush all the watermelons",
         ""
       ],
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "result": [],
+      "result": [
+        0
+      ],
       "voteTime": "2025-06-03T15:04:27.788-04:00",
       "status": "voted",
       "tags": {
