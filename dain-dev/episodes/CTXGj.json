@@ -702,13 +702,13 @@
     {
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
-      "status": "idle",
+      "status": "complete",
       "round": 0,
       "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-12T16:52:56.814-04:00",
-        "e": "2025-05-16T11:29:56.330-04:00",
+        "e": "2025-06-03T15:01:51.228-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -3882,6 +3882,41 @@
       "type": "PhaseStarted",
       "description": "Round 2: Break",
       "value": "2025-06-02T14:41:47.648-04:00"
+    },
+    {
+      "id": "nKOzJ",
+      "timestamp": "2025-06-03T19:01:51.228Z",
+      "type": "SocietyActionsTaken",
+      "description": "Frog house",
+      "value": 0
+    },
+    {
+      "id": "g5iku",
+      "timestamp": "2025-06-03T19:01:51.229Z",
+      "type": "SocietyActionsTaken",
+      "description": "Toad Shack",
+      "value": 0
+    },
+    {
+      "id": "qwL74",
+      "timestamp": "2025-06-03T19:01:51.229Z",
+      "type": "SocietyActionsTaken",
+      "description": "Beetle Junkies",
+      "value": 0
+    },
+    {
+      "id": "BgUn6",
+      "timestamp": "2025-06-03T19:01:51.229Z",
+      "type": "SocietyActionsTaken",
+      "description": "Better Burritos",
+      "value": 0
+    },
+    {
+      "id": "SNpV7",
+      "timestamp": "2025-06-03T19:01:51.229Z",
+      "type": "SocietyActionsTaken",
+      "description": "Musical Chairs",
+      "value": 0
     }
   ]
 }
