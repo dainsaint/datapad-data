@@ -1356,6 +1356,7 @@
       "id": "et0k8",
       "name": "Frog house",
       "archetype": "the faithful",
+      "fateId": "fate_two",
       "color": "color-deep-orange",
       "tags": {
         "_type": "Tags",
