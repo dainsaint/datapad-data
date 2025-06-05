@@ -340,8 +340,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "result": [
-        5,
-        5
+        2,
+        4
       ],
       "voteTime": "2025-06-03T19:04:35.836+00:00",
       "status": "voted",
@@ -1190,7 +1190,7 @@
     },
     {
       "id": "QvweM",
-      "communityId": "kATHn",
+      "communityId": "LiQVN",
       "name": "arg",
       "tags": {
         "_type": "Tags",
@@ -1217,7 +1217,7 @@
     },
     {
       "id": "BqPmG",
-      "communityId": "B95dD",
+      "communityId": "cV-Kn",
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
@@ -1779,7 +1779,8 @@
   ],
   "documentIds": [
     "Wt6ry",
-    "ZWFCD"
+    "ZWFCD",
+    "Q7rUf"
   ],
   "links": {
     "discord": "discord://-/channels/1063250197993492480/1063254140341473350"
