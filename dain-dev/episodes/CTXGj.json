@@ -341,7 +341,7 @@
       "disadvantage": 0,
       "result": [
         2,
-        4
+        3
       ],
       "voteTime": "2025-06-03T15:04:35.836-04:00",
       "status": "voted",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "yXHVO",
-      "archetype": "the grounded",
+      "archetype": "the enterprise",
       "fateId": "",
       "color": "color-canary-diamond",
       "tags": {
