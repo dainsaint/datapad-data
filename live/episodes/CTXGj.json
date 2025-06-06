@@ -155,16 +155,11 @@
       "id": "EWAp2",
       "round": 1,
       "societyId": "Feay0",
-      "resourceIds": [
-        "oxn07"
-      ],
+      "resourceIds": [],
       "texts": [
         "",
         ""
       ],
-      "risk": "1",
-      "advantage": 0,
-      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
