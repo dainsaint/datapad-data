@@ -239,15 +239,15 @@
   ],
   "phases": [
     {
-      "id": "IR8lY",
+      "id": "MMo3H",
       "type": "Setup/Onboarding",
       "status": "idle",
       "round": 0,
       "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.488-04:00",
+        "e": "2025-06-06T15:50:16.488-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -257,15 +257,15 @@
       }
     },
     {
-      "id": "ZlDph",
+      "id": "jpmU5",
       "type": "Universal Phase",
       "status": "idle",
       "round": 1,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.488-04:00",
+        "e": "2025-06-06T15:50:16.488-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -275,15 +275,15 @@
       }
     },
     {
-      "id": "D8Hoq",
+      "id": "BwLqr",
       "type": "Societal Phase",
       "status": "idle",
       "round": 1,
       "duration": 900,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.488-04:00",
+        "e": "2025-06-06T15:50:16.488-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -293,15 +293,15 @@
       }
     },
     {
-      "id": "XT1Zj",
+      "id": "EMmKW",
       "type": "Galactic Phase",
       "status": "idle",
       "round": 1,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.488-04:00",
+        "e": "2025-06-06T15:50:16.488-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -311,15 +311,15 @@
       }
     },
     {
-      "id": "YkGkV",
+      "id": "SK6lL",
       "type": "Universal Phase",
       "status": "idle",
       "round": 2,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -329,15 +329,15 @@
       }
     },
     {
-      "id": "rPm7a",
+      "id": "dZd0Y",
       "type": "Societal Phase",
       "status": "idle",
       "round": 2,
       "duration": 660,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -347,15 +347,15 @@
       }
     },
     {
-      "id": "BIbTn",
+      "id": "NcHHv",
       "type": "Galactic Phase",
       "status": "idle",
       "round": 2,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -365,15 +365,15 @@
       }
     },
     {
-      "id": "Xk0Zh",
+      "id": "QalX5",
       "type": "Individual Phase",
       "status": "idle",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -383,15 +383,15 @@
       }
     },
     {
-      "id": "YOHVt",
+      "id": "Ubjs6",
       "type": "Break",
       "status": "idle",
       "round": 2,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -401,15 +401,15 @@
       }
     },
     {
-      "id": "K95mQ",
+      "id": "APoHL",
       "type": "Universal Phase",
       "status": "idle",
       "round": 3,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -419,15 +419,15 @@
       }
     },
     {
-      "id": "SVjtu",
+      "id": "OAM5H",
       "type": "Societal Phase",
       "status": "idle",
       "round": 3,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -437,15 +437,15 @@
       }
     },
     {
-      "id": "f6jON",
+      "id": "YdngW",
       "type": "Galactic Phase",
       "status": "idle",
       "round": 3,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -455,15 +455,15 @@
       }
     },
     {
-      "id": "FiRsZ",
+      "id": "wvOBr",
       "type": "Universal Phase",
       "status": "idle",
       "round": 4,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -473,15 +473,15 @@
       }
     },
     {
-      "id": "DkAvv",
+      "id": "w_jLZ",
       "type": "Societal Phase",
       "status": "idle",
       "round": 4,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -491,15 +491,15 @@
       }
     },
     {
-      "id": "hEZp9",
+      "id": "QfP4k",
       "type": "Galactic Phase",
       "status": "idle",
       "round": 4,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -509,15 +509,15 @@
       }
     },
     {
-      "id": "zU2xD",
+      "id": "DNR32",
       "type": "Individual Phase",
       "status": "idle",
       "round": 4,
       "duration": 480,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -527,15 +527,15 @@
       }
     },
     {
-      "id": "rHg7k",
+      "id": "vrLR-",
       "type": "Break",
       "status": "idle",
       "round": 4,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -545,15 +545,15 @@
       }
     },
     {
-      "id": "XzFmP",
+      "id": "HVmDo",
       "type": "Universal Phase",
       "status": "idle",
       "round": 5,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -563,15 +563,15 @@
       }
     },
     {
-      "id": "v0a3K",
+      "id": "MX6Hp",
       "type": "Societal Phase",
       "status": "idle",
       "round": 5,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -581,15 +581,15 @@
       }
     },
     {
-      "id": "Vdbd7",
+      "id": "QmSRb",
       "type": "Galactic Phase",
       "status": "idle",
       "round": 5,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -599,15 +599,15 @@
       }
     },
     {
-      "id": "An3dg",
+      "id": "L0-U7",
       "type": "Universal Phase",
       "status": "idle",
       "round": 6,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -617,15 +617,15 @@
       }
     },
     {
-      "id": "vhg6s",
+      "id": "FiUGa",
       "type": "Societal Phase",
       "status": "idle",
       "round": 6,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -635,15 +635,15 @@
       }
     },
     {
-      "id": "OJlRW",
+      "id": "KA2XH",
       "type": "Galactic Phase",
       "status": "idle",
       "round": 6,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -653,15 +653,15 @@
       }
     },
     {
-      "id": "uzjw8",
+      "id": "Yf2WU",
       "type": "Generational Phase",
       "status": "idle",
       "round": 6,
       "duration": 900,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -671,15 +671,15 @@
       }
     },
     {
-      "id": "C8QOZ",
+      "id": "oefh4",
       "type": "Conclusion",
       "status": "idle",
       "round": 6,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-06T15:49:46.544-04:00",
-        "e": "2025-06-06T15:49:46.544-04:00",
+        "s": "2025-06-06T15:50:16.489-04:00",
+        "e": "2025-06-06T15:50:16.489-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
