@@ -1361,7 +1361,6 @@
   "societies": [
     {
       "id": "et0k8",
-      "name": "Frog house",
       "archetype": "the faithful",
       "fateId": "fate_two",
       "color": "color-deep-orange",
@@ -1417,7 +1416,6 @@
     },
     {
       "id": "V9xbw",
-      "name": "Toad Shack",
       "archetype": "the aesthetic",
       "fateId": "fate_one",
       "color": "color-light-blue",
@@ -1442,7 +1440,6 @@
     },
     {
       "id": "Feay0",
-      "name": "Beetle Junkies",
       "archetype": "the mighty",
       "color": "color-deep-purple",
       "tags": {
@@ -1467,7 +1464,6 @@
     },
     {
       "id": "e-JcG",
-      "name": "Better Burritos",
       "archetype": "the intrepid",
       "color": "color-river-stone",
       "tags": {
@@ -1491,8 +1487,8 @@
     },
     {
       "id": "yXHVO",
-      "name": "Musical Chairs",
       "archetype": "the enterprise",
+      "fateId": "",
       "color": "color-canary-diamond",
       "tags": {
         "_type": "Tags",
