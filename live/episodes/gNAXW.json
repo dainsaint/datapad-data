@@ -289,8 +289,8 @@
     {
       "id": "odA1g",
       "societyId": "yXHVO",
-      "player": "Test",
-      "name": "Test ",
+      "player": "Ck",
+      "name": "People PleasiNG TOUR GUIDES ",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -984,7 +984,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "odA1g": ""
+      },
       "alterLeadership": {}
     }
   ],
