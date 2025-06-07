@@ -698,6 +698,17 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "jyu7R",
+      "societyId": "et0k8",
+      "player": "",
+      "name": "Test",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
