@@ -198,17 +198,6 @@
       }
     },
     {
-      "id": "jaCtF",
-      "societyId": "yXHVO",
-      "player": "",
-      "name": "big ol shair",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
       "id": "Bd8RN",
       "societyId": "V9xbw",
       "player": "",
@@ -300,8 +289,8 @@
     {
       "id": "X7cLE",
       "societyId": "yXHVO",
-      "player": "",
-      "name": "T",
+      "player": "Ck",
+      "name": "inventive Plastic Makers ",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -311,9 +300,9 @@
     {
       "id": "OXjLR",
       "societyId": "yXHVO",
-      "player": "",
-      "name": "Test ",
-      "voice": "people",
+      "player": "Jane ",
+      "name": "ambitious Moms ",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -322,8 +311,8 @@
     {
       "id": "q9htT",
       "societyId": "yXHVO",
-      "player": "",
-      "name": "Rt",
+      "player": "Zarna ",
+      "name": "Implosive Munchers",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -985,7 +974,10 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "odA1g": ""
+        "odA1g": "",
+        "X7cLE": "",
+        "OXjLR": "",
+        "q9htT": ""
       },
       "alterLeadership": {}
     }
