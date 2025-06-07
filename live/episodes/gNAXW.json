@@ -773,7 +773,35 @@
     }
   ],
   "players": [],
-  "resources": [],
+  "resources": [
+    {
+      "id": "lJUsP",
+      "communityId": "X7cLE",
+      "name": "Adaptable Compounds",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "nZ0aF",
+      "communityId": "X7cLE",
+      "name": "Industrial Molds ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "OkVLG",
+      "communityId": "odA1g",
+      "name": "Exhaustive Knowledge Of Natural World ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    }
+  ],
   "societies": [
     {
       "id": "et0k8",
@@ -988,5 +1016,24 @@
     "Q7rUf"
   ],
   "links": {},
-  "records": []
+  "records": [
+    {
+      "id": "tuOXI",
+      "timestamp": "2025-06-07T17:20:50.313Z",
+      "type": "ResourceCreated",
+      "value": "Adaptable Compounds"
+    },
+    {
+      "id": "ONe82",
+      "timestamp": "2025-06-07T17:21:13.462Z",
+      "type": "ResourceCreated",
+      "value": "Industrial Molds "
+    },
+    {
+      "id": "WTHOL",
+      "timestamp": "2025-06-07T17:21:48.867Z",
+      "type": "ResourceCreated",
+      "value": "Exhaustive Knowledge Of Natural World "
+    }
+  ]
 }
