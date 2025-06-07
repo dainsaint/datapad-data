@@ -12,7 +12,24 @@
     "_type": "Tags",
     "value": []
   },
-  "actions": [],
+  "actions": [
+    {
+      "id": "wBhs-",
+      "round": "0",
+      "societyId": "yXHVO",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    }
+  ],
   "communities": [
     {
       "id": "o7kHM",
@@ -274,6 +291,39 @@
       "societyId": "yXHVO",
       "player": "Test",
       "name": "Test ",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "X7cLE",
+      "societyId": "yXHVO",
+      "player": "",
+      "name": "T",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "OXjLR",
+      "societyId": "yXHVO",
+      "player": "",
+      "name": "Test ",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "q9htT",
+      "societyId": "yXHVO",
+      "player": "",
+      "name": "Rt",
       "voice": "people",
       "tags": {
         "_type": "Tags",
