@@ -1155,6 +1155,24 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "uvK1c",
+      "type": "Individual Phase",
+      "status": "idle",
+      "round": 6,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-06-07T21:12:02.733-04:00",
+        "e": "2025-06-07T21:12:02.733-04:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "players": [],
