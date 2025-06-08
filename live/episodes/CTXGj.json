@@ -789,9 +789,9 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
-      "duration": 900,
+      "duration": 1080,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
@@ -807,7 +807,7 @@
     {
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 720,
       "timeElapsed": 0,
@@ -825,7 +825,7 @@
     {
       "id": "ml6Q3",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 240,
       "timeElapsed": 19.018,
@@ -843,7 +843,7 @@
     {
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 660,
       "timeElapsed": 73.05700000000002,
@@ -861,7 +861,7 @@
     {
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 720,
       "timeElapsed": 9.009999999999998,
@@ -1400,6 +1400,69 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "bN5UO",
+      "communityId": "u0fa0",
+      "name": "Adaptable Compounds",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "ViflM",
+      "communityId": "pT1pr",
+      "name": "Energized Batteries",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "w2xlD",
+      "communityId": "u0fa0",
+      "name": "Industrial Molds ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "AwpTF",
+      "communityId": "Mj0UJ",
+      "name": "Space Faring Hot Air Balloons",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "Qfp44",
+      "communityId": "Mj0UJ",
+      "name": "Heavy Ass Sandbags",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "kEi8c",
+      "communityId": "OAzDT",
+      "name": "Trash Compactor ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "iXBCa",
+      "communityId": "OAzDT",
+      "name": "Slpstck Comedy Based Lesson Plans",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -1805,7 +1868,10 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "OAzDT": "",
+        "WluXC": ""
+      },
       "alterLeadership": {}
     },
     {
@@ -4100,6 +4166,48 @@
       "type": "SocietyActionsTaken",
       "description": "Musical Chairs",
       "value": 0
+    },
+    {
+      "id": "k9kyH",
+      "timestamp": "2025-06-08T19:33:52.764Z",
+      "type": "ResourceCreated",
+      "value": "Adaptable Compounds"
+    },
+    {
+      "id": "j_t8N",
+      "timestamp": "2025-06-08T19:34:07.336Z",
+      "type": "ResourceCreated",
+      "value": "Energized Batteries"
+    },
+    {
+      "id": "oS2nI",
+      "timestamp": "2025-06-08T19:34:13.239Z",
+      "type": "ResourceCreated",
+      "value": "Industrial Molds "
+    },
+    {
+      "id": "sMQCO",
+      "timestamp": "2025-06-08T19:34:26.663Z",
+      "type": "ResourceCreated",
+      "value": "Space Faring Hot Air Balloons"
+    },
+    {
+      "id": "nqcLv",
+      "timestamp": "2025-06-08T19:34:36.715Z",
+      "type": "ResourceCreated",
+      "value": "Heavy Ass Sandbags"
+    },
+    {
+      "id": "IsatR",
+      "timestamp": "2025-06-08T19:35:19.093Z",
+      "type": "ResourceCreated",
+      "value": "Trash Compactor "
+    },
+    {
+      "id": "BvEyM",
+      "timestamp": "2025-06-08T19:35:54.222Z",
+      "type": "ResourceCreated",
+      "value": "Slpstck Comedy Based Lesson Plans"
     }
   ]
 }
