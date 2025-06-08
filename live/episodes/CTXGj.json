@@ -703,6 +703,50 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "WluXC",
+      "societyId": "e-JcG",
+      "player": "Zarna Any",
+      "name": "Implosion Munchers",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "OAzDT",
+      "societyId": "e-JcG",
+      "player": "Chet He/hanks",
+      "name": "Mystical Scholars",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "Mj0UJ",
+      "societyId": "e-JcG",
+      "player": "Tac Ze/zir",
+      "name": "Clustered Balloonists",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "pT1pr",
+      "societyId": "e-JcG",
+      "player": "Paul Any",
+      "name": "Conservative Caretakers",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
