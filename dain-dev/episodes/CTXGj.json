@@ -835,7 +835,7 @@
     {
       "id": "iFRIY",
       "type": "Individual Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
@@ -1561,7 +1561,7 @@
       },
       "alterLeadership": {
         "Qw0Xm": "None",
-        "B95dD": "leader",
+        "B95dD": "None",
         "LiQVN": "None",
         "UDMgC": "None",
         "cV-Kn": "None",
