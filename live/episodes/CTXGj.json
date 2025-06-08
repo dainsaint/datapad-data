@@ -184,15 +184,21 @@
       "id": "Qkdxy",
       "round": 1,
       "societyId": "e-JcG",
-      "resourceIds": [],
+      "resourceIds": [
+        "AwpTF",
+        "iXBCa"
+      ],
       "texts": [
+        "throw a kick ass party",
+        "be ready for this performance",
         ""
       ],
-      "risk": "1",
-      "advantage": 0,
-      "disadvantage": 0,
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        6
+      ],
+      "voteTime": "2025-06-08T19:57:36.524+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -785,7 +791,7 @@
       "timeElapsed": 174.15800000000033,
       "actualTime": {
         "s": "2025-05-13T23:51:02.029+00:00",
-        "e": "2025-06-03T19:01:53.058+00:00",
+        "e": "2025-06-08T20:00:26.835+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -797,13 +803,13 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "idle",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 1068.57299999999,
+      "timeElapsed": 1092.5859999999898,
       "actualTime": {
         "s": "2025-06-08T19:38:26.952+00:00",
-        "e": "2025-06-08T19:56:26.952+00:00",
+        "e": "2025-06-08T19:56:40.863+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
