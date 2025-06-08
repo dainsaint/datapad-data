@@ -859,7 +859,7 @@
       "timeElapsed": 16.013999999999996,
       "actualTime": {
         "s": "2025-06-02T14:41:47.647-04:00",
-        "e": "2025-06-06T16:59:07.473-04:00",
+        "e": "2025-06-07T20:52:47.092-04:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1560,13 +1560,13 @@
         "kATHn": ""
       },
       "alterLeadership": {
-        "Qw0Xm": "leader",
-        "B95dD": "None",
+        "Qw0Xm": "None",
+        "B95dD": "leader",
         "LiQVN": "None",
         "UDMgC": "None",
         "cV-Kn": "None",
         "R9tmF": "None",
-        "kATHn": "leader",
+        "kATHn": "None",
         "EyA7h": "None"
       }
     },
@@ -1588,7 +1588,16 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {},
-      "alterLeadership": {}
+      "alterLeadership": {
+        "Qw0Xm": "None",
+        "UDMgC": "None",
+        "B95dD": "None",
+        "cV-Kn": "None",
+        "LiQVN": "None",
+        "R9tmF": "None",
+        "kATHn": "None",
+        "EyA7h": "None"
+      }
     },
     {
       "id": "b2TXM",
@@ -4116,6 +4125,62 @@
     {
       "id": "HZCRl",
       "timestamp": "2025-06-06T16:59:07.474-04:00",
+      "type": "ActionResources",
+      "description": "the enterprise used  to take action.",
+      "value": 0
+    },
+    {
+      "id": "I4sRJ",
+      "timestamp": "2025-06-07T20:52:47.092-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "id": "loUhT",
+      "timestamp": "2025-06-07T20:52:47.092-04:00",
+      "type": "ActionResources",
+      "description": "the faithful used righteous anger,feral cats to take action.",
+      "value": 2
+    },
+    {
+      "id": "B_V7j",
+      "timestamp": "2025-06-07T20:52:47.092-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 0
+    },
+    {
+      "id": "yl1df",
+      "timestamp": "2025-06-07T20:52:47.092-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "id": "imgii",
+      "timestamp": "2025-06-07T20:52:47.092-04:00",
+      "type": "ActionResources",
+      "description": "the mighty used Incredible Thighs to take action.",
+      "value": 1
+    },
+    {
+      "id": "mWSYT",
+      "timestamp": "2025-06-07T20:52:47.092-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "id": "nb6-Z",
+      "timestamp": "2025-06-07T20:52:47.093-04:00",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 1
+    },
+    {
+      "id": "w7fDq",
+      "timestamp": "2025-06-07T20:52:47.093-04:00",
       "type": "ActionResources",
       "description": "the enterprise used  to take action.",
       "value": 0
