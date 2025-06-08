@@ -708,7 +708,7 @@
       "id": "WluXC",
       "societyId": "e-JcG",
       "player": "Zarna Any",
-      "name": "Implosion Munchers",
+      "name": "Implosive Munchers",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -789,13 +789,13 @@
     {
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 0,
+      "timeElapsed": 327.16399999999976,
       "actualTime": {
-        "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-06-03T19:01:53.691+00:00",
+        "s": "2025-06-08T19:38:26.952+00:00",
+        "e": "2025-06-08T19:56:26.952+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1459,6 +1459,24 @@
       "id": "iXBCa",
       "communityId": "OAzDT",
       "name": "Slpstck Comedy Based Lesson Plans",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "uipS8",
+      "communityId": "WluXC",
+      "name": "Slow-motion Mines ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "EF_IC",
+      "communityId": "WluXC",
+      "name": "The Moans Of The Many",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -4208,6 +4226,37 @@
       "timestamp": "2025-06-08T19:35:54.222Z",
       "type": "ResourceCreated",
       "value": "Slpstck Comedy Based Lesson Plans"
+    },
+    {
+      "id": "mGRQc",
+      "timestamp": "2025-06-08T19:37:33.961Z",
+      "type": "ResourceCreated",
+      "value": "Slow-motion Mines "
+    },
+    {
+      "id": "qJrR_",
+      "timestamp": "2025-06-08T19:37:58.970Z",
+      "type": "ResourceCreated",
+      "value": "The Moans Of The Many"
+    },
+    {
+      "id": "YCIxj",
+      "timestamp": "2025-06-08T19:38:20.334Z",
+      "type": "ResourceCreated",
+      "value": "Masochism "
+    },
+    {
+      "id": "J-x01",
+      "timestamp": "2025-06-08T19:38:26.953Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-06-08T19:38:26.952Z"
+    },
+    {
+      "id": "Spr-U",
+      "timestamp": "2025-06-08T19:38:49.226Z",
+      "type": "ResourceCreated",
+      "value": "Poop Stuff "
     }
   ]
 }
