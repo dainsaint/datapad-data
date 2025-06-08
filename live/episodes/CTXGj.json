@@ -537,17 +537,6 @@
       }
     },
     {
-      "id": "lHvo5",
-      "societyId": "V9xbw",
-      "player": "",
-      "name": "ribs",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
       "id": "UDMgC",
       "societyId": "et0k8",
       "player": "Bobby",
@@ -724,19 +713,8 @@
       }
     },
     {
-      "id": "wyWh4",
-      "societyId": "V9xbw",
-      "player": "Here",
-      "name": "What happened",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
       "id": "WluXC",
-      "societyId": "e-JcG",
+      "societyId": "V9xbw",
       "player": "Zarna Any",
       "name": "Implosive Munchers",
       "voice": "people",
@@ -747,7 +725,7 @@
     },
     {
       "id": "OAzDT",
-      "societyId": "e-JcG",
+      "societyId": "V9xbw",
       "player": "Chet He/hanks",
       "name": "Mystical Scholars",
       "voice": "leader",
@@ -758,7 +736,7 @@
     },
     {
       "id": "Mj0UJ",
-      "societyId": "e-JcG",
+      "societyId": "V9xbw",
       "player": "Tac Ze/zir",
       "name": "Clustered Balloonists",
       "voice": "people",
@@ -769,7 +747,7 @@
     },
     {
       "id": "pT1pr",
-      "societyId": "e-JcG",
+      "societyId": "V9xbw",
       "player": "Paul Any",
       "name": "Conservative Caretakers",
       "voice": "people",
@@ -1917,7 +1895,9 @@
       "ambassadors": {
         "OAzDT": "",
         "WluXC": "",
-        "u0fa0": ""
+        "u0fa0": "",
+        "Mj0UJ": "",
+        "pT1pr": ""
       },
       "alterLeadership": {}
     },
