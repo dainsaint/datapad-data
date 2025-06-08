@@ -14,9 +14,9 @@
   },
   "actions": [
     {
-      "id": "wBhs-",
+      "id": "p9hFn",
       "round": "0",
-      "societyId": "yXHVO",
+      "societyId": "V9xbw",
       "resourceIds": [],
       "texts": [],
       "risk": 1,
@@ -187,14 +187,25 @@
     {
       "id": "u0fa0",
       "societyId": "e-JcG",
-      "player": "",
-      "name": "skreeee",
-      "voice": "people",
+      "player": "CK They/THEM",
+      "name": "Inventive Plasticmakers",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": [
           "endangered"
         ]
+      }
+    },
+    {
+      "id": "jaCtF",
+      "societyId": "yXHVO",
+      "player": "",
+      "name": "big ol shair",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
       }
     },
     {
@@ -221,65 +232,10 @@
       }
     },
     {
-      "id": "ph-Na",
+      "id": "YatK5",
       "societyId": "V9xbw",
-      "player": "Test ",
-      "name": "Test",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "c4QGt",
-      "societyId": "V9xbw",
-      "player": "Test",
-      "name": "Test",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "OEYIc",
-      "societyId": "V9xbw",
-      "player": "Test",
-      "name": "Test",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "mSmKl",
-      "societyId": "V9xbw",
-      "player": "",
-      "name": "Test",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "mgvj2",
-      "societyId": "V9xbw",
-      "player": "",
-      "name": "Test",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "odA1g",
-      "societyId": "yXHVO",
-      "player": "Ck",
-      "name": "People PleasiNG TOUR GUIDES ",
+      "player": "Chet He/hanks",
+      "name": "Mystical Scholars",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -287,21 +243,10 @@
       }
     },
     {
-      "id": "X7cLE",
-      "societyId": "yXHVO",
-      "player": "Ck",
-      "name": "inventive Plastic Makers ",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "OXjLR",
-      "societyId": "yXHVO",
-      "player": "Jane ",
-      "name": "ambitious Moms ",
+      "id": "d0S9d",
+      "societyId": "V9xbw",
+      "player": "Tac (ze/zir)",
+      "name": "Cloistered Balloonists",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -309,11 +254,22 @@
       }
     },
     {
-      "id": "q9htT",
-      "societyId": "yXHVO",
-      "player": "Zarna ",
+      "id": "e9whQ",
+      "societyId": "V9xbw",
+      "player": "Zarna (Any)",
       "name": "Implosive Munchers",
       "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "id": "GzhjI",
+      "societyId": "V9xbw",
+      "player": "Jane She/her",
+      "name": "Ambitious Moms",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -775,72 +731,45 @@
   "players": [],
   "resources": [
     {
-      "id": "lJUsP",
-      "communityId": "X7cLE",
-      "name": "Adaptable Compounds",
+      "id": "ThLBU",
+      "communityId": "YatK5",
+      "name": "Trash Compactor ",
       "tags": {
         "_type": "Tags",
         "value": []
       }
     },
     {
-      "id": "nZ0aF",
-      "communityId": "X7cLE",
-      "name": "Industrial Molds ",
+      "id": "WRokv",
+      "communityId": "YatK5",
+      "name": "Alabaster Box",
       "tags": {
         "_type": "Tags",
         "value": []
       }
     },
     {
-      "id": "OkVLG",
-      "communityId": "odA1g",
-      "name": "Exhaustive Knowledge Of Natural World ",
+      "id": "T4SiF",
+      "communityId": "d0S9d",
+      "name": "Hot Air Baloons",
       "tags": {
         "_type": "Tags",
         "value": []
       }
     },
     {
-      "id": "k9tww",
-      "communityId": "q9htT",
-      "name": "Slow Motion Mines",
+      "id": "esWR6",
+      "communityId": "d0S9d",
+      "name": "Heavy Sandbags",
       "tags": {
         "_type": "Tags",
         "value": []
       }
     },
     {
-      "id": "f66LX",
-      "communityId": "q9htT",
-      "name": "Moans Of The Many ",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "KkWKc",
-      "communityId": "OXjLR",
-      "name": "Dirty Diapers",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "IZuNy",
-      "communityId": "OXjLR",
-      "name": "Fleet Of Minivans ",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "id": "J9-sJ",
-      "communityId": "OXjLR",
-      "name": "Stern Voice Full Name ",
+      "id": "b9_3X",
+      "communityId": "e9whQ",
+      "name": "Slow-motion Mines ",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -954,6 +883,7 @@
     {
       "id": "e-JcG",
       "archetype": "the intrepid",
+      "fateId": "fate_three",
       "color": "color-river-stone",
       "tags": {
         "_type": "Tags",
@@ -1000,7 +930,7 @@
   ],
   "turns": [
     {
-      "id": "tdW28",
+      "id": "PD-FG",
       "round": 0,
       "societyId": "et0k8",
       "risk": 1,
@@ -1010,17 +940,24 @@
       "alterLeadership": {}
     },
     {
-      "id": "Gfj0d",
+      "id": "CPBmj",
       "round": 0,
       "societyId": "V9xbw",
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
-      "alterLeadership": {}
+      "ambassadors": {
+        "u0fa0": "",
+        "d0S9d": ""
+      },
+      "alterLeadership": {
+        "lHvo5": "leader",
+        "u0fa0": "leader",
+        "wyWh4": "people"
+      }
     },
     {
-      "id": "q5eql",
+      "id": "T_WSg",
       "round": 0,
       "societyId": "Feay0",
       "risk": 1,
@@ -1030,9 +967,9 @@
       "alterLeadership": {}
     },
     {
-      "id": "UgEIu",
+      "id": "gq4MR",
       "round": 0,
-      "societyId": "e-JcG",
+      "societyId": "yXHVO",
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
@@ -1040,18 +977,13 @@
       "alterLeadership": {}
     },
     {
-      "id": "U7Vyp",
+      "id": "td5T3",
       "round": 0,
-      "societyId": "yXHVO",
+      "societyId": "e-JcG",
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {
-        "odA1g": "",
-        "X7cLE": "",
-        "OXjLR": "",
-        "q9htT": ""
-      },
+      "ambassadors": {},
       "alterLeadership": {}
     }
   ],
@@ -1063,52 +995,34 @@
   "links": {},
   "records": [
     {
-      "id": "tuOXI",
-      "timestamp": "2025-06-07T17:20:50.313Z",
+      "id": "FlJGO",
+      "timestamp": "2025-06-08T20:57:45.626Z",
       "type": "ResourceCreated",
-      "value": "Adaptable Compounds"
+      "value": "Trash Compactor "
     },
     {
-      "id": "ONe82",
-      "timestamp": "2025-06-07T17:21:13.462Z",
+      "id": "pVV-a",
+      "timestamp": "2025-06-08T20:58:15.788Z",
       "type": "ResourceCreated",
-      "value": "Industrial Molds "
+      "value": "Alabaster Box"
     },
     {
-      "id": "WTHOL",
-      "timestamp": "2025-06-07T17:21:48.867Z",
+      "id": "JMyjA",
+      "timestamp": "2025-06-08T20:58:25.373Z",
       "type": "ResourceCreated",
-      "value": "Exhaustive Knowledge Of Natural World "
+      "value": "Hot Air Baloons"
     },
     {
-      "id": "L4Xsj",
-      "timestamp": "2025-06-07T17:22:49.028Z",
+      "id": "O_COz",
+      "timestamp": "2025-06-08T20:58:40.897Z",
       "type": "ResourceCreated",
-      "value": "Slow Motion Mines"
+      "value": "Heavy Sandbags"
     },
     {
-      "id": "m9GW9",
-      "timestamp": "2025-06-07T17:23:29.524Z",
+      "id": "SLCWK",
+      "timestamp": "2025-06-08T20:59:26.890Z",
       "type": "ResourceCreated",
-      "value": "Moans Of The Many "
-    },
-    {
-      "id": "z7MRL",
-      "timestamp": "2025-06-07T17:24:04.221Z",
-      "type": "ResourceCreated",
-      "value": "Dirty Diapers"
-    },
-    {
-      "id": "dUzfv",
-      "timestamp": "2025-06-07T17:24:23.244Z",
-      "type": "ResourceCreated",
-      "value": "Fleet Of Minivans "
-    },
-    {
-      "id": "wJKMn",
-      "timestamp": "2025-06-07T17:24:40.658Z",
-      "type": "ResourceCreated",
-      "value": "Stern Voice Full Name "
+      "value": "Slow-motion Mines "
     }
   ]
 }
