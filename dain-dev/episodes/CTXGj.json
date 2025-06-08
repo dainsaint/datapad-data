@@ -780,7 +780,7 @@
     },
     {
       "id": "uvK1c",
-      "type": "Individual Phase",
+      "type": "Generational Phase",
       "status": "idle",
       "round": 1,
       "duration": 600,
