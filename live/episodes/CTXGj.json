@@ -678,7 +678,7 @@
     },
     {
       "id": "u0fa0",
-      "societyId": "e-JcG",
+      "societyId": "V9xbw",
       "player": "CK They/THEM",
       "name": "Inventive Plasticmakers",
       "voice": "leader",
@@ -1273,7 +1273,7 @@
     },
     {
       "id": "YaD-S",
-      "communityId": "R9tmF",
+      "communityId": "UDMgC",
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
@@ -1304,9 +1304,7 @@
       "name": "blergh",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1348,9 +1346,7 @@
       "name": "bytes",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1920,7 +1916,8 @@
       "emissaryCommunityId": "OAzDT",
       "ambassadors": {
         "OAzDT": "",
-        "WluXC": ""
+        "WluXC": "",
+        "u0fa0": ""
       },
       "alterLeadership": {}
     },
