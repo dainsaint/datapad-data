@@ -785,7 +785,7 @@
     {
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 240,
       "timeElapsed": 174.15800000000033,
