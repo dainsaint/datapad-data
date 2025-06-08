@@ -139,13 +139,21 @@
       "id": "Dh8rS",
       "round": 1,
       "societyId": "V9xbw",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
-      "result": [],
-      "status": "open",
+      "resourceIds": [
+        "qwUwl",
+        "J9Elj"
+      ],
+      "texts": [
+        "be so good",
+        "be so bad",
+        ""
+      ],
+      "result": [
+        0,
+        0
+      ],
+      "voteTime": "2025-06-08T19:48:03.133+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -792,7 +800,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 327.16399999999976,
+      "timeElapsed": 758.3889999999944,
       "actualTime": {
         "s": "2025-06-08T19:38:26.952+00:00",
         "e": "2025-06-08T19:56:26.952+00:00",
@@ -1590,6 +1598,7 @@
     {
       "id": "e-JcG",
       "archetype": "the intrepid",
+      "fateId": "fate_three",
       "color": "color-river-stone",
       "tags": {
         "_type": "Tags",
@@ -1886,6 +1895,7 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
+      "emissaryCommunityId": "OAzDT",
       "ambassadors": {
         "OAzDT": "",
         "WluXC": ""
