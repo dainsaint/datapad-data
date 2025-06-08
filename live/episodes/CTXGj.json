@@ -148,6 +148,9 @@
         "be so bad",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0,
         0
@@ -193,6 +196,9 @@
         "be ready for this performance",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0,
         0
@@ -4196,74 +4202,74 @@
     },
     {
       "id": "k9kyH",
-      "timestamp": "2025-06-08T19:33:52.764Z",
+      "timestamp": "2025-06-08T19:33:52.764+00:00",
       "type": "ResourceCreated",
       "value": "Adaptable Compounds"
     },
     {
       "id": "j_t8N",
-      "timestamp": "2025-06-08T19:34:07.336Z",
+      "timestamp": "2025-06-08T19:34:07.336+00:00",
       "type": "ResourceCreated",
       "value": "Energized Batteries"
     },
     {
       "id": "oS2nI",
-      "timestamp": "2025-06-08T19:34:13.239Z",
+      "timestamp": "2025-06-08T19:34:13.239+00:00",
       "type": "ResourceCreated",
       "value": "Industrial Molds "
     },
     {
       "id": "sMQCO",
-      "timestamp": "2025-06-08T19:34:26.663Z",
+      "timestamp": "2025-06-08T19:34:26.663+00:00",
       "type": "ResourceCreated",
       "value": "Space Faring Hot Air Balloons"
     },
     {
       "id": "nqcLv",
-      "timestamp": "2025-06-08T19:34:36.715Z",
+      "timestamp": "2025-06-08T19:34:36.715+00:00",
       "type": "ResourceCreated",
       "value": "Heavy Ass Sandbags"
     },
     {
       "id": "IsatR",
-      "timestamp": "2025-06-08T19:35:19.093Z",
+      "timestamp": "2025-06-08T19:35:19.093+00:00",
       "type": "ResourceCreated",
       "value": "Trash Compactor "
     },
     {
       "id": "BvEyM",
-      "timestamp": "2025-06-08T19:35:54.222Z",
+      "timestamp": "2025-06-08T19:35:54.222+00:00",
       "type": "ResourceCreated",
       "value": "Slpstck Comedy Based Lesson Plans"
     },
     {
       "id": "mGRQc",
-      "timestamp": "2025-06-08T19:37:33.961Z",
+      "timestamp": "2025-06-08T19:37:33.961+00:00",
       "type": "ResourceCreated",
       "value": "Slow-motion Mines "
     },
     {
       "id": "qJrR_",
-      "timestamp": "2025-06-08T19:37:58.970Z",
+      "timestamp": "2025-06-08T19:37:58.970+00:00",
       "type": "ResourceCreated",
       "value": "The Moans Of The Many"
     },
     {
       "id": "YCIxj",
-      "timestamp": "2025-06-08T19:38:20.334Z",
+      "timestamp": "2025-06-08T19:38:20.334+00:00",
       "type": "ResourceCreated",
       "value": "Masochism "
     },
     {
       "id": "J-x01",
-      "timestamp": "2025-06-08T19:38:26.953Z",
+      "timestamp": "2025-06-08T19:38:26.953+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Societal Phase",
-      "value": "2025-06-08T19:38:26.952Z"
+      "value": "2025-06-08T19:38:26.952+00:00"
     },
     {
       "id": "Spr-U",
-      "timestamp": "2025-06-08T19:38:49.226Z",
+      "timestamp": "2025-06-08T19:38:49.226+00:00",
       "type": "ResourceCreated",
       "value": "Poop Stuff "
     }
