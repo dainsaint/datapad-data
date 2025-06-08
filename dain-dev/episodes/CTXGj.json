@@ -1766,7 +1766,10 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {},
-      "alterLeadership": {}
+      "alterLeadership": {
+        "lHvo5": "leader",
+        "wyWh4": "people"
+      }
     },
     {
       "id": "SCRMy",
@@ -1776,7 +1779,13 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {},
-      "alterLeadership": {}
+      "alterLeadership": {
+        "G_9_r": "leader",
+        "ssnLF": "leader",
+        "FRomU": "people",
+        "NzLOs": "leader",
+        "NVQbL": "people"
+      }
     },
     {
       "id": "bRsbe",
