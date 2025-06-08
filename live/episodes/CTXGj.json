@@ -761,6 +761,17 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "id": "D1zMj",
+      "societyId": "Feay0",
+      "player": "Zarna (Any)",
+      "name": "Implosion Munchers",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -785,7 +796,7 @@
     {
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 240,
       "timeElapsed": 174.15800000000033,
