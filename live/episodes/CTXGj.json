@@ -2053,7 +2053,15 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {},
-      "alterLeadership": {}
+      "alterLeadership": {
+        "Qw0Xm": "people",
+        "UDMgC": "people",
+        "B95dD": "leader",
+        "cV-Kn": "people",
+        "LiQVN": "people",
+        "R9tmF": "people",
+        "kATHn": "people"
+      }
     },
     {
       "_type": "Turn",
