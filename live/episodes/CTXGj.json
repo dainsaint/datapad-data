@@ -814,25 +814,6 @@
   "phases": [
     {
       "_type": "Phase",
-      "id": "xOO-S",
-      "type": "Individual Phase",
-      "status": "idle",
-      "round": 0,
-      "duration": 600,
-      "timeElapsed": 0,
-      "actualTime": {
-        "s": "2025-06-11T19:03:20.805+00:00",
-        "e": "2025-06-11T19:03:20.805+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Phase",
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
       "status": "complete",
@@ -1070,6 +1051,25 @@
       "actualTime": {
         "s": "2025-05-26T00:06:55.382+00:00",
         "e": "2025-06-03T19:48:54.831+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Phase",
+      "id": "xOO-S",
+      "type": "Individual Phase",
+      "status": "idle",
+      "round": 3,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-06-11T19:03:20.805+00:00",
+        "e": "2025-06-11T19:03:20.805+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
