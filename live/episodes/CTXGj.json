@@ -929,7 +929,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 21.018,
+      "timeElapsed": 210.1220000000002,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
@@ -2421,6 +2421,152 @@
               "className": [
                 "heading-1"
               ],
+              "id": "preshow"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "PRESHOW"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "subtitle"
+              ],
+              "id": "h.liw68h6h1hkg"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "15 Minutes"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Players are welcomed into the space and directed to their tables. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "P/Fs are at the tables and greet their players, mingle about the room. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "KEL"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "5"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "h1",
+            "properties": {
+              "className": [
+                "heading-1"
+              ],
               "id": "introductionrecap"
             },
             "children": [
@@ -2468,8 +2614,17 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Sounds. Lights. Bringing us together in the space. "
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 255)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Sounds. Lights. Bringing us together in the space. "
+                      }
+                    ]
                   }
                 ]
               }
@@ -2505,8 +2660,17 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Soft ambient lighting. "
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 255)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Soft ambient lighting. "
+                      }
+                    ]
                   }
                 ]
               }
