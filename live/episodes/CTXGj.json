@@ -877,8 +877,8 @@
       "_type": "Community",
       "id": "fr_Re",
       "societyId": "yXHVO",
-      "player": "",
-      "name": "P",
+      "player": "Sulu",
+      "name": "Grand Pines",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -1025,7 +1025,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 4938.696000000175,
+      "timeElapsed": 4965.710000000177,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
