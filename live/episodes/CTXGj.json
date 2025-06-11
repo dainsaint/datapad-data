@@ -854,13 +854,13 @@
       "_type": "Phase",
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 1080,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-08T19:38:26.952+00:00",
-        "e": "2025-06-08T19:56:40.863+00:00",
+        "s": "2025-06-11T17:12:42.769+00:00",
+        "e": "2025-06-11T17:30:42.769+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -20886,6 +20886,14 @@
       "timestamp": "2025-06-08T19:38:49.226+00:00",
       "type": "ResourceCreated",
       "value": "Poop Stuff "
+    },
+    {
+      "_type": "Record",
+      "id": "RE_Ao",
+      "timestamp": "2025-06-11T17:12:42.769Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-06-11T17:12:42.769Z"
     }
   ]
 }
