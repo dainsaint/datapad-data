@@ -875,13 +875,13 @@
       "_type": "Phase",
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-06-03T19:01:54.255+00:00",
+        "e": "2025-06-11T19:33:46.976+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
