@@ -133,6 +133,9 @@
         "start shit",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0,
         0
@@ -184,6 +187,9 @@
         "blllllleeer",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0
       ],
@@ -20971,7 +20977,7 @@
     {
       "_type": "Record",
       "id": "i0AGR",
-      "timestamp": "2025-06-11T19:33:49.435Z",
+      "timestamp": "2025-06-11T19:33:49.435+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 1
@@ -20979,7 +20985,7 @@
     {
       "_type": "Record",
       "id": "ypxEv",
-      "timestamp": "2025-06-11T19:33:49.436Z",
+      "timestamp": "2025-06-11T19:33:49.436+00:00",
       "type": "ActionResources",
       "description": "the faithful used feral cats,shtrhstr to take action.",
       "value": 2
@@ -20987,7 +20993,7 @@
     {
       "_type": "Record",
       "id": "TNDEQ",
-      "timestamp": "2025-06-11T19:33:49.436Z",
+      "timestamp": "2025-06-11T19:33:49.436+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -20995,7 +21001,7 @@
     {
       "_type": "Record",
       "id": "gxb66",
-      "timestamp": "2025-06-11T19:33:49.436Z",
+      "timestamp": "2025-06-11T19:33:49.436+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Spring Rolls,Adele CDs to take action.",
       "value": 2
@@ -21003,7 +21009,7 @@
     {
       "_type": "Record",
       "id": "u37Pq",
-      "timestamp": "2025-06-11T19:33:49.436Z",
+      "timestamp": "2025-06-11T19:33:49.436+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -21011,7 +21017,7 @@
     {
       "_type": "Record",
       "id": "UlrgB",
-      "timestamp": "2025-06-11T19:33:49.436Z",
+      "timestamp": "2025-06-11T19:33:49.436+00:00",
       "type": "ActionResources",
       "description": "the mighty used blergh to take action.",
       "value": 1
@@ -21019,7 +21025,7 @@
     {
       "_type": "Record",
       "id": "yBVuQ",
-      "timestamp": "2025-06-11T19:33:49.436Z",
+      "timestamp": "2025-06-11T19:33:49.436+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 1
@@ -21027,7 +21033,7 @@
     {
       "_type": "Record",
       "id": "z80SX",
-      "timestamp": "2025-06-11T19:33:49.436Z",
+      "timestamp": "2025-06-11T19:33:49.436+00:00",
       "type": "ActionResources",
       "description": "the intrepid used Space Faring Hot Air Balloons,Slpstck Comedy Based Lesson Plans to take action.",
       "value": 2
@@ -21035,7 +21041,7 @@
     {
       "_type": "Record",
       "id": "ifKZH",
-      "timestamp": "2025-06-11T19:33:49.436Z",
+      "timestamp": "2025-06-11T19:33:49.436+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
