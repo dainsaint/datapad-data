@@ -929,7 +929,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 210.1220000000002,
+      "timeElapsed": 316.17599999999976,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
@@ -2534,14 +2534,32 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "KEL"
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(255, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "KEL"
+                      }
+                    ]
                   }
                 ]
               },
               {
-                "type": "text",
-                "value": ""
+                "type": "element",
+                "tagName": "span",
+                "properties": {
+                  "style": "background-color: rgb(255, 255, 0)"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
               }
             ]
           },
@@ -2555,8 +2573,17 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "5"
+                "type": "element",
+                "tagName": "span",
+                "properties": {
+                  "style": "background-color: rgb(255, 255, 0)"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "[INSERT UI WORDS HERE]"
+                  }
+                ]
               }
             ]
           },
@@ -2622,9 +2649,82 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "Sounds. Lights. Bringing us together in the space. "
+                        "value": "Sounds. Lights. Bringing us together in the space."
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 255)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "P/Fs stand at tables. "
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": " "
                   }
                 ]
               }
@@ -2706,8 +2806,48 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Everyone takes a centering deep breath."
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Everyone takes a centering deep breath."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "P/Fs wander to the center (near Dias) with "
+                      }
+                    ]
                   }
                 ]
               }
@@ -2744,7 +2884,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "ANTHONY"
                   }
                 ]
               }
@@ -2796,7 +2936,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "KC"
                   }
                 ]
               }
@@ -2848,7 +2988,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JOE"
                   }
                 ]
               }
