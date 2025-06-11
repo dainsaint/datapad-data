@@ -879,6 +879,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "OlD1Z",
+      "societyId": "yXHVO",
+      "player": "",
+      "name": "8",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -984,7 +996,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 4845.5680000001685,
+      "timeElapsed": 4866.576000000169,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
