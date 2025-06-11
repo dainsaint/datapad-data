@@ -972,7 +972,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 4759.5440000001645,
+      "timeElapsed": 4771.546000000165,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
@@ -1933,9 +1933,9 @@
       "id": "jfuy-",
       "round": 2,
       "societyId": "e-JcG",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "2",
+      "advantage": "0",
+      "disadvantage": "0",
       "emissaryCommunityId": "Lx7BH",
       "ambassadors": {
         "u0fa0": "",
