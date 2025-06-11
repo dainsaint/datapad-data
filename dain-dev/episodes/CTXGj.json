@@ -528,11 +528,12 @@
       "id": "MKBi-",
       "round": "1",
       "societyId": "V9xbw",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "Qfp44"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
