@@ -894,13 +894,13 @@
       "_type": "Phase",
       "id": "CxJcg",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-11T19:03:02.349+00:00",
-        "e": "2025-06-11T19:03:02.349+00:00",
+        "e": "2025-06-11T19:33:49.435+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -20967,6 +20967,78 @@
       "type": "PhaseStarted",
       "description": "Round 1: Societal Phase",
       "value": "2025-06-11T17:12:42.769+00:00"
+    },
+    {
+      "_type": "Record",
+      "id": "i0AGR",
+      "timestamp": "2025-06-11T19:33:49.435Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "ypxEv",
+      "timestamp": "2025-06-11T19:33:49.436Z",
+      "type": "ActionResources",
+      "description": "the faithful used feral cats,shtrhstr to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "TNDEQ",
+      "timestamp": "2025-06-11T19:33:49.436Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "gxb66",
+      "timestamp": "2025-06-11T19:33:49.436Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Spring Rolls,Adele CDs to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "u37Pq",
+      "timestamp": "2025-06-11T19:33:49.436Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "UlrgB",
+      "timestamp": "2025-06-11T19:33:49.436Z",
+      "type": "ActionResources",
+      "description": "the mighty used blergh to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "yBVuQ",
+      "timestamp": "2025-06-11T19:33:49.436Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "z80SX",
+      "timestamp": "2025-06-11T19:33:49.436Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Space Faring Hot Air Balloons,Slpstck Comedy Based Lesson Plans to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "ifKZH",
+      "timestamp": "2025-06-11T19:33:49.436Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 0
     }
   ]
 }
