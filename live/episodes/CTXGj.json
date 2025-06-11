@@ -879,6 +879,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "AUe2x",
+      "societyId": "et0k8",
+      "player": "",
+      "name": "U",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -984,7 +996,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 4783.553000000166,
+      "timeElapsed": 4786.5540000001665,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
