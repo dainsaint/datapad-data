@@ -711,10 +711,10 @@
     {
       "_type": "Community",
       "id": "u0fa0",
-      "societyId": "e-JcG",
-      "player": "",
-      "name": "skreeee",
-      "voice": "people",
+      "societyId": "V9xbw",
+      "player": "CK They/THEM",
+      "name": "Inventive Plasticmakers",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -1703,6 +1703,7 @@
       "_type": "Society",
       "id": "e-JcG",
       "archetype": "the intrepid",
+      "fateId": "fate_three",
       "color": "color-river-stone",
       "tags": {
         "_type": "Tags",
@@ -2049,7 +2050,7 @@
   "documents": [
     {
       "_type": "Document",
-      "id": "mZFos",
+      "id": "N5v-m",
       "name": "Script",
       "icon": "fa-scroll",
       "googleDocId": "1p8tBGHzzx4TZJlASzC7Ea9t3kwk-WakZiZa-QSrknXI",
