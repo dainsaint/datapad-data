@@ -582,9 +582,28 @@
         "Help support infrastructure of developing communities ",
         ""
       ],
-      "result": [],
+      "result": [
+        0
+      ],
       "voteTime": "2025-06-11T23:10:59.133+00:00",
       "status": "voted",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Action",
+      "id": "fBejV",
+      "round": "2",
+      "societyId": "et0k8",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1028,7 +1047,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 5108.855000000191,
+      "timeElapsed": 5153.880000000195,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
