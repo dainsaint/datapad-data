@@ -39,14 +39,12 @@
       "id": "Mjt4w",
       "round": 2,
       "societyId": "V9xbw",
-      "resourceIds": [],
+      "resourceIds": [
+        "ViflM"
+      ],
       "texts": [
-        "",
         ""
       ],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -942,7 +940,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 4662.393000000162,
+      "timeElapsed": 4665.393000000162,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
