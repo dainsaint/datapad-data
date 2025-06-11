@@ -115,7 +115,7 @@
       "disadvantage": "0",
       "result": [],
       "voteTime": "2025-05-23T22:01:32.805+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -583,7 +583,8 @@
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-11T23:10:59.133+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1027,7 +1028,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 5075.8350000001865,
+      "timeElapsed": 5108.855000000191,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
