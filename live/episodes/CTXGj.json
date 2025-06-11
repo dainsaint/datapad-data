@@ -929,7 +929,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 4068.1240000001244,
+      "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
