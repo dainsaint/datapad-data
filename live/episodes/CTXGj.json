@@ -929,7 +929,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 316.17599999999976,
+      "timeElapsed": 1821.0939999999853,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
@@ -2530,30 +2530,39 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "strong",
+                "tagName": "i",
                 "properties": {},
                 "children": [
                   {
                     "type": "element",
                     "tagName": "span",
                     "properties": {
-                      "style": "background-color: rgb(255, 255, 0)"
+                      "style": "background-color: rgb(0, 255, 255)"
                     },
                     "children": [
                       {
                         "type": "text",
-                        "value": "KEL"
+                        "value": "Sound cue. Light bump."
                       }
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
               {
                 "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "background-color: rgb(255, 255, 0)"
-                },
+                "tagName": "i",
+                "properties": {},
                 "children": [
                   {
                     "type": "text",
@@ -2574,16 +2583,172 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "background-color: rgb(255, 255, 0)"
-                },
+                "tagName": "strong",
+                "properties": {},
                 "children": [
                   {
                     "type": "text",
-                    "value": "[INSERT UI WORDS HERE]"
+                    "value": "KEL"
                   }
                 ]
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "5 minutes to lift off. "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "5 minutes to lift off. "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 255)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Sound cue. Light bump."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "KEL"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "2 minutes to lift off. "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "2 minutes to lift off. "
               }
             ]
           },
@@ -2845,7 +3010,54 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "P/Fs wander to the center (near Dias) with "
+                        "value": "P/Fs wander to the center (near Dias) "
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "span",
+                        "properties": {
+                          "style": "background-color: rgb(0, 255, 0)"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "with mics"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": " and address the audience."
                       }
                     ]
                   }
@@ -3040,7 +3252,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "MATTHEW"
                   }
                 ]
               }
@@ -3092,7 +3304,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JACKIE"
                   }
                 ]
               }
@@ -3164,6 +3376,73 @@
             },
             "children": [
               {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "ANTHONY"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "That shared breath was so nice. And now our Hospitality and Care Team, would like to share something equally nice with you. "
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
                 "type": "text",
                 "value": ""
               }
@@ -3192,22 +3471,102 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "Transition to a moment with Hospitality and Care."
+                        "value": "Transition to a moment with Hospitality and Care. "
                       }
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
               {
                 "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "background-color: rgb(255, 255, 0)"
-                },
+                "tagName": "i",
+                "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": ""
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "P/Fs kneel and direct attention to H/C at the GM Platform."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
                   }
                 ]
               }
@@ -3351,23 +3710,29 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "strong",
                 "properties": {},
                 "children": [
                   {
-                    "type": "element",
-                    "tagName": "span",
-                    "properties": {
-                      "style": "background-color: rgb(255, 255, 0)"
-                    },
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "TRANSITION MOMENT NEEDED"
-                      }
-                    ]
+                    "type": "text",
+                    "value": "KC"
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Thank you Hospitality and Care! Reminder to find Ari, our Player Safety Rep, should you need anything or if you need to take a moment in the Airlock. "
               }
             ]
           },
@@ -3440,7 +3805,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JOE"
                   }
                 ]
               }
@@ -3492,7 +3857,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "MATTHEW"
                   }
                 ]
               }
@@ -3529,7 +3894,29 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "JACKIE"
                   }
                 ]
               },
@@ -3585,7 +3972,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "ANTHONY"
                   }
                 ]
               },
@@ -3694,7 +4081,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "KC"
                   }
                 ]
               },
@@ -3809,7 +4196,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JOE"
                   }
                 ]
               },
@@ -3924,7 +4311,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "MATTHEW"
                   }
                 ]
               },
@@ -4039,7 +4426,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JACKIE"
                   }
                 ]
               },
@@ -4110,7 +4497,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "ANTHONY"
                   }
                 ]
               }
@@ -4188,29 +4575,13 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "KC"
                   }
                 ]
               },
               {
                 "type": "text",
-                "value": "\u000bSpace Opera is a sci-fi fantasy story. In this world, we all…"
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "margin-top: 12PT; margin-bottom: 12PT",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": "\u000b"
+                "value": "\u000bSpace Opera is a sci-fi fantasy story. In this world, we all…\u000b\u000b"
               },
               {
                 "type": "element",
@@ -4219,13 +4590,13 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JOE"
                   }
                 ]
               },
               {
                 "type": "text",
-                "value": "\u000bAre the descendants of humans.\u000b"
+                "value": "\u000bAre the descendants of humans."
               }
             ]
           },
@@ -4246,13 +4617,13 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "MATTHEW"
                   }
                 ]
               },
               {
                 "type": "text",
-                "value": "\u000bHave access to space travel.\u000b"
+                "value": "\u000bHave access to space travel."
               }
             ]
           },
@@ -4273,13 +4644,13 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JACKIE"
                   }
                 ]
               },
               {
                 "type": "text",
-                "value": "\u000bAnd instantaneous communication. \u000b"
+                "value": "\u000bAnd instantaneous communication. "
               }
             ]
           },
@@ -4300,13 +4671,13 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "ANTHONY"
                   }
                 ]
               },
               {
                 "type": "text",
-                "value": "\u000bHave never encountered alien species.\u000b"
+                "value": "\u000bHave never encountered alien species."
               }
             ]
           },
@@ -4327,13 +4698,13 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "KC"
                   }
                 ]
               },
               {
                 "type": "text",
-                "value": "\u000bKnow there are other humans out there.\u000b"
+                "value": "\u000bKnow there are other humans out there."
               }
             ]
           },
@@ -4354,13 +4725,13 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JOE"
                   }
                 ]
               },
               {
                 "type": "text",
-                "value": "\u000bSpace Opera is a world where science, magic, and spirituality can all have equally powerful effects.\u000b"
+                "value": "\u000bSpace Opera is a world where science, magic, and spirituality can all have equally powerful effects."
               }
             ]
           },
@@ -4381,13 +4752,13 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "MATTHEW"
                   }
                 ]
               },
               {
                 "type": "text",
-                "value": "\u000bYou don’t need to know anything about science to play.\u000b"
+                "value": "\u000bYou don’t need to know anything about science to play."
               }
             ]
           },
@@ -4408,13 +4779,13 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JACKIE"
                   }
                 ]
               },
               {
                 "type": "text",
-                "value": "\u000bSpace Opera has multiple rounds, each consists of multiple phases: the Societal, Galactic, and Individual Phases. In each phase, the scale of the story shifts. Sometimes you will play as a community of people, sometimes an individual person.\u000b"
+                "value": "\u000bSpace Opera has multiple rounds, each consists of multiple phases: the Societal, Galactic, and Individual Phases. In each phase, the scale of the story shifts. Sometimes you will play as a community of people, sometimes an individual person."
               }
             ]
           },
@@ -4435,13 +4806,13 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "ANTHONY"
                   }
                 ]
               },
               {
                 "type": "text",
-                "value": "\u000bIn the Societal Phase, you take on the perspective of a unique Community that is part of a larger Society. Your goal is to advocate for the needs and desires of your Community, and to convince your Society to take actions that align.\u000b"
+                "value": "\u000bIn the Societal Phase, you take on the perspective of a unique Community that is part of a larger Society. Your goal is to advocate for the needs and desires of your Community, and to convince your Society to take actions that align."
               }
             ]
           },
@@ -4462,13 +4833,13 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F\u000b"
+                    "value": "KC\u000b"
                   }
                 ]
               },
               {
                 "type": "text",
-                "value": "In the Galactic Phase, Emissaries from each society roll dice to resolve the success or failure of their society’s actions.\u000b"
+                "value": "In the Galactic Phase, Emissaries from each society roll dice to resolve the success or failure of their society’s actions."
               }
             ]
           },
@@ -4489,13 +4860,13 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JOE"
                   }
                 ]
               },
               {
                 "type": "text",
-                "value": "\u000bDuring the Individual Phase, you will take on the perspective of one person who is a part of your Community, telling the story of who they are and how they are impacted by the actions their Society takes.\u000b"
+                "value": "\u000bDuring the Individual Phase, you will take on the perspective of one person who is a part of your Community, telling the story of who they are and how they are impacted by the actions their Society takes."
               }
             ]
           },
@@ -4516,13 +4887,13 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "MATTHEW"
                   }
                 ]
               },
               {
                 "type": "text",
-                "value": "\u000bAs you navigate today’s experience, we ask you to hold two tensions: First, the universe-shaking power of making decisions together versus the hair-pulling challenge of making decisions together. \u000b"
+                "value": "\u000bAs you navigate today’s experience, we ask you to hold two tensions: First, the universe-shaking power of making decisions together versus the hair-pulling challenge of making decisions together. "
               }
             ]
           },
@@ -4543,7 +4914,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JACKIE"
                   }
                 ]
               },
@@ -4615,7 +4986,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "ANTHONY"
                   }
                 ]
               }
@@ -4667,7 +5038,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "KC"
                   }
                 ]
               }
@@ -4719,7 +5090,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JOE"
                   }
                 ]
               }
@@ -4755,8 +5126,17 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "(Give a moment for folks to raise hands.) "
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "(Give a moment for folks to raise hands.) "
+                      }
+                    ]
                   }
                 ]
               }
@@ -4808,7 +5188,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "MATTHEW"
                   }
                 ]
               },
@@ -4848,8 +5228,17 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "(Give a moment for folks to raise hands.) "
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "(Give a moment for folks to raise hands.) "
+                      }
+                    ]
                   }
                 ]
               }
@@ -4901,7 +5290,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JACKIE"
                   }
                 ]
               }
@@ -4927,7 +5316,38 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": " (Give a moment for folks to raise hands.) "
+                    "value": " "
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "(Give a moment for folks to raise hands.)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": " "
                   }
                 ]
               }
@@ -4979,7 +5399,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "ANTHONY"
                   }
                 ]
               }
@@ -5031,7 +5451,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "KC"
                   }
                 ]
               }
@@ -5078,12 +5498,89 @@
             "children": [
               {
                 "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "PFs cross to DS curtain and open it for the GMs. "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "GMs enter and cross US to the GM Platform with the PFs."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
                 "tagName": "strong",
                 "properties": {},
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "JOE"
                   }
                 ]
               }
@@ -5101,33 +5598,7 @@
               {
                 "type": "text",
                 "value": "DANIEL!"
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": ""
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
+              },
               {
                 "type": "element",
                 "tagName": "i",
@@ -5142,7 +5613,7 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "Lighting special on Daniel? "
+                        "value": ""
                       }
                     ]
                   }
@@ -5188,7 +5659,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F"
+                    "value": "MATTHEW"
                   }
                 ]
               }
@@ -5206,6 +5677,19 @@
               {
                 "type": "text",
                 "value": "AND DAIN!"
+              },
+              {
+                "type": "element",
+                "tagName": "span",
+                "properties": {
+                  "style": "background-color: rgb(0, 255, 255)"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
               }
             ]
           },
@@ -5219,8 +5703,31 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": ""
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "span",
+                        "properties": {
+                          "style": "background-color: rgb(255, 255, 0)"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": ""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           },
@@ -5242,27 +5749,14 @@
                     "type": "element",
                     "tagName": "span",
                     "properties": {
-                      "style": "background-color: rgb(0, 255, 255)"
+                      "style": "background-color: rgb(0, 255, 0)"
                     },
                     "children": [
                       {
                         "type": "text",
-                        "value": "Lighting special on Dain?"
+                        "value": "PFs and GMs pose DS of the GM platform. "
                       }
                     ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "background-color: rgb(0, 255, 255)"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
                   }
                 ]
               }
@@ -5375,6 +5869,28 @@
                         "value": ""
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "DANIEL"
                   }
                 ]
               }
@@ -5573,6 +6089,28 @@
             },
             "children": [
               {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "DAIN"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
                 "type": "text",
                 "value": "First, they created the Etheric Net, a fleet of satellites throughout the system that allowed your worlds to communicate instantaneously."
               }
@@ -5640,28 +6178,43 @@
           },
           {
             "type": "element",
-            "tagName": "ul",
+            "tagName": "p",
             "properties": {
               "className": [
-                "nesting-level-1"
+                "normal-text"
               ]
             },
             "children": [
               {
                 "type": "element",
-                "tagName": "li",
+                "tagName": "i",
                 "properties": {},
                 "children": [
                   {
-                    "type": "element",
-                    "tagName": "i",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": ""
-                      }
-                    ]
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "DANIEL"
                   }
                 ]
               }
@@ -5943,8 +6496,15 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "Song: Who are you & Whatchu gonna do?"
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Song: Who are you & Whatchu gonna do?"
+                  }
+                ]
               }
             ]
           },
