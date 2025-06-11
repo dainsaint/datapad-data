@@ -960,7 +960,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 4721.399000000163,
+      "timeElapsed": 4734.400000000163,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
@@ -1705,6 +1705,16 @@
       "id": "xi8zx",
       "communityId": "Lx7BH",
       "name": "Test",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "vlqBU",
+      "communityId": "zf6gm",
+      "name": "Test 2",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -34031,6 +34041,13 @@
       "timestamp": "2025-06-11T23:03:15.076Z",
       "type": "ResourceCreated",
       "value": "Test"
+    },
+    {
+      "_type": "Record",
+      "id": "r5Mp8",
+      "timestamp": "2025-06-11T23:04:45.008Z",
+      "type": "ResourceCreated",
+      "value": "Test 2"
     }
   ]
 }
