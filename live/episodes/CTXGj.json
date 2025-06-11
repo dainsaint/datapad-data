@@ -824,6 +824,18 @@
           "endangered"
         ]
       }
+    },
+    {
+      "_type": "Community",
+      "id": "zf6gm",
+      "societyId": "e-JcG",
+      "player": "Jane Hethey",
+      "name": "Test2",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -929,7 +941,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 0,
+      "timeElapsed": 582.3939999999977,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
