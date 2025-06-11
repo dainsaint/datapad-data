@@ -817,7 +817,7 @@
       "societyId": "e-JcG",
       "player": "T",
       "name": "Test",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": [
@@ -941,7 +941,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 582.3939999999977,
+      "timeElapsed": 4543.271000000154,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
@@ -1876,7 +1876,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "u0fa0": ""
+        "u0fa0": "",
+        "Lx7BH": ""
       },
       "alterLeadership": {}
     },
