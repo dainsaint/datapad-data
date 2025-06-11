@@ -814,6 +814,44 @@
   "phases": [
     {
       "_type": "Phase",
+      "id": "xOO-S",
+      "type": "Individual Phase",
+      "status": "idle",
+      "round": 0,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-06-11T19:03:20.805+00:00",
+        "e": "2025-06-11T19:03:20.805+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Phase",
+      "id": "y5GVy",
+      "type": "Individual Phase",
+      "status": "idle",
+      "round": 0,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-06-11T19:03:25.687+00:00",
+        "e": "2025-06-11T19:03:25.687+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Phase",
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
       "status": "complete",
@@ -1298,44 +1336,6 @@
       "actualTime": {
         "s": "2025-05-10T16:06:55.646+00:00",
         "e": "2025-05-10T16:06:55.646+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Phase",
-      "id": "xOO-S",
-      "type": "Individual Phase",
-      "status": "idle",
-      "round": 6,
-      "duration": 600,
-      "timeElapsed": 0,
-      "actualTime": {
-        "s": "2025-06-11T19:03:20.805+00:00",
-        "e": "2025-06-11T19:03:20.805+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Phase",
-      "id": "y5GVy",
-      "type": "Individual Phase",
-      "status": "idle",
-      "round": 6,
-      "duration": 600,
-      "timeElapsed": 0,
-      "actualTime": {
-        "s": "2025-06-11T19:03:25.687+00:00",
-        "e": "2025-06-11T19:03:25.687+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
