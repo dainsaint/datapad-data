@@ -83,9 +83,10 @@
       "id": "jk75L",
       "round": 2,
       "societyId": "e-JcG",
-      "resourceIds": [],
+      "resourceIds": [
+        "xi8zx"
+      ],
       "texts": [
-        "",
         ""
       ],
       "result": [],
@@ -938,7 +939,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 4668.392000000162,
+      "timeElapsed": 4671.394000000162,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
