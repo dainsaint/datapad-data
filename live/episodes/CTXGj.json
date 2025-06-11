@@ -558,11 +558,8 @@
       "id": "KAoVg",
       "round": "2",
       "societyId": "V9xbw",
-      "resourceIds": [
-        "w2xlD"
-      ],
+      "resourceIds": [],
       "texts": [
-        "",
         "",
         ""
       ],
@@ -963,7 +960,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 4714.399000000163,
+      "timeElapsed": 4717.399000000163,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
@@ -1907,6 +1904,7 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
+      "emissaryCommunityId": "zf6gm",
       "ambassadors": {
         "u0fa0": "",
         "Lx7BH": ""
