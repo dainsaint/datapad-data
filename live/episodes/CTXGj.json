@@ -891,6 +891,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "SoR4E",
+      "societyId": "et0k8",
+      "player": "",
+      "name": "9",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -996,7 +1008,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 4877.57800000017,
+      "timeElapsed": 4887.58200000017,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
