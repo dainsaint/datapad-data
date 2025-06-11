@@ -624,9 +624,7 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -662,9 +660,7 @@
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -676,9 +672,7 @@
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -714,9 +708,7 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -728,9 +720,7 @@
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -755,7 +745,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "lost"
+          "lost",
+          "endangered"
         ]
       }
     },
@@ -767,7 +758,9 @@
       "name": "Big bois",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
@@ -827,7 +820,9 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     }
   ],
@@ -931,13 +926,13 @@
       "_type": "Phase",
       "id": "ml6Q3",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 2,
       "duration": 240,
       "timeElapsed": 19.018,
       "actualTime": {
-        "s": "2025-05-10T20:26:21.020+00:00",
-        "e": "2025-06-03T19:48:43.861+00:00",
+        "s": "2025-06-11T20:38:18.911+00:00",
+        "e": "2025-06-11T20:42:18.911+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1385,7 +1380,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "vital"
+          "vital",
+          "exhausted"
         ]
       }
     },
@@ -1416,7 +1412,9 @@
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1446,7 +1444,9 @@
       "name": "blergh",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1456,9 +1456,7 @@
       "name": "hey now",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1468,9 +1466,7 @@
       "name": "new",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1480,9 +1476,7 @@
       "name": "adfasd",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1502,9 +1496,7 @@
       "name": "urk87kru",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1534,9 +1526,7 @@
       "name": "gwgwrtgwrt",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1568,7 +1558,9 @@
       "name": "Spring Rolls",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1578,7 +1570,9 @@
       "name": "Adele CDs",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1618,7 +1612,9 @@
       "name": "Space Faring Hot Air Balloons",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1648,7 +1644,9 @@
       "name": "Slpstck Comedy Based Lesson Plans",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -33092,6 +33090,22 @@
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "HShPw",
+      "timestamp": "2025-06-11T20:38:18.912Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Universal Phase",
+      "value": "2025-06-11T20:38:18.912Z"
+    },
+    {
+      "_type": "Record",
+      "id": "qf_kt",
+      "timestamp": "2025-06-11T20:38:18.912Z",
+      "type": "CommunitiesEndangered",
+      "description": "Main Test Episode: My Guys,Big bois,Test",
+      "value": 3
     }
   ]
 }
