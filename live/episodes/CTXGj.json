@@ -124,9 +124,10 @@
       "id": "zCz57",
       "round": 1,
       "societyId": "et0k8",
-      "resourceIds": [],
+      "resourceIds": [
+        "HOzO6"
+      ],
       "texts": [
-        "dddddd",
         ""
       ],
       "result": [],
