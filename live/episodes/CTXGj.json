@@ -2106,9 +2106,9 @@
       "id": "vdo8r",
       "round": 1,
       "societyId": "yXHVO",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "5",
+      "advantage": "0",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     }
