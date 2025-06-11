@@ -133,7 +133,10 @@
         "start shit",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-11T19:27:36.502+00:00",
       "status": "voted",
       "tags": {
@@ -181,7 +184,9 @@
         "blllllleeer",
         ""
       ],
-      "result": [],
+      "result": [
+        0
+      ],
       "voteTime": "2025-06-11T19:27:55.523+00:00",
       "status": "voted",
       "tags": {
@@ -851,13 +856,13 @@
       "_type": "Phase",
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 1,
       "duration": 1080,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-11T17:12:42.769+00:00",
-        "e": "2025-06-11T17:30:42.769+00:00",
+        "e": "2025-06-11T19:28:03.881+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
