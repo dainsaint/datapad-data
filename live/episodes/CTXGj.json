@@ -817,6 +817,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "Lx7BH",
+      "societyId": "e-JcG",
+      "player": "T",
+      "name": "Test",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
