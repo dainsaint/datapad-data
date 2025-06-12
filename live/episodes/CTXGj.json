@@ -1072,7 +1072,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 10788.686000000684,
+      "timeElapsed": 10820.696000000686,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
@@ -2086,7 +2086,8 @@
         "cV-Kn": "people",
         "LiQVN": "people",
         "R9tmF": "people",
-        "kATHn": "people"
+        "kATHn": "people",
+        "SoR4E": "leader"
       }
     },
     {
