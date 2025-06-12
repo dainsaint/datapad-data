@@ -682,7 +682,7 @@
       "id": "B95dD",
       "societyId": "et0k8",
       "player": "Jason",
-      "name": "Dirty Harries",
+      "name": "Revered Priests",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -2258,7 +2258,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "lCWsE": ""
+        "lCWsE": "",
+        "B95dD": ""
       },
       "alterLeadership": {}
     },
