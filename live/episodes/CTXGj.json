@@ -936,9 +936,7 @@
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -977,7 +975,9 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
@@ -989,7 +989,9 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
@@ -1001,7 +1003,9 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
@@ -1037,7 +1041,9 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
@@ -1073,7 +1079,9 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     }
   ],
@@ -1101,13 +1109,13 @@
       "_type": "Phase",
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-05-13T23:51:02.029+00:00",
-        "e": "2025-06-08T20:00:26.835+00:00",
+        "s": "2025-06-12T23:11:06.381+00:00",
+        "e": "2025-06-12T23:15:06.381+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1631,8 +1639,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "vital",
-          "exhausted"
+          "vital"
         ]
       }
     },
@@ -1663,9 +1670,7 @@
       "name": "shtrhstr",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1695,9 +1700,7 @@
       "name": "blergh",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1809,9 +1812,7 @@
       "name": "Spring Rolls",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1821,9 +1822,7 @@
       "name": "Adele CDs",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1863,9 +1862,7 @@
       "name": "Space Faring Hot Air Balloons",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1895,9 +1892,7 @@
       "name": "Slpstck Comedy Based Lesson Plans",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -43655,6 +43650,22 @@
       "timestamp": "2025-06-12T23:11:04.180Z",
       "type": "ResourceCreated",
       "value": "Poisonous Chow"
+    },
+    {
+      "_type": "Record",
+      "id": "PWp-w",
+      "timestamp": "2025-06-12T23:11:06.381Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Universal Phase",
+      "value": "2025-06-12T23:11:06.381Z"
+    },
+    {
+      "_type": "Record",
+      "id": "tdV0r",
+      "timestamp": "2025-06-12T23:11:06.382Z",
+      "type": "CommunitiesEndangered",
+      "description": "Main Test Episode: My Guys,Big bois,9,Traditionalist Healers,Loving Caretakers,,New Old Skool ,Sleepy Dreamers",
+      "value": 8
     }
   ]
 }
