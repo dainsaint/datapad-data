@@ -924,7 +924,7 @@
       "id": "fr_Re",
       "societyId": "yXHVO",
       "player": "Sulu",
-      "name": "Grand Pines",
+      "name": "Kindhearted Executives ",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -2274,7 +2274,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "jaCtF": ""
+        "jaCtF": "",
+        "fr_Re": ""
       },
       "alterLeadership": {}
     },
