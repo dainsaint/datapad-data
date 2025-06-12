@@ -912,18 +912,6 @@
     },
     {
       "_type": "Community",
-      "id": "pT1pr",
-      "societyId": "V9xbw",
-      "player": "Paul Any",
-      "name": "Conservative Caretakers",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "Lx7BH",
       "societyId": "e-JcG",
       "player": "T",
