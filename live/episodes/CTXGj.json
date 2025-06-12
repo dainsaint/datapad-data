@@ -1093,7 +1093,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 3.001,
+      "timeElapsed": 5.0009999999999994,
       "actualTime": {
         "s": "2025-06-12T23:11:16.075+00:00",
         "e": "2025-06-12T23:31:16.075+00:00",
@@ -1112,7 +1112,7 @@
       "status": "paused",
       "round": 1,
       "duration": 240,
-      "timeElapsed": 8.014,
+      "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-12T23:11:06.381+00:00",
         "e": "2025-06-12T23:15:06.381+00:00",
