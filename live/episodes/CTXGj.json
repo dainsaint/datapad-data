@@ -1051,6 +1051,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "fYcQx",
+      "societyId": "V9xbw",
+      "player": "Joe he They",
+      "name": "Dying Miners",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
