@@ -1093,7 +1093,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 5.0009999999999994,
+      "timeElapsed": 8.027,
       "actualTime": {
         "s": "2025-06-12T23:11:16.075+00:00",
         "e": "2025-06-12T23:31:16.075+00:00",
@@ -2060,6 +2060,16 @@
       "id": "I8tk5",
       "communityId": "JJYA-",
       "name": "Poisonous Chow",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "cmBmi",
+      "communityId": "Y_0oZ",
+      "name": "Magical Sleep Elixir",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -43674,6 +43684,13 @@
       "type": "PhaseStarted",
       "description": "Round 0: Setup/Onboarding",
       "value": "2025-06-12T23:11:16.075Z"
+    },
+    {
+      "_type": "Record",
+      "id": "tp2ld",
+      "timestamp": "2025-06-12T23:11:21.448Z",
+      "type": "ResourceCreated",
+      "value": "Magical Sleep Elixir"
     }
   ]
 }
