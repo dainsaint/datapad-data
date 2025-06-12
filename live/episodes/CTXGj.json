@@ -989,10 +989,10 @@
       "_type": "Phase",
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
-      "status": "playing",
+      "status": "paused",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 0,
+      "timeElapsed": 20.085,
       "actualTime": {
         "s": "2025-06-12T18:52:56.972+00:00",
         "e": "2025-06-12T19:12:56.972+00:00",
