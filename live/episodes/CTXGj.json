@@ -1082,13 +1082,13 @@
       "_type": "Phase",
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
-      "status": "paused",
+      "status": "playing",
       "round": 0,
       "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-12T18:52:56.972+00:00",
-        "e": "2025-06-12T19:12:56.972+00:00",
+        "s": "2025-06-12T23:02:59.866+00:00",
+        "e": "2025-06-12T23:22:59.866+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -43522,6 +43522,14 @@
       "timestamp": "2025-06-12T20:05:28.473+00:00",
       "type": "ResourceCreated",
       "value": "Predictive Algorithms"
+    },
+    {
+      "_type": "Record",
+      "id": "wawLx",
+      "timestamp": "2025-06-12T23:02:59.866Z",
+      "type": "PhaseStarted",
+      "description": "Round 0: Setup/Onboarding",
+      "value": "2025-06-12T23:02:59.866Z"
     }
   ]
 }
