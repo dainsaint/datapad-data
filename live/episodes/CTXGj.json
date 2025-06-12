@@ -375,7 +375,6 @@
       "round": "2",
       "societyId": "et0k8",
       "resourceIds": [
-        "JvqsG",
         "HOzO6"
       ],
       "texts": [
@@ -383,9 +382,6 @@
         "hurt people",
         ""
       ],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
       "result": [
         6,
         3
@@ -1047,7 +1043,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 9102.726000000508,
+      "timeElapsed": 9117.73200000051,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
