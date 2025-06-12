@@ -46,6 +46,9 @@
         "",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0
       ],
@@ -93,6 +96,9 @@
         "",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -382,6 +388,9 @@
         "hurt people",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6
       ],
@@ -560,6 +569,9 @@
         "Splash on em",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0
       ],
@@ -582,6 +594,9 @@
         "Help support infrastructure of developing communities ",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0
       ],
@@ -606,6 +621,9 @@
         "Nip at their ankles ",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0,
         0
@@ -628,6 +646,9 @@
       "texts": [
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -3364,7 +3385,7 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "P/Fs wander to the center (near Dias) "
+                        "value": "P/Fs wander to the center (near Dais) "
                       }
                     ]
                   }
@@ -11228,7 +11249,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "Even Trans Corp is planning a stunning flyby over Division on their way to deliver the latest battery shipments which will power your worlds for the next cycle."
+                "value": "Even Trans Corp is planning a stunning flyby over Division on their way to deliver the latest battery shipments which will power your worlds for the next cycle. "
               }
             ]
           },
@@ -11242,8 +11263,24 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": ""
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "color: rgb(112.00000349999999, 112.00000349999999, 112.00000349999999)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           },
@@ -11281,10 +11318,6 @@
               {
                 "type": "text",
                 "value": "So the question is: With the first ever Abundance day on its way, how does your Society contribute to the celebration, and what will you do?"
-              },
-              {
-                "type": "text",
-                "value": ""
               }
             ]
           },
@@ -11298,8 +11331,15 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": ""
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
               }
             ]
           },
@@ -11393,14 +11433,32 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "18 Minutes"
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "color: rgb(0, 0, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "18 Minutes"
+                      }
+                    ]
                   }
                 ]
               },
               {
-                "type": "text",
-                "value": ""
+                "type": "element",
+                "tagName": "span",
+                "properties": {
+                  "style": "color: rgb(0, 0, 0)"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
               }
             ]
           },
@@ -11594,7 +11652,6 @@
             "type": "element",
             "tagName": "p",
             "properties": {
-              "style": "margin-top: 12PT; margin-bottom: 12PT",
               "className": [
                 "normal-text"
               ]
@@ -11602,7 +11659,26 @@
             "children": [
               {
                 "type": "text",
-                "value": "A Community’s Resource cannot be used in their Society’s action without the Community’s consent. Each resource that is used is “exhausted” and cannot be used for any purpose during the next round of gameplay. So if your resources are all exhausted, this leaves you defenseless and without the ability to take actions for a full round."
+                "value": "A Community’s Resource cannot be used in their Society’s action without the Community’s consent. Each resource that is"
+              },
+              {
+                "type": "text",
+                "value": " used is “exhausted” and cannot be used for any purpose during the next round of gameplay. So if your resources are all exhausted, this leaves you defenseless and without the ability to take actions for a full round."
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
               }
             ]
           },
@@ -11711,7 +11787,7 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "Anthony crosses up to the Dias. "
+                        "value": "Anthony crosses up to the Dais. "
                       }
                     ]
                   }
@@ -13369,7 +13445,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to dias. "
+                    "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to Dais. "
                   }
                 ]
               }
@@ -13413,7 +13489,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Final pose until Emissary takes place at dias, then moves diagonal between Dias and GM (isocles triangle). "
+                    "value": "Final pose until Emissary takes place at Dais, then moves diagonal between Dais and GM (isocles triangle). "
                   }
                 ]
               }
@@ -16660,7 +16736,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to dias. "
+                    "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to Dais. "
                   }
                 ]
               }
@@ -16704,7 +16780,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Final pose until Emissary takes place at dias, then moves diagonal between Dias and GM (isocles triangle). "
+                    "value": "Final pose until Emissary takes place at Dais, then moves diagonal between Dais and GM (isocles triangle). "
                   }
                 ]
               }
@@ -17191,6 +17267,52 @@
             "children": [
               {
                 "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "P/Fs cross to their respective sides for Leaders Lobby and People's Pub. "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
                 "tagName": "strong",
                 "properties": {},
                 "children": [
@@ -17213,7 +17335,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "If you’re currently a Voice of the Leader grab your zine and a pen and follow us to the Leader’s Lobby."
+                "value": "Everyone grab your zine and a pen. If you're currently a Voice of the Leader from any planet follow us to the Leader’s Lobby."
               }
             ]
           },
@@ -17255,7 +17377,7 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "Leaders exit to Leader’s Lobby with KC and Jackie"
+                        "value": "Leaders exit to the Leader’s Lobby with KC and Jackie"
                       }
                     ]
                   }
@@ -17301,7 +17423,18 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Anthony"
+                    "value": "ANTHONY"
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
                   }
                 ]
               }
@@ -17318,7 +17451,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "Voices of the People follow me to the People’s Pub."
+                "value": "Voices of the People follow us to the People’s Pub."
               }
             ]
           },
@@ -17514,6 +17647,22 @@
           },
           {
             "type": "element",
+            "tagName": "h2",
+            "properties": {
+              "className": [
+                "heading-2"
+              ],
+              "id": "peoples-pub"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "People’s Pub"
+              }
+            ]
+          },
+          {
+            "type": "element",
             "tagName": "p",
             "properties": {
               "className": [
@@ -17538,7 +17687,156 @@
             "children": [
               {
                 "type": "text",
-                "value": "The first thing that you do each time you come to this space is draw a random Willpower card. Let’s do that now."
+                "value": "These are "
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Willpower"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": " cards, and they represent a sentiment rising within your community that the people are ready and able to act on. Over time, members of your community may have desires — they may wish to:"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "create something new, "
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "uphold the status quo, "
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "shift the power structure,"
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "or destroy that which does not work. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "padding-left: 36PT; text-indent: 36PT",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Each Willpower card carries both an action and the instructions on its use, and you can play them at any point during the Societal Phase. It can be strategic to keep these cards private. You can trade Willpower cards with other players, but only here during the Individual Phase."
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "span",
+                "properties": {
+                  "style": "background-color: rgb(255, 255, 0)"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "span",
+                "properties": {
+                  "style": "background-color: rgb(255, 255, 0)"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "The first thing that you do each time you come to this space is draw a random Willpower card. Let’s do that now."
+                  }
+                ]
               }
             ]
           },
@@ -17561,6 +17859,174 @@
                     "value": "Players draw Willpower cards"
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Answer questions about Willpower cards"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Now let’s get into your character’s story! Each Individual phase represents a major change or life event for them - years pass between each phase. You also know from your Willpower card something about what’s happening in your community. Use that as a starting point. Maybe your character agrees with this sentiment or maybe they’re against it or neutral. "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Encourage people to turn to the Menus in their zines or around the wall. "
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "These have the instructions of what you’ll do in each Individual phase after drawing your Willpower card."
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Invite people to read the zines and start exploring this next chapter of their stories on their own time."
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Let people know you’re there to answer questions or provide guidance."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "h2",
+            "properties": {
+              "className": [
+                "heading-2"
+              ],
+              "id": "leaders-lobby-"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Leader’s Lobby "
               }
             ]
           },
@@ -17612,7 +18078,7 @@
               },
               {
                 "type": "text",
-                "value": " cards, and they represent a sentiment rising within your community that has joined with the means to act upon it. Over time, members of your community may have desires — they may wish to create something new, uphold the status quo, shift the power structure, or destroy that which does not work. "
+                "value": " cards, and they represent a sentiment rising within your community that has joined with the means to act upon it. Over time, members of your community may have desires — they may wish to create something new, uphold the status quo, shift the power structure, or destroy that which does not work."
               }
             ]
           },
@@ -17663,6 +18129,67 @@
                   {
                     "type": "text",
                     "value": "Answer questions about Willpower cards"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "span",
+                "properties": {
+                  "style": "background-color: rgb(255, 255, 0)"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "The first thing that you do each time you come to this space is draw a random Willpower card. Let’s do that now."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Players draw Willpower cards"
                   }
                 ]
               }
@@ -19492,7 +20019,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to dias. "
+                    "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to Dais. "
                   }
                 ]
               }
@@ -19536,7 +20063,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Final pose until Emissary takes place at dias, then moves diagonal between Dias and GM (isocles triangle). "
+                    "value": "Final pose until Emissary takes place at Dais, then moves diagonal between Dais and GM (isocles triangle). "
                   }
                 ]
               }
@@ -20007,7 +20534,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "In a moment we’ll head back to the Individual Phase. Now that you’ve started gathering Willpower cards, it's important to know that the sentiments they represent don’t last forever. If you end up with more than three in your hand, you’ll have to discard one. "
+                "value": "In a moment we’ll head back to the Individual Phase. Now that you’ve started gathering Willpower cards, it's important to know that the sentiments they represent don’t last forever. If you end up with more than three in your hand, you’ll have to discard one by giving it to your Performer Facilitator. "
               }
             ]
           },
@@ -20325,7 +20852,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Discard all resources and Willpower cards from your previous Community."
+                    "value": "Discard all Willpower cards from your previous Community."
                   }
                 ]
               },
@@ -21169,7 +21696,18 @@
               {
                 "type": "text",
                 "value": "Emissaries, please stand by for the Galactic Phase. "
-              },
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
               {
                 "type": "text",
                 "value": ""
@@ -21529,7 +22067,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to dias. "
+                    "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to Dais. "
                   }
                 ]
               }
@@ -21573,7 +22111,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Final pose until Emissary takes place at dias, then moves diagonal between Dias and GM (isocles triangle). "
+                    "value": "Final pose until Emissary takes place at Dais, then moves diagonal between Dais and GM (isocles triangle). "
                   }
                 ]
               }
@@ -22502,6 +23040,21 @@
           },
           {
             "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
             "tagName": "h1",
             "properties": {
               "className": [
@@ -23175,7 +23728,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to dias. "
+                    "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to Dais. "
                   }
                 ]
               }
@@ -23219,7 +23772,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Final pose until Emissary takes place at dias, then moves diagonal between Dias and GM (isocles triangle). "
+                    "value": "Final pose until Emissary takes place at Dais, then moves diagonal between Dais and GM (isocles triangle). "
                   }
                 ]
               }
@@ -24764,7 +25317,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to dias. "
+                    "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to Dais. "
                   }
                 ]
               }
@@ -24808,7 +25361,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Final pose until Emissary takes place at dias, then moves diagonal between Dias and GM (isocles triangle). "
+                    "value": "Final pose until Emissary takes place at Dais, then moves diagonal between Dais and GM (isocles triangle). "
                   }
                 ]
               }
@@ -25412,6 +25965,28 @@
             },
             "children": [
               {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "P/F"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
                 "type": "text",
                 "value": "It's time to bring our day of play together to a close. "
               }
@@ -25442,8 +26017,30 @@
             },
             "children": [
               {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "P/F"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
                 "type": "text",
-                "value": "First, you will work together to create a new story for your Society on a new Society Sheet, containing the same three elements of “At first”, “but then”, and “and now.” For “At First” copy what was written for your Society’s previous “and now.” For “But then” and “and now”  create something new."
+                "value": "Generations are passing. We are reabsorbed into the fabric of time. Take a moment to say goodbye to your characters and communities. You have served them well. It is now time to serve the future generations of this planet."
               }
             ]
           },
@@ -25459,6 +26056,95 @@
               {
                 "type": "text",
                 "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "P/F"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "You will now join me in the spirit realm. There are no Voices of Leaders or Voices of People—there is only the voice of the ancestors you want to become. "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "First, you will work together to create a new story for your Society on a new Society Sheet, containing the same three elements of “At first”, “but then”, and “and now.” For “At First,” copy what was written for your Society’s previous, “and now.” For “But then” and “and now,”  create something new."
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "P/F"
+                  }
+                ]
               }
             ]
           },
@@ -25489,6 +26175,28 @@
               {
                 "type": "text",
                 "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "P/F"
+                  }
+                ]
               }
             ]
           },
@@ -25987,8 +26695,30 @@
             },
             "children": [
               {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "GM"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
                 "type": "text",
-                "value": ""
+                "value": "Thank you for preparing for the next generation. As our final action for the day, we will reflect and share about the stories we built together. You have done this in character during our Individual Phases, but now you're doing this as you! We have three spaces to offer players: Converse, Journal, or Embody. Converse will be a facilitated discussion - follow KC, Matthew and Anthony to the Main Room. Journal - we have paper for solo writing and doodling - follow Ari to the Reception room (this can also be for those who want to sit and think!). Embody will have a mix of physical movement with discussion - follow Joe and Jackie outside. So: Converse to Main Room, Journal to Reception, and Embody outside. Bid farewell to your planetary community and head to your next space!"
               }
             ]
           },
@@ -26017,23 +26747,19 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": ""
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
+                "type": "element",
+                "tagName": "u",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Converse"
+                  }
+                ]
+              },
               {
                 "type": "text",
-                "value": ""
+                "value": " - KC & Matthew in 1-2 groups depending on numbers"
               }
             ]
           },
@@ -26042,7 +26768,7 @@
             "tagName": "ul",
             "properties": {
               "className": [
-                "nesting-level-2"
+                "nesting-level-1"
               ]
             },
             "children": [
@@ -26053,19 +26779,28 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Solo Writing/Doodling/Self-Directed Hang Out → Ari, Reception Room"
+                    "value": "Facilitator welcomes everyone, shares amount of time we’ll have.  Invites people to take a moment with themselves to remember what developed during the day. "
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Facilitator asks: "
                   },
                   {
                     "type": "element",
                     "tagName": "ul",
-                    "properties": {},
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
                     "children": [
-                      {
-                        "type": "element",
-                        "tagName": "li",
-                        "properties": {},
-                        "children": []
-                      },
                       {
                         "type": "element",
                         "tagName": "li",
@@ -26073,7 +26808,7 @@
                         "children": [
                           {
                             "type": "text",
-                            "value": "Physical Movement → Joe and Jackie, Outside"
+                            "value": "What was your favorite moment of today? (Aiming to start with a question that is fairly easy to answer. Consider offering this as a round where the facilitator models a short-ish answer.) "
                           }
                         ]
                       },
@@ -26084,13 +26819,578 @@
                         "children": [
                           {
                             "type": "text",
-                            "value": "Group Discussion (with the option to split into smaller groups)  → KC, Matthew, Anthony, Main Room"
+                            "value": "What was challenging about making decisions with other communities?"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "What happened today that feels like a metaphor for real life?"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "[For second and third days of play] Were any of you here for an earlier day? What stood out about today in contrast to last time? "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "strong",
+                            "properties": {},
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Is there anything that happened in Space Opera that you’d like to see more of in real life?"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Version for FINAL Day: What about building this story over one to three days, brought up something you’d like to see more of in real life. "
+                                  }
+                                ]
+                              }
+                            ]
                           }
                         ]
                       }
                     ]
                   }
                 ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Close Group - gratitude and direction to the next thing. See Exit Prompts below"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "padding-left: 36PT; text-indent: 36PT",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "u",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Journal"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": " - Ari in Reception Room"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Facilitator welcomes everyone, points out the available supplies, & shares amount of time we’ll have. Describes that supplies are available for people for people to journal/doodle thoughts about the day, and facilitator will periodically offer a prompt. If possible, have an area where these can be posted up in the space (or a place where people can send a picture to build a digital gallery)"
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Prompts: "
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Take a moment with themselves to remember what developed during the day. What was your favorite moment?"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "What was challenging about making decisions with other communities?"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "What happened today that feels like a metaphor for real life?"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Is there anything that happened in Space Opera that you’d like to see more of in real life?"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Close group. See Exit Prompts below"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "padding-left: 36PT; text-indent: 36PT",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "u",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Embody"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": " - Joe & Jackie Outside"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Facilitator welcomes everyone, shares amount of time we’ll have. Describes that this group will use some prompts to explore physicalized reflections of the day, with some discussion."
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Prompts:"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "First, please stretch and do things you know your body likes. If you want guidance you can mimic me. Take a moment to remember what developed during the day."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "When I share a prompt, take a couple moments to shape your body into a literal or abstract response. For example, if I say “[sample word]” [facilitator models with an image]. "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Let’s start with, make an image of your favorite moment of the day. "
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Notice what people made"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Would anyone like to tell us about your image?"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "What was challenging about making decisions with other communities? Make an image to reflect how that challenge felt."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Move into groups of two or 3 for this one - talk about if anything that happened today that feels like a metaphor for real life. "
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Can you make a group sculpture that represents 1 or both of your answers?"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Show & share"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Chat in your groups - is there anything that happened in Space Opera that you’d like to see more of in real life?"
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Make a solo sculpture that shows you experiencing that thing in real life!"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Close Group: See Exit Prompts below"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "EXIT PROMPTS for P/Fs in each reflection group:"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Thank you for joining us at Space Opera. This closes the day."
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "[What do returning players need to know]"
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "[How to invite people to next week]"
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Byeeeeeeee"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
               }
             ]
           }
@@ -42015,15 +43315,15 @@
     {
       "_type": "Record",
       "id": "HShPw",
-      "timestamp": "2025-06-11T20:38:18.912Z",
+      "timestamp": "2025-06-11T20:38:18.912+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Universal Phase",
-      "value": "2025-06-11T20:38:18.912Z"
+      "value": "2025-06-11T20:38:18.912+00:00"
     },
     {
       "_type": "Record",
       "id": "qf_kt",
-      "timestamp": "2025-06-11T20:38:18.912Z",
+      "timestamp": "2025-06-11T20:38:18.912+00:00",
       "type": "CommunitiesEndangered",
       "description": "Main Test Episode: My Guys,Big bois,Test",
       "value": 3
@@ -42031,50 +43331,50 @@
     {
       "_type": "Record",
       "id": "y26to",
-      "timestamp": "2025-06-11T23:03:15.076Z",
+      "timestamp": "2025-06-11T23:03:15.076+00:00",
       "type": "ResourceCreated",
       "value": "Test"
     },
     {
       "_type": "Record",
       "id": "r5Mp8",
-      "timestamp": "2025-06-11T23:04:45.008Z",
+      "timestamp": "2025-06-11T23:04:45.008+00:00",
       "type": "ResourceCreated",
       "value": "Test 2"
     },
     {
       "_type": "Record",
       "id": "Mv2Ut",
-      "timestamp": "2025-06-11T23:04:55.488Z",
+      "timestamp": "2025-06-11T23:04:55.488+00:00",
       "type": "ResourceCreated",
       "value": "Wow"
     },
     {
       "_type": "Record",
       "id": "pOcPF",
-      "timestamp": "2025-06-11T23:09:23.365Z",
+      "timestamp": "2025-06-11T23:09:23.365+00:00",
       "type": "ResourceCreated",
       "value": "Plentiful Lumber "
     },
     {
       "_type": "Record",
       "id": "iZaHx",
-      "timestamp": "2025-06-12T00:46:38.548Z",
+      "timestamp": "2025-06-12T00:46:38.548+00:00",
       "type": "ResourceCreated",
       "value": "Rocket Scientists"
     },
     {
       "_type": "Record",
       "id": "oM73S",
-      "timestamp": "2025-06-12T00:54:32.513Z",
+      "timestamp": "2025-06-12T00:54:32.513+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Universal Phase",
-      "value": "2025-06-12T00:54:32.513Z"
+      "value": "2025-06-12T00:54:32.513+00:00"
     },
     {
       "_type": "Record",
       "id": "xe6Zs",
-      "timestamp": "2025-06-12T00:54:32.514Z",
+      "timestamp": "2025-06-12T00:54:32.514+00:00",
       "type": "CommunitiesEndangered",
       "description": "Main Test Episode: My Guys,Big bois,8,9",
       "value": 4
@@ -42082,15 +43382,15 @@
     {
       "_type": "Record",
       "id": "johOK",
-      "timestamp": "2025-06-12T00:54:34.525Z",
+      "timestamp": "2025-06-12T00:54:34.525+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Universal Phase",
-      "value": "2025-06-12T00:54:34.525Z"
+      "value": "2025-06-12T00:54:34.525+00:00"
     },
     {
       "_type": "Record",
       "id": "Jja1b",
-      "timestamp": "2025-06-12T00:54:34.525Z",
+      "timestamp": "2025-06-12T00:54:34.525+00:00",
       "type": "CommunitiesEndangered",
       "description": "Main Test Episode: My Guys,Big bois,8,9",
       "value": 4
@@ -42098,7 +43398,7 @@
     {
       "_type": "Record",
       "id": "fk0WU",
-      "timestamp": "2025-06-12T00:55:00.057Z",
+      "timestamp": "2025-06-12T00:55:00.057+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 0
@@ -42106,7 +43406,7 @@
     {
       "_type": "Record",
       "id": "owHly",
-      "timestamp": "2025-06-12T00:55:00.057Z",
+      "timestamp": "2025-06-12T00:55:00.057+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 0
@@ -42114,7 +43414,7 @@
     {
       "_type": "Record",
       "id": "Gubkn",
-      "timestamp": "2025-06-12T00:55:00.057Z",
+      "timestamp": "2025-06-12T00:55:00.057+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -42122,7 +43422,7 @@
     {
       "_type": "Record",
       "id": "XHS4G",
-      "timestamp": "2025-06-12T00:55:00.057Z",
+      "timestamp": "2025-06-12T00:55:00.057+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -42130,7 +43430,7 @@
     {
       "_type": "Record",
       "id": "NM8C6",
-      "timestamp": "2025-06-12T00:55:00.057Z",
+      "timestamp": "2025-06-12T00:55:00.057+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
@@ -42138,43 +43438,43 @@
     {
       "_type": "Record",
       "id": "iYJvL",
-      "timestamp": "2025-06-12T18:52:56.972Z",
+      "timestamp": "2025-06-12T18:52:56.972+00:00",
       "type": "PhaseStarted",
       "description": "Round 0: Setup/Onboarding",
-      "value": "2025-06-12T18:52:56.972Z"
+      "value": "2025-06-12T18:52:56.972+00:00"
     },
     {
       "_type": "Record",
       "id": "KlHnR",
-      "timestamp": "2025-06-12T20:02:43.877Z",
+      "timestamp": "2025-06-12T20:02:43.877+00:00",
       "type": "ResourceCreated",
       "value": "Soothing Songs "
     },
     {
       "_type": "Record",
       "id": "XSMUO",
-      "timestamp": "2025-06-12T20:03:09.676Z",
+      "timestamp": "2025-06-12T20:03:09.676+00:00",
       "type": "ResourceCreated",
       "value": "Massive Factories "
     },
     {
       "_type": "Record",
       "id": "G3iVZ",
-      "timestamp": "2025-06-12T20:04:30.741Z",
+      "timestamp": "2025-06-12T20:04:30.741+00:00",
       "type": "ResourceCreated",
       "value": "Speedy Buses "
     },
     {
       "_type": "Record",
       "id": "kRBh1",
-      "timestamp": "2025-06-12T20:04:52.044Z",
+      "timestamp": "2025-06-12T20:04:52.044+00:00",
       "type": "ResourceCreated",
       "value": "People Power"
     },
     {
       "_type": "Record",
       "id": "uUw0w",
-      "timestamp": "2025-06-12T20:05:28.473Z",
+      "timestamp": "2025-06-12T20:05:28.473+00:00",
       "type": "ResourceCreated",
       "value": "Predictive Algorithms"
     }
