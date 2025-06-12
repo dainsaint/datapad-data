@@ -977,13 +977,13 @@
       "_type": "Phase",
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
-      "status": "idle",
+      "status": "complete",
       "round": 0,
       "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-12T20:52:56.814+00:00",
-        "e": "2025-06-03T19:01:51.228+00:00",
+        "e": "2025-06-12T00:55:00.057+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -34251,6 +34251,46 @@
       "type": "CommunitiesEndangered",
       "description": "Main Test Episode: My Guys,Big bois,8,9",
       "value": 4
+    },
+    {
+      "_type": "Record",
+      "id": "fk0WU",
+      "timestamp": "2025-06-12T00:55:00.057Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "owHly",
+      "timestamp": "2025-06-12T00:55:00.057Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "Gubkn",
+      "timestamp": "2025-06-12T00:55:00.057Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "XHS4G",
+      "timestamp": "2025-06-12T00:55:00.057Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "NM8C6",
+      "timestamp": "2025-06-12T00:55:00.057Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 0
     }
   ]
 }
