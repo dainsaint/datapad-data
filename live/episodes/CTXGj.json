@@ -1903,6 +1903,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "K_aIg",
+      "communityId": "menqQ",
+      "name": "Speedy Buses ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -42101,6 +42111,13 @@
       "timestamp": "2025-06-12T20:03:09.676Z",
       "type": "ResourceCreated",
       "value": "Massive Factories "
+    },
+    {
+      "_type": "Record",
+      "id": "G3iVZ",
+      "timestamp": "2025-06-12T20:04:30.741Z",
+      "type": "ResourceCreated",
+      "value": "Speedy Buses "
     }
   ]
 }
