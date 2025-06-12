@@ -812,7 +812,7 @@
       "id": "jaCtF",
       "societyId": "yXHVO",
       "player": "",
-      "name": "big ol shair",
+      "name": "Loyalist Teachers",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -2273,7 +2273,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "jaCtF": ""
+      },
       "alterLeadership": {}
     },
     {
