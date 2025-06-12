@@ -1015,6 +1015,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "Sfh-1",
+      "societyId": "V9xbw",
+      "player": "",
+      "name": "Test 3",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
