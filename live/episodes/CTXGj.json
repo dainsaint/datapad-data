@@ -1893,6 +1893,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "k2NDZ",
+      "communityId": "fr_Re",
+      "name": "Massive Factories ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -42082,6 +42092,13 @@
       "timestamp": "2025-06-12T20:02:43.877Z",
       "type": "ResourceCreated",
       "value": "Soothing Songs "
+    },
+    {
+      "_type": "Record",
+      "id": "XSMUO",
+      "timestamp": "2025-06-12T20:03:09.676Z",
+      "type": "ResourceCreated",
+      "value": "Massive Factories "
     }
   ]
 }
