@@ -1913,6 +1913,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "YUnCl",
+      "communityId": "OlD1Z",
+      "name": "People Power",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -42119,6 +42129,13 @@
       "timestamp": "2025-06-12T20:04:30.741Z",
       "type": "ResourceCreated",
       "value": "Speedy Buses "
+    },
+    {
+      "_type": "Record",
+      "id": "kRBh1",
+      "timestamp": "2025-06-12T20:04:52.044Z",
+      "type": "ResourceCreated",
+      "value": "People Power"
     }
   ]
 }
