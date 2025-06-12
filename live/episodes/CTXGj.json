@@ -733,8 +733,8 @@
       "_type": "Community",
       "id": "kATHn",
       "societyId": "et0k8",
-      "player": "",
-      "name": "Jimmy",
+      "player": "STick",
+      "name": "Skeptical Clerics",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -2281,7 +2281,8 @@
         "lCWsE": "",
         "B95dD": "",
         "UDMgC": "",
-        "cV-Kn": ""
+        "cV-Kn": "",
+        "kATHn": ""
       },
       "alterLeadership": {}
     },
