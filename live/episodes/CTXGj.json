@@ -1935,6 +1935,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "bs1hB",
+      "communityId": "lCWsE",
+      "name": "Predictive Algorithms",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -42148,6 +42158,13 @@
       "timestamp": "2025-06-12T20:04:52.044Z",
       "type": "ResourceCreated",
       "value": "People Power"
+    },
+    {
+      "_type": "Record",
+      "id": "uUw0w",
+      "timestamp": "2025-06-12T20:05:28.473Z",
+      "type": "ResourceCreated",
+      "value": "Predictive Algorithms"
     }
   ]
 }
