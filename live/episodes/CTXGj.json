@@ -1039,6 +1039,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "JN2kT",
+      "societyId": "V9xbw",
+      "player": "Chet He Hanks",
+      "name": "Valorous Hairdressors",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
