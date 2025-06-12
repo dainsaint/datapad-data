@@ -970,6 +970,18 @@
           "endangered"
         ]
       }
+    },
+    {
+      "_type": "Community",
+      "id": "lCWsE",
+      "societyId": "et0k8",
+      "player": "",
+      "name": "Protective Oracles ",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
