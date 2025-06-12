@@ -1090,13 +1090,13 @@
       "_type": "Phase",
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
-      "status": "paused",
+      "status": "complete",
       "round": 0,
       "duration": 480,
       "timeElapsed": 482.7199999999987,
       "actualTime": {
         "s": "2025-06-12T23:11:16.075+00:00",
-        "e": "2025-06-12T23:31:16.075+00:00",
+        "e": "2025-06-12T23:53:15.027+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -43592,15 +43592,15 @@
     {
       "_type": "Record",
       "id": "wawLx",
-      "timestamp": "2025-06-12T23:02:59.866Z",
+      "timestamp": "2025-06-12T23:02:59.866+00:00",
       "type": "PhaseStarted",
       "description": "Round 0: Setup/Onboarding",
-      "value": "2025-06-12T23:02:59.866Z"
+      "value": "2025-06-12T23:02:59.866+00:00"
     },
     {
       "_type": "Record",
       "id": "FZV7U",
-      "timestamp": "2025-06-12T23:03:01.718Z",
+      "timestamp": "2025-06-12T23:03:01.718+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 0
@@ -43608,7 +43608,7 @@
     {
       "_type": "Record",
       "id": "chY03",
-      "timestamp": "2025-06-12T23:03:01.718Z",
+      "timestamp": "2025-06-12T23:03:01.718+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 0
@@ -43616,7 +43616,7 @@
     {
       "_type": "Record",
       "id": "YemFX",
-      "timestamp": "2025-06-12T23:03:01.718Z",
+      "timestamp": "2025-06-12T23:03:01.718+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -43624,7 +43624,7 @@
     {
       "_type": "Record",
       "id": "LzO_t",
-      "timestamp": "2025-06-12T23:03:01.718Z",
+      "timestamp": "2025-06-12T23:03:01.718+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -43632,7 +43632,7 @@
     {
       "_type": "Record",
       "id": "rnOLK",
-      "timestamp": "2025-06-12T23:03:01.718Z",
+      "timestamp": "2025-06-12T23:03:01.718+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
@@ -43640,50 +43640,50 @@
     {
       "_type": "Record",
       "id": "vVq5D",
-      "timestamp": "2025-06-12T23:09:16.660Z",
+      "timestamp": "2025-06-12T23:09:16.660+00:00",
       "type": "ResourceCreated",
       "value": "Refrigerated Warehouses"
     },
     {
       "_type": "Record",
       "id": "koRqY",
-      "timestamp": "2025-06-12T23:10:07.117Z",
+      "timestamp": "2025-06-12T23:10:07.117+00:00",
       "type": "ResourceCreated",
       "value": "Songs Scissors"
     },
     {
       "_type": "Record",
       "id": "Zt903",
-      "timestamp": "2025-06-12T23:10:20.789Z",
+      "timestamp": "2025-06-12T23:10:20.789+00:00",
       "type": "ResourceCreated",
       "value": "Diamond Picksxes"
     },
     {
       "_type": "Record",
       "id": "Pmxft",
-      "timestamp": "2025-06-12T23:10:53.686Z",
+      "timestamp": "2025-06-12T23:10:53.686+00:00",
       "type": "ResourceCreated",
       "value": "Screeching Arrows"
     },
     {
       "_type": "Record",
       "id": "W-tT1",
-      "timestamp": "2025-06-12T23:11:04.180Z",
+      "timestamp": "2025-06-12T23:11:04.180+00:00",
       "type": "ResourceCreated",
       "value": "Poisonous Chow"
     },
     {
       "_type": "Record",
       "id": "PWp-w",
-      "timestamp": "2025-06-12T23:11:06.381Z",
+      "timestamp": "2025-06-12T23:11:06.381+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Universal Phase",
-      "value": "2025-06-12T23:11:06.381Z"
+      "value": "2025-06-12T23:11:06.381+00:00"
     },
     {
       "_type": "Record",
       "id": "tdV0r",
-      "timestamp": "2025-06-12T23:11:06.382Z",
+      "timestamp": "2025-06-12T23:11:06.382+00:00",
       "type": "CommunitiesEndangered",
       "description": "Main Test Episode: My Guys,Big bois,9,Traditionalist Healers,Loving Caretakers,,New Old Skool ,Sleepy Dreamers",
       "value": 8
@@ -43691,24 +43691,64 @@
     {
       "_type": "Record",
       "id": "v_meO",
-      "timestamp": "2025-06-12T23:11:16.075Z",
+      "timestamp": "2025-06-12T23:11:16.075+00:00",
       "type": "PhaseStarted",
       "description": "Round 0: Setup/Onboarding",
-      "value": "2025-06-12T23:11:16.075Z"
+      "value": "2025-06-12T23:11:16.075+00:00"
     },
     {
       "_type": "Record",
       "id": "tp2ld",
-      "timestamp": "2025-06-12T23:11:21.448Z",
+      "timestamp": "2025-06-12T23:11:21.448+00:00",
       "type": "ResourceCreated",
       "value": "Magical Sleep Elixir"
     },
     {
       "_type": "Record",
       "id": "Og0Sw",
-      "timestamp": "2025-06-12T23:11:34.117Z",
+      "timestamp": "2025-06-12T23:11:34.117+00:00",
       "type": "ResourceCreated",
       "value": "Puffy Pillows"
+    },
+    {
+      "_type": "Record",
+      "id": "nRE4r",
+      "timestamp": "2025-06-12T23:53:15.027Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "gbwnh",
+      "timestamp": "2025-06-12T23:53:15.027Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "DeHua",
+      "timestamp": "2025-06-12T23:53:15.027Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "CJwsL",
+      "timestamp": "2025-06-12T23:53:15.027Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "z8YNv",
+      "timestamp": "2025-06-12T23:53:15.027Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 0
     }
   ]
 }
