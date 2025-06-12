@@ -1093,7 +1093,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 8.027,
+      "timeElapsed": 19.045000000000005,
       "actualTime": {
         "s": "2025-06-12T23:11:16.075+00:00",
         "e": "2025-06-12T23:31:16.075+00:00",
@@ -2070,6 +2070,16 @@
       "id": "cmBmi",
       "communityId": "Y_0oZ",
       "name": "Magical Sleep Elixir",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "Ju7wd",
+      "communityId": "Y_0oZ",
+      "name": "Puffy Pillows",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -43691,6 +43701,13 @@
       "timestamp": "2025-06-12T23:11:21.448Z",
       "type": "ResourceCreated",
       "value": "Magical Sleep Elixir"
+    },
+    {
+      "_type": "Record",
+      "id": "Og0Sw",
+      "timestamp": "2025-06-12T23:11:34.117Z",
+      "type": "ResourceCreated",
+      "value": "Puffy Pillows"
     }
   ]
 }
