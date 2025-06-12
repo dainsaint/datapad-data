@@ -1023,7 +1023,7 @@
     {
       "_type": "Community",
       "id": "Sfh-1",
-      "societyId": "V9xbw",
+      "societyId": "Feay0",
       "player": "Sulu They Them",
       "name": "Crackling Retailers",
       "voice": "people",
@@ -1131,7 +1131,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 48.029999999999994,
+      "timeElapsed": 52.03099999999999,
       "actualTime": {
         "s": "2025-06-12T23:56:50.913+00:00",
         "e": "2025-06-13T00:14:50.913+00:00",
@@ -2541,7 +2541,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "Y_0oZ": "",
-        "JN2kT": ""
+        "JN2kT": "",
+        "Sfh-1": ""
       },
       "alterLeadership": {}
     },
