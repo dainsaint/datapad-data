@@ -1064,7 +1064,7 @@
       "societyId": "V9xbw",
       "player": "Joe he They",
       "name": "Dying Miners",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1093,7 +1093,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 79.137,
+      "timeElapsed": 84.146,
       "actualTime": {
         "s": "2025-06-12T23:11:16.075+00:00",
         "e": "2025-06-12T23:31:16.075+00:00",
@@ -2469,7 +2469,8 @@
       "ambassadors": {
         "kEXYj": "",
         "JJYA-": "",
-        "Sfh-1": ""
+        "Sfh-1": "",
+        "fYcQx": ""
       },
       "alterLeadership": {}
     },
