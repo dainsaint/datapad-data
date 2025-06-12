@@ -1075,10 +1075,10 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 0,
+      "timeElapsed": 3.026,
       "actualTime": {
-        "s": "2025-06-12T00:54:32.513+00:00",
-        "e": "2025-06-12T00:58:32.513+00:00",
+        "s": "2025-06-12T00:54:34.525+00:00",
+        "e": "2025-06-12T00:58:34.525+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -34232,6 +34232,22 @@
       "_type": "Record",
       "id": "xe6Zs",
       "timestamp": "2025-06-12T00:54:32.514Z",
+      "type": "CommunitiesEndangered",
+      "description": "Main Test Episode: My Guys,Big bois,8,9",
+      "value": 4
+    },
+    {
+      "_type": "Record",
+      "id": "johOK",
+      "timestamp": "2025-06-12T00:54:34.525Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Universal Phase",
+      "value": "2025-06-12T00:54:34.525Z"
+    },
+    {
+      "_type": "Record",
+      "id": "Jja1b",
+      "timestamp": "2025-06-12T00:54:34.525Z",
       "type": "CommunitiesEndangered",
       "description": "Main Test Episode: My Guys,Big bois,8,9",
       "value": 4
