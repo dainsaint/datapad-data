@@ -996,8 +996,8 @@
       "_type": "Community",
       "id": "kEXYj",
       "societyId": "V9xbw",
-      "player": "",
-      "name": "Test",
+      "player": "Jackie She They",
+      "name": "",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -2365,7 +2365,9 @@
       "advantage": 0,
       "disadvantage": 0,
       "emissaryCommunityId": "lHvo5",
-      "ambassadors": {},
+      "ambassadors": {
+        "kEXYj": ""
+      },
       "alterLeadership": {}
     },
     {
