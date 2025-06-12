@@ -1128,13 +1128,13 @@
       "_type": "Phase",
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 1080,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-11T17:12:42.769+00:00",
-        "e": "2025-06-11T19:28:03.881+00:00",
+        "s": "2025-06-12T23:56:50.913+00:00",
+        "e": "2025-06-13T00:14:50.913+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -43789,6 +43789,14 @@
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "XI-37",
+      "timestamp": "2025-06-12T23:56:50.913Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-06-12T23:56:50.913Z"
     }
   ]
 }
