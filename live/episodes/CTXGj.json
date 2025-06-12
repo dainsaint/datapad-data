@@ -1109,10 +1109,10 @@
       "_type": "Phase",
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 1,
       "duration": 240,
-      "timeElapsed": 2.001,
+      "timeElapsed": 8.014,
       "actualTime": {
         "s": "2025-06-12T23:11:06.381+00:00",
         "e": "2025-06-12T23:15:06.381+00:00",
