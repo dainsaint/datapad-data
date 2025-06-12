@@ -1090,13 +1090,13 @@
       "_type": "Phase",
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
-      "status": "complete",
+      "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 1.001,
+      "timeElapsed": 3.001,
       "actualTime": {
-        "s": "2025-06-12T23:02:59.866+00:00",
-        "e": "2025-06-12T23:03:01.718+00:00",
+        "s": "2025-06-12T23:11:16.075+00:00",
+        "e": "2025-06-12T23:31:16.075+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -43666,6 +43666,14 @@
       "type": "CommunitiesEndangered",
       "description": "Main Test Episode: My Guys,Big bois,9,Traditionalist Healers,Loving Caretakers,,New Old Skool ,Sleepy Dreamers",
       "value": 8
+    },
+    {
+      "_type": "Record",
+      "id": "v_meO",
+      "timestamp": "2025-06-12T23:11:16.075Z",
+      "type": "PhaseStarted",
+      "description": "Round 0: Setup/Onboarding",
+      "value": "2025-06-12T23:11:16.075Z"
     }
   ]
 }
