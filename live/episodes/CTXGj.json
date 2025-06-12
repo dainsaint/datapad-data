@@ -1014,7 +1014,7 @@
       "societyId": "V9xbw",
       "player": "Oz He They",
       "name": "Puppy Harpists",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1093,7 +1093,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 19.045000000000005,
+      "timeElapsed": 79.137,
       "actualTime": {
         "s": "2025-06-12T23:11:16.075+00:00",
         "e": "2025-06-12T23:31:16.075+00:00",
