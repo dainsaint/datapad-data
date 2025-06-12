@@ -1883,6 +1883,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "LMFBh",
+      "communityId": "jaCtF",
+      "name": "Soothing Songs ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -42064,6 +42074,13 @@
       "type": "PhaseStarted",
       "description": "Round 0: Setup/Onboarding",
       "value": "2025-06-12T18:52:56.972Z"
+    },
+    {
+      "_type": "Record",
+      "id": "KlHnR",
+      "timestamp": "2025-06-12T20:02:43.877Z",
+      "type": "ResourceCreated",
+      "value": "Soothing Songs "
     }
   ]
 }
