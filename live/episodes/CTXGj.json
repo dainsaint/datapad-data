@@ -670,7 +670,7 @@
       "id": "UDMgC",
       "societyId": "et0k8",
       "player": "Bobby",
-      "name": "Jeffrey Bezos",
+      "name": "Techno Druids",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -2269,7 +2269,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "lCWsE": "",
-        "B95dD": ""
+        "B95dD": "",
+        "UDMgC": ""
       },
       "alterLeadership": {}
     },
