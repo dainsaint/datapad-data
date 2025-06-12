@@ -708,7 +708,9 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "lost"
+        ]
       }
     },
     {
