@@ -1008,7 +1008,7 @@
       "_type": "Community",
       "id": "JJYA-",
       "societyId": "V9xbw",
-      "player": "",
+      "player": "Oz He They",
       "name": "Test2",
       "voice": "people",
       "tags": {
@@ -2366,7 +2366,8 @@
       "disadvantage": 0,
       "emissaryCommunityId": "lHvo5",
       "ambassadors": {
-        "kEXYj": ""
+        "kEXYj": "",
+        "JJYA-": ""
       },
       "alterLeadership": {}
     },
