@@ -598,9 +598,11 @@
       "round": "2",
       "societyId": "et0k8",
       "resourceIds": [
-        "QvweM"
+        "QvweM",
+        "HOzO6"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -1048,7 +1050,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 10694.640000000674,
+      "timeElapsed": 10696.641000000674,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
