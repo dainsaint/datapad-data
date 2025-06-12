@@ -989,13 +989,13 @@
       "_type": "Phase",
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
-      "status": "idle",
+      "status": "playing",
       "round": 0,
       "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-05-12T20:52:56.814+00:00",
-        "e": "2025-06-12T00:55:00.057+00:00",
+        "s": "2025-06-12T18:52:56.972+00:00",
+        "e": "2025-06-12T19:12:56.972+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -34310,6 +34310,14 @@
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "iYJvL",
+      "timestamp": "2025-06-12T18:52:56.972Z",
+      "type": "PhaseStarted",
+      "description": "Round 0: Setup/Onboarding",
+      "value": "2025-06-12T18:52:56.972Z"
     }
   ]
 }
