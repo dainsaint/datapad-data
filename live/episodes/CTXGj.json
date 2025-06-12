@@ -2019,6 +2019,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "PWcce",
+      "communityId": "Sfh-1",
+      "name": "Refrigerated Warehouses",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -43570,6 +43580,13 @@
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "vVq5D",
+      "timestamp": "2025-06-12T23:09:16.660Z",
+      "type": "ResourceCreated",
+      "value": "Refrigerated Warehouses"
     }
   ]
 }
