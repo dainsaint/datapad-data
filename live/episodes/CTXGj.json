@@ -904,9 +904,7 @@
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -954,7 +952,9 @@
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
@@ -966,7 +966,9 @@
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     }
   ],
@@ -1070,13 +1072,13 @@
       "_type": "Phase",
       "id": "ml6Q3",
       "type": "Universal Phase",
-      "status": "paused",
+      "status": "playing",
       "round": 2,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-11T20:38:18.911+00:00",
-        "e": "2025-06-11T20:42:18.911+00:00",
+        "s": "2025-06-12T00:54:32.513+00:00",
+        "e": "2025-06-12T00:58:32.513+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1524,7 +1526,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "vital"
+          "vital",
+          "exhausted"
         ]
       }
     },
@@ -1535,9 +1538,7 @@
       "name": "lillypadz",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1569,9 +1570,7 @@
       "name": "afergre",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1581,9 +1580,7 @@
       "name": "asdfaergre",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1686,8 +1683,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -1742,9 +1738,7 @@
       "name": "Energized Batteries",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1796,7 +1790,9 @@
       "name": "Slpstck Comedy Based Lesson Plans",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1816,9 +1812,7 @@
       "name": "The Moans Of The Many",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -34225,6 +34219,22 @@
       "timestamp": "2025-06-12T00:46:38.548Z",
       "type": "ResourceCreated",
       "value": "Rocket Scientists"
+    },
+    {
+      "_type": "Record",
+      "id": "oM73S",
+      "timestamp": "2025-06-12T00:54:32.513Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Universal Phase",
+      "value": "2025-06-12T00:54:32.513Z"
+    },
+    {
+      "_type": "Record",
+      "id": "xe6Zs",
+      "timestamp": "2025-06-12T00:54:32.514Z",
+      "type": "CommunitiesEndangered",
+      "description": "Main Test Episode: My Guys,Big bois,8,9",
+      "value": 4
     }
   ]
 }
