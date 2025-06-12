@@ -694,7 +694,7 @@
       "id": "cV-Kn",
       "societyId": "et0k8",
       "player": "Fredrick",
-      "name": "Elders",
+      "name": "Militant Clerics",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -2270,7 +2270,8 @@
       "ambassadors": {
         "lCWsE": "",
         "B95dD": "",
-        "UDMgC": ""
+        "UDMgC": "",
+        "cV-Kn": ""
       },
       "alterLeadership": {}
     },
