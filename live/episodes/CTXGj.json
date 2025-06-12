@@ -1011,7 +1011,7 @@
     {
       "_type": "Community",
       "id": "JJYA-",
-      "societyId": "V9xbw",
+      "societyId": "Feay0",
       "player": "Oz He They",
       "name": "Puppy Harpists",
       "voice": "leader",
@@ -1131,7 +1131,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 56.03199999999999,
+      "timeElapsed": 60.03199999999999,
       "actualTime": {
         "s": "2025-06-12T23:56:50.913+00:00",
         "e": "2025-06-13T00:14:50.913+00:00",
@@ -2543,7 +2543,8 @@
         "Y_0oZ": "",
         "JN2kT": "",
         "Sfh-1": "",
-        "fYcQx": ""
+        "fYcQx": "",
+        "JJYA-": ""
       },
       "alterLeadership": {}
     },
