@@ -2049,6 +2049,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "BpfkN",
+      "communityId": "JJYA-",
+      "name": "Screeching Arrows",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -43621,6 +43631,13 @@
       "timestamp": "2025-06-12T23:10:20.789Z",
       "type": "ResourceCreated",
       "value": "Diamond Picksxes"
+    },
+    {
+      "_type": "Record",
+      "id": "Pmxft",
+      "timestamp": "2025-06-12T23:10:53.686Z",
+      "type": "ResourceCreated",
+      "value": "Screeching Arrows"
     }
   ]
 }
