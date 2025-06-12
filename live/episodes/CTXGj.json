@@ -971,7 +971,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "endangered"
+          "endangered",
+          "lost"
         ]
       }
     },
