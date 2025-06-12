@@ -1027,6 +1027,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "W1qXi",
+      "societyId": "et0k8",
+      "player": "Sulu They/them",
+      "name": "New Old Skool ",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
