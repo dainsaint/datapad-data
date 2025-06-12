@@ -2059,6 +2059,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "I8tk5",
+      "communityId": "JJYA-",
+      "name": "Poisonous Chow",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -43638,6 +43648,13 @@
       "timestamp": "2025-06-12T23:10:53.686Z",
       "type": "ResourceCreated",
       "value": "Screeching Arrows"
+    },
+    {
+      "_type": "Record",
+      "id": "W-tT1",
+      "timestamp": "2025-06-12T23:11:04.180Z",
+      "type": "ResourceCreated",
+      "value": "Poisonous Chow"
     }
   ]
 }
