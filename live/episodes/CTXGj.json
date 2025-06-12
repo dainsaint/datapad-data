@@ -1049,7 +1049,7 @@
     {
       "_type": "Community",
       "id": "JN2kT",
-      "societyId": "V9xbw",
+      "societyId": "Feay0",
       "player": "Chet He Hanks",
       "name": "Valorous Hairdressors",
       "voice": "people",
@@ -1131,7 +1131,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 41.01599999999999,
+      "timeElapsed": 48.029999999999994,
       "actualTime": {
         "s": "2025-06-12T23:56:50.913+00:00",
         "e": "2025-06-13T00:14:50.913+00:00",
@@ -2540,7 +2540,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "Y_0oZ": ""
+        "Y_0oZ": "",
+        "JN2kT": ""
       },
       "alterLeadership": {}
     },
