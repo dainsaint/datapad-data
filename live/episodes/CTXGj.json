@@ -1072,7 +1072,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 10845.712000000689,
+      "timeElapsed": 10848.71400000069,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
@@ -1855,6 +1855,16 @@
       "id": "WQCc4",
       "communityId": "fr_Re",
       "name": "Plentiful Lumber ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "Bq4uh",
+      "communityId": "menqQ",
+      "name": "Rocket Scientists",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -34206,6 +34216,13 @@
       "timestamp": "2025-06-11T23:09:23.365Z",
       "type": "ResourceCreated",
       "value": "Plentiful Lumber "
+    },
+    {
+      "_type": "Record",
+      "id": "iZaHx",
+      "timestamp": "2025-06-12T00:46:38.548Z",
+      "type": "ResourceCreated",
+      "value": "Rocket Scientists"
     }
   ]
 }
