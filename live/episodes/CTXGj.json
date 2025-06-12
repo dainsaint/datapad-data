@@ -876,18 +876,6 @@
     },
     {
       "_type": "Community",
-      "id": "OAzDT",
-      "societyId": "V9xbw",
-      "player": "Chet He/hanks",
-      "name": "Mystical Scholars",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "Mj0UJ",
       "societyId": "V9xbw",
       "player": "Tac Ze/zir",
