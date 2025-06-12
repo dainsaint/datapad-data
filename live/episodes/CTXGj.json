@@ -1063,6 +1063,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "Y_0oZ",
+      "societyId": "V9xbw",
+      "player": "Jackie She They",
+      "name": "Sleepy Dreamers",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
