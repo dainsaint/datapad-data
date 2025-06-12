@@ -2039,6 +2039,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "NudHW",
+      "communityId": "fYcQx",
+      "name": "Diamond Picksxes",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -43604,6 +43614,13 @@
       "timestamp": "2025-06-12T23:10:07.117Z",
       "type": "ResourceCreated",
       "value": "Songs Scissors"
+    },
+    {
+      "_type": "Record",
+      "id": "Zt903",
+      "timestamp": "2025-06-12T23:10:20.789Z",
+      "type": "ResourceCreated",
+      "value": "Diamond Picksxes"
     }
   ]
 }
