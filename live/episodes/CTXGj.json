@@ -1070,10 +1070,10 @@
       "_type": "Phase",
       "id": "ml6Q3",
       "type": "Universal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 11297.953000000736,
+      "timeElapsed": 11314.965000000739,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
