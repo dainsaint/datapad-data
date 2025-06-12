@@ -936,7 +936,7 @@
       "id": "menqQ",
       "societyId": "yXHVO",
       "player": "",
-      "name": "Y",
+      "name": "Anarchic Drivers",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -2275,7 +2275,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "jaCtF": "",
-        "fr_Re": ""
+        "fr_Re": "",
+        "menqQ": ""
       },
       "alterLeadership": {}
     },
