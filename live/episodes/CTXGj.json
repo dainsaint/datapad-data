@@ -597,11 +597,12 @@
       "id": "fBejV",
       "round": "2",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "QvweM"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1047,7 +1048,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 10687.639000000674,
+      "timeElapsed": 10689.640000000674,
       "actualTime": {
         "s": "2025-06-11T20:38:18.911+00:00",
         "e": "2025-06-11T20:42:18.911+00:00",
