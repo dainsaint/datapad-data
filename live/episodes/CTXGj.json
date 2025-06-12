@@ -974,10 +974,10 @@
     {
       "_type": "Community",
       "id": "lCWsE",
-      "societyId": "et0k8",
+      "societyId": "yXHVO",
       "player": "",
       "name": "Protective Oracles ",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -2240,7 +2240,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "lCWsE": ""
+      },
       "alterLeadership": {}
     },
     {
