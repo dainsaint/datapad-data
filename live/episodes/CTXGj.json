@@ -1092,8 +1092,8 @@
       "type": "Setup/Onboarding",
       "status": "playing",
       "round": 0,
-      "duration": 540,
-      "timeElapsed": 427.626999999999,
+      "duration": 480,
+      "timeElapsed": 433.637999999999,
       "actualTime": {
         "s": "2025-06-12T23:11:16.075+00:00",
         "e": "2025-06-12T23:31:16.075+00:00",
