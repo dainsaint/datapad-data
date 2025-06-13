@@ -1114,6 +1114,18 @@
           "endangered"
         ]
       }
+    },
+    {
+      "_type": "Community",
+      "id": "oeVJv",
+      "societyId": "e-JcG",
+      "player": "Someone He Him",
+      "name": "Test 3",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
