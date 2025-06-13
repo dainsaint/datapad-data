@@ -260,6 +260,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "l5d1f",
+      "societyId": "e-JcG",
+      "player": "D",
+      "name": "X X",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
