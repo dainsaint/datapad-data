@@ -54,7 +54,7 @@
     {
       "_type": "Community",
       "id": "gRrcN",
-      "societyId": "et0k8",
+      "societyId": "yXHVO",
       "player": "",
       "name": "Adaptable ",
       "voice": "leader",
@@ -792,7 +792,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "r1dal": ""
+        "r1dal": "",
+        "gRrcN": ""
       },
       "alterLeadership": {}
     },
