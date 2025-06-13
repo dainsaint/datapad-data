@@ -1613,6 +1613,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "qTEM0",
+      "communityId": "bIa2P",
+      "name": "__ __",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45017,6 +45027,13 @@
       "timestamp": "2025-06-13T22:44:43.097Z",
       "type": "ResourceCreated",
       "value": "[] []"
+    },
+    {
+      "_type": "Record",
+      "id": "MpAjQ",
+      "timestamp": "2025-06-13T22:44:45.785Z",
+      "type": "ResourceCreated",
+      "value": "__ __"
     }
   ]
 }
