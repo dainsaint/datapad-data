@@ -1133,13 +1133,13 @@
       "_type": "Phase",
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
-      "status": "idle",
+      "status": "complete",
       "round": 0,
       "duration": 480,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-12T23:11:16.075+00:00",
-        "e": "2025-06-12T23:53:16.529+00:00",
+        "e": "2025-06-13T19:43:55.700+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45389,6 +45389,46 @@
       "type": "PhaseStarted",
       "description": "Round 1: Individual Phase",
       "value": "2025-06-13T00:54:37.849+00:00"
+    },
+    {
+      "_type": "Record",
+      "id": "LYHWC",
+      "timestamp": "2025-06-13T19:43:55.700Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "vi2m3",
+      "timestamp": "2025-06-13T19:43:55.700Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "XR0XJ",
+      "timestamp": "2025-06-13T19:43:55.700Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "WIZak",
+      "timestamp": "2025-06-13T19:43:55.700Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "SHQtC",
+      "timestamp": "2025-06-13T19:43:55.700Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 0
     }
   ]
 }
