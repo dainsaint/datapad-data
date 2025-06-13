@@ -3852,7 +3852,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "Breath in deeply with me, and savor your first breath of extraterrestrial air."
+                "value": "Breathe in deeply with me, and savor your first breath of extraterrestrial air."
               }
             ]
           },
@@ -4203,6 +4203,611 @@
                         "value": "Identifying Ari as Player Safety Rep and explaining that role"
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "URIAH / KAREN"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "We come in from reception doors "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Have mic "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "We are your Hospitality and Care Team!"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "There is a low stim zone area in the reception room through these doors, with fidgets, coloring utensils, sketchbook paper, and there are gentle question reminders to get your brain thinking about debrief later. The low stim zone is an area you can retreat to for autonomous breaks we are in for a long gameplay day! Outside is also available for your break time. Feel free to bring fidget toys to your table if that aids you during gameplay."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "padding-left: 36PT; text-indent: 36PT",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Debrief happens after game play please stick around for that part. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "padding-left: 36PT; text-indent: 36PT",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "There will be three different modes of Debrief"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-2"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Solo Writing/Doodling/Self-Directed Hang Out → Ari, Reception Room"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": []
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Physical Movement → Joe and Jackie, Outside (weather permitting)"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Group Discussion (with the option to split into smaller groups)  → KC, Matthew, Anthony, Main Room "
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "padding-left: 72PT; text-indent: 72PT",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Reminder please keep your mask on at all times. We have S Clips if you need to keep them off of your ears and silicon stoppers for a more snug fit if your mask is too loose. You are welcome to take covid test home with you as well to contact trace for yourselves. Breaks longer than a minute for eating or drinking please take those breaks outside or in low stim zone areas."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "padding-left: 36PT; text-indent: 36PT",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "2 Bathrooms are to the right of the East Room in the hallway."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "text-align: center",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "~ Point and name the necessary exits for emergencies ~"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "text-align: center",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Mention captioning "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "text-align: center",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "And To be mindful of cords on the floor"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "text-align: center",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Meal time is from 2:30-3:30, we have blankets, and sheets if folks want to sit in the grass. There's trees and grass all around so take advantage of the outside space! Don’t forget to check your body for ticks. Always use proper consent to be very close to others when eating or drinking in regards to covid safety. During meal time try to remember to move your body."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "padding-left: 36PT; text-indent: 36PT",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "We have a Player Safety Rep, Ari, go to Ari for any concerns related to major conflict or concerns, if you are unable to delegate conflict amongst yourselves, or if anything heinous occurred please let Ari know and we will assist you.   "
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
                   }
                 ]
               }
@@ -7031,6 +7636,70 @@
             "children": [
               {
                 "type": "text",
+                "value": "GET PEOPLE STOMPING AND HUMMING"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "TAMBORINE IN"
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
                 "value": "None remember the days before Starlight"
               }
             ]
@@ -7046,7 +7715,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "These five societies that the empire unified"
+                "value": "societies the empire unified"
               }
             ]
           },
@@ -7076,7 +7745,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "Each planet have their fate to decide"
+                "value": "Each planet has their fate to decide"
               }
             ]
           },
@@ -7136,7 +7805,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "In hope, in action around Unity"
+                "value": "In hope, in action around Unity (Company — UNITY)"
               }
             ]
           },
@@ -7151,7 +7820,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "100 cycles pass in the blink of an eye"
+                "value": "The years pass in the blink of an eye"
               }
             ]
           },
@@ -7167,7 +7836,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "100 cycles pass by in the blink of an eye"
+                "value": "A thousand years pass in the blink of an eye"
               }
             ]
           },
@@ -7346,7 +8015,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Who are you And What you Gon’ Do "
+                    "value": "Who are you And What you Gon’ Do (x2) "
                   }
                 ]
               }
@@ -7378,7 +8047,6 @@
             "type": "element",
             "tagName": "p",
             "properties": {
-              "style": "margin-top: 12PT; margin-bottom: 12PT",
               "className": [
                 "normal-text"
               ]
@@ -7386,7 +8054,121 @@
             "children": [
               {
                 "type": "text",
-                "value": "From the frozen wilderness where our sleighs and skaters slice ("
+                "value": "DS: Who are you, indeed? Let’s find out, and meet your societies."
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "8ct Snare Drum Intro cues Joe’s verse!"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "DS: from the frozen tundras of planet Toboggan — introducing the Intrepid"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "From the frozen wilderness where skating cities slice ("
               },
               {
                 "type": "element",
@@ -7536,36 +8318,6 @@
             "type": "element",
             "tagName": "p",
             "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": "That’s what I heard, the story’s true"
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": "Now tell me "
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
               "style": "text-indent: 36PT",
               "className": [
                 "normal-text"
@@ -7579,7 +8331,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Who are you And What you Gon’ Do "
+                    "value": ""
                   }
                 ]
               }
@@ -7589,15 +8341,21 @@
             "type": "element",
             "tagName": "p",
             "properties": {
-              "style": "text-indent: 36PT",
               "className": [
                 "normal-text"
               ]
             },
             "children": [
               {
-                "type": "text",
-                "value": ""
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
               }
             ]
           },
@@ -7616,8 +8374,56 @@
                 "properties": {},
                 "children": [
                   {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Transition:"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
                     "type": "text",
-                    "value": "(high)"
+                    "value": " 8ct Strings/Horn Stab"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "DS: swinging in from the verdant forests of planet Arbor — introducing the Enterprise"
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
                   }
                 ]
               }
@@ -7633,44 +8439,13 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "The story’s yours now, it up to you "
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": "Come on — "
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "text-indent: 36PT",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
                 "type": "element",
                 "tagName": "strong",
                 "properties": {},
                 "children": [
                   {
                     "type": "text",
-                    "value": "Who are you And What you Gon’ Do "
+                    "value": ""
                   }
                 ]
               }
@@ -7813,7 +8588,11 @@
             "children": [
               {
                 "type": "text",
-                "value": "We’re the Enterprise, commercial cornerstone"
+                "value": "The"
+              },
+              {
+                "type": "text",
+                "value": " Enterprise! (ENTERPRISE) workin to the bone"
               }
             ]
           },
@@ -7828,7 +8607,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "Of Starlight Empire, our galactic home"
+                "value": "were the galaxy’s commercial cornerstone"
               }
             ]
           },
@@ -7858,7 +8637,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "To this great Empire who Harnessed a black hole"
+                "value": "To work together to Harness a black hole"
               }
             ]
           },
@@ -7894,62 +8673,15 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "That’s what I heard, the story’s true"
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": "Now tell me "
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "text-indent: 36PT",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
                 "type": "element",
-                "tagName": "strong",
+                "tagName": "i",
                 "properties": {},
                 "children": [
                   {
                     "type": "text",
-                    "value": "Who are you And What you Gon’ Do "
+                    "value": ""
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "text-indent: 36PT",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": ""
               }
             ]
           },
@@ -7969,7 +8701,69 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "(high)"
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Transition: 16ct Horn/Break Intro"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "8ct ‘Get Money!’"
                   }
                 ]
               }
@@ -7986,43 +8780,16 @@
             "children": [
               {
                 "type": "text",
-                "value": "The story’s yours now, it up to you "
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": "Come on — "
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "text-indent: 36PT",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
+                "value": "DS: charging in the from the crackling skies of planet Bolt — introducing the MIghty"
+              },
               {
                 "type": "element",
-                "tagName": "strong",
+                "tagName": "i",
                 "properties": {},
                 "children": [
                   {
                     "type": "text",
-                    "value": "Who are you And What you Gon’ Do "
+                    "value": ""
                   }
                 ]
               }
@@ -8176,7 +8943,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Immortal Emperor, the undying center of"
+                    "value": "Immortal Emperor, used to be the center of"
                   }
                 ]
               }
@@ -8198,7 +8965,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "UNGH a legacy so expansive"
+                    "value": "UNGH a legacy now collapsed"
                   }
                 ]
               }
@@ -8220,7 +8987,95 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "We’re the strongest finger on an all reaching hand"
+                    "value": "Strongest severed finger on an all reaching hand"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Ungh"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Ungh Ungh ungh"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Ungh ungh"
                   }
                 ]
               }
@@ -8261,36 +9116,6 @@
                     ]
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": "That’s what I heard, the story’s true"
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": "Now tell me "
               }
             ]
           },
@@ -8348,8 +9173,67 @@
                 "properties": {},
                 "children": [
                   {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Transition: "
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
                     "type": "text",
-                    "value": "(high)"
+                    "value": "Synth Intro - 8cts"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "DS: shining bright from the glittering mines of planet Luster — introducing the Aesthetic"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
                   }
                 ]
               }
@@ -8365,44 +9249,15 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "The story’s yours now, it up to you "
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": "Come on — "
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "text-indent: 36PT",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
                 "type": "element",
-                "tagName": "strong",
-                "properties": {},
+                "tagName": "span",
+                "properties": {
+                  "style": "background-color: rgb(255, 255, 255)"
+                },
                 "children": [
                   {
                     "type": "text",
-                    "value": "Who are you And What you Gon’ Do "
+                    "value": ""
                   }
                 ]
               }
@@ -8532,6 +9387,7 @@
             "type": "element",
             "tagName": "p",
             "properties": {
+              "style": "text-indent: 36PT",
               "className": [
                 "normal-text"
               ]
@@ -8562,23 +9418,28 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "That’s what I heard, the story’s true"
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
+                "type": "element",
+                "tagName": "span",
+                "properties": {
+                  "style": "background-color: rgb(255, 255, 255)"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "oooooooo"
+                  }
+                ]
+              },
               {
-                "type": "text",
-                "value": "Now tell me "
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
               }
             ]
           },
@@ -8599,25 +9460,9 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Who are you And What you Gon’ Do "
+                    "value": ""
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "text-indent: 36PT",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": ""
               }
             ]
           },
@@ -8636,8 +9481,26 @@
                 "properties": {},
                 "children": [
                   {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Transition: "
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
                     "type": "text",
-                    "value": "(high)"
+                    "value": "8ct intro for Matthew (guitar in background is the cue)"
                   }
                 ]
               }
@@ -8654,7 +9517,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "The story’s yours now, it up to you "
+                "value": "DS: floating in from the windswept sands of planet gust — introducing the Faithful"
               }
             ]
           },
@@ -8662,22 +9525,6 @@
             "type": "element",
             "tagName": "p",
             "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": "Come on — "
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "text-indent: 36PT",
               "className": [
                 "normal-text"
               ]
@@ -8690,7 +9537,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Who are you And What you Gon’ Do "
+                    "value": ""
                   }
                 ]
               }
@@ -8760,7 +9607,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "With our hope and spirit, the Faithful survive"
+                "value": "With our hope and spirit, the Faithful foresaw "
               }
             ]
           },
@@ -8775,7 +9622,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "In this land of wind and sand\t"
+                "value": "The fall of the Empire, we’ll survive it all \t"
               },
               {
                 "type": "element",
@@ -8785,6 +9632,50 @@
                   {
                     "type": "text",
                     "value": "\t"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "HUM"
                   }
                 ]
               }
@@ -8897,7 +9788,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "(high)"
+                    "value": "(high) "
                   }
                 ]
               }
@@ -8952,31 +9843,136 @@
                     "value": "Who are you And What you Gon’ Do "
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "strong",
                 "properties": {},
                 "children": [
                   {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "background-color: rgb(255, 255, 0)"
-                        },
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": ""
-                          }
-                        ]
-                      }
-                    ]
+                    "type": "text",
+                    "value": "Who are you And What you Gon’ Do "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "HUMS OUT AS P/FS RETURN TO SOCIETIES"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "DS: I guess we’ll see."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
                   }
                 ]
               }
@@ -9528,7 +10524,7 @@
                         "children": [
                           {
                             "type": "text",
-                            "value": "The Enterprise\u000bArbor: A forest world awash in waterfalls and natural resources."
+                            "value": "The Enterprise\u000bArbor: A forest world awash in waterfalls and rich in natural resources: minerals. Lumber. Precious metals. Sacred Waters "
                           }
                         ]
                       },
