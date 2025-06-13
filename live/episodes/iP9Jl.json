@@ -881,6 +881,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "I0QwN",
+      "communityId": "Li_DK",
+      "name": "[] Coin",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -43978,6 +43988,13 @@
       "timestamp": "2025-06-13T22:25:52.252Z",
       "type": "ResourceCreated",
       "value": "[] Cities"
+    },
+    {
+      "_type": "Record",
+      "id": "Qi7rL",
+      "timestamp": "2025-06-13T22:26:03.290Z",
+      "type": "ResourceCreated",
+      "value": "[] Coin"
     }
   ]
 }
