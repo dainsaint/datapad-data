@@ -1523,6 +1523,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "a3BPb",
+      "communityId": "Rcsl8",
+      "name": "__ __",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44861,6 +44871,13 @@
       "_type": "Record",
       "id": "sIium",
       "timestamp": "2025-06-13T22:42:09.507Z",
+      "type": "ResourceCreated",
+      "value": "__ __"
+    },
+    {
+      "_type": "Record",
+      "id": "WuB8u",
+      "timestamp": "2025-06-13T22:42:23.909Z",
       "type": "ResourceCreated",
       "value": "__ __"
     }
