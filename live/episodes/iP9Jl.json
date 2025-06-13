@@ -1197,6 +1197,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "jMz2W",
+      "communityId": "iLKlW",
+      "name": "Scouting X",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44417,6 +44427,13 @@
       "timestamp": "2025-06-13T22:36:15.747Z",
       "type": "ResourceCreated",
       "value": "Impeccable"
+    },
+    {
+      "_type": "Record",
+      "id": "oy4e4",
+      "timestamp": "2025-06-13T22:36:45.466Z",
+      "type": "ResourceCreated",
+      "value": "Scouting X"
     }
   ]
 }
