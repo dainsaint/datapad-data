@@ -1167,6 +1167,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "RJZNr",
+      "communityId": "nmW7Z",
+      "name": "X Maps",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44359,6 +44369,13 @@
       "timestamp": "2025-06-13T22:34:36.809Z",
       "type": "ResourceCreated",
       "value": "X Feasts"
+    },
+    {
+      "_type": "Record",
+      "id": "ycg42",
+      "timestamp": "2025-06-13T22:35:02.569Z",
+      "type": "ResourceCreated",
+      "value": "X Maps"
     }
   ]
 }
