@@ -791,6 +791,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "XYmE3",
+      "communityId": "Pwqoy",
+      "name": "Shrieking []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -43825,6 +43835,13 @@
       "timestamp": "2025-06-13T22:23:17.388Z",
       "type": "ResourceCreated",
       "value": "[] []"
+    },
+    {
+      "_type": "Record",
+      "id": "AxsqZ",
+      "timestamp": "2025-06-13T22:23:34.595Z",
+      "type": "ResourceCreated",
+      "value": "Shrieking []"
     }
   ]
 }
