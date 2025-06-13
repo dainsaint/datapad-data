@@ -1383,7 +1383,14 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {},
-      "alterLeadership": {}
+      "alterLeadership": {
+        "baFQb": "leader",
+        "HxH3y": "leader",
+        "nmW7Z": "people",
+        "l5d1f": "people",
+        "iLKlW": "leader",
+        "Qc0VV": "leader"
+      }
     },
     {
       "_type": "Turn",
