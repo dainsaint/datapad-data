@@ -1131,7 +1131,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 502.3719999999972,
+      "timeElapsed": 505.38099999999713,
       "actualTime": {
         "s": "2025-06-12T23:56:50.913+00:00",
         "e": "2025-06-13T00:14:50.913+00:00",
@@ -1746,7 +1746,7 @@
     {
       "_type": "Resource",
       "id": "psJiM",
-      "communityId": "JN2kT",
+      "communityId": "FRomU",
       "name": "urk87kru",
       "tags": {
         "_type": "Tags",
