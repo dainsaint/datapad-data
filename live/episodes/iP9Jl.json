@@ -62,6 +62,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "AJzGJ",
+      "societyId": "yXHVO",
+      "player": "Ora",
+      "name": "Oracles ",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
