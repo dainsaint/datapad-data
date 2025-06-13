@@ -1493,6 +1493,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "Iz45D",
+      "communityId": "xUCao",
+      "name": "Plasma __",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44812,6 +44822,13 @@
       "timestamp": "2025-06-13T22:41:53.145Z",
       "type": "ResourceCreated",
       "value": "__ Swords"
+    },
+    {
+      "_type": "Record",
+      "id": "JvEhS",
+      "timestamp": "2025-06-13T22:42:01.122Z",
+      "type": "ResourceCreated",
+      "value": "Plasma __"
     }
   ]
 }
