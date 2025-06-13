@@ -1159,7 +1159,7 @@
       "_type": "Phase",
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 1080,
       "timeElapsed": 1086.8459999999916,
