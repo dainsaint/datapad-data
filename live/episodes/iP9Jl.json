@@ -1005,6 +1005,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "JkaYm",
+      "communityId": "r1dal",
+      "name": "Factories",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44131,6 +44141,13 @@
       "timestamp": "2025-06-13T22:30:52.373Z",
       "type": "ResourceCreated",
       "value": "Songs"
+    },
+    {
+      "_type": "Record",
+      "id": "c7mcs",
+      "timestamp": "2025-06-13T22:31:39.068Z",
+      "type": "ResourceCreated",
+      "value": "Factories"
     }
   ]
 }
