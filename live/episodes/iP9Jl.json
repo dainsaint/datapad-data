@@ -1513,6 +1513,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "LeprY",
+      "communityId": "cBV-v",
+      "name": "__ __",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44846,6 +44856,13 @@
       "timestamp": "2025-06-13T22:42:09.036Z",
       "type": "ResourceCreated",
       "value": "Community []"
+    },
+    {
+      "_type": "Record",
+      "id": "sIium",
+      "timestamp": "2025-06-13T22:42:09.507Z",
+      "type": "ResourceCreated",
+      "value": "__ __"
     }
   ]
 }
