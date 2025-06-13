@@ -193,7 +193,7 @@
       "_type": "Community",
       "id": "PVa3m",
       "societyId": "et0k8",
-      "player": "F P*",
+      "player": "F P8",
       "name": "[] Builders",
       "voice": "people",
       "tags": {
@@ -1398,7 +1398,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "r1dal": "",
-        "gRrcN": ""
+        "gRrcN": "",
+        "PVa3m": ""
       },
       "alterLeadership": {}
     },
