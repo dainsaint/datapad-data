@@ -1653,6 +1653,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "SdsYL",
+      "communityId": "m7_IE",
+      "name": "Spiritual __",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45085,6 +45095,13 @@
       "timestamp": "2025-06-13T22:45:24.420Z",
       "type": "ResourceCreated",
       "value": "__ Dealmaking"
+    },
+    {
+      "_type": "Record",
+      "id": "OCxNk",
+      "timestamp": "2025-06-13T22:45:35.625Z",
+      "type": "ResourceCreated",
+      "value": "Spiritual __"
     }
   ]
 }
