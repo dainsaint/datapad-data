@@ -771,6 +771,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "oAw0A",
+      "communityId": "bWsq5",
+      "name": "[] []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -43791,6 +43801,13 @@
       "timestamp": "2025-06-13T22:22:05.314Z",
       "type": "ResourceCreated",
       "value": "[] Relics"
+    },
+    {
+      "_type": "Record",
+      "id": "Uv9fh",
+      "timestamp": "2025-06-13T22:22:13.704Z",
+      "type": "ResourceCreated",
+      "value": "[] []"
     }
   ]
 }
