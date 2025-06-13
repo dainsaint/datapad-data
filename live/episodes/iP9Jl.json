@@ -1103,6 +1103,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "iEoat",
+      "communityId": "baFQb",
+      "name": "X Stamina",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44267,6 +44277,13 @@
       "timestamp": "2025-06-13T22:33:23.034Z",
       "type": "ResourceCreated",
       "value": "Power "
+    },
+    {
+      "_type": "Record",
+      "id": "zv-z-",
+      "timestamp": "2025-06-13T22:33:53.142Z",
+      "type": "ResourceCreated",
+      "value": "X Stamina"
     }
   ]
 }
