@@ -1207,6 +1207,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "WEIeM",
+      "communityId": "baFQb",
+      "name": "X Assistants",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44434,6 +44444,13 @@
       "timestamp": "2025-06-13T22:36:45.466Z",
       "type": "ResourceCreated",
       "value": "Scouting X"
+    },
+    {
+      "_type": "Record",
+      "id": "lf0AD",
+      "timestamp": "2025-06-13T22:37:03.093Z",
+      "type": "ResourceCreated",
+      "value": "X Assistants"
     }
   ]
 }
