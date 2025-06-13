@@ -308,6 +308,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "WG1xC",
+      "societyId": "V9xbw",
+      "player": "[]",
+      "name": "[] []",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
