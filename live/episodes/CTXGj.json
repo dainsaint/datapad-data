@@ -990,7 +990,7 @@
       "id": "lCWsE",
       "societyId": "yXHVO",
       "player": "",
-      "name": "Protective Oracles ",
+      "name": " Oracles ",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -2633,7 +2633,8 @@
       "ambassadors": {
         "jaCtF": "",
         "fr_Re": "",
-        "OlD1Z": ""
+        "OlD1Z": "",
+        "lCWsE": ""
       },
       "alterLeadership": {}
     }
