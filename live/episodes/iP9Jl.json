@@ -1037,6 +1037,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "Y6pPT",
+      "communityId": "JdDRm",
+      "name": "Analytical ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44179,6 +44189,13 @@
       "timestamp": "2025-06-13T22:31:58.317Z",
       "type": "ResourceCreated",
       "value": "Personal "
+    },
+    {
+      "_type": "Record",
+      "id": "euU8G",
+      "timestamp": "2025-06-13T22:32:33.454Z",
+      "type": "ResourceCreated",
+      "value": "Analytical "
     }
   ]
 }
