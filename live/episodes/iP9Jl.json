@@ -1047,6 +1047,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "JeVlZ",
+      "communityId": "JdDRm",
+      "name": "Buses",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44197,6 +44207,13 @@
       "timestamp": "2025-06-13T22:32:33.454Z",
       "type": "ResourceCreated",
       "value": "Analytical "
+    },
+    {
+      "_type": "Record",
+      "id": "xn8Fm",
+      "timestamp": "2025-06-13T22:32:50.080Z",
+      "type": "ResourceCreated",
+      "value": "Buses"
     }
   ]
 }
