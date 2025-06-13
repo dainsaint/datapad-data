@@ -2136,7 +2136,7 @@
       "_type": "Society",
       "id": "et0k8",
       "archetype": "the faithful",
-      "fateId": "fate_two",
+      "fateId": "",
       "color": "color-deep-orange",
       "tags": {
         "_type": "Tags",
