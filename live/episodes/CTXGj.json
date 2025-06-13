@@ -202,7 +202,7 @@
         0
       ],
       "voteTime": "2025-06-11T19:27:55.523+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -689,8 +689,13 @@
         "Leave calling card of Mohawk on dead",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0,
+        0
+      ],
+      "voteTime": "2025-06-13T00:14:27.260+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1154,7 +1159,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 1055.7859999999919,
+      "timeElapsed": 1058.8359999999918,
       "actualTime": {
         "s": "2025-06-12T23:56:50.913+00:00",
         "e": "2025-06-13T00:14:50.913+00:00",
