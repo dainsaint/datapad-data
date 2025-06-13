@@ -164,6 +164,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "OFtkj",
+      "societyId": "et0k8",
+      "player": "F - P6",
+      "name": "[] []",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
