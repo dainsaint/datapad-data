@@ -751,7 +751,7 @@
       "id": "B95dD",
       "societyId": "et0k8",
       "player": "Jason",
-      "name": "Revered Priests",
+      "name": "Perverted Priests",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -2551,7 +2551,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "B95dD": ""
+      },
       "alterLeadership": {
         "Qw0Xm": "people",
         "UDMgC": "people",
