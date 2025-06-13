@@ -963,7 +963,7 @@
       "id": "OlD1Z",
       "societyId": "yXHVO",
       "player": "",
-      "name": "Adaptable Workers ",
+      "name": "Adaptable ",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -2632,7 +2632,8 @@
       "disadvantage": "0",
       "ambassadors": {
         "jaCtF": "",
-        "fr_Re": ""
+        "fr_Re": "",
+        "OlD1Z": ""
       },
       "alterLeadership": {}
     }
