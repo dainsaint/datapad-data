@@ -1563,6 +1563,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "G8P2B",
+      "communityId": "fAFSa",
+      "name": "__ __",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44929,6 +44939,13 @@
       "_type": "Record",
       "id": "lA2sM",
       "timestamp": "2025-06-13T22:43:05.415Z",
+      "type": "ResourceCreated",
+      "value": "__ __"
+    },
+    {
+      "_type": "Record",
+      "id": "no19G",
+      "timestamp": "2025-06-13T22:43:17.521Z",
       "type": "ResourceCreated",
       "value": "__ __"
     }
