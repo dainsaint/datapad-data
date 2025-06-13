@@ -1187,6 +1187,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "xGw_2",
+      "communityId": "l5d1f",
+      "name": "Impeccable",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44400,6 +44410,13 @@
       "timestamp": "2025-06-13T22:35:54.934Z",
       "type": "ResourceCreated",
       "value": "Keen X"
+    },
+    {
+      "_type": "Record",
+      "id": "mYFcw",
+      "timestamp": "2025-06-13T22:36:15.747Z",
+      "type": "ResourceCreated",
+      "value": "Impeccable"
     }
   ]
 }
