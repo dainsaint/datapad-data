@@ -1473,6 +1473,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "FCY-K",
+      "communityId": "DgkcU",
+      "name": "Entrancing []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44778,6 +44788,13 @@
       "timestamp": "2025-06-13T22:41:11.792Z",
       "type": "ResourceCreated",
       "value": "Physical []"
+    },
+    {
+      "_type": "Record",
+      "id": "UL0i0",
+      "timestamp": "2025-06-13T22:41:39.236Z",
+      "type": "ResourceCreated",
+      "value": "Entrancing []"
     }
   ]
 }
