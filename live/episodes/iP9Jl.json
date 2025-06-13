@@ -45,18 +45,6 @@
     },
     {
       "_type": "Community",
-      "id": "cV-Kn",
-      "societyId": "et0k8",
-      "player": "Fredrick",
-      "name": "Militant Clerics",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "LiQVN",
       "societyId": "et0k8",
       "player": "Jeff",
