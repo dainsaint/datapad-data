@@ -875,7 +875,7 @@
       "id": "jaCtF",
       "societyId": "yXHVO",
       "player": "",
-      "name": "Loyalist Teachers",
+      "name": " Teachers",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -2630,7 +2630,9 @@
       "risk": "1",
       "advantage": "0",
       "disadvantage": "0",
-      "ambassadors": {},
+      "ambassadors": {
+        "jaCtF": ""
+      },
       "alterLeadership": {}
     }
   ],
@@ -46393,7 +46395,7 @@
     {
       "_type": "Record",
       "id": "LYHWC",
-      "timestamp": "2025-06-13T19:43:55.700Z",
+      "timestamp": "2025-06-13T19:43:55.700+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 0
@@ -46401,7 +46403,7 @@
     {
       "_type": "Record",
       "id": "vi2m3",
-      "timestamp": "2025-06-13T19:43:55.700Z",
+      "timestamp": "2025-06-13T19:43:55.700+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 0
@@ -46409,7 +46411,7 @@
     {
       "_type": "Record",
       "id": "XR0XJ",
-      "timestamp": "2025-06-13T19:43:55.700Z",
+      "timestamp": "2025-06-13T19:43:55.700+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -46417,7 +46419,7 @@
     {
       "_type": "Record",
       "id": "WIZak",
-      "timestamp": "2025-06-13T19:43:55.700Z",
+      "timestamp": "2025-06-13T19:43:55.700+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -46425,7 +46427,7 @@
     {
       "_type": "Record",
       "id": "SHQtC",
-      "timestamp": "2025-06-13T19:43:55.700Z",
+      "timestamp": "2025-06-13T19:43:55.700+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
@@ -46433,7 +46435,7 @@
     {
       "_type": "Record",
       "id": "JN2QQ",
-      "timestamp": "2025-06-13T19:43:58.397Z",
+      "timestamp": "2025-06-13T19:43:58.397+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 0
@@ -46441,7 +46443,7 @@
     {
       "_type": "Record",
       "id": "xGOIe",
-      "timestamp": "2025-06-13T19:43:58.397Z",
+      "timestamp": "2025-06-13T19:43:58.397+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 0
@@ -46449,7 +46451,7 @@
     {
       "_type": "Record",
       "id": "czr3w",
-      "timestamp": "2025-06-13T19:43:58.397Z",
+      "timestamp": "2025-06-13T19:43:58.397+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -46457,7 +46459,7 @@
     {
       "_type": "Record",
       "id": "yv0ab",
-      "timestamp": "2025-06-13T19:43:58.397Z",
+      "timestamp": "2025-06-13T19:43:58.397+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -46465,7 +46467,7 @@
     {
       "_type": "Record",
       "id": "iv9fb",
-      "timestamp": "2025-06-13T19:43:58.397Z",
+      "timestamp": "2025-06-13T19:43:58.397+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
@@ -46473,23 +46475,23 @@
     {
       "_type": "Record",
       "id": "tFQqT",
-      "timestamp": "2025-06-13T21:09:53.808Z",
+      "timestamp": "2025-06-13T21:09:53.808+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Societal Phase",
-      "value": "2025-06-13T21:09:53.808Z"
+      "value": "2025-06-13T21:09:53.808+00:00"
     },
     {
       "_type": "Record",
       "id": "KKeqW",
-      "timestamp": "2025-06-13T21:10:42.181Z",
+      "timestamp": "2025-06-13T21:10:42.181+00:00",
       "type": "PhaseEnded",
       "description": "Round 1: Societal Phase",
-      "value": "2025-06-13T21:10:42.180Z"
+      "value": "2025-06-13T21:10:42.180+00:00"
     },
     {
       "_type": "Record",
       "id": "IXvrc",
-      "timestamp": "2025-06-13T21:10:42.181Z",
+      "timestamp": "2025-06-13T21:10:42.181+00:00",
       "type": "PhaseDuration",
       "description": "Round 1: Societal Phase",
       "value": 0.8062
@@ -46497,10 +46499,10 @@
     {
       "_type": "Record",
       "id": "qTD4Y",
-      "timestamp": "2025-06-13T21:12:51.592Z",
+      "timestamp": "2025-06-13T21:12:51.592+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Individual Phase",
-      "value": "2025-06-13T21:12:51.592Z"
+      "value": "2025-06-13T21:12:51.592+00:00"
     }
   ]
 }
