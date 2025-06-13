@@ -1503,6 +1503,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "dnjUl",
+      "communityId": "DgkcU",
+      "name": "Community []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44829,6 +44839,13 @@
       "timestamp": "2025-06-13T22:42:01.122Z",
       "type": "ResourceCreated",
       "value": "Plasma __"
+    },
+    {
+      "_type": "Record",
+      "id": "npGQF",
+      "timestamp": "2025-06-13T22:42:09.036Z",
+      "type": "ResourceCreated",
+      "value": "Community []"
     }
   ]
 }
