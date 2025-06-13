@@ -761,7 +761,18 @@
     }
   ],
   "players": [],
-  "resources": [],
+  "resources": [
+    {
+      "_type": "Resource",
+      "id": "f_fiS",
+      "communityId": "bWsq5",
+      "name": "[] Relics",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    }
+  ],
   "societies": [
     {
       "_type": "Society",
@@ -43773,6 +43784,13 @@
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "B4wtr",
+      "timestamp": "2025-06-13T22:22:05.314Z",
+      "type": "ResourceCreated",
+      "value": "[] Relics"
     }
   ]
 }
