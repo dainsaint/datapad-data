@@ -404,6 +404,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "Q4s-K",
+      "societyId": "V9xbw",
+      "player": "[]",
+      "name": "[] Spies",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
