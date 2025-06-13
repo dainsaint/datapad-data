@@ -1159,10 +1159,10 @@
       "_type": "Phase",
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 1079.8429999999917,
+      "timeElapsed": 1086.8459999999916,
       "actualTime": {
         "s": "2025-06-13T00:22:12.152+00:00",
         "e": "2025-06-13T00:40:12.152+00:00",
