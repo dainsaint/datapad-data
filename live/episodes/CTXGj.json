@@ -682,7 +682,7 @@
         "I8tk5"
       ],
       "texts": [
-        "Kill th",
+        "Assassinate the other representatives",
         ""
       ],
       "result": [],
@@ -1150,7 +1150,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 751.5479999999936,
+      "timeElapsed": 811.5889999999928,
       "actualTime": {
         "s": "2025-06-12T23:56:50.913+00:00",
         "e": "2025-06-13T00:14:50.913+00:00",
