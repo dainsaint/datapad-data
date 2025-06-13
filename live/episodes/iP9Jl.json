@@ -156,7 +156,7 @@
     {
       "_type": "Community",
       "id": "yC0li",
-      "societyId": "V9xbw",
+      "societyId": "et0k8",
       "player": "Person 5",
       "name": "[] Healers",
       "voice": "people",
@@ -916,7 +916,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "yC0li": ""
+      },
       "alterLeadership": {}
     }
   ],
