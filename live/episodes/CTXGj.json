@@ -2193,6 +2193,7 @@
       "_type": "Society",
       "id": "Feay0",
       "archetype": "the mighty",
+      "fateId": "fate_two",
       "color": "color-deep-purple",
       "tags": {
         "_type": "Tags",
