@@ -1643,6 +1643,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "WXTYt",
+      "communityId": "XvTNQ",
+      "name": "__ Dealmaking",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45068,6 +45078,13 @@
       "timestamp": "2025-06-13T22:45:13.677Z",
       "type": "ResourceCreated",
       "value": "Secondhand __"
+    },
+    {
+      "_type": "Record",
+      "id": "xsu-m",
+      "timestamp": "2025-06-13T22:45:24.420Z",
+      "type": "ResourceCreated",
+      "value": "__ Dealmaking"
     }
   ]
 }
