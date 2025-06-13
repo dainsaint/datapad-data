@@ -1353,6 +1353,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "Wwz1J",
+      "communityId": "EnTME",
+      "name": "[] []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44614,6 +44624,13 @@
       "_type": "Record",
       "id": "VwiNN",
       "timestamp": "2025-06-13T22:39:20.403Z",
+      "type": "ResourceCreated",
+      "value": "[] []"
+    },
+    {
+      "_type": "Record",
+      "id": "t6Pfl",
+      "timestamp": "2025-06-13T22:39:36.564Z",
       "type": "ResourceCreated",
       "value": "[] []"
     }
