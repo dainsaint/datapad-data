@@ -500,6 +500,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "sasmI",
+      "societyId": "Feay0",
+      "player": "Person 8",
+      "name": "__ Poets",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
