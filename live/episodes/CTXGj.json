@@ -1228,13 +1228,13 @@
       "_type": "Phase",
       "id": "ml6Q3",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-12T00:54:34.525+00:00",
-        "e": "2025-06-12T00:54:38.144+00:00",
+        "e": "2025-06-13T21:56:54.468+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
