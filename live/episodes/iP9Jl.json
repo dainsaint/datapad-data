@@ -152,6 +152,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "yC0li",
+      "societyId": "V9xbw",
+      "player": "Person 5",
+      "name": "[] Healers",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -43663,7 +43675,7 @@
     {
       "_type": "Record",
       "id": "djJen",
-      "timestamp": "2025-06-13T21:56:58.505Z",
+      "timestamp": "2025-06-13T21:56:58.505+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 0
@@ -43671,7 +43683,7 @@
     {
       "_type": "Record",
       "id": "sLvSH",
-      "timestamp": "2025-06-13T21:56:58.506Z",
+      "timestamp": "2025-06-13T21:56:58.506+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 0
@@ -43679,7 +43691,7 @@
     {
       "_type": "Record",
       "id": "ko07K",
-      "timestamp": "2025-06-13T21:56:58.506Z",
+      "timestamp": "2025-06-13T21:56:58.506+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -43687,7 +43699,7 @@
     {
       "_type": "Record",
       "id": "F7SCo",
-      "timestamp": "2025-06-13T21:56:58.506Z",
+      "timestamp": "2025-06-13T21:56:58.506+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -43695,7 +43707,7 @@
     {
       "_type": "Record",
       "id": "cARUX",
-      "timestamp": "2025-06-13T21:56:58.506Z",
+      "timestamp": "2025-06-13T21:56:58.506+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
