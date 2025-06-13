@@ -315,7 +315,7 @@
       "societyId": "V9xbw",
       "player": "[]",
       "name": "[] []",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1267,7 +1267,8 @@
         "yC0li": "",
         "DgkcU": "",
         "EnTME": "",
-        "LFwRq": ""
+        "LFwRq": "",
+        "WG1xC": ""
       },
       "alterLeadership": {}
     }
