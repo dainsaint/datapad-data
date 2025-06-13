@@ -428,6 +428,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "cBV-v",
+      "societyId": "Feay0",
+      "player": "Person 2",
+      "name": "__ Historians",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
