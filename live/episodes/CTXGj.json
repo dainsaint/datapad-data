@@ -1178,7 +1178,7 @@
       "_type": "Phase",
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 900,
       "timeElapsed": 0,
