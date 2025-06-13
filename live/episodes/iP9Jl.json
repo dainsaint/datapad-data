@@ -1419,6 +1419,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "eQuOo",
+      "communityId": "LFwRq",
+      "name": "Organic []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44703,6 +44713,13 @@
       "timestamp": "2025-06-13T22:40:13.392Z",
       "type": "ResourceCreated",
       "value": "[] []"
+    },
+    {
+      "_type": "Record",
+      "id": "UCQlW",
+      "timestamp": "2025-06-13T22:40:34.199Z",
+      "type": "ResourceCreated",
+      "value": "Organic []"
     }
   ]
 }
