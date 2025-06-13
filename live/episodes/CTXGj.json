@@ -1178,10 +1178,10 @@
       "_type": "Phase",
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 1,
       "duration": 900,
-      "timeElapsed": 514.8399999999982,
+      "timeElapsed": 542.8829999999978,
       "actualTime": {
         "s": "2025-06-13T00:45:44.374+00:00",
         "e": "2025-06-13T00:57:44.374+00:00",
