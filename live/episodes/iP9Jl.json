@@ -1319,6 +1319,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "vv9ks",
+      "communityId": "DgkcU",
+      "name": "[] []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44575,6 +44585,13 @@
       "timestamp": "2025-06-13T22:39:10.978Z",
       "type": "ResourceCreated",
       "value": "Convincing []"
+    },
+    {
+      "_type": "Record",
+      "id": "VwiNN",
+      "timestamp": "2025-06-13T22:39:20.403Z",
+      "type": "ResourceCreated",
+      "value": "[] []"
     }
   ]
 }
