@@ -1593,6 +1593,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "KQjk2",
+      "communityId": "Q4s-K",
+      "name": "Political []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44983,6 +44993,13 @@
       "timestamp": "2025-06-13T22:43:58.685Z",
       "type": "ResourceCreated",
       "value": "Sparkling []"
+    },
+    {
+      "_type": "Record",
+      "id": "OsoOc",
+      "timestamp": "2025-06-13T22:44:21.517Z",
+      "type": "ResourceCreated",
+      "value": "Political []"
     }
   ]
 }
