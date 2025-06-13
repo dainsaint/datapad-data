@@ -176,6 +176,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "gk-WH",
+      "societyId": "et0k8",
+      "player": "F P7",
+      "name": "[] Traders",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
