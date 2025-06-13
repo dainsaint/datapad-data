@@ -1200,7 +1200,7 @@
       "status": "paused",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 78.15400000000001,
+      "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T00:54:37.848+00:00",
         "e": "2025-06-13T01:04:37.848+00:00",
@@ -45317,55 +45317,55 @@
     {
       "_type": "Record",
       "id": "arWzL",
-      "timestamp": "2025-06-13T00:22:12.152Z",
+      "timestamp": "2025-06-13T00:22:12.152+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Societal Phase",
-      "value": "2025-06-13T00:22:12.152Z"
+      "value": "2025-06-13T00:22:12.152+00:00"
     },
     {
       "_type": "Record",
       "id": "OKZaD",
-      "timestamp": "2025-06-13T00:32:37.029Z",
+      "timestamp": "2025-06-13T00:32:37.029+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
-      "value": "2025-06-13T00:32:37.029Z"
+      "value": "2025-06-13T00:32:37.029+00:00"
     },
     {
       "_type": "Record",
       "id": "Pvr04",
-      "timestamp": "2025-06-13T00:41:02.773Z",
+      "timestamp": "2025-06-13T00:41:02.773+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
-      "value": "2025-06-13T00:41:02.773Z"
+      "value": "2025-06-13T00:41:02.773+00:00"
     },
     {
       "_type": "Record",
       "id": "gMpa9",
-      "timestamp": "2025-06-13T00:45:44.374Z",
+      "timestamp": "2025-06-13T00:45:44.374+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
-      "value": "2025-06-13T00:45:44.374Z"
+      "value": "2025-06-13T00:45:44.374+00:00"
     },
     {
       "_type": "Record",
       "id": "A6OXt",
-      "timestamp": "2025-06-13T00:50:13.612Z",
+      "timestamp": "2025-06-13T00:50:13.612+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
-      "value": "2025-06-13T00:50:13.612Z"
+      "value": "2025-06-13T00:50:13.612+00:00"
     },
     {
       "_type": "Record",
       "id": "Sesfw",
-      "timestamp": "2025-06-13T00:54:36.010Z",
+      "timestamp": "2025-06-13T00:54:36.010+00:00",
       "type": "PhaseEnded",
       "description": "Round 1: Galactic Phase",
-      "value": "2025-06-13T00:54:36.010Z"
+      "value": "2025-06-13T00:54:36.010+00:00"
     },
     {
       "_type": "Record",
       "id": "VDnGY",
-      "timestamp": "2025-06-13T00:54:36.011Z",
+      "timestamp": "2025-06-13T00:54:36.011+00:00",
       "type": "PhaseDuration",
       "description": "Round 1: Galactic Phase",
       "value": 4.3733
@@ -45373,10 +45373,10 @@
     {
       "_type": "Record",
       "id": "az9B6",
-      "timestamp": "2025-06-13T00:54:37.849Z",
+      "timestamp": "2025-06-13T00:54:37.849+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Individual Phase",
-      "value": "2025-06-13T00:54:37.849Z"
+      "value": "2025-06-13T00:54:37.849+00:00"
     }
   ]
 }
