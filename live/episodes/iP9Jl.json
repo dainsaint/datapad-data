@@ -1451,6 +1451,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "Trbc6",
+      "communityId": "d3FJV",
+      "name": "Physical []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44749,6 +44759,13 @@
       "timestamp": "2025-06-13T22:40:51.803Z",
       "type": "ResourceCreated",
       "value": "Gemstone []"
+    },
+    {
+      "_type": "Record",
+      "id": "WwjqR",
+      "timestamp": "2025-06-13T22:41:11.792Z",
+      "type": "ResourceCreated",
+      "value": "Physical []"
     }
   ]
 }
