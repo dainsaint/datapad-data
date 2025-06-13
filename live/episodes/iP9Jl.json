@@ -1543,6 +1543,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "z4Tqi",
+      "communityId": "Rcsl8",
+      "name": "__ Science",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44897,6 +44907,13 @@
       "timestamp": "2025-06-13T22:42:40.269Z",
       "type": "ResourceCreated",
       "value": "__ Oratory"
+    },
+    {
+      "_type": "Record",
+      "id": "RXN33",
+      "timestamp": "2025-06-13T22:42:53.801Z",
+      "type": "ResourceCreated",
+      "value": "__ Science"
     }
   ]
 }
