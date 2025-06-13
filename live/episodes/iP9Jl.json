@@ -2,7 +2,7 @@
   "_type": "Episode",
   "id": "iP9Jl",
   "name": "Arch St. — 6/14",
-  "date": "2025-06-14",
+  "date": "2025-06-14T00:00:00.000+00:00",
   "scheduledTime": {
     "s": "2025-06-13T21:29:24.086+00:00",
     "e": "2025-06-14T02:29:24.086+00:00",
@@ -14,7 +14,20 @@
     "value": []
   },
   "actions": [],
-  "communities": [],
+  "communities": [
+    {
+      "_type": "Community",
+      "id": "R29jS",
+      "societyId": "yXHVO",
+      "player": "",
+      "name": "Teachers ",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    }
+  ],
   "phases": [
     {
       "_type": "Phase",
@@ -43517,5 +43530,46 @@
     }
   ],
   "links": {},
-  "records": []
+  "records": [
+    {
+      "_type": "Record",
+      "id": "djJen",
+      "timestamp": "2025-06-13T21:56:58.505Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "sLvSH",
+      "timestamp": "2025-06-13T21:56:58.506Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "ko07K",
+      "timestamp": "2025-06-13T21:56:58.506Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "F7SCo",
+      "timestamp": "2025-06-13T21:56:58.506Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "cARUX",
+      "timestamp": "2025-06-13T21:56:58.506Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 0
+    }
+  ]
 }
