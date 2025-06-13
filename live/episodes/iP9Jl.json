@@ -272,6 +272,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "iLKlW",
+      "societyId": "e-JcG",
+      "player": "E",
+      "name": "X Pilots",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
