@@ -1623,6 +1623,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "bjtIr",
+      "communityId": "sasmI",
+      "name": "__ Practice",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45034,6 +45044,13 @@
       "timestamp": "2025-06-13T22:44:45.785Z",
       "type": "ResourceCreated",
       "value": "__ __"
+    },
+    {
+      "_type": "Record",
+      "id": "vawH4",
+      "timestamp": "2025-06-13T22:44:55.796Z",
+      "type": "ResourceCreated",
+      "value": "__ Practice"
     }
   ]
 }
