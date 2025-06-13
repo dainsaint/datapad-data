@@ -1247,13 +1247,13 @@
       "_type": "Phase",
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 2,
       "duration": 660,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-05-20T23:35:24.461+00:00",
-        "e": "2025-06-03T19:48:45.516+00:00",
+        "s": "2025-06-13T21:57:12.551+00:00",
+        "e": "2025-06-13T22:08:12.551+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46506,6 +46506,14 @@
       "type": "PhaseStarted",
       "description": "Round 1: Individual Phase",
       "value": "2025-06-13T21:12:51.592+00:00"
+    },
+    {
+      "_type": "Record",
+      "id": "QVNeG",
+      "timestamp": "2025-06-13T21:57:12.551Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-06-13T21:57:12.551Z"
     }
   ]
 }
