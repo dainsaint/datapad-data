@@ -260,20 +260,6 @@
     },
     {
       "_type": "Community",
-      "id": "SpvYw",
-      "societyId": "et0k8",
-      "player": "F5",
-      "name": "Traditionalist Healers",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
-      }
-    },
-    {
-      "_type": "Community",
       "id": "KlJb3",
       "societyId": "et0k8",
       "player": "P5",
