@@ -679,8 +679,7 @@
       "round": "1",
       "societyId": "Feay0",
       "resourceIds": [
-        "I8tk5",
-        "QOyVJ"
+        "I8tk5"
       ],
       "texts": [
         "Assassinate the other representatives",
@@ -1152,7 +1151,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 884.7549999999923,
+      "timeElapsed": 983.776999999992,
       "actualTime": {
         "s": "2025-06-12T23:56:50.913+00:00",
         "e": "2025-06-13T00:14:50.913+00:00",
