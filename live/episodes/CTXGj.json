@@ -1171,13 +1171,13 @@
       "_type": "Phase",
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 0,
+      "timeElapsed": 48.028,
       "actualTime": {
         "s": "2025-06-13T21:09:53.808+00:00",
-        "e": "2025-06-13T21:27:53.808+00:00",
+        "e": "2025-06-13T21:10:42.180+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46473,6 +46473,22 @@
       "type": "PhaseStarted",
       "description": "Round 1: Societal Phase",
       "value": "2025-06-13T21:09:53.808Z"
+    },
+    {
+      "_type": "Record",
+      "id": "KKeqW",
+      "timestamp": "2025-06-13T21:10:42.181Z",
+      "type": "PhaseEnded",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-06-13T21:10:42.180Z"
+    },
+    {
+      "_type": "Record",
+      "id": "IXvrc",
+      "timestamp": "2025-06-13T21:10:42.181Z",
+      "type": "PhaseDuration",
+      "description": "Round 1: Societal Phase",
+      "value": 0.8062
     }
   ]
 }
