@@ -1159,13 +1159,13 @@
       "_type": "Phase",
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 1080,
       "timeElapsed": 1086.8459999999916,
       "actualTime": {
         "s": "2025-06-13T00:22:12.152+00:00",
-        "e": "2025-06-13T00:22:20.051+00:00",
+        "e": "2025-06-13T00:41:04.696+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1178,13 +1178,13 @@
       "_type": "Phase",
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "paused",
+      "status": "playing",
       "round": 1,
       "duration": 720,
-      "timeElapsed": 179.26500000000013,
+      "timeElapsed": 181.26700000000014,
       "actualTime": {
-        "s": "2025-06-13T00:32:37.029+00:00",
-        "e": "2025-06-13T00:44:37.029+00:00",
+        "s": "2025-06-13T00:41:02.773+00:00",
+        "e": "2025-06-13T00:53:02.773+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45326,6 +45326,14 @@
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
       "value": "2025-06-13T00:32:37.029Z"
+    },
+    {
+      "_type": "Record",
+      "id": "Pvr04",
+      "timestamp": "2025-06-13T00:41:02.773Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-06-13T00:41:02.773Z"
     }
   ]
 }
