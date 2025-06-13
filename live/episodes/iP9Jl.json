@@ -1583,6 +1583,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "NRGxd",
+      "communityId": "K7Px8",
+      "name": "Sparkling []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44965,6 +44975,13 @@
       "timestamp": "2025-06-13T22:43:40.743Z",
       "type": "ResourceCreated",
       "value": "[] Ink"
+    },
+    {
+      "_type": "Record",
+      "id": "WalbD",
+      "timestamp": "2025-06-13T22:43:58.685Z",
+      "type": "ResourceCreated",
+      "value": "Sparkling []"
     }
   ]
 }
