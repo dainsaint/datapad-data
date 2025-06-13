@@ -781,6 +781,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "p7DGu",
+      "communityId": "XxrAo",
+      "name": "[] []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -43806,6 +43816,13 @@
       "_type": "Record",
       "id": "Uv9fh",
       "timestamp": "2025-06-13T22:22:13.704Z",
+      "type": "ResourceCreated",
+      "value": "[] []"
+    },
+    {
+      "_type": "Record",
+      "id": "vslAP",
+      "timestamp": "2025-06-13T22:23:17.388Z",
       "type": "ResourceCreated",
       "value": "[] []"
     }
