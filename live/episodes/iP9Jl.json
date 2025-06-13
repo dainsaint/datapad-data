@@ -1483,6 +1483,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "eyQTp",
+      "communityId": "xUCao",
+      "name": "__ Swords",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44795,6 +44805,13 @@
       "timestamp": "2025-06-13T22:41:39.236Z",
       "type": "ResourceCreated",
       "value": "Entrancing []"
+    },
+    {
+      "_type": "Record",
+      "id": "oE-Nz",
+      "timestamp": "2025-06-13T22:41:53.145Z",
+      "type": "ResourceCreated",
+      "value": "__ Swords"
     }
   ]
 }
