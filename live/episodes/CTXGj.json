@@ -1197,13 +1197,13 @@
       "_type": "Phase",
       "id": "CxJcg",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 2.002,
       "actualTime": {
-        "s": "2025-06-11T19:03:02.349+00:00",
-        "e": "2025-06-11T19:33:49.435+00:00",
+        "s": "2025-06-13T00:54:37.848+00:00",
+        "e": "2025-06-13T01:04:37.848+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45366,6 +45366,14 @@
       "type": "PhaseDuration",
       "description": "Round 1: Galactic Phase",
       "value": 4.3733
+    },
+    {
+      "_type": "Record",
+      "id": "az9B6",
+      "timestamp": "2025-06-13T00:54:37.849Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Individual Phase",
+      "value": "2025-06-13T00:54:37.849Z"
     }
   ]
 }
