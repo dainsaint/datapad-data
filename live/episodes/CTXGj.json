@@ -689,6 +689,9 @@
         "Leave calling card of Mohawk on dead",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0,
         0,
@@ -1156,13 +1159,13 @@
       "_type": "Phase",
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "playing",
       "round": 1,
       "duration": 1080,
       "timeElapsed": 1079.8429999999917,
       "actualTime": {
-        "s": "2025-06-12T23:56:50.913+00:00",
-        "e": "2025-06-13T00:14:50.913+00:00",
+        "s": "2025-06-13T00:22:12.152+00:00",
+        "e": "2025-06-13T00:40:12.152+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -43747,7 +43750,7 @@
     {
       "_type": "Record",
       "id": "nRE4r",
-      "timestamp": "2025-06-12T23:53:15.027Z",
+      "timestamp": "2025-06-12T23:53:15.027+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 0
@@ -43755,7 +43758,7 @@
     {
       "_type": "Record",
       "id": "gbwnh",
-      "timestamp": "2025-06-12T23:53:15.027Z",
+      "timestamp": "2025-06-12T23:53:15.027+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 0
@@ -43763,7 +43766,7 @@
     {
       "_type": "Record",
       "id": "DeHua",
-      "timestamp": "2025-06-12T23:53:15.027Z",
+      "timestamp": "2025-06-12T23:53:15.027+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -43771,7 +43774,7 @@
     {
       "_type": "Record",
       "id": "CJwsL",
-      "timestamp": "2025-06-12T23:53:15.027Z",
+      "timestamp": "2025-06-12T23:53:15.027+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -43779,7 +43782,7 @@
     {
       "_type": "Record",
       "id": "z8YNv",
-      "timestamp": "2025-06-12T23:53:15.027Z",
+      "timestamp": "2025-06-12T23:53:15.027+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
@@ -43787,7 +43790,7 @@
     {
       "_type": "Record",
       "id": "fy8YW",
-      "timestamp": "2025-06-12T23:53:16.529Z",
+      "timestamp": "2025-06-12T23:53:16.529+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 0
@@ -43795,7 +43798,7 @@
     {
       "_type": "Record",
       "id": "XfoFM",
-      "timestamp": "2025-06-12T23:53:16.529Z",
+      "timestamp": "2025-06-12T23:53:16.529+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 0
@@ -43803,7 +43806,7 @@
     {
       "_type": "Record",
       "id": "LJQKO",
-      "timestamp": "2025-06-12T23:53:16.529Z",
+      "timestamp": "2025-06-12T23:53:16.529+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -43811,7 +43814,7 @@
     {
       "_type": "Record",
       "id": "QE6uT",
-      "timestamp": "2025-06-12T23:53:16.529Z",
+      "timestamp": "2025-06-12T23:53:16.529+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -43819,7 +43822,7 @@
     {
       "_type": "Record",
       "id": "UvhC6",
-      "timestamp": "2025-06-12T23:53:16.529Z",
+      "timestamp": "2025-06-12T23:53:16.529+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
@@ -43827,10 +43830,18 @@
     {
       "_type": "Record",
       "id": "XI-37",
-      "timestamp": "2025-06-12T23:56:50.913Z",
+      "timestamp": "2025-06-12T23:56:50.913+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Societal Phase",
-      "value": "2025-06-12T23:56:50.913Z"
+      "value": "2025-06-12T23:56:50.913+00:00"
+    },
+    {
+      "_type": "Record",
+      "id": "arWzL",
+      "timestamp": "2025-06-13T00:22:12.152Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-06-13T00:22:12.152Z"
     }
   ]
 }
