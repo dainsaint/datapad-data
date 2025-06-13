@@ -13,7 +13,25 @@
     "_type": "Tags",
     "value": []
   },
-  "actions": [],
+  "actions": [
+    {
+      "_type": "Action",
+      "id": "DZjN1",
+      "round": "0",
+      "societyId": "yXHVO",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    }
+  ],
   "communities": [
     {
       "_type": "Community",
