@@ -289,8 +289,8 @@
       "_type": "Community",
       "id": "EnTME",
       "societyId": "V9xbw",
-      "player": "",
-      "name": "Avant-Garde",
+      "player": "[]",
+      "name": "Avant-Garde []",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -1255,7 +1255,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "yC0li": "",
-        "DgkcU": ""
+        "DgkcU": "",
+        "EnTME": ""
       },
       "alterLeadership": {}
     }
