@@ -1178,13 +1178,13 @@
       "_type": "Phase",
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 1,
       "duration": 900,
-      "timeElapsed": 542.8829999999978,
+      "timeElapsed": 805.1549999999958,
       "actualTime": {
         "s": "2025-06-13T00:50:13.612+00:00",
-        "e": "2025-06-13T01:05:13.612+00:00",
+        "e": "2025-06-13T00:54:36.010+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45350,6 +45350,22 @@
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
       "value": "2025-06-13T00:50:13.612Z"
+    },
+    {
+      "_type": "Record",
+      "id": "Sesfw",
+      "timestamp": "2025-06-13T00:54:36.010Z",
+      "type": "PhaseEnded",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-06-13T00:54:36.010Z"
+    },
+    {
+      "_type": "Record",
+      "id": "VDnGY",
+      "timestamp": "2025-06-13T00:54:36.011Z",
+      "type": "PhaseDuration",
+      "description": "Round 1: Galactic Phase",
+      "value": 4.3733
     }
   ]
 }
