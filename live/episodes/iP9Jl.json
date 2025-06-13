@@ -1157,6 +1157,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "twiTj",
+      "communityId": "HxH3y",
+      "name": "X Feasts",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44342,6 +44352,13 @@
       "timestamp": "2025-06-13T22:34:16.634Z",
       "type": "ResourceCreated",
       "value": "Cybernetic X"
+    },
+    {
+      "_type": "Record",
+      "id": "GR_m8",
+      "timestamp": "2025-06-13T22:34:36.809Z",
+      "type": "ResourceCreated",
+      "value": "X Feasts"
     }
   ]
 }
