@@ -1162,7 +1162,7 @@
       "status": "complete",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 1086.8459999999916,
+      "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T00:22:12.152+00:00",
         "e": "2025-06-13T00:41:04.696+00:00",
@@ -1181,7 +1181,7 @@
       "status": "complete",
       "round": 1,
       "duration": 900,
-      "timeElapsed": 805.1549999999958,
+      "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T00:50:13.612+00:00",
         "e": "2025-06-13T00:54:36.010+00:00",
