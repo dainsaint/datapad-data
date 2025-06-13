@@ -1603,6 +1603,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "Nuy8t",
+      "communityId": "DgkcU",
+      "name": "[] []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45000,6 +45010,13 @@
       "timestamp": "2025-06-13T22:44:21.517Z",
       "type": "ResourceCreated",
       "value": "Political []"
+    },
+    {
+      "_type": "Record",
+      "id": "cvlwc",
+      "timestamp": "2025-06-13T22:44:43.097Z",
+      "type": "ResourceCreated",
+      "value": "[] []"
     }
   ]
 }
