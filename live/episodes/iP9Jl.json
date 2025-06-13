@@ -1239,6 +1239,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "Uz5_A",
+      "communityId": "VBX10",
+      "name": "Adaptable X",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44481,6 +44491,13 @@
       "timestamp": "2025-06-13T22:37:16.308Z",
       "type": "ResourceCreated",
       "value": "Powerful X"
+    },
+    {
+      "_type": "Record",
+      "id": "t9Q_T",
+      "timestamp": "2025-06-13T22:38:09.077Z",
+      "type": "ResourceCreated",
+      "value": "Adaptable X"
     }
   ]
 }
