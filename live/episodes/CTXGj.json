@@ -678,11 +678,12 @@
       "id": "IMAR4",
       "round": "1",
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "I8tk5"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1148,7 +1149,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 711.5199999999942,
+      "timeElapsed": 713.5209999999942,
       "actualTime": {
         "s": "2025-06-12T23:56:50.913+00:00",
         "e": "2025-06-13T00:14:50.913+00:00",
