@@ -524,6 +524,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "m7_IE",
+      "societyId": "Feay0",
+      "player": "Person 10",
+      "name": "__ Monks",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
