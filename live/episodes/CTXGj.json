@@ -1181,7 +1181,7 @@
       "status": "playing",
       "round": 1,
       "duration": 720,
-      "timeElapsed": 181.26700000000014,
+      "timeElapsed": 337.4069999999996,
       "actualTime": {
         "s": "2025-06-13T00:41:02.773+00:00",
         "e": "2025-06-13T00:53:02.773+00:00",
@@ -1697,8 +1697,8 @@
     {
       "_type": "Resource",
       "id": "YaD-S",
-      "communityId": "R9tmF",
-      "name": "shtrhstr",
+      "communityId": "UDMgC",
+      "name": "dirty litter",
       "tags": {
         "_type": "Tags",
         "value": []
