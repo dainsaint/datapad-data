@@ -262,18 +262,6 @@
     },
     {
       "_type": "Community",
-      "id": "fYcQx",
-      "societyId": "Feay0",
-      "player": "Joe he They",
-      "name": "Dying Miners",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "Y_0oZ",
       "societyId": "Feay0",
       "player": "Jackie She They",
