@@ -1197,10 +1197,10 @@
       "_type": "Phase",
       "id": "CxJcg",
       "type": "Individual Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 2.002,
+      "timeElapsed": 78.15400000000001,
       "actualTime": {
         "s": "2025-06-13T00:54:37.848+00:00",
         "e": "2025-06-13T01:04:37.848+00:00",
