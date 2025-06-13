@@ -1553,6 +1553,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "O5gAH",
+      "communityId": "Ju_Oj",
+      "name": "__ __",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44914,6 +44924,13 @@
       "timestamp": "2025-06-13T22:42:53.801Z",
       "type": "ResourceCreated",
       "value": "__ Science"
+    },
+    {
+      "_type": "Record",
+      "id": "lA2sM",
+      "timestamp": "2025-06-13T22:43:05.415Z",
+      "type": "ResourceCreated",
+      "value": "__ __"
     }
   ]
 }
