@@ -200,6 +200,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "Li_DK",
+      "societyId": "et0k8",
+      "player": "F P9",
+      "name": "Pragmatic []",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
