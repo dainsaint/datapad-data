@@ -1441,6 +1441,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "al0UA",
+      "communityId": "LFwRq",
+      "name": "Gemstone []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44732,6 +44742,13 @@
       "timestamp": "2025-06-13T22:40:34.199Z",
       "type": "ResourceCreated",
       "value": "Organic []"
+    },
+    {
+      "_type": "Record",
+      "id": "ktAab",
+      "timestamp": "2025-06-13T22:40:51.803Z",
+      "type": "ResourceCreated",
+      "value": "Gemstone []"
     }
   ]
 }
