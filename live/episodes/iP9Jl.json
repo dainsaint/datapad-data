@@ -851,6 +851,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "zH00B",
+      "communityId": "gk-WH",
+      "name": "[] Connections",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -43927,6 +43937,13 @@
       "timestamp": "2025-06-13T22:25:11.618Z",
       "type": "ResourceCreated",
       "value": "[] Empaths"
+    },
+    {
+      "_type": "Record",
+      "id": "Mcs59",
+      "timestamp": "2025-06-13T22:25:26.532Z",
+      "type": "ResourceCreated",
+      "value": "[] Connections"
     }
   ]
 }
