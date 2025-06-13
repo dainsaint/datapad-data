@@ -38,6 +38,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "JdDRm",
+      "societyId": "yXHVO",
+      "player": "",
+      "name": ". ",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
