@@ -1027,6 +1027,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "e69Dp",
+      "communityId": "r1dal",
+      "name": "Personal ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44160,6 +44170,13 @@
       "timestamp": "2025-06-13T22:31:39.068Z",
       "type": "ResourceCreated",
       "value": "Factories"
+    },
+    {
+      "_type": "Record",
+      "id": "sku_w",
+      "timestamp": "2025-06-13T22:31:58.317Z",
+      "type": "ResourceCreated",
+      "value": "Personal "
     }
   ]
 }
