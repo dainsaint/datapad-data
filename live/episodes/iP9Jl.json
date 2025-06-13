@@ -98,6 +98,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "XxrAo",
+      "societyId": "et0k8",
+      "player": "Person 2",
+      "name": "Techno []",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
