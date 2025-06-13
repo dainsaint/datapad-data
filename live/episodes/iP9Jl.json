@@ -296,6 +296,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "LFwRq",
+      "societyId": "V9xbw",
+      "player": "",
+      "name": "Toolmakers",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
