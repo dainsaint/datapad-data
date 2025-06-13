@@ -1139,7 +1139,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-12T23:11:16.075+00:00",
-        "e": "2025-06-13T19:43:55.700+00:00",
+        "e": "2025-06-13T19:43:58.397+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45426,6 +45426,46 @@
       "_type": "Record",
       "id": "SHQtC",
       "timestamp": "2025-06-13T19:43:55.700Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "JN2QQ",
+      "timestamp": "2025-06-13T19:43:58.397Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "xGOIe",
+      "timestamp": "2025-06-13T19:43:58.397Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "czr3w",
+      "timestamp": "2025-06-13T19:43:58.397Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "yv0ab",
+      "timestamp": "2025-06-13T19:43:58.397Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "iv9fb",
+      "timestamp": "2025-06-13T19:43:58.397Z",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
