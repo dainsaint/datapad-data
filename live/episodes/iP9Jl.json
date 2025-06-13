@@ -30,7 +30,7 @@
     {
       "_type": "Community",
       "id": "r1dal",
-      "societyId": "et0k8",
+      "societyId": "yXHVO",
       "player": "",
       "name": "Executives ",
       "voice": "leader",
@@ -779,7 +779,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "r1dal": ""
+      },
       "alterLeadership": {}
     },
     {
