@@ -1212,7 +1212,7 @@
       "status": "playing",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 12.002999999999998,
+      "timeElapsed": 56.015999999999984,
       "actualTime": {
         "s": "2025-06-13T21:12:51.592+00:00",
         "e": "2025-06-13T21:22:51.592+00:00",
@@ -7410,7 +7410,7 @@
             "children": [
               {
                 "type": "text",
-                "value": ""
+                "value": "D"
               }
             ]
           },
@@ -15623,6 +15623,10 @@
             "children": [
               {
                 "type": "text",
+                "value": "Now we’re entering into the Galactic Phase. "
+              },
+              {
+                "type": "text",
                 "value": "In a moment, we’re going to hear your actions and roll dice to find out if your actions were successful or unsuccessful. For every resource used in your action, you will roll an additional die, and your success or failure will be determined by the highest value among all the dice you roll. If your highest die is a six, that means you’re going to have greater success, and if your highest die is a one, that means things are going to get a lot more challenging."
               }
             ]
@@ -16682,7 +16686,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "So far we’ve been following the actions of big groups of people - Communities and Societies. But these actions are driven by individual people, and the results of those actions have an impact on their lives.  After each Galactic phase we will tune in to stories of those people.."
+                "value": "So far we’ve been following the actions of big groups of people - Communities and Societies. But these actions are driven by individual people, and the results of those actions have an impact on their lives.  After each Galactic phase we will tune in to stories of those people in the Individual Phase"
               },
               {
                 "type": "element",
