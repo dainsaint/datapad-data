@@ -57,18 +57,6 @@
     },
     {
       "_type": "Community",
-      "id": "B95dD",
-      "societyId": "et0k8",
-      "player": "Jason",
-      "name": "Perverted Priests",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "cV-Kn",
       "societyId": "et0k8",
       "player": "Fredrick",
@@ -1131,7 +1119,63 @@
       ]
     }
   ],
-  "turns": [],
+  "turns": [
+    {
+      "_type": "Turn",
+      "id": "jp6MW",
+      "round": 0,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "mIolN",
+      "round": 0,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "TinLU",
+      "round": 0,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "C5ERo",
+      "round": 0,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "XUgFK",
+      "round": 0,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    }
+  ],
   "documents": [
     {
       "_type": "Document",
