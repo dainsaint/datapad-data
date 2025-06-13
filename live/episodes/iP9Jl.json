@@ -214,20 +214,6 @@
     },
     {
       "_type": "Community",
-      "id": "Y_0oZ",
-      "societyId": "Feay0",
-      "player": "Jackie She They",
-      "name": "Sleepy Dreamers",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
-      }
-    },
-    {
-      "_type": "Community",
       "id": "oeVJv",
       "societyId": "e-JcG",
       "player": "Someone He Him",
