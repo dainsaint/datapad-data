@@ -380,6 +380,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "VBX10",
+      "societyId": "e-JcG",
+      "player": "G",
+      "name": "X Engineers",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
