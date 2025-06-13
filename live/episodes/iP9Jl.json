@@ -1633,6 +1633,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "z7uUE",
+      "communityId": "XvTNQ",
+      "name": "Secondhand __",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45051,6 +45061,13 @@
       "timestamp": "2025-06-13T22:44:55.796Z",
       "type": "ResourceCreated",
       "value": "__ Practice"
+    },
+    {
+      "_type": "Record",
+      "id": "qMlwL",
+      "timestamp": "2025-06-13T22:45:13.677Z",
+      "type": "ResourceCreated",
+      "value": "Secondhand __"
     }
   ]
 }
