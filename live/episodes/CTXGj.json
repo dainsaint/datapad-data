@@ -1266,10 +1266,10 @@
       "_type": "Phase",
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 10.009999999999998,
+      "timeElapsed": 183.17700000000025,
       "actualTime": {
         "s": "2025-06-13T22:00:00.491+00:00",
         "e": "2025-06-13T22:12:00.491+00:00",
