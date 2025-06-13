@@ -302,7 +302,7 @@
       "id": "LFwRq",
       "societyId": "V9xbw",
       "player": "",
-      "name": "Toolmakers",
+      "name": "[] Toolmakers",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1256,7 +1256,8 @@
       "ambassadors": {
         "yC0li": "",
         "DgkcU": "",
-        "EnTME": ""
+        "EnTME": "",
+        "LFwRq": ""
       },
       "alterLeadership": {}
     }
