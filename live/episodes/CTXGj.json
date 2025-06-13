@@ -680,10 +680,12 @@
       "societyId": "Feay0",
       "resourceIds": [
         "I8tk5",
-        "NudHW"
+        "NudHW",
+        "QOyVJ"
       ],
       "texts": [
         "Assassinate the other representatives",
+        "",
         ""
       ],
       "result": [],
@@ -1151,7 +1153,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 1003.7789999999919,
+      "timeElapsed": 1005.7799999999919,
       "actualTime": {
         "s": "2025-06-12T23:56:50.913+00:00",
         "e": "2025-06-13T00:14:50.913+00:00",
