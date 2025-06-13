@@ -1177,6 +1177,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "P6B7O",
+      "communityId": "nmW7Z",
+      "name": "Keen X",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44383,6 +44393,13 @@
       "timestamp": "2025-06-13T22:35:02.569Z",
       "type": "ResourceCreated",
       "value": "X Maps"
+    },
+    {
+      "_type": "Record",
+      "id": "EyHXO",
+      "timestamp": "2025-06-13T22:35:54.934Z",
+      "type": "ResourceCreated",
+      "value": "Keen X"
     }
   ]
 }
