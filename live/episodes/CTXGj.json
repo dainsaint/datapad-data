@@ -684,6 +684,7 @@
       ],
       "texts": [
         "Assassinate the other representatives",
+        "Finish th",
         ""
       ],
       "result": [],
@@ -1151,7 +1152,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 841.6069999999925,
+      "timeElapsed": 868.6299999999923,
       "actualTime": {
         "s": "2025-06-12T23:56:50.913+00:00",
         "e": "2025-06-13T00:14:50.913+00:00",
