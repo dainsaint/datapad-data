@@ -101,18 +101,6 @@
     },
     {
       "_type": "Community",
-      "id": "fr_Re",
-      "societyId": "yXHVO",
-      "player": "Sulu",
-      "name": " Executives ",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "menqQ",
       "societyId": "yXHVO",
       "player": "",
