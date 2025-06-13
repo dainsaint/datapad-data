@@ -440,6 +440,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "Rcsl8",
+      "societyId": "Feay0",
+      "player": "Person 3",
+      "name": "Cunning __",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
