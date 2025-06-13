@@ -1126,6 +1126,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "eF-nz",
+      "societyId": "et0k8",
+      "player": "Person 5",
+      "name": "[] Healers",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -46510,23 +46522,23 @@
     {
       "_type": "Record",
       "id": "QVNeG",
-      "timestamp": "2025-06-13T21:57:12.551Z",
+      "timestamp": "2025-06-13T21:57:12.551+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
-      "value": "2025-06-13T21:57:12.551Z"
+      "value": "2025-06-13T21:57:12.551+00:00"
     },
     {
       "_type": "Record",
       "id": "TJZ0G",
-      "timestamp": "2025-06-13T21:59:21.205Z",
+      "timestamp": "2025-06-13T21:59:21.205+00:00",
       "type": "PhaseEnded",
       "description": "Round 2: Societal Phase",
-      "value": "2025-06-13T21:59:21.205Z"
+      "value": "2025-06-13T21:59:21.205+00:00"
     },
     {
       "_type": "Record",
       "id": "aaeru",
-      "timestamp": "2025-06-13T21:59:21.205Z",
+      "timestamp": "2025-06-13T21:59:21.205+00:00",
       "type": "PhaseDuration",
       "description": "Round 2: Societal Phase",
       "value": 2.144233333333333
@@ -46534,18 +46546,18 @@
     {
       "_type": "Record",
       "id": "Mv3a1",
-      "timestamp": "2025-06-13T21:59:22.112Z",
+      "timestamp": "2025-06-13T21:59:22.112+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Galactic Phase",
-      "value": "2025-06-13T21:59:22.112Z"
+      "value": "2025-06-13T21:59:22.112+00:00"
     },
     {
       "_type": "Record",
       "id": "s0VG_",
-      "timestamp": "2025-06-13T22:00:00.492Z",
+      "timestamp": "2025-06-13T22:00:00.492+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Galactic Phase",
-      "value": "2025-06-13T22:00:00.492Z"
+      "value": "2025-06-13T22:00:00.492+00:00"
     }
   ]
 }
