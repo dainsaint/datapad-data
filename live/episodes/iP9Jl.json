@@ -484,13 +484,13 @@
       "_type": "Phase",
       "id": "MJeMM",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:30:36.410+00:00",
-        "e": "2025-06-13T21:30:36.410+00:00",
+        "e": "2025-06-14T17:25:35.805+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
