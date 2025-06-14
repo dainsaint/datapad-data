@@ -702,7 +702,7 @@
       "status": "playing",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 260.11800000000017,
+      "timeElapsed": 287.12699999999995,
       "actualTime": {
         "s": "2025-06-14T18:20:11.976+00:00",
         "e": "2025-06-14T18:31:11.976+00:00",
@@ -1199,7 +1199,9 @@
       "name": "Biological Computers",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
