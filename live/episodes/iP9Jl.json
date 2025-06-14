@@ -599,8 +599,8 @@
       "id": "HxH3y",
       "societyId": "e-JcG",
       "player": "Jess She/they",
-      "name": "Cloistered Extroverts",
-      "voice": "leader",
+      "name": "Reckless Clockmakers",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1034,7 +1034,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 111.04500000000007,
+      "timeElapsed": 118.05000000000008,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -2465,7 +2465,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "HxH3y": ""
+      },
       "alterLeadership": {}
     },
     {
