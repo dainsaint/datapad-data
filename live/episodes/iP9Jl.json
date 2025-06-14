@@ -439,7 +439,7 @@
       "_type": "Community",
       "id": "cBV-v",
       "societyId": "Feay0",
-      "player": "Person 2",
+      "player": "Moss They/them",
       "name": "__ Historians",
       "voice": "leader",
       "tags": {
@@ -1858,7 +1858,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "xUCao": ""
+        "xUCao": "",
+        "cBV-v": ""
       },
       "alterLeadership": {}
     },
