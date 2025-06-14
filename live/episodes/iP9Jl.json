@@ -687,7 +687,7 @@
         ""
       ],
       "result": [
-        0,
+        5,
         0
       ],
       "voteTime": "2025-06-14T22:15:35.697+00:00",
@@ -1393,7 +1393,7 @@
       "status": "playing",
       "round": 5,
       "duration": 720,
-      "timeElapsed": 470.2479999999998,
+      "timeElapsed": 472.2489999999998,
       "actualTime": {
         "s": "2025-06-14T22:14:33.857+00:00",
         "e": "2025-06-14T22:26:33.857+00:00",
@@ -1943,7 +1943,7 @@
     {
       "_type": "Resource",
       "id": "eyQTp",
-      "communityId": "xUCao",
+      "communityId": "Rcsl8",
       "name": "_Titanium_ Swords",
       "tags": {
         "_type": "Tags",
