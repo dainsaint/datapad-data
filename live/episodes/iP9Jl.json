@@ -664,7 +664,7 @@
       "status": "playing",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 233.04200000000012,
+      "timeElapsed": 263.05800000000005,
       "actualTime": {
         "s": "2025-06-14T18:04:16.115+00:00",
         "e": "2025-06-14T18:14:16.115+00:00",
@@ -16426,7 +16426,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "As Abundance Day reaches a peak, Trans Corp begins their flyby."
+                "value": "Coming together to celebrate Abundance is a complicated thing when you’re used to scarcity. While some of our Societies and other factions in the Solar System have grown closer, others are pulling away and creating distance. But as Abundance Day reaches a peak, Trans Corp begins their flyby."
               }
             ]
           },
