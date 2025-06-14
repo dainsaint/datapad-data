@@ -1194,10 +1194,10 @@
       "_type": "Phase",
       "id": "o_oZ_",
       "type": "Individual Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 498.17499999999876,
+      "timeElapsed": 600.2089999999981,
       "actualTime": {
         "s": "2025-06-14T21:49:48.205+00:00",
         "e": "2025-06-14T21:59:48.205+00:00",
