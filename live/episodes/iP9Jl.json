@@ -87,7 +87,7 @@
         ""
       ],
       "result": [
-        0
+        6
       ],
       "voteTime": "2025-06-14T17:43:02.409+00:00",
       "status": "voted",
@@ -645,7 +645,7 @@
       "status": "playing",
       "round": 1,
       "duration": 900,
-      "timeElapsed": 0,
+      "timeElapsed": 438.198999999999,
       "actualTime": {
         "s": "2025-06-14T17:47:28.739+00:00",
         "e": "2025-06-14T18:02:28.739+00:00",
