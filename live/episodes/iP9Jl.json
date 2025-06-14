@@ -345,11 +345,12 @@
       "id": "bS8HL",
       "round": "3",
       "societyId": "V9xbw",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "l9TXe"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -829,7 +830,7 @@
       "status": "playing",
       "round": 3,
       "duration": 600,
-      "timeElapsed": 346.13399999999956,
+      "timeElapsed": 348.13399999999956,
       "actualTime": {
         "s": "2025-06-14T20:25:24.715+00:00",
         "e": "2025-06-14T20:35:24.715+00:00",
