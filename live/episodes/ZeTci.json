@@ -17,18 +17,6 @@
   "communities": [
     {
       "_type": "Community",
-      "id": "r1dal",
-      "societyId": "yXHVO",
-      "player": "Curtis",
-      "name": "Engaged Executives ",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "JdDRm",
       "societyId": "yXHVO",
       "player": "Esteban",
