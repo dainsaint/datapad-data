@@ -1390,13 +1390,13 @@
       "_type": "Phase",
       "id": "GH645",
       "type": "Galactic Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 5,
       "duration": 720,
       "timeElapsed": 955.3109999999986,
       "actualTime": {
         "s": "2025-06-14T22:14:33.857+00:00",
-        "e": "2025-06-14T22:26:33.857+00:00",
+        "e": "2025-06-14T22:31:25.008+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
