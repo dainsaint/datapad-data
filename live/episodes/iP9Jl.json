@@ -906,7 +906,7 @@
       "status": "playing",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 585.2159999999981,
+      "timeElapsed": 588.2149999999981,
       "actualTime": {
         "s": "2025-06-14T19:01:15.167+00:00",
         "e": "2025-06-14T19:11:15.167+00:00",
@@ -1444,9 +1444,7 @@
       "name": "Book Factories",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
