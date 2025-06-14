@@ -91,8 +91,8 @@
       "_type": "Community",
       "id": "r1dal",
       "societyId": "yXHVO",
-      "player": "",
-      "name": "Executives ",
+      "player": "Curtis",
+      "name": "Engaged Executives ",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 658.1739999999986,
+      "timeElapsed": 679.1829999999985,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1847,7 +1847,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "R29jS": ""
+        "R29jS": "",
+        "r1dal": ""
       },
       "alterLeadership": {
         "R29jS": "leader",
