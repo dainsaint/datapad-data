@@ -21412,7 +21412,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Trans Corp is in a better mood., they are glad to have work transporting materials between The Enterprise and the Ashen Glow, AND they have at least some work. That being said they are also aware that without the work of delivering batteries in the longer term, their very existence is in question."
+                    "value": "Trans Corp is in a better mood., they are glad to have work transporting materials between The Enterprise and the Ashen Glow, AND they have at least some work. That being said they are also aware that without the work of delivering batteries (80% of their business) in the longer term, their very existence is in question."
                   }
                 ]
               },
@@ -21423,7 +21423,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "While the Ashen Glow formed their mutual aid alliance with The Faithful, they also still chose to participate in the UEC’s PEWP program because it aligned with their desire to bring the Solar System closer together again."
+                    "value": "While the Ashen Glow formed their mutual aid alliance with The Faithful, they also still chose to participate in the UEC’s PEWP program because it aligned with their desire to bring the Kin System closer together again."
                   }
                 ]
               },
@@ -21434,7 +21434,29 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "However, after a few cycles of stable energy, the Prototype Energy Well on Incense explodes, a major catastrophe. The Ashen Glow put out a call for help to the entire Solar System and expect the Faithful to sho"
+                    "value": "However, after a few cycles of stable energy, the Prototype Energy Well on Incense explodes, a major catastrophe. The Ashen Glow put out a call for help to the entire Solar System and expect at least the Faithful to show-up in support."
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "In the chaos the Marauders also use this as an opportunity to attack The Mighty in hopes of commandeering their Ionic Capacitors."
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "And, if that wasn’t enough, a new Faction, Free Unity or FU, has begun to emerge on Incense, Toboggan, Lustre, and Arbor. This loose coalition has a clear message, “We must disinvest from the UEC, and find a new source of energy that doesn’t involve Unity.”"
                   }
                 ]
               }
@@ -21449,6 +21471,40 @@
               ]
             },
             "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "So the question is: as the Kin System descends into chaos in the search for a new stability, what will you do?"
+              },
               {
                 "type": "text",
                 "value": "\u000b\u000bTO BE IMPROVISED!"
@@ -21653,7 +21709,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "Our Societies can now to communicate with each other and exchange resources with one another. To do so, you can send an ambassador from our Society to another Society."
+                "value": "Our Societies can now communicate with each other and exchange resources with one another. To do so, you can send an ambassador from our Society to another Society."
               }
             ]
           },
