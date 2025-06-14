@@ -1034,7 +1034,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 58.01599999999999,
+      "timeElapsed": 85.02800000000003,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -1954,6 +1954,16 @@
       "id": "mseo8",
       "communityId": "R29jS",
       "name": "UEC interns",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "cjMzG",
+      "communityId": "ZTISw",
+      "name": "Fun Curriculum",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -46805,6 +46815,13 @@
       "type": "PhaseStarted",
       "description": "Round 4: Societal Phase",
       "value": "2025-06-14T21:18:24.774Z"
+    },
+    {
+      "_type": "Record",
+      "id": "qyxY1",
+      "timestamp": "2025-06-14T21:19:50.287Z",
+      "type": "ResourceCreated",
+      "value": "Fun Curriculum"
     }
   ]
 }
