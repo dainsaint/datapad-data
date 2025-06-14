@@ -1757,9 +1757,7 @@
       "name": "Scouting Talismans",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
