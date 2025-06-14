@@ -703,7 +703,7 @@
       ],
       "texts": [
         "Create safe galactic meeting spaces for university comms and messages",
-        "",
+        "Find these locations",
         ""
       ],
       "result": [],
@@ -1384,7 +1384,7 @@
       "status": "playing",
       "round": 5,
       "duration": 720,
-      "timeElapsed": 117.04400000000008,
+      "timeElapsed": 131.0550000000001,
       "actualTime": {
         "s": "2025-06-14T22:14:33.857+00:00",
         "e": "2025-06-14T22:26:33.857+00:00",
