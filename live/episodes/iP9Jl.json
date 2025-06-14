@@ -144,6 +144,7 @@
       ],
       "texts": [
         "",
+        "Print playbills",
         ""
       ],
       "result": [],
@@ -586,7 +587,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 885.1669999999974,
+      "timeElapsed": 897.1689999999974,
       "actualTime": {
         "s": "2025-06-14T17:27:05.086+00:00",
         "e": "2025-06-14T17:45:05.086+00:00",
