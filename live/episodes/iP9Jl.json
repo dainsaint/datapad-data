@@ -425,7 +425,10 @@
         "To increase efficacy of healing plants ",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-14T20:37:46.546+00:00",
       "status": "voted",
       "tags": {
@@ -1889,6 +1892,16 @@
       "_type": "Resource",
       "id": "BE-9z",
       "communityId": "baFQb",
+      "name": "Endless Stamina",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "L1mr5",
+      "communityId": "HxH3y",
       "name": "Endless Stamina",
       "tags": {
         "_type": "Tags",
@@ -46508,6 +46521,13 @@
       "_type": "Record",
       "id": "S2bkA",
       "timestamp": "2025-06-14T20:34:51.753Z",
+      "type": "ResourceCreated",
+      "value": "Endless Stamina"
+    },
+    {
+      "_type": "Record",
+      "id": "ORoZG",
+      "timestamp": "2025-06-14T20:38:05.086Z",
       "type": "ResourceCreated",
       "value": "Endless Stamina"
     }
