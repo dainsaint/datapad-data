@@ -528,7 +528,7 @@
       "societyId": "e-JcG",
       "player": "Tay She/her",
       "name": "Honorable Rebels",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1034,7 +1034,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 241.09400000000022,
+      "timeElapsed": 249.09600000000023,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -2487,7 +2487,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "HxH3y": "",
-        "Q5mwY": ""
+        "Q5mwY": "",
+        "baFQb": ""
       },
       "alterLeadership": {}
     },
