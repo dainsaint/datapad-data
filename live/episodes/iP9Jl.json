@@ -408,7 +408,10 @@
         "Build good will",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-14T20:41:33.029+00:00",
       "status": "voted",
       "tags": {
@@ -960,7 +963,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 124.09000000000005,
+      "timeElapsed": 128.09900000000005,
       "actualTime": {
         "s": "2025-06-14T20:39:28.631+00:00",
         "e": "2025-06-14T20:51:28.631+00:00",
@@ -1888,7 +1891,9 @@
       "name": "Ionic Capacitors ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "destroyed"
+        ]
       }
     },
     {
