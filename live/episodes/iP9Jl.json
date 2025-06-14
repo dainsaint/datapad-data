@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 967.2689999999967,
+      "timeElapsed": 969.2679999999967,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1368,7 +1368,7 @@
       "_type": "Resource",
       "id": "l9TXe",
       "communityId": "DgkcU",
-      "name": "Convincing []",
+      "name": "Convincing Language",
       "tags": {
         "_type": "Tags",
         "value": []
