@@ -25,6 +25,9 @@
       "texts": [
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -46,6 +49,9 @@
         "look fab",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0,
         0
@@ -67,6 +73,9 @@
         "",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -86,6 +95,9 @@
         "Provide security and stability for abundance",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         1
       ],
@@ -110,6 +122,9 @@
         "Wow the attendees ",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0,
         0
@@ -133,6 +148,9 @@
         "Produce an investigative journalism piece about the fall of the Starlight Empire",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         3
       ],
@@ -157,6 +175,9 @@
         "Print playbills",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6,
         3
@@ -182,6 +203,9 @@
         "Aid negotiation ",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         3,
         2
@@ -207,6 +231,9 @@
         "Stabilize and fortify the energy",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         5,
         1
@@ -247,6 +274,9 @@
         "Gift the Realm golden apples as a gift",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         3
       ],
@@ -269,6 +299,9 @@
         "To set up shipment contracts for our wood resources to Ashen Glow via Trans Corp",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6
       ],
@@ -291,6 +324,9 @@
         "To form an alliance with the AsheN GLOW OUTSIDE the PEWP",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         5
       ],
@@ -313,6 +349,9 @@
         "Find the rare minerals",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6
       ],
@@ -334,6 +373,9 @@
       "texts": [
         "To launch a comprehensive energy diversification r&d initiative to establish our expertise in all known energy sources in the galaxy "
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -357,6 +399,9 @@
         "Further demonstrate expertise and commitment ",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         2,
         1,
@@ -383,6 +428,9 @@
         "Bolster defense",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         2,
         1
@@ -408,6 +456,9 @@
         "Build good will",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         1,
         5
@@ -433,6 +484,9 @@
         "To increase efficacy of healing plants ",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         3,
         1
@@ -460,6 +514,9 @@
         "Launch a brain trust to aid this initiative",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         5,
         4,
@@ -486,6 +543,9 @@
         "Aid information dispersion",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         1,
         4
@@ -517,6 +577,9 @@
         "",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         4,
         1,
@@ -543,6 +606,9 @@
         "Make weapons",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         3
       ],
@@ -565,6 +631,9 @@
         "Build more weapons",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6
       ],
@@ -587,6 +656,9 @@
         "Build our own energy infrastructure",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6
       ],
@@ -611,6 +683,9 @@
         "transport marauders to an underground refuge home on our world.",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6,
         1
@@ -636,6 +711,9 @@
         "Make battery",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         5,
         3
@@ -661,6 +739,9 @@
         "Market the university",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         5,
         3
@@ -686,6 +767,9 @@
         "Demonstrate in favor",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         4,
         1
@@ -711,6 +795,9 @@
         "Find these locations",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         5,
         3
@@ -1487,8 +1574,8 @@
       "type": "Generational Phase",
       "status": "playing",
       "round": 6,
-      "duration": 1200,
-      "timeElapsed": 0,
+      "duration": 1140,
+      "timeElapsed": 137.08800000000008,
       "actualTime": {
         "s": "2025-06-14T22:36:59.794+00:00",
         "e": "2025-06-14T22:56:59.794+00:00",
@@ -46280,435 +46367,435 @@
     {
       "_type": "Record",
       "id": "B4wtr",
-      "timestamp": "2025-06-13T22:22:05.314Z",
+      "timestamp": "2025-06-13T22:22:05.314+00:00",
       "type": "ResourceCreated",
       "value": "[] Relics"
     },
     {
       "_type": "Record",
       "id": "Uv9fh",
-      "timestamp": "2025-06-13T22:22:13.704Z",
+      "timestamp": "2025-06-13T22:22:13.704+00:00",
       "type": "ResourceCreated",
       "value": "[] []"
     },
     {
       "_type": "Record",
       "id": "vslAP",
-      "timestamp": "2025-06-13T22:23:17.388Z",
+      "timestamp": "2025-06-13T22:23:17.388+00:00",
       "type": "ResourceCreated",
       "value": "[] []"
     },
     {
       "_type": "Record",
       "id": "AxsqZ",
-      "timestamp": "2025-06-13T22:23:34.595Z",
+      "timestamp": "2025-06-13T22:23:34.595+00:00",
       "type": "ResourceCreated",
       "value": "Shrieking []"
     },
     {
       "_type": "Record",
       "id": "Fxejg",
-      "timestamp": "2025-06-13T22:23:50.534Z",
+      "timestamp": "2025-06-13T22:23:50.534+00:00",
       "type": "ResourceCreated",
       "value": "Boundless []"
     },
     {
       "_type": "Record",
       "id": "mmNdD",
-      "timestamp": "2025-06-13T22:24:09.973Z",
+      "timestamp": "2025-06-13T22:24:09.973+00:00",
       "type": "ResourceCreated",
       "value": "[] Hands"
     },
     {
       "_type": "Record",
       "id": "EkZZO",
-      "timestamp": "2025-06-13T22:24:47.464Z",
+      "timestamp": "2025-06-13T22:24:47.464+00:00",
       "type": "ResourceCreated",
       "value": "[] Plants"
     },
     {
       "_type": "Record",
       "id": "hpxoa",
-      "timestamp": "2025-06-13T22:24:56.986Z",
+      "timestamp": "2025-06-13T22:24:56.986+00:00",
       "type": "ResourceCreated",
       "value": "Biological []"
     },
     {
       "_type": "Record",
       "id": "GS_w2",
-      "timestamp": "2025-06-13T22:25:11.618Z",
+      "timestamp": "2025-06-13T22:25:11.618+00:00",
       "type": "ResourceCreated",
       "value": "[] Empaths"
     },
     {
       "_type": "Record",
       "id": "Mcs59",
-      "timestamp": "2025-06-13T22:25:26.532Z",
+      "timestamp": "2025-06-13T22:25:26.532+00:00",
       "type": "ResourceCreated",
       "value": "[] Connections"
     },
     {
       "_type": "Record",
       "id": "sK5GA",
-      "timestamp": "2025-06-13T22:25:41.073Z",
+      "timestamp": "2025-06-13T22:25:41.073+00:00",
       "type": "ResourceCreated",
       "value": "[] []"
     },
     {
       "_type": "Record",
       "id": "zGh_W",
-      "timestamp": "2025-06-13T22:25:52.252Z",
+      "timestamp": "2025-06-13T22:25:52.252+00:00",
       "type": "ResourceCreated",
       "value": "[] Cities"
     },
     {
       "_type": "Record",
       "id": "Qi7rL",
-      "timestamp": "2025-06-13T22:26:03.290Z",
+      "timestamp": "2025-06-13T22:26:03.290+00:00",
       "type": "ResourceCreated",
       "value": "[] Coin"
     },
     {
       "_type": "Record",
       "id": "ehi-f",
-      "timestamp": "2025-06-13T22:26:16.137Z",
+      "timestamp": "2025-06-13T22:26:16.137+00:00",
       "type": "ResourceCreated",
       "value": "[] Verses"
     },
     {
       "_type": "Record",
       "id": "Os3ds",
-      "timestamp": "2025-06-13T22:30:36.150Z",
+      "timestamp": "2025-06-13T22:30:36.150+00:00",
       "type": "ResourceCreated",
       "value": "Traditional "
     },
     {
       "_type": "Record",
       "id": "ZkEBe",
-      "timestamp": "2025-06-13T22:30:52.373Z",
+      "timestamp": "2025-06-13T22:30:52.373+00:00",
       "type": "ResourceCreated",
       "value": "Songs"
     },
     {
       "_type": "Record",
       "id": "c7mcs",
-      "timestamp": "2025-06-13T22:31:39.068Z",
+      "timestamp": "2025-06-13T22:31:39.068+00:00",
       "type": "ResourceCreated",
       "value": "Factories"
     },
     {
       "_type": "Record",
       "id": "sku_w",
-      "timestamp": "2025-06-13T22:31:58.317Z",
+      "timestamp": "2025-06-13T22:31:58.317+00:00",
       "type": "ResourceCreated",
       "value": "Personal "
     },
     {
       "_type": "Record",
       "id": "euU8G",
-      "timestamp": "2025-06-13T22:32:33.454Z",
+      "timestamp": "2025-06-13T22:32:33.454+00:00",
       "type": "ResourceCreated",
       "value": "Analytical "
     },
     {
       "_type": "Record",
       "id": "xn8Fm",
-      "timestamp": "2025-06-13T22:32:50.080Z",
+      "timestamp": "2025-06-13T22:32:50.080+00:00",
       "type": "ResourceCreated",
       "value": "Buses"
     },
     {
       "_type": "Record",
       "id": "wR2Rd",
-      "timestamp": "2025-06-13T22:33:23.034Z",
+      "timestamp": "2025-06-13T22:33:23.034+00:00",
       "type": "ResourceCreated",
       "value": "Power "
     },
     {
       "_type": "Record",
       "id": "zv-z-",
-      "timestamp": "2025-06-13T22:33:53.142Z",
+      "timestamp": "2025-06-13T22:33:53.142+00:00",
       "type": "ResourceCreated",
       "value": "X Stamina"
     },
     {
       "_type": "Record",
       "id": "QjyNO",
-      "timestamp": "2025-06-13T22:33:59.534Z",
+      "timestamp": "2025-06-13T22:33:59.534+00:00",
       "type": "ResourceCreated",
       "value": "Algorithms "
     },
     {
       "_type": "Record",
       "id": "o0PSz",
-      "timestamp": "2025-06-13T22:34:16.634Z",
+      "timestamp": "2025-06-13T22:34:16.634+00:00",
       "type": "ResourceCreated",
       "value": "Cybernetic X"
     },
     {
       "_type": "Record",
       "id": "GR_m8",
-      "timestamp": "2025-06-13T22:34:36.809Z",
+      "timestamp": "2025-06-13T22:34:36.809+00:00",
       "type": "ResourceCreated",
       "value": "X Feasts"
     },
     {
       "_type": "Record",
       "id": "ycg42",
-      "timestamp": "2025-06-13T22:35:02.569Z",
+      "timestamp": "2025-06-13T22:35:02.569+00:00",
       "type": "ResourceCreated",
       "value": "X Maps"
     },
     {
       "_type": "Record",
       "id": "EyHXO",
-      "timestamp": "2025-06-13T22:35:54.934Z",
+      "timestamp": "2025-06-13T22:35:54.934+00:00",
       "type": "ResourceCreated",
       "value": "Keen X"
     },
     {
       "_type": "Record",
       "id": "mYFcw",
-      "timestamp": "2025-06-13T22:36:15.747Z",
+      "timestamp": "2025-06-13T22:36:15.747+00:00",
       "type": "ResourceCreated",
       "value": "Impeccable"
     },
     {
       "_type": "Record",
       "id": "oy4e4",
-      "timestamp": "2025-06-13T22:36:45.466Z",
+      "timestamp": "2025-06-13T22:36:45.466+00:00",
       "type": "ResourceCreated",
       "value": "Scouting X"
     },
     {
       "_type": "Record",
       "id": "lf0AD",
-      "timestamp": "2025-06-13T22:37:03.093Z",
+      "timestamp": "2025-06-13T22:37:03.093+00:00",
       "type": "ResourceCreated",
       "value": "X Assistants"
     },
     {
       "_type": "Record",
       "id": "tzj_s",
-      "timestamp": "2025-06-13T22:37:16.308Z",
+      "timestamp": "2025-06-13T22:37:16.308+00:00",
       "type": "ResourceCreated",
       "value": "Powerful X"
     },
     {
       "_type": "Record",
       "id": "t9Q_T",
-      "timestamp": "2025-06-13T22:38:09.077Z",
+      "timestamp": "2025-06-13T22:38:09.077+00:00",
       "type": "ResourceCreated",
       "value": "Adaptable X"
     },
     {
       "_type": "Record",
       "id": "WSFQY",
-      "timestamp": "2025-06-13T22:39:10.978Z",
+      "timestamp": "2025-06-13T22:39:10.978+00:00",
       "type": "ResourceCreated",
       "value": "Convincing []"
     },
     {
       "_type": "Record",
       "id": "VwiNN",
-      "timestamp": "2025-06-13T22:39:20.403Z",
+      "timestamp": "2025-06-13T22:39:20.403+00:00",
       "type": "ResourceCreated",
       "value": "[] []"
     },
     {
       "_type": "Record",
       "id": "t6Pfl",
-      "timestamp": "2025-06-13T22:39:36.564Z",
+      "timestamp": "2025-06-13T22:39:36.564+00:00",
       "type": "ResourceCreated",
       "value": "[] []"
     },
     {
       "_type": "Record",
       "id": "jlgAh",
-      "timestamp": "2025-06-13T22:39:53.122Z",
+      "timestamp": "2025-06-13T22:39:53.122+00:00",
       "type": "ResourceCreated",
       "value": "[] []"
     },
     {
       "_type": "Record",
       "id": "T0WNi",
-      "timestamp": "2025-06-13T22:40:13.392Z",
+      "timestamp": "2025-06-13T22:40:13.392+00:00",
       "type": "ResourceCreated",
       "value": "[] []"
     },
     {
       "_type": "Record",
       "id": "UCQlW",
-      "timestamp": "2025-06-13T22:40:34.199Z",
+      "timestamp": "2025-06-13T22:40:34.199+00:00",
       "type": "ResourceCreated",
       "value": "Organic []"
     },
     {
       "_type": "Record",
       "id": "ktAab",
-      "timestamp": "2025-06-13T22:40:51.803Z",
+      "timestamp": "2025-06-13T22:40:51.803+00:00",
       "type": "ResourceCreated",
       "value": "Gemstone []"
     },
     {
       "_type": "Record",
       "id": "WwjqR",
-      "timestamp": "2025-06-13T22:41:11.792Z",
+      "timestamp": "2025-06-13T22:41:11.792+00:00",
       "type": "ResourceCreated",
       "value": "Physical []"
     },
     {
       "_type": "Record",
       "id": "UL0i0",
-      "timestamp": "2025-06-13T22:41:39.236Z",
+      "timestamp": "2025-06-13T22:41:39.236+00:00",
       "type": "ResourceCreated",
       "value": "Entrancing []"
     },
     {
       "_type": "Record",
       "id": "oE-Nz",
-      "timestamp": "2025-06-13T22:41:53.145Z",
+      "timestamp": "2025-06-13T22:41:53.145+00:00",
       "type": "ResourceCreated",
       "value": "__ Swords"
     },
     {
       "_type": "Record",
       "id": "JvEhS",
-      "timestamp": "2025-06-13T22:42:01.122Z",
+      "timestamp": "2025-06-13T22:42:01.122+00:00",
       "type": "ResourceCreated",
       "value": "Plasma __"
     },
     {
       "_type": "Record",
       "id": "npGQF",
-      "timestamp": "2025-06-13T22:42:09.036Z",
+      "timestamp": "2025-06-13T22:42:09.036+00:00",
       "type": "ResourceCreated",
       "value": "Community []"
     },
     {
       "_type": "Record",
       "id": "sIium",
-      "timestamp": "2025-06-13T22:42:09.507Z",
+      "timestamp": "2025-06-13T22:42:09.507+00:00",
       "type": "ResourceCreated",
       "value": "__ __"
     },
     {
       "_type": "Record",
       "id": "WuB8u",
-      "timestamp": "2025-06-13T22:42:23.909Z",
+      "timestamp": "2025-06-13T22:42:23.909+00:00",
       "type": "ResourceCreated",
       "value": "__ __"
     },
     {
       "_type": "Record",
       "id": "fijhU",
-      "timestamp": "2025-06-13T22:42:40.269Z",
+      "timestamp": "2025-06-13T22:42:40.269+00:00",
       "type": "ResourceCreated",
       "value": "__ Oratory"
     },
     {
       "_type": "Record",
       "id": "RXN33",
-      "timestamp": "2025-06-13T22:42:53.801Z",
+      "timestamp": "2025-06-13T22:42:53.801+00:00",
       "type": "ResourceCreated",
       "value": "__ Science"
     },
     {
       "_type": "Record",
       "id": "lA2sM",
-      "timestamp": "2025-06-13T22:43:05.415Z",
+      "timestamp": "2025-06-13T22:43:05.415+00:00",
       "type": "ResourceCreated",
       "value": "__ __"
     },
     {
       "_type": "Record",
       "id": "no19G",
-      "timestamp": "2025-06-13T22:43:17.521Z",
+      "timestamp": "2025-06-13T22:43:17.521+00:00",
       "type": "ResourceCreated",
       "value": "__ __"
     },
     {
       "_type": "Record",
       "id": "m9EoT",
-      "timestamp": "2025-06-13T22:43:40.743Z",
+      "timestamp": "2025-06-13T22:43:40.743+00:00",
       "type": "ResourceCreated",
       "value": "[] Ink"
     },
     {
       "_type": "Record",
       "id": "WalbD",
-      "timestamp": "2025-06-13T22:43:58.685Z",
+      "timestamp": "2025-06-13T22:43:58.685+00:00",
       "type": "ResourceCreated",
       "value": "Sparkling []"
     },
     {
       "_type": "Record",
       "id": "OsoOc",
-      "timestamp": "2025-06-13T22:44:21.517Z",
+      "timestamp": "2025-06-13T22:44:21.517+00:00",
       "type": "ResourceCreated",
       "value": "Political []"
     },
     {
       "_type": "Record",
       "id": "cvlwc",
-      "timestamp": "2025-06-13T22:44:43.097Z",
+      "timestamp": "2025-06-13T22:44:43.097+00:00",
       "type": "ResourceCreated",
       "value": "[] []"
     },
     {
       "_type": "Record",
       "id": "MpAjQ",
-      "timestamp": "2025-06-13T22:44:45.785Z",
+      "timestamp": "2025-06-13T22:44:45.785+00:00",
       "type": "ResourceCreated",
       "value": "__ __"
     },
     {
       "_type": "Record",
       "id": "vawH4",
-      "timestamp": "2025-06-13T22:44:55.796Z",
+      "timestamp": "2025-06-13T22:44:55.796+00:00",
       "type": "ResourceCreated",
       "value": "__ Practice"
     },
     {
       "_type": "Record",
       "id": "qMlwL",
-      "timestamp": "2025-06-13T22:45:13.677Z",
+      "timestamp": "2025-06-13T22:45:13.677+00:00",
       "type": "ResourceCreated",
       "value": "Secondhand __"
     },
     {
       "_type": "Record",
       "id": "xsu-m",
-      "timestamp": "2025-06-13T22:45:24.420Z",
+      "timestamp": "2025-06-13T22:45:24.420+00:00",
       "type": "ResourceCreated",
       "value": "__ Dealmaking"
     },
     {
       "_type": "Record",
       "id": "OCxNk",
-      "timestamp": "2025-06-13T22:45:35.625Z",
+      "timestamp": "2025-06-13T22:45:35.625+00:00",
       "type": "ResourceCreated",
       "value": "Spiritual __"
     },
     {
       "_type": "Record",
       "id": "kfVK9",
-      "timestamp": "2025-06-14T16:48:55.289Z",
+      "timestamp": "2025-06-14T16:48:55.289+00:00",
       "type": "PhaseStarted",
       "description": "Round 0: Setup/Onboarding",
-      "value": "2025-06-14T16:48:55.289Z"
+      "value": "2025-06-14T16:48:55.289+00:00"
     },
     {
       "_type": "Record",
       "id": "qyCiP",
-      "timestamp": "2025-06-14T16:52:38.907Z",
+      "timestamp": "2025-06-14T16:52:38.907+00:00",
       "type": "ResourceCreated",
       "value": "Scouting X"
     },
     {
       "_type": "Record",
       "id": "uuAIx",
-      "timestamp": "2025-06-14T17:22:50.793Z",
+      "timestamp": "2025-06-14T17:22:50.793+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 0
@@ -46716,7 +46803,7 @@
     {
       "_type": "Record",
       "id": "uRlxk",
-      "timestamp": "2025-06-14T17:22:50.794Z",
+      "timestamp": "2025-06-14T17:22:50.794+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -46724,7 +46811,7 @@
     {
       "_type": "Record",
       "id": "drj1b",
-      "timestamp": "2025-06-14T17:22:50.794Z",
+      "timestamp": "2025-06-14T17:22:50.794+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Entrancing [],Gemstone Teleporter to take action.",
       "value": 2
@@ -46732,7 +46819,7 @@
     {
       "_type": "Record",
       "id": "PPTp0",
-      "timestamp": "2025-06-14T17:22:50.794Z",
+      "timestamp": "2025-06-14T17:22:50.794+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -46740,7 +46827,7 @@
     {
       "_type": "Record",
       "id": "peBZ8",
-      "timestamp": "2025-06-14T17:22:50.794Z",
+      "timestamp": "2025-06-14T17:22:50.794+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -46748,7 +46835,7 @@
     {
       "_type": "Record",
       "id": "BkKht",
-      "timestamp": "2025-06-14T17:22:50.794Z",
+      "timestamp": "2025-06-14T17:22:50.794+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
@@ -46756,31 +46843,31 @@
     {
       "_type": "Record",
       "id": "dzwC0",
-      "timestamp": "2025-06-14T17:27:05.086Z",
+      "timestamp": "2025-06-14T17:27:05.086+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Societal Phase",
-      "value": "2025-06-14T17:27:05.086Z"
+      "value": "2025-06-14T17:27:05.086+00:00"
     },
     {
       "_type": "Record",
       "id": "O9c5E",
-      "timestamp": "2025-06-14T17:47:28.739Z",
+      "timestamp": "2025-06-14T17:47:28.739+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
-      "value": "2025-06-14T17:47:28.739Z"
+      "value": "2025-06-14T17:47:28.739+00:00"
     },
     {
       "_type": "Record",
       "id": "jLMOZ",
-      "timestamp": "2025-06-14T18:04:13.284Z",
+      "timestamp": "2025-06-14T18:04:13.284+00:00",
       "type": "PhaseEnded",
       "description": "Round 1: Galactic Phase",
-      "value": "2025-06-14T18:04:13.284Z"
+      "value": "2025-06-14T18:04:13.284+00:00"
     },
     {
       "_type": "Record",
       "id": "Pf08L",
-      "timestamp": "2025-06-14T18:04:13.284Z",
+      "timestamp": "2025-06-14T18:04:13.284+00:00",
       "type": "PhaseDuration",
       "description": "Round 1: Galactic Phase",
       "value": 16.742416666666667
@@ -46788,38 +46875,38 @@
     {
       "_type": "Record",
       "id": "finQX",
-      "timestamp": "2025-06-14T18:04:16.115Z",
+      "timestamp": "2025-06-14T18:04:16.115+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Individual Phase",
-      "value": "2025-06-14T18:04:16.115Z"
+      "value": "2025-06-14T18:04:16.115+00:00"
     },
     {
       "_type": "Record",
       "id": "HAxX8",
-      "timestamp": "2025-06-14T18:08:09.884Z",
+      "timestamp": "2025-06-14T18:08:09.884+00:00",
       "type": "ResourceCreated",
       "value": "Imperial Codes"
     },
     {
       "_type": "Record",
       "id": "C_nC4",
-      "timestamp": "2025-06-14T18:14:30.707Z",
+      "timestamp": "2025-06-14T18:14:30.707+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Individual Phase",
-      "value": "2025-06-14T18:14:30.707Z"
+      "value": "2025-06-14T18:14:30.707+00:00"
     },
     {
       "_type": "Record",
       "id": "WvHl3",
-      "timestamp": "2025-06-14T18:14:31.293Z",
+      "timestamp": "2025-06-14T18:14:31.293+00:00",
       "type": "PhaseEnded",
       "description": "Round 1: Individual Phase",
-      "value": "2025-06-14T18:14:31.293Z"
+      "value": "2025-06-14T18:14:31.293+00:00"
     },
     {
       "_type": "Record",
       "id": "EqOwo",
-      "timestamp": "2025-06-14T18:14:31.294Z",
+      "timestamp": "2025-06-14T18:14:31.294+00:00",
       "type": "PhaseDuration",
       "description": "Round 1: Individual Phase",
       "value": 0.009783333333333333
@@ -46827,7 +46914,7 @@
     {
       "_type": "Record",
       "id": "gK1Td",
-      "timestamp": "2025-06-14T18:14:31.294Z",
+      "timestamp": "2025-06-14T18:14:31.294+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 1
@@ -46835,7 +46922,7 @@
     {
       "_type": "Record",
       "id": "Vd7t2",
-      "timestamp": "2025-06-14T18:14:31.294Z",
+      "timestamp": "2025-06-14T18:14:31.294+00:00",
       "type": "ActionResources",
       "description": "the faithful used Boundless Database ,Supportive Dialogue  to take action.",
       "value": 2
@@ -46843,7 +46930,7 @@
     {
       "_type": "Record",
       "id": "xbejY",
-      "timestamp": "2025-06-14T18:14:31.294Z",
+      "timestamp": "2025-06-14T18:14:31.294+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -46851,7 +46938,7 @@
     {
       "_type": "Record",
       "id": "RcKmQ",
-      "timestamp": "2025-06-14T18:14:31.294Z",
+      "timestamp": "2025-06-14T18:14:31.294+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Huge Libraries to take action.",
       "value": 1
@@ -46859,7 +46946,7 @@
     {
       "_type": "Record",
       "id": "jCIdv",
-      "timestamp": "2025-06-14T18:14:31.294Z",
+      "timestamp": "2025-06-14T18:14:31.294+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -46867,7 +46954,7 @@
     {
       "_type": "Record",
       "id": "WmQZ8",
-      "timestamp": "2025-06-14T18:14:31.294Z",
+      "timestamp": "2025-06-14T18:14:31.294+00:00",
       "type": "ActionResources",
       "description": "the mighty used Vast Archives to take action.",
       "value": 1
@@ -46875,7 +46962,7 @@
     {
       "_type": "Record",
       "id": "uXtPO",
-      "timestamp": "2025-06-14T18:14:31.294Z",
+      "timestamp": "2025-06-14T18:14:31.294+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 1
@@ -46883,7 +46970,7 @@
     {
       "_type": "Record",
       "id": "EGW6O",
-      "timestamp": "2025-06-14T18:14:31.294Z",
+      "timestamp": "2025-06-14T18:14:31.294+00:00",
       "type": "ActionResources",
       "description": "the intrepid used Crepuscular Feasts,Cybernetic Dance Moves to take action.",
       "value": 2
@@ -46891,7 +46978,7 @@
     {
       "_type": "Record",
       "id": "yBroH",
-      "timestamp": "2025-06-14T18:14:31.294Z",
+      "timestamp": "2025-06-14T18:14:31.294+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 1
@@ -46899,7 +46986,7 @@
     {
       "_type": "Record",
       "id": "HNTMc",
-      "timestamp": "2025-06-14T18:14:31.294Z",
+      "timestamp": "2025-06-14T18:14:31.294+00:00",
       "type": "ActionResources",
       "description": "the enterprise used Mnemonic Songs,Book Factories to take action.",
       "value": 2
@@ -46907,23 +46994,23 @@
     {
       "_type": "Record",
       "id": "PHVao",
-      "timestamp": "2025-06-14T18:14:33.799Z",
+      "timestamp": "2025-06-14T18:14:33.799+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Universal Phase",
-      "value": "2025-06-14T18:14:33.799Z"
+      "value": "2025-06-14T18:14:33.799+00:00"
     },
     {
       "_type": "Record",
       "id": "W_Gfk",
-      "timestamp": "2025-06-14T18:20:10.538Z",
+      "timestamp": "2025-06-14T18:20:10.538+00:00",
       "type": "PhaseEnded",
       "description": "Round 2: Universal Phase",
-      "value": "2025-06-14T18:20:10.538Z"
+      "value": "2025-06-14T18:20:10.538+00:00"
     },
     {
       "_type": "Record",
       "id": "su0Bb",
-      "timestamp": "2025-06-14T18:20:10.539Z",
+      "timestamp": "2025-06-14T18:20:10.539+00:00",
       "type": "PhaseDuration",
       "description": "Round 2: Universal Phase",
       "value": 5.612316666666667
@@ -46931,23 +47018,23 @@
     {
       "_type": "Record",
       "id": "sJPqC",
-      "timestamp": "2025-06-14T18:20:11.976Z",
+      "timestamp": "2025-06-14T18:20:11.976+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
-      "value": "2025-06-14T18:20:11.976Z"
+      "value": "2025-06-14T18:20:11.976+00:00"
     },
     {
       "_type": "Record",
       "id": "VoiGk",
-      "timestamp": "2025-06-14T18:32:41.978Z",
+      "timestamp": "2025-06-14T18:32:41.978+00:00",
       "type": "PhaseEnded",
       "description": "Round 2: Societal Phase",
-      "value": "2025-06-14T18:32:41.978Z"
+      "value": "2025-06-14T18:32:41.978+00:00"
     },
     {
       "_type": "Record",
       "id": "FaLv-",
-      "timestamp": "2025-06-14T18:32:41.979Z",
+      "timestamp": "2025-06-14T18:32:41.979+00:00",
       "type": "PhaseDuration",
       "description": "Round 2: Societal Phase",
       "value": 12.500033333333333
@@ -46955,37 +47042,37 @@
     {
       "_type": "Record",
       "id": "vAB3I",
-      "timestamp": "2025-06-14T18:33:29.749Z",
+      "timestamp": "2025-06-14T18:33:29.749+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Galactic Phase",
-      "value": "2025-06-14T18:33:29.749Z"
+      "value": "2025-06-14T18:33:29.749+00:00"
     },
     {
       "_type": "Record",
       "id": "q_XlK",
-      "timestamp": "2025-06-14T18:38:20.283Z",
+      "timestamp": "2025-06-14T18:38:20.283+00:00",
       "type": "ResourceCreated",
       "value": "Ionic Capacitors "
     },
     {
       "_type": "Record",
       "id": "ST4BP",
-      "timestamp": "2025-06-14T18:42:10.370Z",
+      "timestamp": "2025-06-14T18:42:10.370+00:00",
       "type": "ResourceCreated",
       "value": "Prototype Energy Well"
     },
     {
       "_type": "Record",
       "id": "mBEDL",
-      "timestamp": "2025-06-14T18:50:01.730Z",
+      "timestamp": "2025-06-14T18:50:01.730+00:00",
       "type": "PhaseEnded",
       "description": "Round 2: Galactic Phase",
-      "value": "2025-06-14T18:50:01.730Z"
+      "value": "2025-06-14T18:50:01.730+00:00"
     },
     {
       "_type": "Record",
       "id": "OCvy0",
-      "timestamp": "2025-06-14T18:50:01.731Z",
+      "timestamp": "2025-06-14T18:50:01.731+00:00",
       "type": "PhaseDuration",
       "description": "Round 2: Galactic Phase",
       "value": 16.533016666666665
@@ -46993,30 +47080,30 @@
     {
       "_type": "Record",
       "id": "EqKjr",
-      "timestamp": "2025-06-14T18:50:25.289Z",
+      "timestamp": "2025-06-14T18:50:25.289+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Individual Phase",
-      "value": "2025-06-14T18:50:25.289Z"
+      "value": "2025-06-14T18:50:25.289+00:00"
     },
     {
       "_type": "Record",
       "id": "chMmo",
-      "timestamp": "2025-06-14T19:01:15.167Z",
+      "timestamp": "2025-06-14T19:01:15.167+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Break",
-      "value": "2025-06-14T19:01:15.167Z"
+      "value": "2025-06-14T19:01:15.167+00:00"
     },
     {
       "_type": "Record",
       "id": "H_eXH",
-      "timestamp": "2025-06-14T19:09:58.730Z",
+      "timestamp": "2025-06-14T19:09:58.730+00:00",
       "type": "ResourceCreated",
       "value": "Prototype Energy Well"
     },
     {
       "_type": "Record",
       "id": "RcGiV",
-      "timestamp": "2025-06-14T19:11:49.171Z",
+      "timestamp": "2025-06-14T19:11:49.171+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 1
@@ -47024,7 +47111,7 @@
     {
       "_type": "Record",
       "id": "WwHbb",
-      "timestamp": "2025-06-14T19:11:49.171Z",
+      "timestamp": "2025-06-14T19:11:49.171+00:00",
       "type": "ActionResources",
       "description": "the faithful used Countless Followers  to take action.",
       "value": 1
@@ -47032,7 +47119,7 @@
     {
       "_type": "Record",
       "id": "b3EkV",
-      "timestamp": "2025-06-14T19:11:49.171Z",
+      "timestamp": "2025-06-14T19:11:49.171+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -47040,7 +47127,7 @@
     {
       "_type": "Record",
       "id": "pyLsT",
-      "timestamp": "2025-06-14T19:11:49.171Z",
+      "timestamp": "2025-06-14T19:11:49.171+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Golden Orchards to take action.",
       "value": 1
@@ -47048,7 +47135,7 @@
     {
       "_type": "Record",
       "id": "yGqdm",
-      "timestamp": "2025-06-14T19:11:49.171Z",
+      "timestamp": "2025-06-14T19:11:49.171+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -47056,7 +47143,7 @@
     {
       "_type": "Record",
       "id": "kG6EI",
-      "timestamp": "2025-06-14T19:11:49.171Z",
+      "timestamp": "2025-06-14T19:11:49.171+00:00",
       "type": "ActionResources",
       "description": "the mighty used Plasma Regeneration,GRAVITY Science to take action.",
       "value": 2
@@ -47064,7 +47151,7 @@
     {
       "_type": "Record",
       "id": "iqrYz",
-      "timestamp": "2025-06-14T19:11:49.171Z",
+      "timestamp": "2025-06-14T19:11:49.171+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 1
@@ -47072,7 +47159,7 @@
     {
       "_type": "Record",
       "id": "Tm4OL",
-      "timestamp": "2025-06-14T19:11:49.171Z",
+      "timestamp": "2025-06-14T19:11:49.171+00:00",
       "type": "ActionResources",
       "description": "the intrepid used Expansive Maps to take action.",
       "value": 1
@@ -47080,7 +47167,7 @@
     {
       "_type": "Record",
       "id": "jYuoi",
-      "timestamp": "2025-06-14T19:11:49.171Z",
+      "timestamp": "2025-06-14T19:11:49.171+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 1
@@ -47088,7 +47175,7 @@
     {
       "_type": "Record",
       "id": "v1Kuq",
-      "timestamp": "2025-06-14T19:11:49.171Z",
+      "timestamp": "2025-06-14T19:11:49.171+00:00",
       "type": "ActionResources",
       "description": "the enterprise used Imperial Codes to take action.",
       "value": 1
@@ -47096,30 +47183,30 @@
     {
       "_type": "Record",
       "id": "KoCqM",
-      "timestamp": "2025-06-14T20:06:17.343Z",
+      "timestamp": "2025-06-14T20:06:17.343+00:00",
       "type": "ResourceCreated",
       "value": "Mutual Aid Network "
     },
     {
       "_type": "Record",
       "id": "G2PU4",
-      "timestamp": "2025-06-14T20:17:41.078Z",
+      "timestamp": "2025-06-14T20:17:41.078+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Universal Phase",
-      "value": "2025-06-14T20:17:41.078Z"
+      "value": "2025-06-14T20:17:41.078+00:00"
     },
     {
       "_type": "Record",
       "id": "qrl0K",
-      "timestamp": "2025-06-14T20:25:23.321Z",
+      "timestamp": "2025-06-14T20:25:23.321+00:00",
       "type": "PhaseEnded",
       "description": "Round 3: Universal Phase",
-      "value": "2025-06-14T20:25:23.321Z"
+      "value": "2025-06-14T20:25:23.321+00:00"
     },
     {
       "_type": "Record",
       "id": "BoLbE",
-      "timestamp": "2025-06-14T20:25:23.321Z",
+      "timestamp": "2025-06-14T20:25:23.321+00:00",
       "type": "PhaseDuration",
       "description": "Round 3: Universal Phase",
       "value": 7.70405
@@ -47127,45 +47214,45 @@
     {
       "_type": "Record",
       "id": "UIc2K",
-      "timestamp": "2025-06-14T20:25:24.715Z",
+      "timestamp": "2025-06-14T20:25:24.715+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
-      "value": "2025-06-14T20:25:24.715Z"
+      "value": "2025-06-14T20:25:24.715+00:00"
     },
     {
       "_type": "Record",
       "id": "S2bkA",
-      "timestamp": "2025-06-14T20:34:51.753Z",
+      "timestamp": "2025-06-14T20:34:51.753+00:00",
       "type": "ResourceCreated",
       "value": "Endless Stamina"
     },
     {
       "_type": "Record",
       "id": "ORoZG",
-      "timestamp": "2025-06-14T20:38:05.086Z",
+      "timestamp": "2025-06-14T20:38:05.086+00:00",
       "type": "ResourceCreated",
       "value": "Endless Stamina"
     },
     {
       "_type": "Record",
       "id": "ngZVj",
-      "timestamp": "2025-06-14T20:39:28.631Z",
+      "timestamp": "2025-06-14T20:39:28.631+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Galactic Phase",
-      "value": "2025-06-14T20:39:28.631Z"
+      "value": "2025-06-14T20:39:28.631+00:00"
     },
     {
       "_type": "Record",
       "id": "Q_vQ5",
-      "timestamp": "2025-06-14T20:59:42.394Z",
+      "timestamp": "2025-06-14T20:59:42.394+00:00",
       "type": "PhaseEnded",
       "description": "Round 3: Galactic Phase",
-      "value": "2025-06-14T20:59:42.394Z"
+      "value": "2025-06-14T20:59:42.394+00:00"
     },
     {
       "_type": "Record",
       "id": "D5s_p",
-      "timestamp": "2025-06-14T20:59:42.394Z",
+      "timestamp": "2025-06-14T20:59:42.394+00:00",
       "type": "PhaseDuration",
       "description": "Round 3: Galactic Phase",
       "value": 20.229383333333335
@@ -47173,23 +47260,23 @@
     {
       "_type": "Record",
       "id": "OchFO",
-      "timestamp": "2025-06-14T21:00:40.204Z",
+      "timestamp": "2025-06-14T21:00:40.204+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Individual Phase",
-      "value": "2025-06-14T21:00:40.204Z"
+      "value": "2025-06-14T21:00:40.204+00:00"
     },
     {
       "_type": "Record",
       "id": "zHg4L",
-      "timestamp": "2025-06-14T21:11:04.518Z",
+      "timestamp": "2025-06-14T21:11:04.518+00:00",
       "type": "PhaseEnded",
       "description": "Round 3: Individual Phase",
-      "value": "2025-06-14T21:11:04.518Z"
+      "value": "2025-06-14T21:11:04.518+00:00"
     },
     {
       "_type": "Record",
       "id": "jDQN4",
-      "timestamp": "2025-06-14T21:11:04.519Z",
+      "timestamp": "2025-06-14T21:11:04.519+00:00",
       "type": "PhaseDuration",
       "description": "Round 3: Individual Phase",
       "value": 10.405233333333333
@@ -47197,7 +47284,7 @@
     {
       "_type": "Record",
       "id": "EXK16",
-      "timestamp": "2025-06-14T21:11:04.519Z",
+      "timestamp": "2025-06-14T21:11:04.519+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 1
@@ -47205,7 +47292,7 @@
     {
       "_type": "Record",
       "id": "nxxft",
-      "timestamp": "2025-06-14T21:11:04.519Z",
+      "timestamp": "2025-06-14T21:11:04.519+00:00",
       "type": "ActionResources",
       "description": "the faithful used Healing Plants,Robust Education to take action.",
       "value": 2
@@ -47213,7 +47300,7 @@
     {
       "_type": "Record",
       "id": "sN5Yq",
-      "timestamp": "2025-06-14T21:11:04.519Z",
+      "timestamp": "2025-06-14T21:11:04.519+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -47221,7 +47308,7 @@
     {
       "_type": "Record",
       "id": "ntGSe",
-      "timestamp": "2025-06-14T21:11:04.519Z",
+      "timestamp": "2025-06-14T21:11:04.519+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Convincing Language,Advanced Extractors ,Organic Regenerators to take action.",
       "value": 3
@@ -47229,7 +47316,7 @@
     {
       "_type": "Record",
       "id": "cU_dB",
-      "timestamp": "2025-06-14T21:11:04.519Z",
+      "timestamp": "2025-06-14T21:11:04.519+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -47237,7 +47324,7 @@
     {
       "_type": "Record",
       "id": "FN9nr",
-      "timestamp": "2025-06-14T21:11:04.519Z",
+      "timestamp": "2025-06-14T21:11:04.519+00:00",
       "type": "ActionResources",
       "description": "the mighty used _Titanium_ Swords,Mutual Aid Network  to take action.",
       "value": 2
@@ -47245,7 +47332,7 @@
     {
       "_type": "Record",
       "id": "Mpzn4",
-      "timestamp": "2025-06-14T21:11:04.519Z",
+      "timestamp": "2025-06-14T21:11:04.519+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 1
@@ -47253,7 +47340,7 @@
     {
       "_type": "Record",
       "id": "K9z0R",
-      "timestamp": "2025-06-14T21:11:04.519Z",
+      "timestamp": "2025-06-14T21:11:04.519+00:00",
       "type": "ActionResources",
       "description": "the intrepid used Endless Stamina,Crepuscular Feasts to take action.",
       "value": 2
@@ -47261,7 +47348,7 @@
     {
       "_type": "Record",
       "id": "B9GFp",
-      "timestamp": "2025-06-14T21:11:04.519Z",
+      "timestamp": "2025-06-14T21:11:04.519+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 1
@@ -47269,7 +47356,7 @@
     {
       "_type": "Record",
       "id": "GJxSo",
-      "timestamp": "2025-06-14T21:11:04.519Z",
+      "timestamp": "2025-06-14T21:11:04.519+00:00",
       "type": "ActionResources",
       "description": "the enterprise used Analytical Mycelium,Mycelium Energy Well,Traditional Endowments to take action.",
       "value": 3
@@ -47277,30 +47364,30 @@
     {
       "_type": "Record",
       "id": "vpckf",
-      "timestamp": "2025-06-14T21:12:49.246Z",
+      "timestamp": "2025-06-14T21:12:49.246+00:00",
       "type": "ResourceCreated",
       "value": "UEC intern"
     },
     {
       "_type": "Record",
       "id": "p79cT",
-      "timestamp": "2025-06-14T21:13:28.086Z",
+      "timestamp": "2025-06-14T21:13:28.086+00:00",
       "type": "PhaseStarted",
       "description": "Round 4: Universal Phase",
-      "value": "2025-06-14T21:13:28.086Z"
+      "value": "2025-06-14T21:13:28.086+00:00"
     },
     {
       "_type": "Record",
       "id": "SxG00",
-      "timestamp": "2025-06-14T21:18:23.809Z",
+      "timestamp": "2025-06-14T21:18:23.809+00:00",
       "type": "PhaseEnded",
       "description": "Round 4: Universal Phase",
-      "value": "2025-06-14T21:18:23.809Z"
+      "value": "2025-06-14T21:18:23.809+00:00"
     },
     {
       "_type": "Record",
       "id": "WyVxE",
-      "timestamp": "2025-06-14T21:18:23.809Z",
+      "timestamp": "2025-06-14T21:18:23.809+00:00",
       "type": "PhaseDuration",
       "description": "Round 4: Universal Phase",
       "value": 4.928716666666666
@@ -47308,73 +47395,73 @@
     {
       "_type": "Record",
       "id": "N_3WL",
-      "timestamp": "2025-06-14T21:18:24.774Z",
+      "timestamp": "2025-06-14T21:18:24.774+00:00",
       "type": "PhaseStarted",
       "description": "Round 4: Societal Phase",
-      "value": "2025-06-14T21:18:24.774Z"
+      "value": "2025-06-14T21:18:24.774+00:00"
     },
     {
       "_type": "Record",
       "id": "qyxY1",
-      "timestamp": "2025-06-14T21:19:50.287Z",
+      "timestamp": "2025-06-14T21:19:50.287+00:00",
       "type": "ResourceCreated",
       "value": "Fun Curriculum"
     },
     {
       "_type": "Record",
       "id": "p4o5X",
-      "timestamp": "2025-06-14T21:21:27.326Z",
+      "timestamp": "2025-06-14T21:21:27.326+00:00",
       "type": "ResourceCreated",
       "value": "Freakish Intuition"
     },
     {
       "_type": "Record",
       "id": "LZfeq",
-      "timestamp": "2025-06-14T21:23:41.738Z",
+      "timestamp": "2025-06-14T21:23:41.738+00:00",
       "type": "ResourceCreated",
       "value": "Upgraded Emergy Well"
     },
     {
       "_type": "Record",
       "id": "LKI7C",
-      "timestamp": "2025-06-14T21:24:12.503Z",
+      "timestamp": "2025-06-14T21:24:12.503+00:00",
       "type": "ResourceCreated",
       "value": "Plasma SMELTERS"
     },
     {
       "_type": "Record",
       "id": "j8kmo",
-      "timestamp": "2025-06-14T21:25:00.378Z",
+      "timestamp": "2025-06-14T21:25:00.378+00:00",
       "type": "ResourceCreated",
       "value": "Expert Craftsmen"
     },
     {
       "_type": "Record",
       "id": "y4q0-",
-      "timestamp": "2025-06-14T21:25:55.173Z",
+      "timestamp": "2025-06-14T21:25:55.173+00:00",
       "type": "ResourceCreated",
       "value": "High Quality RAW MATERIALS"
     },
     {
       "_type": "Record",
       "id": "BgVck",
-      "timestamp": "2025-06-14T21:30:26.798Z",
+      "timestamp": "2025-06-14T21:30:26.798+00:00",
       "type": "PhaseStarted",
       "description": "Round 4: Societal Phase",
-      "value": "2025-06-14T21:30:26.798Z"
+      "value": "2025-06-14T21:30:26.798+00:00"
     },
     {
       "_type": "Record",
       "id": "hi-8U",
-      "timestamp": "2025-06-14T21:31:45.607Z",
+      "timestamp": "2025-06-14T21:31:45.607+00:00",
       "type": "PhaseEnded",
       "description": "Round 4: Societal Phase",
-      "value": "2025-06-14T21:31:45.607Z"
+      "value": "2025-06-14T21:31:45.607+00:00"
     },
     {
       "_type": "Record",
       "id": "N_lMD",
-      "timestamp": "2025-06-14T21:31:45.607Z",
+      "timestamp": "2025-06-14T21:31:45.607+00:00",
       "type": "PhaseDuration",
       "description": "Round 4: Societal Phase",
       "value": 1.3134833333333333
@@ -47382,30 +47469,30 @@
     {
       "_type": "Record",
       "id": "BUp41",
-      "timestamp": "2025-06-14T21:31:46.769Z",
+      "timestamp": "2025-06-14T21:31:46.769+00:00",
       "type": "PhaseStarted",
       "description": "Round 4: Galactic Phase",
-      "value": "2025-06-14T21:31:46.769Z"
+      "value": "2025-06-14T21:31:46.769+00:00"
     },
     {
       "_type": "Record",
       "id": "KC-o1",
-      "timestamp": "2025-06-14T21:34:00.045Z",
+      "timestamp": "2025-06-14T21:34:00.045+00:00",
       "type": "ResourceCreated",
       "value": "Plasma CANNONS"
     },
     {
       "_type": "Record",
       "id": "FD6hg",
-      "timestamp": "2025-06-14T21:49:22.766Z",
+      "timestamp": "2025-06-14T21:49:22.766+00:00",
       "type": "PhaseEnded",
       "description": "Round 4: Galactic Phase",
-      "value": "2025-06-14T21:49:22.766Z"
+      "value": "2025-06-14T21:49:22.766+00:00"
     },
     {
       "_type": "Record",
       "id": "PSqGp",
-      "timestamp": "2025-06-14T21:49:22.766Z",
+      "timestamp": "2025-06-14T21:49:22.766+00:00",
       "type": "PhaseDuration",
       "description": "Round 4: Galactic Phase",
       "value": 17.59995
@@ -47413,23 +47500,23 @@
     {
       "_type": "Record",
       "id": "VrfGK",
-      "timestamp": "2025-06-14T21:49:32.836Z",
+      "timestamp": "2025-06-14T21:49:32.836+00:00",
       "type": "PhaseStarted",
       "description": "Round 4: Individual Phase",
-      "value": "2025-06-14T21:49:32.836Z"
+      "value": "2025-06-14T21:49:32.836+00:00"
     },
     {
       "_type": "Record",
       "id": "sWaAc",
-      "timestamp": "2025-06-14T21:49:48.206Z",
+      "timestamp": "2025-06-14T21:49:48.206+00:00",
       "type": "PhaseStarted",
       "description": "Round 4: Individual Phase",
-      "value": "2025-06-14T21:49:48.206Z"
+      "value": "2025-06-14T21:49:48.206+00:00"
     },
     {
       "_type": "Record",
       "id": "gfJXd",
-      "timestamp": "2025-06-14T22:00:11.490Z",
+      "timestamp": "2025-06-14T22:00:11.490+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 1
@@ -47437,7 +47524,7 @@
     {
       "_type": "Record",
       "id": "OMuQv",
-      "timestamp": "2025-06-14T22:00:11.490Z",
+      "timestamp": "2025-06-14T22:00:11.490+00:00",
       "type": "ActionResources",
       "description": "the faithful used Shrieking Altars to take action.",
       "value": 1
@@ -47445,7 +47532,7 @@
     {
       "_type": "Record",
       "id": "zvFcc",
-      "timestamp": "2025-06-14T22:00:11.490Z",
+      "timestamp": "2025-06-14T22:00:11.490+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -47453,7 +47540,7 @@
     {
       "_type": "Record",
       "id": "xXHv3",
-      "timestamp": "2025-06-14T22:00:11.490Z",
+      "timestamp": "2025-06-14T22:00:11.490+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Huge Libraries,Inquisitive Hands,Memetic Eraser ,Golden Orchards,Gemstone Teleporter to take action.",
       "value": 5
@@ -47461,7 +47548,7 @@
     {
       "_type": "Record",
       "id": "q33TV",
-      "timestamp": "2025-06-14T22:00:11.490Z",
+      "timestamp": "2025-06-14T22:00:11.490+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -47469,7 +47556,7 @@
     {
       "_type": "Record",
       "id": "vQGsH",
-      "timestamp": "2025-06-14T22:00:11.491Z",
+      "timestamp": "2025-06-14T22:00:11.491+00:00",
       "type": "ActionResources",
       "description": "the mighty used Expert Craftsmen to take action.",
       "value": 1
@@ -47477,7 +47564,7 @@
     {
       "_type": "Record",
       "id": "oHtC1",
-      "timestamp": "2025-06-14T22:00:11.491Z",
+      "timestamp": "2025-06-14T22:00:11.491+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 1
@@ -47485,7 +47572,7 @@
     {
       "_type": "Record",
       "id": "TUtKK",
-      "timestamp": "2025-06-14T22:00:11.491Z",
+      "timestamp": "2025-06-14T22:00:11.491+00:00",
       "type": "ActionResources",
       "description": "the intrepid used Prototype Energy Well to take action.",
       "value": 1
@@ -47493,7 +47580,7 @@
     {
       "_type": "Record",
       "id": "wYjZC",
-      "timestamp": "2025-06-14T22:00:11.491Z",
+      "timestamp": "2025-06-14T22:00:11.491+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 1
@@ -47501,7 +47588,7 @@
     {
       "_type": "Record",
       "id": "gzGss",
-      "timestamp": "2025-06-14T22:00:11.491Z",
+      "timestamp": "2025-06-14T22:00:11.491+00:00",
       "type": "ActionResources",
       "description": "the enterprise used Imperial Codes,Mnemonic Songs to take action.",
       "value": 2
@@ -47509,23 +47596,23 @@
     {
       "_type": "Record",
       "id": "FkFCs",
-      "timestamp": "2025-06-14T22:01:39.298Z",
+      "timestamp": "2025-06-14T22:01:39.298+00:00",
       "type": "PhaseStarted",
       "description": "Round 5: Universal Phase",
-      "value": "2025-06-14T22:01:39.298Z"
+      "value": "2025-06-14T22:01:39.298+00:00"
     },
     {
       "_type": "Record",
       "id": "AvZV-",
-      "timestamp": "2025-06-14T22:05:42.679Z",
+      "timestamp": "2025-06-14T22:05:42.679+00:00",
       "type": "PhaseEnded",
       "description": "Round 5: Universal Phase",
-      "value": "2025-06-14T22:05:42.679Z"
+      "value": "2025-06-14T22:05:42.679+00:00"
     },
     {
       "_type": "Record",
       "id": "aIOXQ",
-      "timestamp": "2025-06-14T22:05:42.680Z",
+      "timestamp": "2025-06-14T22:05:42.680+00:00",
       "type": "PhaseDuration",
       "description": "Round 5: Universal Phase",
       "value": 4.0563666666666665
@@ -47533,65 +47620,65 @@
     {
       "_type": "Record",
       "id": "Ix_VD",
-      "timestamp": "2025-06-14T22:05:48.888Z",
+      "timestamp": "2025-06-14T22:05:48.888+00:00",
       "type": "PhaseStarted",
       "description": "Round 5: Societal Phase",
-      "value": "2025-06-14T22:05:48.888Z"
+      "value": "2025-06-14T22:05:48.888+00:00"
     },
     {
       "_type": "Record",
       "id": "owFJ-",
-      "timestamp": "2025-06-14T22:07:37.842Z",
+      "timestamp": "2025-06-14T22:07:37.842+00:00",
       "type": "ResourceCreated",
       "value": "Plasma Bending"
     },
     {
       "_type": "Record",
       "id": "que0e",
-      "timestamp": "2025-06-14T22:08:46.416Z",
+      "timestamp": "2025-06-14T22:08:46.416+00:00",
       "type": "ResourceCreated",
       "value": "Clean Energy Skematic "
     },
     {
       "_type": "Record",
       "id": "KO1jt",
-      "timestamp": "2025-06-14T22:10:08.070Z",
+      "timestamp": "2025-06-14T22:10:08.070+00:00",
       "type": "ResourceCreated",
       "value": "Organic Wool"
     },
     {
       "_type": "Record",
       "id": "jWqPN",
-      "timestamp": "2025-06-14T22:10:20.472Z",
+      "timestamp": "2025-06-14T22:10:20.472+00:00",
       "type": "ResourceCreated",
       "value": "Organic Lambchops"
     },
     {
       "_type": "Record",
       "id": "CshnP",
-      "timestamp": "2025-06-14T22:14:33.857Z",
+      "timestamp": "2025-06-14T22:14:33.857+00:00",
       "type": "PhaseStarted",
       "description": "Round 5: Galactic Phase",
-      "value": "2025-06-14T22:14:33.857Z"
+      "value": "2025-06-14T22:14:33.857+00:00"
     },
     {
       "_type": "Record",
       "id": "EEKlk",
-      "timestamp": "2025-06-14T22:22:01.224Z",
+      "timestamp": "2025-06-14T22:22:01.224+00:00",
       "type": "ResourceCreated",
       "value": "Blood BATTERIES"
     },
     {
       "_type": "Record",
       "id": "WhDgr",
-      "timestamp": "2025-06-14T22:27:58.710Z",
+      "timestamp": "2025-06-14T22:27:58.710+00:00",
       "type": "ResourceCreated",
       "value": "Marauders Warships"
     },
     {
       "_type": "Record",
       "id": "c7tGK",
-      "timestamp": "2025-06-14T22:31:28.261Z",
+      "timestamp": "2025-06-14T22:31:28.261+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 1
@@ -47599,7 +47686,7 @@
     {
       "_type": "Record",
       "id": "KB0UB",
-      "timestamp": "2025-06-14T22:31:28.261Z",
+      "timestamp": "2025-06-14T22:31:28.261+00:00",
       "type": "ActionResources",
       "description": "the faithful used Supportive Dialogue ,Countless Followers  to take action.",
       "value": 2
@@ -47607,7 +47694,7 @@
     {
       "_type": "Record",
       "id": "G9m-W",
-      "timestamp": "2025-06-14T22:31:28.261Z",
+      "timestamp": "2025-06-14T22:31:28.261+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -47615,7 +47702,7 @@
     {
       "_type": "Record",
       "id": "wVYkK",
-      "timestamp": "2025-06-14T22:31:28.261Z",
+      "timestamp": "2025-06-14T22:31:28.261+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Fun Curriculum,Convincing Language to take action.",
       "value": 2
@@ -47623,7 +47710,7 @@
     {
       "_type": "Record",
       "id": "w-cAU",
-      "timestamp": "2025-06-14T22:31:28.261Z",
+      "timestamp": "2025-06-14T22:31:28.261+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -47631,7 +47718,7 @@
     {
       "_type": "Record",
       "id": "iyk2t",
-      "timestamp": "2025-06-14T22:31:28.261Z",
+      "timestamp": "2025-06-14T22:31:28.261+00:00",
       "type": "ActionResources",
       "description": "the mighty used Blood Recycler__ __,High Quality RAW MATERIALS to take action.",
       "value": 2
@@ -47639,7 +47726,7 @@
     {
       "_type": "Record",
       "id": "iq015",
-      "timestamp": "2025-06-14T22:31:28.261Z",
+      "timestamp": "2025-06-14T22:31:28.261+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 1
@@ -47647,7 +47734,7 @@
     {
       "_type": "Record",
       "id": "nPD7v",
-      "timestamp": "2025-06-14T22:31:28.261Z",
+      "timestamp": "2025-06-14T22:31:28.261+00:00",
       "type": "ActionResources",
       "description": "the intrepid used Expansive Maps,Scouting Talismans to take action.",
       "value": 2
@@ -47655,7 +47742,7 @@
     {
       "_type": "Record",
       "id": "Jo19z",
-      "timestamp": "2025-06-14T22:31:28.261Z",
+      "timestamp": "2025-06-14T22:31:28.261+00:00",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 1
@@ -47663,7 +47750,7 @@
     {
       "_type": "Record",
       "id": "aj4ZE",
-      "timestamp": "2025-06-14T22:31:28.261Z",
+      "timestamp": "2025-06-14T22:31:28.261+00:00",
       "type": "ActionResources",
       "description": "the enterprise used Analytical Mycelium,Subterranean Buses to take action.",
       "value": 2
@@ -47671,23 +47758,23 @@
     {
       "_type": "Record",
       "id": "UN5pP",
-      "timestamp": "2025-06-14T22:31:29.378Z",
+      "timestamp": "2025-06-14T22:31:29.378+00:00",
       "type": "PhaseStarted",
       "description": "Round 6: Universal Phase",
-      "value": "2025-06-14T22:31:29.378Z"
+      "value": "2025-06-14T22:31:29.378+00:00"
     },
     {
       "_type": "Record",
       "id": "VMo6d",
-      "timestamp": "2025-06-14T22:36:32.208Z",
+      "timestamp": "2025-06-14T22:36:32.208+00:00",
       "type": "PhaseEnded",
       "description": "Round 6: Universal Phase",
-      "value": "2025-06-14T22:36:32.208Z"
+      "value": "2025-06-14T22:36:32.208+00:00"
     },
     {
       "_type": "Record",
       "id": "ro681",
-      "timestamp": "2025-06-14T22:36:32.209Z",
+      "timestamp": "2025-06-14T22:36:32.209+00:00",
       "type": "PhaseDuration",
       "description": "Round 6: Universal Phase",
       "value": 5.047166666666667
@@ -47695,10 +47782,10 @@
     {
       "_type": "Record",
       "id": "Elkaq",
-      "timestamp": "2025-06-14T22:36:59.794Z",
+      "timestamp": "2025-06-14T22:36:59.794+00:00",
       "type": "PhaseStarted",
       "description": "Round 6: Generational Phase",
-      "value": "2025-06-14T22:36:59.794Z"
+      "value": "2025-06-14T22:36:59.794+00:00"
     }
   ]
 }
