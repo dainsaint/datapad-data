@@ -656,6 +656,23 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Action",
+      "id": "XHgrB",
+      "round": "5",
+      "societyId": "et0k8",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -1307,7 +1324,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 396.1709999999994,
+      "timeElapsed": 400.17199999999946,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
