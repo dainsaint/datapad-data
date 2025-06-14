@@ -587,7 +587,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 927.2079999999971,
+      "timeElapsed": 930.2089999999971,
       "actualTime": {
         "s": "2025-06-14T17:27:05.086+00:00",
         "e": "2025-06-14T17:45:05.086+00:00",
@@ -1140,7 +1140,7 @@
     {
       "_type": "Resource",
       "id": "yQoXI",
-      "communityId": "Pwqoy",
+      "communityId": "yC0li",
       "name": "Healing Plants",
       "tags": {
         "_type": "Tags",
