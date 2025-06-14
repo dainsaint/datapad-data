@@ -1178,7 +1178,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 691.2879999999991,
+      "timeElapsed": 728.290999999999,
       "actualTime": {
         "s": "2025-06-14T21:31:46.768+00:00",
         "e": "2025-06-14T21:43:46.768+00:00",
@@ -1459,7 +1459,9 @@
       "name": "Inquisitive Hands",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "destroyed"
+        ]
       }
     },
     {
