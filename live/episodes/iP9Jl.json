@@ -686,7 +686,7 @@
       "societyId": "Feay0",
       "player": "Moss They/them",
       "name": "Industrious METALWORKERS",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1034,7 +1034,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 222.09400000000022,
+      "timeElapsed": 229.09400000000022,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
