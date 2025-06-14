@@ -29432,6 +29432,7 @@
       "name": "Rules",
       "icon": "fa-scale-balanced",
       "googleDocId": "1k_TK2l6W1WKhCIqoDxCzCF2ahS5J-1oveQtxyfKq8RU",
+      "status": "ok",
       "content": {
         "type": "root",
         "children": [
@@ -34847,7 +34848,7 @@
                   },
                   {
                     "type": "text",
-                    "value": ": Incite, Liberate, Surge"
+                    "value": ": Empower, Liberate, Mobilize, Incite"
                   },
                   {
                     "type": "element",
@@ -34880,7 +34881,7 @@
                   },
                   {
                     "type": "text",
-                    "value": ": Influence, Manipulate, Usurp"
+                    "value": ": Influence, Strategize, Leverage, Override"
                   }
                 ]
               },
@@ -34902,7 +34903,7 @@
                   },
                   {
                     "type": "text",
-                    "value": "Counter, Destroy, Empower, Resist, Seize"
+                    "value": "Disrupt, Resist, Occupy, Counter"
                   }
                 ]
               }
