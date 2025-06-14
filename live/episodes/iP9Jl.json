@@ -661,13 +661,13 @@
       "_type": "Phase",
       "id": "RsT7m",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.410+00:00",
-        "e": "2025-06-13T21:30:36.410+00:00",
+        "s": "2025-06-14T18:04:16.115+00:00",
+        "e": "2025-06-14T18:14:16.115+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45440,6 +45440,14 @@
       "type": "PhaseDuration",
       "description": "Round 1: Galactic Phase",
       "value": 16.742416666666667
+    },
+    {
+      "_type": "Record",
+      "id": "finQX",
+      "timestamp": "2025-06-14T18:04:16.115Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Individual Phase",
+      "value": "2025-06-14T18:04:16.115Z"
     }
   ]
 }
