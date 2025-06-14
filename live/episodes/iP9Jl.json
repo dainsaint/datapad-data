@@ -661,13 +661,13 @@
       "_type": "Phase",
       "id": "RsT7m",
       "type": "Individual Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 601.1339999999984,
+      "timeElapsed": 602.1339999999984,
       "actualTime": {
         "s": "2025-06-14T18:14:30.706+00:00",
-        "e": "2025-06-14T18:24:30.706+00:00",
+        "e": "2025-06-14T18:14:31.293+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -2046,6 +2046,61 @@
         "r1dal": "leader",
         "JdDRm": "leader"
       }
+    },
+    {
+      "_type": "Turn",
+      "id": "xhtZb",
+      "round": 2,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "dS5xS",
+      "round": 2,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "teR1U",
+      "round": 2,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "N98QC",
+      "round": 2,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "QIsto",
+      "round": 2,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
     }
   ],
   "documents": [
@@ -45475,6 +45530,102 @@
       "type": "PhaseStarted",
       "description": "Round 1: Individual Phase",
       "value": "2025-06-14T18:14:30.707Z"
+    },
+    {
+      "_type": "Record",
+      "id": "WvHl3",
+      "timestamp": "2025-06-14T18:14:31.293Z",
+      "type": "PhaseEnded",
+      "description": "Round 1: Individual Phase",
+      "value": "2025-06-14T18:14:31.293Z"
+    },
+    {
+      "_type": "Record",
+      "id": "EqOwo",
+      "timestamp": "2025-06-14T18:14:31.294Z",
+      "type": "PhaseDuration",
+      "description": "Round 1: Individual Phase",
+      "value": 0.009783333333333333
+    },
+    {
+      "_type": "Record",
+      "id": "gK1Td",
+      "timestamp": "2025-06-14T18:14:31.294Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "Vd7t2",
+      "timestamp": "2025-06-14T18:14:31.294Z",
+      "type": "ActionResources",
+      "description": "the faithful used Boundless Database ,Supportive Dialogue  to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "xbejY",
+      "timestamp": "2025-06-14T18:14:31.294Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "RcKmQ",
+      "timestamp": "2025-06-14T18:14:31.294Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Huge Libraries to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "jCIdv",
+      "timestamp": "2025-06-14T18:14:31.294Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "WmQZ8",
+      "timestamp": "2025-06-14T18:14:31.294Z",
+      "type": "ActionResources",
+      "description": "the mighty used Vast Archives to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "uXtPO",
+      "timestamp": "2025-06-14T18:14:31.294Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "EGW6O",
+      "timestamp": "2025-06-14T18:14:31.294Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Crepuscular Feasts,Cybernetic Dance Moves to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "yBroH",
+      "timestamp": "2025-06-14T18:14:31.294Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "HNTMc",
+      "timestamp": "2025-06-14T18:14:31.294Z",
+      "type": "ActionResources",
+      "description": "the enterprise used Mnemonic Songs,Book Factories to take action.",
+      "value": 2
     }
   ]
 }
