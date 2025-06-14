@@ -1265,7 +1265,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 259.1060000000003,
+      "timeElapsed": 271.11300000000017,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
@@ -2184,6 +2184,16 @@
       "id": "e9jxQ",
       "communityId": "M8dPd",
       "name": "Organic Wool",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "Pgv6a",
+      "communityId": "M8dPd",
+      "name": "Organic Lambchops",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -47358,6 +47368,13 @@
       "timestamp": "2025-06-14T22:10:08.070Z",
       "type": "ResourceCreated",
       "value": "Organic Wool"
+    },
+    {
+      "_type": "Record",
+      "id": "jWqPN",
+      "timestamp": "2025-06-14T22:10:20.472Z",
+      "type": "ResourceCreated",
+      "value": "Organic Lambchops"
     }
   ]
 }
