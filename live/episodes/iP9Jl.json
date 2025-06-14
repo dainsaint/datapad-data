@@ -1235,7 +1235,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 153.0590000000001,
+      "timeElapsed": 177.07300000000015,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
@@ -2134,6 +2134,16 @@
       "id": "OFqbe",
       "communityId": "cBV-v",
       "name": "Plasma Bending",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "YIfws",
+      "communityId": "IytuF",
+      "name": "Clean Energy Skematic ",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -47294,6 +47304,13 @@
       "timestamp": "2025-06-14T22:07:37.842Z",
       "type": "ResourceCreated",
       "value": "Plasma Bending"
+    },
+    {
+      "_type": "Record",
+      "id": "que0e",
+      "timestamp": "2025-06-14T22:08:46.416Z",
+      "type": "ResourceCreated",
+      "value": "Clean Energy Skematic "
     }
   ]
 }
