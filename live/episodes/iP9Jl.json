@@ -277,11 +277,12 @@
       "id": "HtxcY",
       "round": "2",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "oAw0A"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -798,7 +799,7 @@
       "status": "playing",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 548.3749999999981,
+      "timeElapsed": 551.375999999998,
       "actualTime": {
         "s": "2025-06-14T18:20:11.976+00:00",
         "e": "2025-06-14T18:31:11.976+00:00",
