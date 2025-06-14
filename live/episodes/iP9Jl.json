@@ -1213,13 +1213,13 @@
       "_type": "Phase",
       "id": "cCmOg",
       "type": "Break",
-      "status": "idle",
+      "status": "complete",
       "round": 4,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "e": "2025-06-14T22:00:11.490+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -47131,6 +47131,86 @@
       "type": "PhaseStarted",
       "description": "Round 4: Individual Phase",
       "value": "2025-06-14T21:49:48.206Z"
+    },
+    {
+      "_type": "Record",
+      "id": "gfJXd",
+      "timestamp": "2025-06-14T22:00:11.490Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "OMuQv",
+      "timestamp": "2025-06-14T22:00:11.490Z",
+      "type": "ActionResources",
+      "description": "the faithful used Shrieking Altars to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "zvFcc",
+      "timestamp": "2025-06-14T22:00:11.490Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "xXHv3",
+      "timestamp": "2025-06-14T22:00:11.490Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Huge Libraries,Inquisitive Hands,Memetic Eraser ,Golden Orchards,Gemstone Teleporter to take action.",
+      "value": 5
+    },
+    {
+      "_type": "Record",
+      "id": "q33TV",
+      "timestamp": "2025-06-14T22:00:11.490Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "vQGsH",
+      "timestamp": "2025-06-14T22:00:11.491Z",
+      "type": "ActionResources",
+      "description": "the mighty used Expert Craftsmen to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "oHtC1",
+      "timestamp": "2025-06-14T22:00:11.491Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "TUtKK",
+      "timestamp": "2025-06-14T22:00:11.491Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Prototype Energy Well to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "wYjZC",
+      "timestamp": "2025-06-14T22:00:11.491Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "gzGss",
+      "timestamp": "2025-06-14T22:00:11.491Z",
+      "type": "ActionResources",
+      "description": "the enterprise used Imperial Codes,Mnemonic Songs to take action.",
+      "value": 2
     }
   ]
 }
