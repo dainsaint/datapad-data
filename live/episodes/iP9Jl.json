@@ -998,13 +998,13 @@
       "_type": "Phase",
       "id": "FUaiu",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 4,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "s": "2025-06-14T21:13:28.086+00:00",
+        "e": "2025-06-14T21:18:28.086+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1280,9 +1280,7 @@
       "name": "Countless Followers ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1302,9 +1300,7 @@
       "name": "Shrieking Altars",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1334,7 +1330,9 @@
       "name": "Healing Plants",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1344,9 +1342,7 @@
       "name": "Biological Computers",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1417,7 +1413,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -1490,7 +1487,9 @@
       "name": "Endless Stamina",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1520,7 +1519,9 @@
       "name": "Crepuscular Feasts",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1530,9 +1531,7 @@
       "name": "Expansive Maps",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1604,9 +1603,7 @@
       "name": "Golden Orchards",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1690,7 +1687,9 @@
       "name": "_Titanium_ Swords",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1700,9 +1699,7 @@
       "name": "Plasma Regeneration",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1734,7 +1731,9 @@
       "name": "Robust Education",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1755,8 +1754,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -1817,9 +1815,7 @@
       "name": "Huge Libraries",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1889,9 +1885,7 @@
       "name": "Imperial Codes",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1936,7 +1930,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -46764,6 +46759,14 @@
       "timestamp": "2025-06-14T21:12:49.246Z",
       "type": "ResourceCreated",
       "value": "UEC intern"
+    },
+    {
+      "_type": "Record",
+      "id": "p79cT",
+      "timestamp": "2025-06-14T21:13:28.086Z",
+      "type": "PhaseStarted",
+      "description": "Round 4: Universal Phase",
+      "value": "2025-06-14T21:13:28.086Z"
     }
   ]
 }
