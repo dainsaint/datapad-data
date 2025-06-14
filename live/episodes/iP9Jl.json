@@ -1428,13 +1428,13 @@
       "_type": "Phase",
       "id": "CQStZ",
       "type": "Universal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 6,
       "duration": 300,
-      "timeElapsed": 2,
+      "timeElapsed": 302.0670000000001,
       "actualTime": {
         "s": "2025-06-14T22:31:29.378+00:00",
-        "e": "2025-06-14T22:35:29.378+00:00",
+        "e": "2025-06-14T22:36:32.208+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -47675,6 +47675,22 @@
       "type": "PhaseStarted",
       "description": "Round 6: Universal Phase",
       "value": "2025-06-14T22:31:29.378Z"
+    },
+    {
+      "_type": "Record",
+      "id": "VMo6d",
+      "timestamp": "2025-06-14T22:36:32.208Z",
+      "type": "PhaseEnded",
+      "description": "Round 6: Universal Phase",
+      "value": "2025-06-14T22:36:32.208Z"
+    },
+    {
+      "_type": "Record",
+      "id": "ro681",
+      "timestamp": "2025-06-14T22:36:32.209Z",
+      "type": "PhaseDuration",
+      "description": "Round 6: Universal Phase",
+      "value": 5.047166666666667
     }
   ]
 }
