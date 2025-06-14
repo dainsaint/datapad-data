@@ -287,8 +287,11 @@
         "To form an alliance with the AsheN GLOW OUTSIDE the PEWP",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0
+      ],
+      "voteTime": "2025-06-14T18:31:07.913+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -825,7 +828,7 @@
       "status": "playing",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 656.4189999999974,
+      "timeElapsed": 658.4189999999974,
       "actualTime": {
         "s": "2025-06-14T18:20:11.976+00:00",
         "e": "2025-06-14T18:31:11.976+00:00",
