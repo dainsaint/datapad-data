@@ -1211,31 +1211,12 @@
     },
     {
       "_type": "Phase",
-      "id": "cCmOg",
-      "type": "Break",
-      "status": "complete",
-      "round": 4,
-      "duration": 600,
-      "timeElapsed": 0,
-      "actualTime": {
-        "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-14T22:00:11.490+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Phase",
       "id": "P0F8T",
       "type": "Universal Phase",
       "status": "playing",
       "round": 5,
       "duration": 300,
-      "timeElapsed": 2,
+      "timeElapsed": 9.040999999999999,
       "actualTime": {
         "s": "2025-06-14T22:01:39.297+00:00",
         "e": "2025-06-14T22:06:39.297+00:00",
