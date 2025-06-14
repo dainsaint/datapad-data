@@ -648,7 +648,7 @@
       ],
       "texts": [
         "Launch the university ",
-        "",
+        "Market the university",
         ""
       ],
       "result": [],
@@ -1344,7 +1344,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 410.17699999999934,
+      "timeElapsed": 415.17999999999927,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
