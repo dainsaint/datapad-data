@@ -422,10 +422,12 @@
       ],
       "texts": [
         "Send support to Ashen glow",
+        "To increase efficacy of healing plants ",
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-14T20:37:46.546+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
