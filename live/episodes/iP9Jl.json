@@ -1034,7 +1034,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 121.05300000000008,
+      "timeElapsed": 182.07200000000017,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -1964,6 +1964,16 @@
       "id": "cjMzG",
       "communityId": "ZTISw",
       "name": "Fun Curriculum",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "NrqV3",
+      "communityId": "baFQb",
+      "name": "Freakish Intuition",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -46824,6 +46834,13 @@
       "timestamp": "2025-06-14T21:19:50.287Z",
       "type": "ResourceCreated",
       "value": "Fun Curriculum"
+    },
+    {
+      "_type": "Record",
+      "id": "p4o5X",
+      "timestamp": "2025-06-14T21:21:27.326Z",
+      "type": "ResourceCreated",
+      "value": "Freakish Intuition"
     }
   ]
 }
