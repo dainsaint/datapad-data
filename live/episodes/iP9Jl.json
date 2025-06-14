@@ -744,7 +744,7 @@
       "status": "playing",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 498.3519999999986,
+      "timeElapsed": 500.35399999999856,
       "actualTime": {
         "s": "2025-06-14T18:20:11.976+00:00",
         "e": "2025-06-14T18:31:11.976+00:00",
@@ -1459,7 +1459,9 @@
       "name": "Impeccable Spindles",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
