@@ -199,9 +199,11 @@
       "round": "2",
       "societyId": "Feay0",
       "resourceIds": [
-        "Iz45D"
+        "Iz45D",
+        "z4Tqi"
       ],
       "texts": [
+        "Create  our own source of energy",
         ""
       ],
       "result": [],
@@ -720,7 +722,7 @@
       "status": "playing",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 354.2259999999995,
+      "timeElapsed": 356.2259999999995,
       "actualTime": {
         "s": "2025-06-14T18:20:11.976+00:00",
         "e": "2025-06-14T18:31:11.976+00:00",
