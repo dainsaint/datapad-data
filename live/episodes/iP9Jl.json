@@ -1235,7 +1235,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 177.07300000000015,
+      "timeElapsed": 208.0840000000002,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
@@ -2081,7 +2081,7 @@
       "_type": "Resource",
       "id": "H7aJ1",
       "communityId": "WG1xC",
-      "name": "Upgraded Energy Well",
+      "name": "Energy Shield",
       "tags": {
         "_type": "Tags",
         "value": []
