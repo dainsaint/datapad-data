@@ -1347,10 +1347,10 @@
       "_type": "Phase",
       "id": "mvGbH",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 478.20499999999896,
+      "timeElapsed": 486.20599999999894,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
