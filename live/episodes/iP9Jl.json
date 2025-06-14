@@ -685,7 +685,7 @@
       "id": "cBV-v",
       "societyId": "Feay0",
       "player": "Moss They/them",
-      "name": "__ Wary Historians",
+      "name": "Industrious METALWORKERS",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -1034,7 +1034,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 182.07200000000017,
+      "timeElapsed": 186.07300000000018,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -2464,7 +2464,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "cBV-v": ""
+      },
       "alterLeadership": {}
     },
     {
