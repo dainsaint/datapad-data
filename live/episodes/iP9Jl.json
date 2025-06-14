@@ -19,11 +19,12 @@
       "id": "DZjN1",
       "round": "0",
       "societyId": "yXHVO",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "lQeWw"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -563,7 +564,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 814.1379999999979,
+      "timeElapsed": 818.1429999999979,
       "actualTime": {
         "s": "2025-06-14T17:27:05.086+00:00",
         "e": "2025-06-14T17:45:05.086+00:00",
@@ -1116,7 +1117,7 @@
     {
       "_type": "Resource",
       "id": "yQoXI",
-      "communityId": "yC0li",
+      "communityId": "Pwqoy",
       "name": "Healing Plants",
       "tags": {
         "_type": "Tags",
