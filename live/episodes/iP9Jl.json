@@ -534,11 +534,12 @@
       "id": "jtVJp",
       "round": "4",
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "HRbdn"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1108,7 +1109,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 581.3279999999979,
+      "timeElapsed": 583.3289999999979,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
