@@ -1939,6 +1939,16 @@
           "destroyed"
         ]
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "mseo8",
+      "communityId": "R29jS",
+      "name": "UEC intern",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46747,6 +46757,13 @@
       "type": "ActionResources",
       "description": "the enterprise used Analytical Mycelium,Mycelium Energy Well,Traditional Endowments to take action.",
       "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "vpckf",
+      "timestamp": "2025-06-14T21:12:49.246Z",
+      "type": "ResourceCreated",
+      "value": "UEC intern"
     }
   ]
 }
