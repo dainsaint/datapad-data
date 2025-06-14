@@ -608,18 +608,6 @@
     },
     {
       "_type": "Community",
-      "id": "Ju_Oj",
-      "societyId": "Feay0",
-      "player": "Person 5",
-      "name": "__ Teachers",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "fAFSa",
       "societyId": "Feay0",
       "player": "Person 6",
