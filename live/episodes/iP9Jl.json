@@ -1178,7 +1178,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 109.07500000000006,
+      "timeElapsed": 112.08100000000006,
       "actualTime": {
         "s": "2025-06-14T21:31:46.768+00:00",
         "e": "2025-06-14T21:43:46.768+00:00",
@@ -2119,7 +2119,9 @@
       "name": "Expert Craftsmen",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
