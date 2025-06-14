@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 849.2389999999974,
+      "timeElapsed": 857.2429999999973,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1048,7 +1048,7 @@
       "_type": "Resource",
       "id": "f_fiS",
       "communityId": "bWsq5",
-      "name": "[] Relics",
+      "name": "Buried Relics",
       "tags": {
         "_type": "Tags",
         "value": []
