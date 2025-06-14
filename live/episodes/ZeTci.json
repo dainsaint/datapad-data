@@ -294,6 +294,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "hqZZ8",
+      "societyId": "yXHVO",
+      "player": "",
+      "name": "___ Oracles",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -971,7 +983,63 @@
       ]
     }
   ],
-  "turns": [],
+  "turns": [
+    {
+      "_type": "Turn",
+      "id": "cucno",
+      "round": 0,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "XN9np",
+      "round": 0,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "hQMck",
+      "round": 0,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "fyNxH",
+      "round": 0,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "YKIGT",
+      "round": 0,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    }
+  ],
   "documents": [
     {
       "_type": "Document",
