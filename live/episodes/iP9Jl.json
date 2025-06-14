@@ -21412,7 +21412,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Trans Corp is in a better mood., they are glad to have work transporting materials between The Enterprise and the Ashen Glow, AND they have at least some work. That being said they are also aware that without the work of delivering batteries (80% of their business) in the longer term, their very existence is in question."
+                    "value": "Trans Corp is in a better mood.,They are glad to have work transporting materials between The Enterprise and the Ashen Glow, AND they have at least some work. That being said they are also aware that without the work of delivering batteries (80% of their business) in the longer term, their very existence is in question."
                   }
                 ]
               },
@@ -21434,7 +21434,26 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "However, after a few cycles of stable energy, the Prototype Energy Well on Incense explodes, a major catastrophe. The Ashen Glow put out a call for help to the entire Solar System and expect at least the Faithful to show-up in support."
+                    "value": "However, after a few cycles of stable energy, the Prototype Energy Well on Incense "
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "explodes, a major catastrophe"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": ". "
+                  },
+                  {
+                    "type": "text",
+                    "value": "The Ashen Glow put out a call for help to the entire Kin System and expect at least the Faithful to show-up in support."
                   }
                 ]
               },
@@ -21445,7 +21464,26 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "In the chaos the Marauders also use this as an opportunity to attack The Mighty in hopes of commandeering their Ionic Capacitors."
+                    "value": "In the chaos, a loose coalition from the asteroids known as the Sanctions called the Marauders "
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "sense an opportunity"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": ": use this as an opportunity to attack The Mighty"
+                  },
+                  {
+                    "type": "text",
+                    "value": " for energy. (in hopes of commandeering their Ionic Capacitors.)"
                   }
                 ]
               },
