@@ -1152,13 +1152,13 @@
       "_type": "Phase",
       "id": "Dnlqv",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 4,
       "duration": 660,
-      "timeElapsed": 709.3729999999969,
+      "timeElapsed": 740.3859999999966,
       "actualTime": {
         "s": "2025-06-14T21:30:26.798+00:00",
-        "e": "2025-06-14T21:41:26.798+00:00",
+        "e": "2025-06-14T21:31:45.607+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -47042,6 +47042,22 @@
       "type": "PhaseStarted",
       "description": "Round 4: Societal Phase",
       "value": "2025-06-14T21:30:26.798Z"
+    },
+    {
+      "_type": "Record",
+      "id": "hi-8U",
+      "timestamp": "2025-06-14T21:31:45.607Z",
+      "type": "PhaseEnded",
+      "description": "Round 4: Societal Phase",
+      "value": "2025-06-14T21:31:45.607Z"
+    },
+    {
+      "_type": "Record",
+      "id": "N_lMD",
+      "timestamp": "2025-06-14T21:31:45.607Z",
+      "type": "PhaseDuration",
+      "description": "Round 4: Societal Phase",
+      "value": 1.3134833333333333
     }
   ]
 }
