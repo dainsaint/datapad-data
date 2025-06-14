@@ -1366,9 +1366,7 @@
       "name": "Endless Stamina",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1400,9 +1398,7 @@
       "name": "Crepuscular Feasts",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
