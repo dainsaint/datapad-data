@@ -963,7 +963,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 846.2759999999968,
+      "timeElapsed": 849.3029999999968,
       "actualTime": {
         "s": "2025-06-14T20:39:28.631+00:00",
         "e": "2025-06-14T20:51:28.631+00:00",
@@ -1642,7 +1642,9 @@
       "name": "Organic Regenerators",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
