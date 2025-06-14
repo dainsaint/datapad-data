@@ -963,7 +963,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 520.1879999999987,
+      "timeElapsed": 760.2429999999974,
       "actualTime": {
         "s": "2025-06-14T20:39:28.631+00:00",
         "e": "2025-06-14T20:51:28.631+00:00",
@@ -2377,9 +2377,9 @@
       "id": "vtnFB",
       "round": 3,
       "societyId": "yXHVO",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "2",
+      "advantage": "0",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     }
