@@ -518,6 +518,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "Q5mwY",
+      "societyId": "e-JcG",
+      "player": "Sarah Peony She/they",
+      "name": "X Pilots",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -528,7 +540,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 0,
+      "timeElapsed": 198.0390000000001,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
