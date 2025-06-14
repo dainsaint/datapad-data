@@ -1235,7 +1235,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 59.01599999999998,
+      "timeElapsed": 75.02199999999999,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
@@ -2015,7 +2015,7 @@
       "_type": "Resource",
       "id": "Tx5VI",
       "communityId": "nmW7Z",
-      "name": "Prototype Energy Well",
+      "name": "Energy Well",
       "tags": {
         "_type": "Tags",
         "value": [
