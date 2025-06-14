@@ -1052,7 +1052,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 360.2059999999995,
+      "timeElapsed": 395.2159999999993,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -2012,6 +2012,16 @@
       "id": "uqEm0",
       "communityId": "cBV-v",
       "name": "Plasma SMELTERS",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "HRbdn",
+      "communityId": "Rcsl8",
+      "name": "Expert Craftsmen",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -46907,6 +46917,13 @@
       "timestamp": "2025-06-14T21:24:12.503Z",
       "type": "ResourceCreated",
       "value": "Plasma SMELTERS"
+    },
+    {
+      "_type": "Record",
+      "id": "j8kmo",
+      "timestamp": "2025-06-14T21:25:00.378Z",
+      "type": "ResourceCreated",
+      "value": "Expert Craftsmen"
     }
   ]
 }
