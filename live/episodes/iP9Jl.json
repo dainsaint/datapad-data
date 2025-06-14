@@ -354,6 +354,7 @@
       "texts": [
         "Invite the mighty and FU in creating an intergalactic university centered on clean energy research",
         "Demonstrate resource and knowledge expertise and generosity ",
+        "Further demonstrate expertise and commitment ",
         ""
       ],
       "result": [],
@@ -377,7 +378,10 @@
         "Bolster defense",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-14T20:36:16.712+00:00",
       "status": "voted",
       "tags": {
@@ -892,7 +896,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 651.4239999999972,
+      "timeElapsed": 668.4319999999971,
       "actualTime": {
         "s": "2025-06-14T20:25:24.715+00:00",
         "e": "2025-06-14T20:35:24.715+00:00",
