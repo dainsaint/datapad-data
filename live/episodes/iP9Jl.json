@@ -620,11 +620,12 @@
       "id": "RcMDb",
       "round": "5",
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "qTEM0"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1299,7 +1300,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 283.1260000000001,
+      "timeElapsed": 302.13699999999994,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
