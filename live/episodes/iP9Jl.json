@@ -371,6 +371,7 @@
         "eyQTp"
       ],
       "texts": [
+        "Defend our Energy source",
         ""
       ],
       "result": [],
@@ -852,7 +853,7 @@
       "status": "playing",
       "round": 3,
       "duration": 660,
-      "timeElapsed": 566.284999999998,
+      "timeElapsed": 574.320999999998,
       "actualTime": {
         "s": "2025-06-14T20:25:24.715+00:00",
         "e": "2025-06-14T20:35:24.715+00:00",
