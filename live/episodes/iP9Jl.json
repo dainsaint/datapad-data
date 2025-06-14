@@ -240,11 +240,12 @@
       "id": "KJquz",
       "round": "2",
       "societyId": "V9xbw",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "vv9ks"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -761,7 +762,7 @@
       "status": "playing",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 504.35499999999854,
+      "timeElapsed": 508.3569999999985,
       "actualTime": {
         "s": "2025-06-14T18:20:11.976+00:00",
         "e": "2025-06-14T18:31:11.976+00:00",
