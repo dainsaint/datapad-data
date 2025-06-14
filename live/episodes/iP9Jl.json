@@ -1194,13 +1194,13 @@
       "_type": "Phase",
       "id": "o_oZ_",
       "type": "Individual Phase",
-      "status": "paused",
+      "status": "playing",
       "round": 4,
       "duration": 600,
       "timeElapsed": 1,
       "actualTime": {
-        "s": "2025-06-14T21:49:32.835+00:00",
-        "e": "2025-06-14T21:59:32.835+00:00",
+        "s": "2025-06-14T21:49:48.205+00:00",
+        "e": "2025-06-14T21:59:48.205+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -47115,6 +47115,14 @@
       "type": "PhaseStarted",
       "description": "Round 4: Individual Phase",
       "value": "2025-06-14T21:49:32.836Z"
+    },
+    {
+      "_type": "Record",
+      "id": "sWaAc",
+      "timestamp": "2025-06-14T21:49:48.206Z",
+      "type": "PhaseStarted",
+      "description": "Round 4: Individual Phase",
+      "value": "2025-06-14T21:49:48.206Z"
     }
   ]
 }
