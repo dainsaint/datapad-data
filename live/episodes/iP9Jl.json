@@ -1034,7 +1034,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 190.08600000000018,
+      "timeElapsed": 197.0870000000002,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -2458,7 +2458,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "ZTISw": "yXHVO"
+      },
       "alterLeadership": {}
     },
     {
