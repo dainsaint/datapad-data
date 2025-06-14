@@ -810,7 +810,7 @@
       "id": "cBV-v",
       "societyId": "Feay0",
       "player": "Moss They/them",
-      "name": "Industrious METALWORKERS",
+      "name": "Loyal Squires",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1235,7 +1235,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 32.006,
+      "timeElapsed": 59.01599999999998,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
@@ -2689,7 +2689,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "cBV-v": ""
+      },
       "alterLeadership": {}
     },
     {
