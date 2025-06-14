@@ -1034,7 +1034,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 186.07300000000018,
+      "timeElapsed": 190.08600000000018,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -2392,7 +2392,12 @@
       "disadvantage": 0,
       "emissaryCommunityId": "EnTME",
       "ambassadors": {},
-      "alterLeadership": {}
+      "alterLeadership": {
+        "DgkcU": "leader",
+        "LFwRq": "leader",
+        "WG1xC": "leader",
+        "ZTISw": "people"
+      }
     },
     {
       "_type": "Turn",
