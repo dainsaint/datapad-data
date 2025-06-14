@@ -1069,7 +1069,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 454.23399999999896,
+      "timeElapsed": 458.23499999999893,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -2035,7 +2035,7 @@
     {
       "_type": "Resource",
       "id": "FjoGW",
-      "communityId": "xUCao",
+      "communityId": "Rcsl8",
       "name": "High Quality RAW MATERIALS",
       "tags": {
         "_type": "Tags",
