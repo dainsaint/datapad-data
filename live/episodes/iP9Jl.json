@@ -492,7 +492,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 1331.490999999994,
+      "timeElapsed": 1341.492999999994,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -510,7 +510,7 @@
       "type": "Universal Phase",
       "status": "idle",
       "round": 1,
-      "duration": 240,
+      "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:30:36.410+00:00",
