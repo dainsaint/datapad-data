@@ -1197,7 +1197,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 495.1729999999988,
+      "timeElapsed": 498.17499999999876,
       "actualTime": {
         "s": "2025-06-14T21:49:48.205+00:00",
         "e": "2025-06-14T21:59:48.205+00:00",
@@ -2077,7 +2077,9 @@
       "name": "UEC interns",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "destroyed"
+        ]
       }
     },
     {
