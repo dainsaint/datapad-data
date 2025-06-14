@@ -1371,13 +1371,13 @@
       "_type": "Phase",
       "id": "GH645",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 5,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "s": "2025-06-14T22:14:33.857+00:00",
+        "e": "2025-06-14T22:26:33.857+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -47467,6 +47467,14 @@
       "timestamp": "2025-06-14T22:10:20.472Z",
       "type": "ResourceCreated",
       "value": "Organic Lambchops"
+    },
+    {
+      "_type": "Record",
+      "id": "CshnP",
+      "timestamp": "2025-06-14T22:14:33.857Z",
+      "type": "PhaseStarted",
+      "description": "Round 5: Galactic Phase",
+      "value": "2025-06-14T22:14:33.857Z"
     }
   ]
 }
