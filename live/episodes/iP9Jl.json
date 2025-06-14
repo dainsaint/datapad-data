@@ -963,7 +963,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 883.3579999999965,
+      "timeElapsed": 895.3619999999966,
       "actualTime": {
         "s": "2025-06-14T20:39:28.631+00:00",
         "e": "2025-06-14T20:51:28.631+00:00",
@@ -1918,7 +1918,7 @@
       "_type": "Resource",
       "id": "IQ-UE",
       "communityId": "R29jS",
-      "name": "Prototype Energy Well",
+      "name": "Mycelium Energy Well",
       "tags": {
         "_type": "Tags",
         "value": []
