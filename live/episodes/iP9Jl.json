@@ -525,13 +525,13 @@
       "_type": "Phase",
       "id": "F40w4",
       "type": "Setup/Onboarding",
-      "status": "idle",
+      "status": "playing",
       "round": 0,
       "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.410+00:00",
-        "e": "2025-06-13T21:30:36.410+00:00",
+        "s": "2025-06-14T16:48:55.289+00:00",
+        "e": "2025-06-14T17:08:55.289+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45217,6 +45217,14 @@
       "timestamp": "2025-06-13T22:45:35.625Z",
       "type": "ResourceCreated",
       "value": "Spiritual __"
+    },
+    {
+      "_type": "Record",
+      "id": "kfVK9",
+      "timestamp": "2025-06-14T16:48:55.289Z",
+      "type": "PhaseStarted",
+      "description": "Round 0: Setup/Onboarding",
+      "value": "2025-06-14T16:48:55.289Z"
     }
   ]
 }
