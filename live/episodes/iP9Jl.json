@@ -113,18 +113,6 @@
     },
     {
       "_type": "Community",
-      "id": "gRrcN",
-      "societyId": "yXHVO",
-      "player": "",
-      "name": "Adaptable ",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "AJzGJ",
       "societyId": "yXHVO",
       "player": "Ora",
@@ -492,7 +480,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 1485.5499999999927,
+      "timeElapsed": 1492.5509999999927,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
