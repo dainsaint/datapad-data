@@ -809,13 +809,13 @@
       "_type": "Phase",
       "id": "Mu4yB",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 3,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 2,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.410+00:00",
-        "e": "2025-06-13T21:30:36.410+00:00",
+        "s": "2025-06-14T20:25:24.715+00:00",
+        "e": "2025-06-14T20:35:24.715+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46254,6 +46254,14 @@
       "type": "PhaseDuration",
       "description": "Round 3: Universal Phase",
       "value": 7.70405
+    },
+    {
+      "_type": "Record",
+      "id": "UIc2K",
+      "timestamp": "2025-06-14T20:25:24.715Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Societal Phase",
+      "value": "2025-06-14T20:25:24.715Z"
     }
   ]
 }
