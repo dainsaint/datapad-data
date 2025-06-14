@@ -580,6 +580,7 @@
         "Tx5VI"
       ],
       "texts": [
+        "Build our own energy infrastructure",
         ""
       ],
       "result": [],
@@ -1151,7 +1152,7 @@
       "status": "playing",
       "round": 4,
       "duration": 660,
-      "timeElapsed": 662.3489999999974,
+      "timeElapsed": 695.367999999997,
       "actualTime": {
         "s": "2025-06-14T21:30:26.798+00:00",
         "e": "2025-06-14T21:41:26.798+00:00",
