@@ -574,8 +574,8 @@
       "_type": "Community",
       "id": "bIa2P",
       "societyId": "Feay0",
-      "player": "Person 7",
-      "name": "__ Gardeners",
+      "player": "Arthur any",
+      "name": "Grieving Gardeners",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -2239,7 +2239,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "bIa2P": ""
+      },
       "alterLeadership": {}
     },
     {
