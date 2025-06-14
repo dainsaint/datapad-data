@@ -283,7 +283,7 @@
       "_type": "Community",
       "id": "HxH3y",
       "societyId": "e-JcG",
-      "player": "B",
+      "player": "Jess She/they",
       "name": "Cloistered  X",
       "voice": "leader",
       "tags": {
@@ -1896,7 +1896,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "baFQb": ""
+        "baFQb": "",
+        "HxH3y": ""
       },
       "alterLeadership": {
         "baFQb": "leader",
