@@ -437,7 +437,7 @@
       "societyId": "et0k8",
       "player": "Corey She/her",
       "name": "Militant Spiritual Advisors ",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -829,7 +829,7 @@
       "status": "playing",
       "round": 3,
       "duration": 600,
-      "timeElapsed": 191.0650000000002,
+      "timeElapsed": 260.09000000000026,
       "actualTime": {
         "s": "2025-06-14T20:25:24.715+00:00",
         "e": "2025-06-14T20:35:24.715+00:00",
@@ -2200,7 +2200,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "Pwqoy": ""
+      },
       "alterLeadership": {}
     },
     {
