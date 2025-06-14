@@ -1487,7 +1487,7 @@
       "type": "Generational Phase",
       "status": "idle",
       "round": 6,
-      "duration": 1140,
+      "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:30:36.411+00:00",
