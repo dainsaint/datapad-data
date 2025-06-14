@@ -900,7 +900,9 @@
       "voice": "leader",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "lost"
+        ]
       }
     },
     {
@@ -1376,7 +1378,7 @@
       "status": "playing",
       "round": 5,
       "duration": 720,
-      "timeElapsed": 42.01600000000001,
+      "timeElapsed": 44.01600000000001,
       "actualTime": {
         "s": "2025-06-14T22:14:33.857+00:00",
         "e": "2025-06-14T22:26:33.857+00:00",
