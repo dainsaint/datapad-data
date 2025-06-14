@@ -647,6 +647,7 @@
         "l9TXe"
       ],
       "texts": [
+        "Launch the university ",
         "",
         ""
       ],
@@ -1342,7 +1343,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 403.1749999999994,
+      "timeElapsed": 407.17599999999936,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
