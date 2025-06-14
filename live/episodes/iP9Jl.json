@@ -366,11 +366,12 @@
       "id": "i5I-Y",
       "round": "3",
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "eyQTp"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -850,7 +851,7 @@
       "status": "playing",
       "round": 3,
       "duration": 600,
-      "timeElapsed": 532.2049999999982,
+      "timeElapsed": 535.2749999999983,
       "actualTime": {
         "s": "2025-06-14T20:25:24.715+00:00",
         "e": "2025-06-14T20:35:24.715+00:00",
