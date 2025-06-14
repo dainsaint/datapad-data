@@ -540,7 +540,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 198.0390000000001,
+      "timeElapsed": 223.04200000000012,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1653,6 +1653,16 @@
       "id": "SdsYL",
       "communityId": "m7_IE",
       "name": "Spiritual __",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "TSCkq",
+      "communityId": "Q5mwY",
+      "name": "Scouting X",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -45237,6 +45247,13 @@
       "type": "PhaseStarted",
       "description": "Round 0: Setup/Onboarding",
       "value": "2025-06-14T16:48:55.289Z"
+    },
+    {
+      "_type": "Record",
+      "id": "qyCiP",
+      "timestamp": "2025-06-14T16:52:38.907Z",
+      "type": "ResourceCreated",
+      "value": "Scouting X"
     }
   ]
 }
