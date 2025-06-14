@@ -1591,13 +1591,13 @@
       "_type": "Phase",
       "id": "H1HLq",
       "type": "Conclusion",
-      "status": "idle",
+      "status": "playing",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 2,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "s": "2025-06-14T23:00:08.066+00:00",
+        "e": "2025-06-14T23:10:08.066+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -47802,6 +47802,14 @@
       "type": "PhaseDuration",
       "description": "Round 6: Generational Phase",
       "value": 23.120383333333333
+    },
+    {
+      "_type": "Record",
+      "id": "m2VFP",
+      "timestamp": "2025-06-14T23:00:08.066Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Conclusion",
+      "value": "2025-06-14T23:00:08.066Z"
     }
   ]
 }
