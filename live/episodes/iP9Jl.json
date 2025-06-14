@@ -453,8 +453,13 @@
         "Launch a brain trust to aid this initiative",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0,
+        0
+      ],
+      "voteTime": "2025-06-14T20:40:26.843+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -951,7 +956,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 58.065999999999995,
+      "timeElapsed": 60.06699999999999,
       "actualTime": {
         "s": "2025-06-14T20:39:28.631+00:00",
         "e": "2025-06-14T20:51:28.631+00:00",
