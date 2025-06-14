@@ -1235,7 +1235,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 75.02199999999999,
+      "timeElapsed": 109.03900000000003,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
@@ -2124,6 +2124,16 @@
       "id": "b3KrH",
       "communityId": "xUCao",
       "name": "Plasma CANNONS",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "OFqbe",
+      "communityId": "xUCao",
+      "name": "Plasma Bending",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -47277,6 +47287,13 @@
       "type": "PhaseStarted",
       "description": "Round 5: Societal Phase",
       "value": "2025-06-14T22:05:48.888Z"
+    },
+    {
+      "_type": "Record",
+      "id": "owFJ-",
+      "timestamp": "2025-06-14T22:07:37.842Z",
+      "type": "ResourceCreated",
+      "value": "Plasma Bending"
     }
   ]
 }
