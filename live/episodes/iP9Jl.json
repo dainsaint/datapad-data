@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 980.2729999999966,
+      "timeElapsed": 991.2749999999966,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1388,7 +1388,7 @@
       "_type": "Resource",
       "id": "Wwz1J",
       "communityId": "EnTME",
-      "name": "[] []",
+      "name": "Advanced Extractors ",
       "tags": {
         "_type": "Tags",
         "value": []
