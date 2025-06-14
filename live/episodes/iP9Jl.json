@@ -399,9 +399,10 @@
       "id": "V1I6M",
       "round": "3",
       "societyId": "e-JcG",
-      "resourceIds": [],
+      "resourceIds": [
+        "iEoat"
+      ],
       "texts": [
-        "",
         ""
       ],
       "result": [],
