@@ -963,7 +963,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 954.3889999999961,
+      "timeElapsed": 956.3879999999962,
       "actualTime": {
         "s": "2025-06-14T20:39:28.631+00:00",
         "e": "2025-06-14T20:51:28.631+00:00",
@@ -1923,7 +1923,9 @@
       "name": "Mycelium Energy Well",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
