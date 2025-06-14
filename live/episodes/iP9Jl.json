@@ -1232,13 +1232,13 @@
       "_type": "Phase",
       "id": "mvGbH",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 5,
-      "duration": 540,
-      "timeElapsed": 0,
+      "duration": 480,
+      "timeElapsed": 2.001,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "s": "2025-06-14T22:05:48.888+00:00",
+        "e": "2025-06-14T22:13:48.888+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -47265,6 +47265,14 @@
       "type": "PhaseDuration",
       "description": "Round 5: Universal Phase",
       "value": 4.0563666666666665
+    },
+    {
+      "_type": "Record",
+      "id": "Ix_VD",
+      "timestamp": "2025-06-14T22:05:48.888Z",
+      "type": "PhaseStarted",
+      "description": "Round 5: Societal Phase",
+      "value": "2025-06-14T22:05:48.888Z"
     }
   ]
 }
