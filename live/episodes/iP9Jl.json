@@ -583,8 +583,11 @@
         "Build our own energy infrastructure",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0
+      ],
+      "voteTime": "2025-06-14T21:31:00.634+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1152,7 +1155,7 @@
       "status": "playing",
       "round": 4,
       "duration": 660,
-      "timeElapsed": 695.367999999997,
+      "timeElapsed": 697.368999999997,
       "actualTime": {
         "s": "2025-06-14T21:30:26.798+00:00",
         "e": "2025-06-14T21:41:26.798+00:00",
