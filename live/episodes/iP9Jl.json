@@ -1485,13 +1485,13 @@
       "_type": "Phase",
       "id": "zJkVX",
       "type": "Generational Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 6,
       "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "s": "2025-06-14T22:36:59.794+00:00",
+        "e": "2025-06-14T22:56:59.794+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -47691,6 +47691,14 @@
       "type": "PhaseDuration",
       "description": "Round 6: Universal Phase",
       "value": 5.047166666666667
+    },
+    {
+      "_type": "Record",
+      "id": "Elkaq",
+      "timestamp": "2025-06-14T22:36:59.794Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Generational Phase",
+      "value": "2025-06-14T22:36:59.794Z"
     }
   ]
 }
