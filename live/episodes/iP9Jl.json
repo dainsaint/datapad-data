@@ -832,7 +832,7 @@
       "status": "playing",
       "round": 3,
       "duration": 600,
-      "timeElapsed": 469.1859999999986,
+      "timeElapsed": 474.1859999999986,
       "actualTime": {
         "s": "2025-06-14T20:25:24.715+00:00",
         "e": "2025-06-14T20:35:24.715+00:00",
@@ -1704,7 +1704,7 @@
       "_type": "Resource",
       "id": "qTEM0",
       "communityId": "bIa2P",
-      "name": "__ __",
+      "name": "Blood Recycler__ __",
       "tags": {
         "_type": "Tags",
         "value": []
