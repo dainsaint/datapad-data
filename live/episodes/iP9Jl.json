@@ -584,18 +584,6 @@
     },
     {
       "_type": "Community",
-      "id": "sasmI",
-      "societyId": "Feay0",
-      "player": "Person 8",
-      "name": "__ Poets",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "Q5mwY",
       "societyId": "e-JcG",
       "player": "Sarah Peony She/they",
