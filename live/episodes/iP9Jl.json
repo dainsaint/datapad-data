@@ -681,8 +681,12 @@
         "Demonstrate in favor",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0
+      ],
+      "voteTime": "2025-06-14T22:15:35.697+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1379,7 +1383,7 @@
       "status": "playing",
       "round": 5,
       "duration": 720,
-      "timeElapsed": 61.022999999999996,
+      "timeElapsed": 63.022999999999996,
       "actualTime": {
         "s": "2025-06-14T22:14:33.857+00:00",
         "e": "2025-06-14T22:26:33.857+00:00",
