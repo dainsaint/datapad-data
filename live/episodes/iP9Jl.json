@@ -829,7 +829,7 @@
       "status": "playing",
       "round": 3,
       "duration": 600,
-      "timeElapsed": 286.10300000000007,
+      "timeElapsed": 288.10300000000007,
       "actualTime": {
         "s": "2025-06-14T20:25:24.715+00:00",
         "e": "2025-06-14T20:35:24.715+00:00",
@@ -1187,7 +1187,9 @@
       "name": "Shrieking Altars",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1688,7 +1690,9 @@
       "name": "Huge Libraries",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
