@@ -702,7 +702,7 @@
       "status": "playing",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 218.10700000000017,
+      "timeElapsed": 245.1160000000002,
       "actualTime": {
         "s": "2025-06-14T18:20:11.976+00:00",
         "e": "2025-06-14T18:31:11.976+00:00",
@@ -1834,7 +1834,7 @@
       "_type": "Society",
       "id": "Feay0",
       "archetype": "the mighty",
-      "fateId": "fate_two",
+      "fateId": "fate_three",
       "color": "color-deep-purple",
       "tags": {
         "_type": "Tags",
