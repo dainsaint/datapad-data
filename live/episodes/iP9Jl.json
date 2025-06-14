@@ -832,7 +832,7 @@
       "status": "playing",
       "round": 3,
       "duration": 600,
-      "timeElapsed": 474.1859999999986,
+      "timeElapsed": 487.19299999999845,
       "actualTime": {
         "s": "2025-06-14T20:25:24.715+00:00",
         "e": "2025-06-14T20:35:24.715+00:00",
@@ -2210,7 +2210,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "Pwqoy": ""
+        "Pwqoy": "",
+        "bWsq5": "Feay0"
       },
       "alterLeadership": {}
     },
