@@ -1235,7 +1235,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 123.04700000000007,
+      "timeElapsed": 125.04800000000007,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
@@ -2132,7 +2132,7 @@
     {
       "_type": "Resource",
       "id": "OFqbe",
-      "communityId": "xUCao",
+      "communityId": "cBV-v",
       "name": "Plasma Bending",
       "tags": {
         "_type": "Tags",
