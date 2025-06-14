@@ -538,8 +538,11 @@
         "Make weapons",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0
+      ],
+      "voteTime": "2025-06-14T21:29:31.476+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
