@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 1084.3969999999963,
+      "timeElapsed": 1153.4279999999956,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1706,7 +1706,7 @@
       "_type": "Society",
       "id": "V9xbw",
       "archetype": "the aesthetic",
-      "fateId": "fate_one",
+      "fateId": "fate_three",
       "color": "color-light-blue",
       "tags": {
         "_type": "Tags",
