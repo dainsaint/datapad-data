@@ -468,7 +468,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 1537.5639999999923,
+      "timeElapsed": 1542.5669999999923,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1281,16 +1281,6 @@
       "id": "jMz2W",
       "communityId": "iLKlW",
       "name": "Scouting X",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Resource",
-      "id": "WEIeM",
-      "communityId": "baFQb",
-      "name": "X Assistants",
       "tags": {
         "_type": "Tags",
         "value": []
