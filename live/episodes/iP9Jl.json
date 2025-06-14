@@ -602,11 +602,12 @@
       "id": "Ouz-K",
       "round": "5",
       "societyId": "yXHVO",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "Y6pPT"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1252,7 +1253,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 217.09000000000023,
+      "timeElapsed": 221.09100000000024,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
