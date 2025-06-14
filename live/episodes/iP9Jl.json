@@ -1194,13 +1194,13 @@
       "_type": "Phase",
       "id": "o_oZ_",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 4,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "s": "2025-06-14T21:49:32.835+00:00",
+        "e": "2025-06-14T21:59:32.835+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -47107,6 +47107,14 @@
       "type": "PhaseDuration",
       "description": "Round 4: Galactic Phase",
       "value": 17.59995
+    },
+    {
+      "_type": "Record",
+      "id": "VrfGK",
+      "timestamp": "2025-06-14T21:49:32.836Z",
+      "type": "PhaseStarted",
+      "description": "Round 4: Individual Phase",
+      "value": "2025-06-14T21:49:32.836Z"
     }
   ]
 }
