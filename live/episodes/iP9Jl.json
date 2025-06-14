@@ -1857,6 +1857,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "j5m0e",
+      "communityId": "bWsq5",
+      "name": "Mutual Aid Network ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46141,6 +46151,13 @@
       "type": "ActionResources",
       "description": "the enterprise used Imperial Codes to take action.",
       "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "KoCqM",
+      "timestamp": "2025-06-14T20:06:17.343Z",
+      "type": "ResourceCreated",
+      "value": "Mutual Aid Network "
     }
   ]
 }
