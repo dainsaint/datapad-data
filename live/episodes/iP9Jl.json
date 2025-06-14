@@ -945,13 +945,13 @@
       "_type": "Phase",
       "id": "s36kB",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 0,
+      "timeElapsed": 2.001,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "s": "2025-06-14T20:39:28.631+00:00",
+        "e": "2025-06-14T20:51:28.631+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46541,6 +46541,14 @@
       "timestamp": "2025-06-14T20:38:05.086Z",
       "type": "ResourceCreated",
       "value": "Endless Stamina"
+    },
+    {
+      "_type": "Record",
+      "id": "ngZVj",
+      "timestamp": "2025-06-14T20:39:28.631Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Galactic Phase",
+      "value": "2025-06-14T20:39:28.631Z"
     }
   ]
 }
