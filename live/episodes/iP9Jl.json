@@ -492,7 +492,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 1341.492999999994,
+      "timeElapsed": 1343.492999999994,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1274,7 +1274,7 @@
       "_type": "Resource",
       "id": "RJZNr",
       "communityId": "nmW7Z",
-      "name": "X Maps",
+      "name": "Expansive Maps",
       "tags": {
         "_type": "Tags",
         "value": []
