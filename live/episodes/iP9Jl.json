@@ -452,18 +452,6 @@
     },
     {
       "_type": "Community",
-      "id": "gk-WH",
-      "societyId": "et0k8",
-      "player": "F P7",
-      "name": "[] Traders",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "PVa3m",
       "societyId": "et0k8",
       "player": "F P8",
