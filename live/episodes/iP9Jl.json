@@ -78,11 +78,12 @@
       "id": "Lfman",
       "round": "1",
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "LeprY"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -540,7 +541,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 605.081999999999,
+      "timeElapsed": 607.081999999999,
       "actualTime": {
         "s": "2025-06-14T17:27:05.086+00:00",
         "e": "2025-06-14T17:45:05.086+00:00",
