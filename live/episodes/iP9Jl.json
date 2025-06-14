@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 1020.2789999999965,
+      "timeElapsed": 1025.2789999999966,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1398,7 +1398,7 @@
       "_type": "Resource",
       "id": "RmFMh",
       "communityId": "WG1xC",
-      "name": "[] []",
+      "name": "Mnetetic Eraser ",
       "tags": {
         "_type": "Tags",
         "value": []
