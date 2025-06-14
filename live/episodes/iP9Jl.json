@@ -1574,8 +1574,8 @@
       "type": "Generational Phase",
       "status": "playing",
       "round": 6,
-      "duration": 960,
-      "timeElapsed": 142.08800000000008,
+      "duration": 900,
+      "timeElapsed": 145.08800000000008,
       "actualTime": {
         "s": "2025-06-14T22:36:59.794+00:00",
         "e": "2025-06-14T22:56:59.794+00:00",
