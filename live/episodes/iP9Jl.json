@@ -790,13 +790,13 @@
       "_type": "Phase",
       "id": "cgFyW",
       "type": "Universal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 3,
       "duration": 300,
-      "timeElapsed": 2.001,
+      "timeElapsed": 462.2009999999986,
       "actualTime": {
         "s": "2025-06-14T20:17:41.078+00:00",
-        "e": "2025-06-14T20:22:41.078+00:00",
+        "e": "2025-06-14T20:25:23.321+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46238,6 +46238,22 @@
       "type": "PhaseStarted",
       "description": "Round 3: Universal Phase",
       "value": "2025-06-14T20:17:41.078Z"
+    },
+    {
+      "_type": "Record",
+      "id": "qrl0K",
+      "timestamp": "2025-06-14T20:25:23.321Z",
+      "type": "PhaseEnded",
+      "description": "Round 3: Universal Phase",
+      "value": "2025-06-14T20:25:23.321Z"
+    },
+    {
+      "_type": "Record",
+      "id": "BoLbE",
+      "timestamp": "2025-06-14T20:25:23.321Z",
+      "type": "PhaseDuration",
+      "description": "Round 3: Universal Phase",
+      "value": 7.70405
     }
   ]
 }
