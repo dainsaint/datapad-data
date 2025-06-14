@@ -1052,7 +1052,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 415.2209999999992,
+      "timeElapsed": 417.2219999999992,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -2510,7 +2510,7 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "cBV-v": "",
+        "cBV-v": "et0k8",
         "Rcsl8": ""
       },
       "alterLeadership": {}
