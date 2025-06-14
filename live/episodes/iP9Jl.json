@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 1042.3199999999963,
+      "timeElapsed": 1047.3199999999963,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1428,7 +1428,7 @@
       "_type": "Resource",
       "id": "al0UA",
       "communityId": "LFwRq",
-      "name": "Gemstone ",
+      "name": "Gemstone Teleporter",
       "tags": {
         "_type": "Tags",
         "value": []
