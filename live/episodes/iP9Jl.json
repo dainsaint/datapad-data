@@ -1232,13 +1232,13 @@
       "_type": "Phase",
       "id": "P0F8T",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 5,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "s": "2025-06-14T22:01:39.297+00:00",
+        "e": "2025-06-14T22:06:39.297+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1439,7 +1439,9 @@
       "name": "Shrieking Altars",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1460,7 +1462,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -1471,9 +1474,7 @@
       "name": "Healing Plants",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1554,8 +1555,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -1567,7 +1567,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -1600,9 +1601,7 @@
       "name": "Analytical Mycelium",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1632,9 +1631,7 @@
       "name": "Endless Stamina",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1664,9 +1661,7 @@
       "name": "Crepuscular Feasts",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1746,7 +1741,9 @@
       "name": "Golden Orchards",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1756,9 +1753,7 @@
       "name": "Advanced Extractors ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1768,7 +1763,9 @@
       "name": "Memetic Eraser ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1788,9 +1785,7 @@
       "name": "Organic Regenerators",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1800,7 +1795,9 @@
       "name": "Gemstone Teleporter",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1830,9 +1827,7 @@
       "name": "_Titanium_ Swords",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1946,7 +1941,9 @@
       "name": "Huge Libraries",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1956,9 +1953,7 @@
       "name": "Blood Recycler__ __",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2042,7 +2037,9 @@
       "name": "Prototype Energy Well",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2052,9 +2049,7 @@
       "name": "Mycelium Energy Well",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2065,8 +2060,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -47266,6 +47260,14 @@
       "type": "ActionResources",
       "description": "the enterprise used Imperial Codes,Mnemonic Songs to take action.",
       "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "FkFCs",
+      "timestamp": "2025-06-14T22:01:39.298Z",
+      "type": "PhaseStarted",
+      "description": "Round 5: Universal Phase",
+      "value": "2025-06-14T22:01:39.298Z"
     }
   ]
 }
