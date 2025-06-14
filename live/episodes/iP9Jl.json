@@ -167,7 +167,8 @@
       "round": "1",
       "societyId": "et0k8",
       "resourceIds": [
-        "Vg6u8"
+        "Vg6u8",
+        "p7DGu"
       ],
       "texts": [
         "To form an alliance with the intrepid",
@@ -613,7 +614,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 978.3669999999969,
+      "timeElapsed": 980.3669999999969,
       "actualTime": {
         "s": "2025-06-14T17:27:05.086+00:00",
         "e": "2025-06-14T17:45:05.086+00:00",
