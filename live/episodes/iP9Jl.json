@@ -962,7 +962,7 @@
       "societyId": "V9xbw",
       "player": "Sabrina She Her",
       "name": "Extroverted Researchers",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1350,7 +1350,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 443.1879999999992,
+      "timeElapsed": 457.1949999999991,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
