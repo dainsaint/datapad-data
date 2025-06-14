@@ -157,8 +157,12 @@
         "Print playbills",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0
+      ],
+      "voteTime": "2025-06-14T17:45:28.280+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
