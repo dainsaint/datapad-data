@@ -831,7 +831,7 @@
       "status": "playing",
       "round": 3,
       "duration": 600,
-      "timeElapsed": 410.16399999999913,
+      "timeElapsed": 414.1659999999991,
       "actualTime": {
         "s": "2025-06-14T20:25:24.715+00:00",
         "e": "2025-06-14T20:35:24.715+00:00",
@@ -23679,12 +23679,12 @@
               "className": [
                 "heading-1"
               ],
-              "id": "universe-responds"
+              "id": "universe-responds-4"
             },
             "children": [
               {
                 "type": "text",
-                "value": "Universe Responds"
+                "value": "Universe Responds #4"
               }
             ]
           },
@@ -23727,7 +23727,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "The UEC invites the Intrepid, the Aesthetic, and The Enterprise to join the UEC as subsidiaries"
+                    "value": "The UEC invites the Intrepid, the Aesthetic, and The Enterprise to join the UEC as subsidiaries, this will allow them to transform your Prototype Energy Wells into Fully Functioning Energy Wells, avoiding any future catastrophe."
                   },
                   {
                     "type": "element",
@@ -25604,7 +25604,7 @@
               "className": [
                 "heading-1"
               ],
-              "id": "universe-responds-4"
+              "id": "universe-responds"
             },
             "children": [
               {
@@ -25637,6 +25637,115 @@
               {
                 "type": "text",
                 "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "If there are any remaining energy wells, the UEC will explode X of them, which will also destroy all of the resources held by that Community."
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Quell any remaining dissent (attack or take things from NPC and Player Societies)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "span",
+                        "properties": {
+                          "style": "background-color: rgb(255, 0, 255); color: rgb(255, 255, 255)"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": ""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "span",
+                        "properties": {
+                          "style": "background-color: rgb(255, 0, 255); color: rgb(255, 255, 255)"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": ""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           },
@@ -25740,6 +25849,22 @@
                     ]
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "h2",
+            "properties": {
+              "className": [
+                "heading-2"
+              ],
+              "id": "-8"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
               }
             ]
           },
@@ -26107,7 +26232,7 @@
               "className": [
                 "heading-2"
               ],
-              "id": "-8"
+              "id": "-9"
             },
             "children": [
               {
@@ -27696,7 +27821,7 @@
               "className": [
                 "heading-2"
               ],
-              "id": "-9"
+              "id": "-10"
             },
             "children": [
               {
