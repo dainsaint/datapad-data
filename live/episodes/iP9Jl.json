@@ -353,18 +353,6 @@
     },
     {
       "_type": "Community",
-      "id": "ldleA",
-      "societyId": "V9xbw",
-      "player": "[]",
-      "name": "[] []",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "xUCao",
       "societyId": "Feay0",
       "player": "BRITTNEY SHE/HER",
@@ -504,7 +492,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 1225.4569999999949,
+      "timeElapsed": 1231.4609999999948,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
