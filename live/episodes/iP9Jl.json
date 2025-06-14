@@ -503,13 +503,13 @@
       "_type": "Phase",
       "id": "ylBWZ",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 1080,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.410+00:00",
-        "e": "2025-06-13T21:30:36.410+00:00",
+        "s": "2025-06-14T17:27:05.086+00:00",
+        "e": "2025-06-14T17:45:05.086+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45281,6 +45281,14 @@
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "dzwC0",
+      "timestamp": "2025-06-14T17:27:05.086Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-06-14T17:27:05.086Z"
     }
   ]
 }
