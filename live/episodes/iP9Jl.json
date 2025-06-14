@@ -96,11 +96,12 @@
       "id": "lKoxh",
       "round": "1",
       "societyId": "e-JcG",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "twiTj"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -558,7 +559,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 653.0919999999988,
+      "timeElapsed": 655.0909999999989,
       "actualTime": {
         "s": "2025-06-14T17:27:05.086+00:00",
         "e": "2025-06-14T17:45:05.086+00:00",
