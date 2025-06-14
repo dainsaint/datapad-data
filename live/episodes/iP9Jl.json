@@ -852,7 +852,7 @@
       "status": "playing",
       "round": 3,
       "duration": 660,
-      "timeElapsed": 560.2839999999981,
+      "timeElapsed": 566.284999999998,
       "actualTime": {
         "s": "2025-06-14T20:25:24.715+00:00",
         "e": "2025-06-14T20:35:24.715+00:00",
@@ -1827,6 +1827,16 @@
       "id": "j5m0e",
       "communityId": "bWsq5",
       "name": "Mutual Aid Network ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "BE-9z",
+      "communityId": "baFQb",
+      "name": "Endless Stamina",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -46439,6 +46449,13 @@
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
       "value": "2025-06-14T20:25:24.715Z"
+    },
+    {
+      "_type": "Record",
+      "id": "S2bkA",
+      "timestamp": "2025-06-14T20:34:51.753Z",
+      "type": "ResourceCreated",
+      "value": "Endless Stamina"
     }
   ]
 }
