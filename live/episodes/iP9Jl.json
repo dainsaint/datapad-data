@@ -638,11 +638,12 @@
       "id": "XpUTL",
       "round": "5",
       "societyId": "V9xbw",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "cjMzG"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1300,7 +1301,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 335.14499999999987,
+      "timeElapsed": 337.14599999999984,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
