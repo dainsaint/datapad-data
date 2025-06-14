@@ -1197,7 +1197,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 487.17099999999886,
+      "timeElapsed": 491.1699999999989,
       "actualTime": {
         "s": "2025-06-14T21:49:48.205+00:00",
         "e": "2025-06-14T21:59:48.205+00:00",
@@ -1588,7 +1588,9 @@
       "name": "Personal Health Advisors",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "destroyed"
+        ]
       }
     },
     {
