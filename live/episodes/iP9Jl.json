@@ -1412,7 +1412,9 @@
       "name": "Expansive Maps",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
