@@ -680,13 +680,13 @@
       "_type": "Phase",
       "id": "KTdt-",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 0,
+      "timeElapsed": 2.001,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.410+00:00",
-        "e": "2025-06-13T21:30:36.410+00:00",
+        "s": "2025-06-14T18:14:33.799+00:00",
+        "e": "2025-06-14T18:18:33.799+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1143,7 +1143,9 @@
       "name": "Supportive Dialogue ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1163,7 +1165,9 @@
       "name": "Boundless Database ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1273,7 +1277,9 @@
       "name": "Mnemonic Songs",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1283,7 +1289,9 @@
       "name": "Book Factories",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1353,7 +1361,9 @@
       "name": "Cybernetic Dance Moves",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1363,7 +1373,9 @@
       "name": "Crepuscular Feasts",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1554,7 +1566,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -45626,6 +45639,14 @@
       "type": "ActionResources",
       "description": "the enterprise used Mnemonic Songs,Book Factories to take action.",
       "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "PHVao",
+      "timestamp": "2025-06-14T18:14:33.799Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Universal Phase",
+      "value": "2025-06-14T18:14:33.799Z"
     }
   ]
 }
