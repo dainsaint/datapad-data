@@ -392,7 +392,7 @@
       "id": "cBV-v",
       "societyId": "Feay0",
       "player": "Moss They/them",
-      "name": "__ Historians",
+      "name": "__ Wary Historians",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 801.2329999999976,
+      "timeElapsed": 804.2329999999976,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
