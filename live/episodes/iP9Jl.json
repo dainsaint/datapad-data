@@ -626,6 +626,7 @@
         "qTEM0"
       ],
       "texts": [
+        "Make blood batteries from dead marauders",
         ""
       ],
       "result": [],
@@ -1303,7 +1304,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 340.14599999999984,
+      "timeElapsed": 360.15899999999965,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
