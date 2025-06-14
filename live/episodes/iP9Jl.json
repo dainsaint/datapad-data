@@ -851,7 +851,7 @@
       "status": "playing",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 222.1880000000003,
+      "timeElapsed": 242.2010000000003,
       "actualTime": {
         "s": "2025-06-14T18:33:29.749+00:00",
         "e": "2025-06-14T18:45:29.749+00:00",
@@ -1754,7 +1754,9 @@
       "name": "GRAVITY Science",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "destroyed"
+        ]
       }
     },
     {
