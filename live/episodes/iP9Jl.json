@@ -790,13 +790,13 @@
       "_type": "Phase",
       "id": "cgFyW",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 3,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.410+00:00",
-        "e": "2025-06-13T21:30:36.410+00:00",
+        "s": "2025-06-14T20:17:41.078+00:00",
+        "e": "2025-06-14T20:22:41.078+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1138,9 +1138,7 @@
       "name": "Buried Relics",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1150,7 +1148,9 @@
       "name": "Countless Followers ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1160,9 +1160,7 @@
       "name": "Supportive Dialogue ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1172,9 +1170,7 @@
       "name": "Shrieking Altars",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1184,9 +1180,7 @@
       "name": "Boundless Database ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1196,9 +1190,7 @@
       "name": "Inquisitive Hands",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1218,9 +1210,7 @@
       "name": "Biological Computers",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1290,9 +1280,7 @@
       "name": "Traditional Endowments",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1322,9 +1310,7 @@
       "name": "Personal Health Advisors",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1344,9 +1330,7 @@
       "name": "Subterranean Buses",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1468,9 +1452,7 @@
       "name": "Convincing Language",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1492,9 +1474,7 @@
       "name": "Advanced Extractors ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1504,9 +1484,7 @@
       "name": "Memetic Eraser ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1536,9 +1514,7 @@
       "name": "Gemstone Teleporter",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1578,7 +1554,9 @@
       "name": "Plasma Regeneration",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1599,8 +1577,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -1632,7 +1609,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -1693,9 +1671,7 @@
       "name": "Huge Libraries",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -46254,6 +46230,14 @@
       "timestamp": "2025-06-14T20:06:17.343Z",
       "type": "ResourceCreated",
       "value": "Mutual Aid Network "
+    },
+    {
+      "_type": "Record",
+      "id": "G2PU4",
+      "timestamp": "2025-06-14T20:17:41.078Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Universal Phase",
+      "value": "2025-06-14T20:17:41.078Z"
     }
   ]
 }
