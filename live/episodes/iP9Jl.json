@@ -1017,13 +1017,13 @@
       "_type": "Phase",
       "id": "Dnlqv",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 2.001,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "s": "2025-06-14T21:18:24.774+00:00",
+        "e": "2025-06-14T21:28:24.774+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46783,6 +46783,14 @@
       "type": "PhaseDuration",
       "description": "Round 4: Universal Phase",
       "value": 4.928716666666666
+    },
+    {
+      "_type": "Record",
+      "id": "N_3WL",
+      "timestamp": "2025-06-14T21:18:24.774Z",
+      "type": "PhaseStarted",
+      "description": "Round 4: Societal Phase",
+      "value": "2025-06-14T21:18:24.774Z"
     }
   ]
 }
