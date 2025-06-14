@@ -175,8 +175,8 @@
       "_type": "Community",
       "id": "yC0li",
       "societyId": "et0k8",
-      "player": "Person 5",
-      "name": "[] Healers",
+      "player": "Devin",
+      "name": "Psionic Healers",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -468,7 +468,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 1542.5669999999923,
+      "timeElapsed": 1744.66399999999,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1761,7 +1761,8 @@
         "bWsq5": "",
         "XxrAo": "",
         "Pwqoy": "",
-        "IytuF": ""
+        "IytuF": "",
+        "yC0li": ""
       },
       "alterLeadership": {}
     },
