@@ -697,8 +697,8 @@
       "id": "Rcsl8",
       "societyId": "Feay0",
       "player": "Brandon He/him",
-      "name": "Cunning Seekers",
-      "voice": "leader",
+      "name": "HARDWORKING builders",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1034,7 +1034,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 197.0870000000002,
+      "timeElapsed": 222.09400000000022,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -2472,7 +2472,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "cBV-v": ""
+        "cBV-v": "",
+        "Rcsl8": ""
       },
       "alterLeadership": {}
     },
