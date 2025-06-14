@@ -358,7 +358,8 @@
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-14T20:36:36.434+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -896,7 +897,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 668.4319999999971,
+      "timeElapsed": 671.435999999997,
       "actualTime": {
         "s": "2025-06-14T20:25:24.715+00:00",
         "e": "2025-06-14T20:35:24.715+00:00",
