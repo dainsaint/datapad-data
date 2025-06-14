@@ -541,8 +541,11 @@
         "Build more weapons",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0
+      ],
+      "voteTime": "2025-06-14T21:28:23.415+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1110,7 +1113,7 @@
       "status": "playing",
       "round": 4,
       "duration": 660,
-      "timeElapsed": 598.3319999999978,
+      "timeElapsed": 600.3329999999978,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
