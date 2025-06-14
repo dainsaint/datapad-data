@@ -163,11 +163,12 @@
       "id": "tU_hq",
       "round": "1",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "Vg6u8"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -608,7 +609,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 944.278999999997,
+      "timeElapsed": 946.2779999999971,
       "actualTime": {
         "s": "2025-06-14T17:27:05.086+00:00",
         "e": "2025-06-14T17:45:05.086+00:00",
