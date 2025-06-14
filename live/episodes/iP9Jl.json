@@ -680,13 +680,13 @@
       "_type": "Phase",
       "id": "KTdt-",
       "type": "Universal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 334.1249999999997,
+      "timeElapsed": 337.1279999999997,
       "actualTime": {
         "s": "2025-06-14T18:14:33.799+00:00",
-        "e": "2025-06-14T18:18:33.799+00:00",
+        "e": "2025-06-14T18:20:10.538+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45651,6 +45651,22 @@
       "type": "PhaseStarted",
       "description": "Round 2: Universal Phase",
       "value": "2025-06-14T18:14:33.799Z"
+    },
+    {
+      "_type": "Record",
+      "id": "W_Gfk",
+      "timestamp": "2025-06-14T18:20:10.538Z",
+      "type": "PhaseEnded",
+      "description": "Round 2: Universal Phase",
+      "value": "2025-06-14T18:20:10.538Z"
+    },
+    {
+      "_type": "Record",
+      "id": "su0Bb",
+      "timestamp": "2025-06-14T18:20:10.539Z",
+      "type": "PhaseDuration",
+      "description": "Round 2: Universal Phase",
+      "value": 5.612316666666667
     }
   ]
 }
