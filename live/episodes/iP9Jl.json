@@ -662,6 +662,24 @@
       "id": "XHgrB",
       "round": "5",
       "societyId": "et0k8",
+      "resourceIds": [
+        "p7DGu"
+      ],
+      "texts": [
+        ""
+      ],
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Action",
+      "id": "k6Xw6",
+      "round": "5",
+      "societyId": "e-JcG",
       "resourceIds": [],
       "texts": [],
       "risk": 1,
@@ -1324,7 +1342,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 400.17199999999946,
+      "timeElapsed": 403.1749999999994,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
