@@ -492,7 +492,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 1312.4829999999943,
+      "timeElapsed": 1325.4879999999941,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1184,7 +1184,7 @@
       "_type": "Resource",
       "id": "JkaYm",
       "communityId": "r1dal",
-      "name": "Factories",
+      "name": "Book Factories",
       "tags": {
         "_type": "Tags",
         "value": []
