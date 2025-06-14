@@ -492,7 +492,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 1300.4819999999943,
+      "timeElapsed": 1303.4819999999943,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1194,7 +1194,7 @@
       "_type": "Resource",
       "id": "e69Dp",
       "communityId": "r1dal",
-      "name": "Personal ",
+      "name": "Personal Health Advisors",
       "tags": {
         "_type": "Tags",
         "value": []
