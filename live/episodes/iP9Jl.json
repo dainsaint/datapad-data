@@ -889,7 +889,7 @@
       "status": "playing",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 472.1749999999989,
+      "timeElapsed": 524.1999999999985,
       "actualTime": {
         "s": "2025-06-14T19:01:15.167+00:00",
         "e": "2025-06-14T19:11:15.167+00:00",
@@ -1909,6 +1909,16 @@
       "_type": "Resource",
       "id": "Tx5VI",
       "communityId": "nmW7Z",
+      "name": "Prototype Energy Well",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "IQ-UE",
+      "communityId": "R29jS",
       "name": "Prototype Energy Well",
       "tags": {
         "_type": "Tags",
@@ -45962,6 +45972,13 @@
       "type": "PhaseStarted",
       "description": "Round 2: Break",
       "value": "2025-06-14T19:01:15.167Z"
+    },
+    {
+      "_type": "Record",
+      "id": "H_eXH",
+      "timestamp": "2025-06-14T19:09:58.730Z",
+      "type": "ResourceCreated",
+      "value": "Prototype Energy Well"
     }
   ]
 }
