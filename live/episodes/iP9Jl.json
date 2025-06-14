@@ -1383,7 +1383,7 @@
       "status": "playing",
       "round": 5,
       "duration": 720,
-      "timeElapsed": 63.022999999999996,
+      "timeElapsed": 79.02600000000001,
       "actualTime": {
         "s": "2025-06-14T22:14:33.857+00:00",
         "e": "2025-06-14T22:26:33.857+00:00",
@@ -2869,9 +2869,9 @@
       "id": "wZC4u",
       "round": 5,
       "societyId": "e-JcG",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "0",
+      "advantage": "0",
+      "disadvantage": "0",
       "emissaryCommunityId": "HxH3y",
       "ambassadors": {},
       "alterLeadership": {}
