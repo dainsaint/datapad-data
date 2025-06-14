@@ -950,7 +950,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 33.006,
+      "timeElapsed": 35.006,
       "actualTime": {
         "s": "2025-06-14T20:39:28.631+00:00",
         "e": "2025-06-14T20:51:28.631+00:00",
@@ -1852,7 +1852,7 @@
     {
       "_type": "Resource",
       "id": "TSCkq",
-      "communityId": "Q5mwY",
+      "communityId": "baFQb",
       "name": "Scouting Talismans",
       "tags": {
         "_type": "Tags",
