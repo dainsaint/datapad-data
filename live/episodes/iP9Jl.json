@@ -486,8 +486,12 @@
         "Aid information dispersion",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0
+      ],
+      "voteTime": "2025-06-14T21:32:09.166+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1174,7 +1178,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 23.037,
+      "timeElapsed": 25.037,
       "actualTime": {
         "s": "2025-06-14T21:31:46.768+00:00",
         "e": "2025-06-14T21:43:46.768+00:00",
