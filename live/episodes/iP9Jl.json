@@ -948,7 +948,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 16,
+      "timeElapsed": 18,
       "actualTime": {
         "s": "2025-06-14T20:39:28.631+00:00",
         "e": "2025-06-14T20:51:28.631+00:00",
@@ -1904,16 +1904,6 @@
       "id": "j5m0e",
       "communityId": "bWsq5",
       "name": "Mutual Aid Network ",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Resource",
-      "id": "L1mr5",
-      "communityId": "HxH3y",
-      "name": "Endless Stamina",
       "tags": {
         "_type": "Tags",
         "value": []
