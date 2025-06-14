@@ -1591,10 +1591,10 @@
       "_type": "Phase",
       "id": "H1HLq",
       "type": "Conclusion",
-      "status": "playing",
+      "status": "paused",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 2,
+      "timeElapsed": 75.06,
       "actualTime": {
         "s": "2025-06-14T23:00:08.066+00:00",
         "e": "2025-06-14T23:10:08.066+00:00",
