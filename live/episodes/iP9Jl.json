@@ -299,6 +299,7 @@
         "RJZNr"
       ],
       "texts": [
+        "Find the rare minerals",
         ""
       ],
       "result": [],
@@ -817,7 +818,7 @@
       "status": "playing",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 564.377999999998,
+      "timeElapsed": 605.3979999999976,
       "actualTime": {
         "s": "2025-06-14T18:20:11.976+00:00",
         "e": "2025-06-14T18:31:11.976+00:00",
