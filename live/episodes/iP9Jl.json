@@ -393,7 +393,7 @@
       "societyId": "e-JcG",
       "player": "Dana They/them",
       "name": "Neurodivergent Navigators ",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -702,7 +702,7 @@
       "status": "playing",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 250.11700000000022,
+      "timeElapsed": 255.11700000000022,
       "actualTime": {
         "s": "2025-06-14T18:20:11.976+00:00",
         "e": "2025-06-14T18:31:11.976+00:00",
@@ -2118,7 +2118,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "baFQb": ""
+        "baFQb": "",
+        "nmW7Z": ""
       },
       "alterLeadership": {}
     },
