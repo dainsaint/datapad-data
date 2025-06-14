@@ -903,13 +903,13 @@
       "_type": "Phase",
       "id": "O7Hkr",
       "type": "Break",
-      "status": "paused",
+      "status": "complete",
       "round": 2,
       "duration": 600,
       "timeElapsed": 620.2339999999976,
       "actualTime": {
         "s": "2025-06-14T19:01:15.167+00:00",
-        "e": "2025-06-14T19:11:15.167+00:00",
+        "e": "2025-06-14T19:11:49.171+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46000,6 +46000,86 @@
       "timestamp": "2025-06-14T19:09:58.730Z",
       "type": "ResourceCreated",
       "value": "Prototype Energy Well"
+    },
+    {
+      "_type": "Record",
+      "id": "RcGiV",
+      "timestamp": "2025-06-14T19:11:49.171Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "WwHbb",
+      "timestamp": "2025-06-14T19:11:49.171Z",
+      "type": "ActionResources",
+      "description": "the faithful used Countless Followers  to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "b3EkV",
+      "timestamp": "2025-06-14T19:11:49.171Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "pyLsT",
+      "timestamp": "2025-06-14T19:11:49.171Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Golden Orchards to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "yGqdm",
+      "timestamp": "2025-06-14T19:11:49.171Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "kG6EI",
+      "timestamp": "2025-06-14T19:11:49.171Z",
+      "type": "ActionResources",
+      "description": "the mighty used Plasma Regeneration,GRAVITY Science to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "iqrYz",
+      "timestamp": "2025-06-14T19:11:49.171Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "Tm4OL",
+      "timestamp": "2025-06-14T19:11:49.171Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Expansive Maps to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "jYuoi",
+      "timestamp": "2025-06-14T19:11:49.171Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "v1Kuq",
+      "timestamp": "2025-06-14T19:11:49.171Z",
+      "type": "ActionResources",
+      "description": "the enterprise used Imperial Codes to take action.",
+      "value": 1
     }
   ]
 }
