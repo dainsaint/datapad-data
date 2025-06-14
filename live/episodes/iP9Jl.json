@@ -133,7 +133,9 @@
         "Produce an investigative journalism piece about the fall of the Starlight Empire",
         ""
       ],
-      "result": [],
+      "result": [
+        0
+      ],
       "voteTime": "2025-06-14T17:43:52.230+00:00",
       "status": "voted",
       "tags": {
@@ -617,10 +619,10 @@
       "_type": "Phase",
       "id": "ylBWZ",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 1006.3719999999968,
+      "timeElapsed": 1079.401999999996,
       "actualTime": {
         "s": "2025-06-14T17:27:05.086+00:00",
         "e": "2025-06-14T17:45:05.086+00:00",
