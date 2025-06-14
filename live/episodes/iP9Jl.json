@@ -1447,13 +1447,13 @@
       "_type": "Phase",
       "id": "piUW7",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 6,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "e": "2025-06-14T22:36:33.179+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1466,13 +1466,13 @@
       "_type": "Phase",
       "id": "spU1e",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 6,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "e": "2025-06-14T22:36:34.044+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
