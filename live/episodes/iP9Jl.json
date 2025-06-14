@@ -963,7 +963,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 1012.4769999999959,
+      "timeElapsed": 1099.5339999999949,
       "actualTime": {
         "s": "2025-06-14T20:39:28.631+00:00",
         "e": "2025-06-14T20:51:28.631+00:00",
@@ -2334,9 +2334,9 @@
       "id": "W5WTt",
       "round": 3,
       "societyId": "et0k8",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "1",
+      "advantage": "1",
+      "disadvantage": "0",
       "ambassadors": {
         "Pwqoy": "",
         "bWsq5": "Feay0"
