@@ -266,6 +266,7 @@
         "Taxjr"
       ],
       "texts": [
+        "To set up shipment contracts for our wood resources to Ashen Glow via Trans Corp",
         ""
       ],
       "result": [],
@@ -828,7 +829,7 @@
       "status": "playing",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 658.4189999999974,
+      "timeElapsed": 717.4549999999966,
       "actualTime": {
         "s": "2025-06-14T18:20:11.976+00:00",
         "e": "2025-06-14T18:31:11.976+00:00",
