@@ -477,11 +477,12 @@
       "id": "B61ZG",
       "round": "4",
       "societyId": "yXHVO",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "Taxjr"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1051,7 +1052,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 358.20499999999953,
+      "timeElapsed": 360.2059999999995,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
