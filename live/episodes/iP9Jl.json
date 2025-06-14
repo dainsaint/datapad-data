@@ -61,11 +61,12 @@
       "id": "nEQeK",
       "round": "0",
       "societyId": "e-JcG",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "ZdPuP"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
