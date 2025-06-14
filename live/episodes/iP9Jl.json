@@ -465,13 +465,13 @@
       "_type": "Phase",
       "id": "F40w4",
       "type": "Setup/Onboarding",
-      "status": "paused",
+      "status": "complete",
       "round": 0,
       "duration": 1200,
       "timeElapsed": 1758.6699999999898,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
-        "e": "2025-06-14T17:08:55.289+00:00",
+        "e": "2025-06-14T17:22:50.793+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45178,6 +45178,54 @@
       "timestamp": "2025-06-14T16:52:38.907Z",
       "type": "ResourceCreated",
       "value": "Scouting X"
+    },
+    {
+      "_type": "Record",
+      "id": "uuAIx",
+      "timestamp": "2025-06-14T17:22:50.793Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "uRlxk",
+      "timestamp": "2025-06-14T17:22:50.794Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "drj1b",
+      "timestamp": "2025-06-14T17:22:50.794Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Entrancing [],Gemstone Teleporter to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "PPTp0",
+      "timestamp": "2025-06-14T17:22:50.794Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "peBZ8",
+      "timestamp": "2025-06-14T17:22:50.794Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "BkKht",
+      "timestamp": "2025-06-14T17:22:50.794Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 0
     }
   ]
 }
