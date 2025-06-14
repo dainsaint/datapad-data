@@ -172,6 +172,7 @@
       ],
       "texts": [
         "To form an alliance with the intrepid",
+        "Aid negotiation ",
         ""
       ],
       "result": [],
@@ -614,7 +615,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 980.3669999999969,
+      "timeElapsed": 991.3689999999968,
       "actualTime": {
         "s": "2025-06-14T17:27:05.086+00:00",
         "e": "2025-06-14T17:45:05.086+00:00",
