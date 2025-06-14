@@ -247,8 +247,11 @@
         "Gift the Realm golden apples as a gift",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0
+      ],
+      "voteTime": "2025-06-14T18:30:20.222+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -821,7 +824,7 @@
       "status": "playing",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 607.3979999999976,
+      "timeElapsed": 610.3999999999976,
       "actualTime": {
         "s": "2025-06-14T18:20:11.976+00:00",
         "e": "2025-06-14T18:31:11.976+00:00",
