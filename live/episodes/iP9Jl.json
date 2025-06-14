@@ -998,13 +998,13 @@
       "_type": "Phase",
       "id": "FUaiu",
       "type": "Universal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 4,
       "duration": 300,
-      "timeElapsed": 2.096,
+      "timeElapsed": 296.2999999999999,
       "actualTime": {
         "s": "2025-06-14T21:13:28.086+00:00",
-        "e": "2025-06-14T21:18:28.086+00:00",
+        "e": "2025-06-14T21:18:23.809+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46767,6 +46767,22 @@
       "type": "PhaseStarted",
       "description": "Round 4: Universal Phase",
       "value": "2025-06-14T21:13:28.086Z"
+    },
+    {
+      "_type": "Record",
+      "id": "SxG00",
+      "timestamp": "2025-06-14T21:18:23.809Z",
+      "type": "PhaseEnded",
+      "description": "Round 4: Universal Phase",
+      "value": "2025-06-14T21:18:23.809Z"
+    },
+    {
+      "_type": "Record",
+      "id": "WyVxE",
+      "timestamp": "2025-06-14T21:18:23.809Z",
+      "type": "PhaseDuration",
+      "description": "Round 4: Universal Phase",
+      "value": 4.928716666666666
     }
   ]
 }
