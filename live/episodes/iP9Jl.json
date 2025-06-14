@@ -1052,7 +1052,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 400.21899999999926,
+      "timeElapsed": 403.21899999999926,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -1753,18 +1753,6 @@
         "_type": "Tags",
         "value": [
           "destroyed"
-        ]
-      }
-    },
-    {
-      "_type": "Resource",
-      "id": "a3BPb",
-      "communityId": "cBV-v",
-      "name": "Robust Education",
-      "tags": {
-        "_type": "Tags",
-        "value": [
-          "exhausted"
         ]
       }
     },
