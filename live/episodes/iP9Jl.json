@@ -444,10 +444,12 @@
       "societyId": "yXHVO",
       "resourceIds": [
         "Y6pPT",
-        "IQ-UE"
+        "IQ-UE",
+        "bAewl"
       ],
       "texts": [
         "To launch a comprehensive energy diversification r&d initiative to establish our expertise in all known energy sources in the galaxy ",
+        "To shore up the prototype technology ",
         ""
       ],
       "result": [],
@@ -948,7 +950,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 29.006,
+      "timeElapsed": 31.006,
       "actualTime": {
         "s": "2025-06-14T20:39:28.631+00:00",
         "e": "2025-06-14T20:51:28.631+00:00",
