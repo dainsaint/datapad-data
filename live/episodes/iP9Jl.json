@@ -1930,6 +1930,7 @@
       "name": "Script",
       "icon": "fa-scroll",
       "googleDocId": "1QcLeu3uYx2UBNTtc07xQuKd9cOtlMOh29d-dx1j_X1E",
+      "status": "ok",
       "content": {
         "type": "root",
         "children": [
@@ -3674,31 +3675,8 @@
           },
           {
             "type": "element",
-            "tagName": "ul",
-            "properties": {
-              "className": [
-                "nesting-level-1"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "There is a low stim zone area in the reception room through these doors, with fidgets, coloring utensils, sketchbook paper, and there are gentle question reminders to get your brain thinking about debrief later. The low stim zone is an area you can retreat to for autonomous breaks we are in for a long gameplay day! Outside is also available for your break time. Feel free to bring fidget toys to your table if that aids you during gameplay."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
             "tagName": "p",
             "properties": {
-              "style": "padding-left: 36PT; text-indent: 36PT",
               "className": [
                 "normal-text"
               ]
@@ -3706,7 +3684,7 @@
             "children": [
               {
                 "type": "text",
-                "value": ""
+                "value": "We are here to make sure you’re taken care of as you’re playing the game with us. If you need to take a break from gameplay. There is  a low stim  zone located  in the reception room through these doors, with fidgets, coloring utensils, sketchbook paper, There are 2 Bathrooms are to the right of the East Room in the hallway."
               }
             ]
           },
@@ -3726,163 +3704,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Debrief happens after game play please stick around for that part. "
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "padding-left: 36PT; text-indent: 36PT",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "strong",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "There will be three different modes of Debrief"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "ul",
-            "properties": {
-              "className": [
-                "nesting-level-2"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Solo Writing/Doodling/Self-Directed Hang Out → Ari, Reception Room"
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "ul",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "li",
-                        "properties": {},
-                        "children": []
-                      },
-                      {
-                        "type": "element",
-                        "tagName": "li",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "Physical Movement → Joe and Jackie, Outside (weather permitting)"
-                          }
-                        ]
-                      },
-                      {
-                        "type": "element",
-                        "tagName": "li",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "Group Discussion (with the option to split into smaller groups)  → KC, Matthew, Anthony, Main Room "
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "padding-left: 72PT; text-indent: 72PT",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": ""
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "ul",
-            "properties": {
-              "className": [
-                "nesting-level-1"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Reminder please keep your mask on at all times. We have S Clips if you need to keep them off of your ears and silicon stoppers for a more snug fit if your mask is too loose. You are welcome to take covid test home with you as well to contact trace for yourselves. Breaks longer than a minute for eating or drinking please take those breaks outside or in low stim zone areas."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "padding-left: 36PT; text-indent: 36PT",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": ""
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "ul",
-            "properties": {
-              "className": [
-                "nesting-level-1"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "2 Bathrooms are to the right of the East Room in the hallway."
+                    "value": ""
                   }
                 ]
               }
@@ -3910,67 +3732,7 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "~ Point and name the necessary exits for emergencies ~"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "text-align: center",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Mention captioning "
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "text-align: center",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "And To be mindful of cords on the floor"
+                        "value": "~ Point and name the necessary fire emergency exits "
                       }
                     ]
                   }
@@ -4024,37 +3786,10 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Meal time is from 2:30-3:30, we have blankets, and sheets if folks want to sit in the grass. There's trees and grass all around so take advantage of the outside space! Don’t forget to check your body for ticks. Always use proper consent to be very close to others when eating or drinking in regards to covid safety. During meal time try to remember to move your body."
+                    "value": "Meal time is from 2:30-3:30, "
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "padding-left: 36PT; text-indent: 36PT",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": ""
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "ul",
-            "properties": {
-              "className": [
-                "nesting-level-1"
-              ]
-            },
-            "children": [
+              },
               {
                 "type": "element",
                 "tagName": "li",
@@ -4062,7 +3797,51 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "We have a Player Safety Rep, Ari, go to Ari for any concerns related to major conflict or concerns, if you are unable to delegate conflict amongst yourselves, or if anything heinous occurred please let Ari know and we will assist you.   "
+                    "value": "We have a Player Safety Rep, Ari, if you need to process anything outside of gameplay. "
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Thank you so much for being here ! Pass mic "
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": " "
                   },
                   {
                     "type": "element",
@@ -4074,50 +3853,6 @@
                         "value": ""
                       }
                     ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "strong",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
                   }
                 ]
               }
@@ -6698,7 +6433,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "D"
+                "value": ""
               }
             ]
           },
@@ -16496,7 +16231,11 @@
             "children": [
               {
                 "type": "text",
-                "value": "Universe Responds #2"
+                "value": "U"
+              },
+              {
+                "type": "text",
+                "value": "niverse Responds #2"
               }
             ]
           },
@@ -16723,7 +16462,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "It’s stunning. Life-affirming. A true reminder of how far Kin has come since the fall of the Empire."
+                "value": "It’s beautiful. Life-affirming. A true reminder of how far Kin has come since the fall of the Empire."
               }
             ]
           },
@@ -17127,7 +16866,11 @@
             "children": [
               {
                 "type": "text",
-                "value": "But today, there is a stunning announcement from UEC: "
+                "value": "T"
+              },
+              {
+                "type": "text",
+                "value": "oday, there is a surprise announcement from UEC: "
               }
             ]
           },
@@ -17162,9 +16905,370 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "MATTHEW/JOE"
+                    "value": "MATTHEW"
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Greetings! We, the UEC,"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "JOE"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "your power, our concern, "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "MATTHEW"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "We have seen your power crisis, and in our concern we have a solution for you – our citizens of Kin. You have the opportunity to join our Energy Well Pilot Program. No more lugging those inefficient batteries across our galaxy. That has wasted time, left us vulnerable to attack, and endlessly paying Transcorp to maintain a failing system."
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "We are building a laser onto our Siphon, the size of our blackhole Unity, to beam energy directly to each of your worlds."
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "JOE"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "That’s right, if … "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "MATTHEW"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "–WHEN "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "JOE"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "–w"
+              },
+              {
+                "type": "text",
+                "value": "hen you join the UEC for our Energy Well Pilot Program, our power across the galaxy will be stabilized and stronger than ever."
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "MATTHEW"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Now to participate in our Energy Well Pilot Program, your society just needs to perform a small task to aid this effort and bring us, all, power."
               }
             ]
           },
@@ -17184,36 +17288,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "They may well have a solution to the crisis. They are offering your societies a chance to join their Energy Well Pilot Program — rather than lugging these massive, inefficient batteries on time-wasting routes, vulnerable to attack, they have devised a way to beam energy directly from the Siphon to each of your worlds."
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": " "
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "To participate in the program, you need only perform a task to aid this effort. "
+                    "value": " "
                   }
                 ]
               }
@@ -17443,7 +17518,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "So the question is: As the energy crisis, worsens threatening your way of life, what do you do?"
+                "value": "So the question is: As the energy crisis worsens threatening your way of life, what do you do?"
               }
             ]
           },
@@ -19517,41 +19592,7 @@
                         "children": [
                           {
                             "type": "text",
-                            "value": "This is the (People’s Pub or Leader’s Lobby). Here you can mingle with other Individual characters from many worlds."
-                          }
-                        ]
-                      },
-                      {
-                        "type": "element",
-                        "tagName": "li",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "i",
-                            "properties": {},
-                            "children": [
-                              {
-                                "type": "element",
-                                "tagName": "strong",
-                                "properties": {},
-                                "children": [
-                                  {
-                                    "type": "element",
-                                    "tagName": "span",
-                                    "properties": {
-                                      "style": "background-color: rgb(255, 255, 0)"
-                                    },
-                                    "children": [
-                                      {
-                                        "type": "text",
-                                        "value": "WRITER’S ROOM HELP - what is the in-world explanation for these spaces? Virtual reality?"
-                                      }
-                                    ]
-                                  }
-                                ]
-                              }
-                            ]
+                            "value": "People’s Pub: \u000bThis is the People’s Pub. A meeting place located on an old TransCorp ship that shuttles between different worlds. Here you can mingle with other Individual characters from many worlds."
                           }
                         ]
                       },
@@ -19562,11 +19603,72 @@
                         "children": [
                           {
                             "type": "text",
-                            "value": "Explain that you’re one of the Keepers who will be in the space. You’re kind of like a forum moderator - there to answer questions and keep the peace."
+                            "value": "Leader’s Lobby: \u000bWelcome to the Star Seed’s Leaders Lobby. The galaxy’s oldest and finest satellite hotel. Here you can mingle with other Individual characters from many worlds."
                           }
                         ]
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "padding-left: 72PT; text-indent: 72PT",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "span",
+                        "properties": {
+                          "style": "background-color: rgb(255, 255, 0)"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": ""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-2"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Explain that you’re one of the Keepers who will be in the space. You’re kind of like a forum moderator - there to answer questions and keep the peace."
                   }
                 ]
               }
