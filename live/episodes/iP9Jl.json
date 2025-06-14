@@ -851,7 +851,7 @@
       "status": "playing",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 490.23899999999963,
+      "timeElapsed": 521.2429999999996,
       "actualTime": {
         "s": "2025-06-14T18:33:29.749+00:00",
         "e": "2025-06-14T18:45:29.749+00:00",
@@ -1898,6 +1898,16 @@
       "id": "nABHS",
       "communityId": "Rcsl8",
       "name": "Ionic Capacitors ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "Tx5VI",
+      "communityId": "nmW7Z",
+      "name": "Prototype Energy Well",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -45879,6 +45889,13 @@
       "timestamp": "2025-06-14T18:38:20.283Z",
       "type": "ResourceCreated",
       "value": "Ionic Capacitors "
+    },
+    {
+      "_type": "Record",
+      "id": "ST4BP",
+      "timestamp": "2025-06-14T18:42:10.370Z",
+      "type": "ResourceCreated",
+      "value": "Prototype Energy Well"
     }
   ]
 }
