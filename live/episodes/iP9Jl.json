@@ -377,18 +377,6 @@
     },
     {
       "_type": "Community",
-      "id": "Qc0VV",
-      "societyId": "e-JcG",
-      "player": "F",
-      "name": "Belligerent X",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "yT0gQ",
       "societyId": "V9xbw",
       "player": "[]",
