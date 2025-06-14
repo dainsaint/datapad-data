@@ -496,10 +496,9 @@
       "round": "4",
       "societyId": "V9xbw",
       "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "texts": [
+        "Further the construction of the university "
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1069,7 +1068,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 458.23499999999893,
+      "timeElapsed": 494.25399999999865,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
