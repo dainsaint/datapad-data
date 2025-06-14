@@ -427,7 +427,7 @@
       "_type": "Community",
       "id": "Rcsl8",
       "societyId": "Feay0",
-      "player": "Person 3",
+      "player": "Brandon He/him",
       "name": "Cunning __",
       "voice": "leader",
       "tags": {
@@ -1835,7 +1835,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "xUCao": "",
-        "cBV-v": ""
+        "cBV-v": "",
+        "Rcsl8": ""
       },
       "alterLeadership": {}
     },
