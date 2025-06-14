@@ -1051,7 +1051,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 346.1809999999996,
+      "timeElapsed": 349.1799999999996,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -2001,6 +2001,16 @@
       "id": "H7aJ1",
       "communityId": "WG1xC",
       "name": "Upgraded Energy Well",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "uqEm0",
+      "communityId": "xUCao",
+      "name": "Plasma SMELTERS",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -46889,6 +46899,13 @@
       "timestamp": "2025-06-14T21:23:41.738Z",
       "type": "ResourceCreated",
       "value": "Upgraded Emergy Well"
+    },
+    {
+      "_type": "Record",
+      "id": "LKI7C",
+      "timestamp": "2025-06-14T21:24:12.503Z",
+      "type": "ResourceCreated",
+      "value": "Plasma SMELTERS"
     }
   ]
 }
