@@ -1196,7 +1196,7 @@
       "type": "Individual Phase",
       "status": "idle",
       "round": 4,
-      "duration": 480,
+      "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:30:36.411+00:00",
