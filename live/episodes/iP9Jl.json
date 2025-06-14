@@ -1052,7 +1052,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 410.21999999999923,
+      "timeElapsed": 412.2209999999992,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -1623,9 +1623,7 @@
       "name": "Convincing Language",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
