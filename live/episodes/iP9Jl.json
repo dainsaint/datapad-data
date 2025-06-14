@@ -86,7 +86,9 @@
         "Provide security and stability for abundance",
         ""
       ],
-      "result": [],
+      "result": [
+        0
+      ],
       "voteTime": "2025-06-14T17:43:02.409+00:00",
       "status": "voted",
       "tags": {
@@ -168,6 +170,7 @@
         "Vg6u8"
       ],
       "texts": [
+        "To form an alliance with the intrepid",
         ""
       ],
       "result": [],
@@ -610,7 +613,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 957.282999999997,
+      "timeElapsed": 974.2869999999969,
       "actualTime": {
         "s": "2025-06-14T17:27:05.086+00:00",
         "e": "2025-06-14T17:45:05.086+00:00",
