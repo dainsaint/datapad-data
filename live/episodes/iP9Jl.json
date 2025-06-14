@@ -900,13 +900,13 @@
       "_type": "Phase",
       "id": "Mu4yB",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 3,
       "duration": 720,
       "timeElapsed": 721.4539999999965,
       "actualTime": {
         "s": "2025-06-14T20:25:24.715+00:00",
-        "e": "2025-06-14T20:35:24.715+00:00",
+        "e": "2025-06-14T20:37:43.639+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
