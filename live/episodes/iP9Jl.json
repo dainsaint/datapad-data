@@ -642,7 +642,8 @@
       "round": "5",
       "societyId": "V9xbw",
       "resourceIds": [
-        "cjMzG"
+        "cjMzG",
+        "l9TXe"
       ],
       "texts": [
         "",
@@ -1305,7 +1306,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 391.16999999999945,
+      "timeElapsed": 393.16999999999945,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
