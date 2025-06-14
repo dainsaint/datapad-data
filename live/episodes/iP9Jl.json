@@ -882,6 +882,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "M8dPd",
+      "societyId": "V9xbw",
+      "player": "",
+      "name": "Sacrificial Lambs",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -1253,7 +1265,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 221.09100000000024,
+      "timeElapsed": 245.09800000000027,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
