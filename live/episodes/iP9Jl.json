@@ -151,7 +151,7 @@
       "_type": "Community",
       "id": "baFQb",
       "societyId": "e-JcG",
-      "player": "A",
+      "player": "Tay She/her",
       "name": "Honorable X",
       "voice": "leader",
       "tags": {
@@ -1895,7 +1895,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "baFQb": ""
+      },
       "alterLeadership": {
         "baFQb": "leader",
         "HxH3y": "leader",
