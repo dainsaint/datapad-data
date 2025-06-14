@@ -138,11 +138,12 @@
       "id": "i4j-t",
       "round": "1",
       "societyId": "yXHVO",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "lQeWw"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -583,7 +584,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 861.1629999999975,
+      "timeElapsed": 863.1629999999975,
       "actualTime": {
         "s": "2025-06-14T17:27:05.086+00:00",
         "e": "2025-06-14T17:45:05.086+00:00",
