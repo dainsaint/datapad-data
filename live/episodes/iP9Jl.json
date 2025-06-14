@@ -623,7 +623,8 @@
       "round": "5",
       "societyId": "Feay0",
       "resourceIds": [
-        "qTEM0"
+        "qTEM0",
+        "OFqbe"
       ],
       "texts": [
         "Make blood batteries from dead marauders",
@@ -1306,7 +1307,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 393.16999999999945,
+      "timeElapsed": 396.1709999999994,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
