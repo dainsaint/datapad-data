@@ -1409,13 +1409,13 @@
       "_type": "Phase",
       "id": "qlXMQ",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 5,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "e": "2025-06-14T22:31:28.261+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1428,13 +1428,13 @@
       "_type": "Phase",
       "id": "CQStZ",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 6,
-      "duration": 240,
-      "timeElapsed": 0,
+      "duration": 300,
+      "timeElapsed": 2,
       "actualTime": {
-        "s": "2025-06-13T21:30:36.411+00:00",
-        "e": "2025-06-13T21:30:36.411+00:00",
+        "s": "2025-06-14T22:31:29.378+00:00",
+        "e": "2025-06-14T22:35:29.378+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1539,7 +1539,9 @@
       "name": "Countless Followers ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1549,7 +1551,9 @@
       "name": "Supportive Dialogue ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1559,9 +1563,7 @@
       "name": "Shrieking Altars",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1582,8 +1584,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -1687,8 +1688,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -1722,7 +1722,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -1795,7 +1796,9 @@
       "name": "Expansive Maps",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1855,7 +1858,9 @@
       "name": "Convincing Language",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1865,9 +1870,7 @@
       "name": "Golden Orchards",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1887,9 +1890,7 @@
       "name": "Memetic Eraser ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1919,9 +1920,7 @@
       "name": "Gemstone Teleporter",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2065,9 +2064,7 @@
       "name": "Huge Libraries",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2129,7 +2126,9 @@
       "name": "Scouting Talismans",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2139,9 +2138,7 @@
       "name": "Imperial Codes",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2163,9 +2160,7 @@
       "name": "Energy Well",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2209,7 +2204,9 @@
       "name": "Fun Curriculum",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2249,9 +2246,7 @@
       "name": "Expert Craftsmen",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2919,6 +2914,61 @@
       "_type": "Turn",
       "id": "pzZxr",
       "round": 5,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "lCl0b",
+      "round": 6,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "v0_i8",
+      "round": 6,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "dYaal",
+      "round": 6,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "z7SH6",
+      "round": 6,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "D5kJ_",
+      "round": 6,
       "societyId": "yXHVO",
       "risk": 1,
       "advantage": 0,
@@ -47537,6 +47587,94 @@
       "timestamp": "2025-06-14T22:27:58.710Z",
       "type": "ResourceCreated",
       "value": "Marauders Warships"
+    },
+    {
+      "_type": "Record",
+      "id": "c7tGK",
+      "timestamp": "2025-06-14T22:31:28.261Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "KB0UB",
+      "timestamp": "2025-06-14T22:31:28.261Z",
+      "type": "ActionResources",
+      "description": "the faithful used Supportive Dialogue ,Countless Followers  to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "G9m-W",
+      "timestamp": "2025-06-14T22:31:28.261Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "wVYkK",
+      "timestamp": "2025-06-14T22:31:28.261Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Fun Curriculum,Convincing Language to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "w-cAU",
+      "timestamp": "2025-06-14T22:31:28.261Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "iyk2t",
+      "timestamp": "2025-06-14T22:31:28.261Z",
+      "type": "ActionResources",
+      "description": "the mighty used Blood Recycler__ __,High Quality RAW MATERIALS to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "iq015",
+      "timestamp": "2025-06-14T22:31:28.261Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "nPD7v",
+      "timestamp": "2025-06-14T22:31:28.261Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Expansive Maps,Scouting Talismans to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "Jo19z",
+      "timestamp": "2025-06-14T22:31:28.261Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "aj4ZE",
+      "timestamp": "2025-06-14T22:31:28.261Z",
+      "type": "ActionResources",
+      "description": "the enterprise used Analytical Mycelium,Subterranean Buses to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "UN5pP",
+      "timestamp": "2025-06-14T22:31:29.378Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Universal Phase",
+      "value": "2025-06-14T22:31:29.378Z"
     }
   ]
 }
