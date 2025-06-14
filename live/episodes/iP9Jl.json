@@ -1069,7 +1069,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 423.22399999999914,
+      "timeElapsed": 450.232999999999,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
@@ -2027,6 +2027,16 @@
       "id": "HRbdn",
       "communityId": "Rcsl8",
       "name": "Expert Craftsmen",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "FjoGW",
+      "communityId": "xUCao",
+      "name": "High Quality RAW MATERIALS",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -46929,6 +46939,13 @@
       "timestamp": "2025-06-14T21:25:00.378Z",
       "type": "ResourceCreated",
       "value": "Expert Craftsmen"
+    },
+    {
+      "_type": "Record",
+      "id": "y4q0-",
+      "timestamp": "2025-06-14T21:25:55.173Z",
+      "type": "ResourceCreated",
+      "value": "High Quality RAW MATERIALS"
     }
   ]
 }
