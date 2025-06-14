@@ -676,6 +676,7 @@
         "p7DGu"
       ],
       "texts": [
+        "Broker a truce between the UEC enemies ",
         ""
       ],
       "result": [],
@@ -1374,7 +1375,7 @@
       "status": "playing",
       "round": 5,
       "duration": 720,
-      "timeElapsed": 0,
+      "timeElapsed": 27.008000000000006,
       "actualTime": {
         "s": "2025-06-14T22:14:33.857+00:00",
         "e": "2025-06-14T22:26:33.857+00:00",
