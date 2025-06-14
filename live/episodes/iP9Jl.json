@@ -906,7 +906,7 @@
       "status": "playing",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 575.2149999999981,
+      "timeElapsed": 578.2149999999981,
       "actualTime": {
         "s": "2025-06-14T19:01:15.167+00:00",
         "e": "2025-06-14T19:11:15.167+00:00",
@@ -1480,7 +1480,9 @@
       "name": "Subterranean Buses",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
