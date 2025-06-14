@@ -45,7 +45,10 @@
         "look fab",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-14T15:37:51.471+00:00",
       "status": "voted",
       "tags": {
@@ -567,7 +570,7 @@
       "type": "Setup/Onboarding",
       "status": "idle",
       "round": 0,
-      "duration": 480,
+      "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:30:36.410+00:00",
