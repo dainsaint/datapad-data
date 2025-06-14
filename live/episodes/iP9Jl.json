@@ -427,7 +427,7 @@
       "_type": "Community",
       "id": "xUCao",
       "societyId": "Feay0",
-      "player": "Person 1",
+      "player": "BRITTNEY SHE/HER",
       "name": "Venerated __",
       "voice": "leader",
       "tags": {
@@ -1857,7 +1857,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "xUCao": ""
+      },
       "alterLeadership": {}
     },
     {
