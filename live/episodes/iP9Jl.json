@@ -611,7 +611,10 @@
         "",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-14T22:16:47.566+00:00",
       "status": "voted",
       "tags": {
@@ -1386,7 +1389,7 @@
       "status": "playing",
       "round": 5,
       "duration": 720,
-      "timeElapsed": 133.0560000000001,
+      "timeElapsed": 135.0570000000001,
       "actualTime": {
         "s": "2025-06-14T22:14:33.857+00:00",
         "e": "2025-06-14T22:26:33.857+00:00",
@@ -2845,9 +2848,9 @@
       "id": "hS1Qp",
       "round": 5,
       "societyId": "V9xbw",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "1",
+      "advantage": "1",
+      "disadvantage": "0",
       "emissaryCommunityId": "ZTISw",
       "ambassadors": {
         "ZTISw": ""
