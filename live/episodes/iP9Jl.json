@@ -107,7 +107,10 @@
         "Wow the attendees ",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-14T17:42:47.236+00:00",
       "status": "voted",
       "tags": {
@@ -605,7 +608,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 941.2089999999971,
+      "timeElapsed": 944.278999999997,
       "actualTime": {
         "s": "2025-06-14T17:27:05.086+00:00",
         "e": "2025-06-14T17:45:05.086+00:00",
