@@ -979,13 +979,13 @@
       "_type": "Phase",
       "id": "wrNJO",
       "type": "Individual Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 3,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 624.3839999999981,
       "actualTime": {
         "s": "2025-06-14T21:00:40.204+00:00",
-        "e": "2025-06-14T21:10:40.204+00:00",
+        "e": "2025-06-14T21:11:04.518+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46596,6 +46596,102 @@
       "type": "PhaseStarted",
       "description": "Round 3: Individual Phase",
       "value": "2025-06-14T21:00:40.204Z"
+    },
+    {
+      "_type": "Record",
+      "id": "zHg4L",
+      "timestamp": "2025-06-14T21:11:04.518Z",
+      "type": "PhaseEnded",
+      "description": "Round 3: Individual Phase",
+      "value": "2025-06-14T21:11:04.518Z"
+    },
+    {
+      "_type": "Record",
+      "id": "jDQN4",
+      "timestamp": "2025-06-14T21:11:04.519Z",
+      "type": "PhaseDuration",
+      "description": "Round 3: Individual Phase",
+      "value": 10.405233333333333
+    },
+    {
+      "_type": "Record",
+      "id": "EXK16",
+      "timestamp": "2025-06-14T21:11:04.519Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "nxxft",
+      "timestamp": "2025-06-14T21:11:04.519Z",
+      "type": "ActionResources",
+      "description": "the faithful used Healing Plants,Robust Education to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "sN5Yq",
+      "timestamp": "2025-06-14T21:11:04.519Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "ntGSe",
+      "timestamp": "2025-06-14T21:11:04.519Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Convincing Language,Advanced Extractors ,Organic Regenerators to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "cU_dB",
+      "timestamp": "2025-06-14T21:11:04.519Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "FN9nr",
+      "timestamp": "2025-06-14T21:11:04.519Z",
+      "type": "ActionResources",
+      "description": "the mighty used _Titanium_ Swords,Mutual Aid Network  to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "Mpzn4",
+      "timestamp": "2025-06-14T21:11:04.519Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "K9z0R",
+      "timestamp": "2025-06-14T21:11:04.519Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Endless Stamina,Crepuscular Feasts to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "B9GFp",
+      "timestamp": "2025-06-14T21:11:04.519Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "GJxSo",
+      "timestamp": "2025-06-14T21:11:04.519Z",
+      "type": "ActionResources",
+      "description": "the enterprise used Analytical Mycelium,Mycelium Energy Well,Traditional Endowments to take action.",
+      "value": 3
     }
   ]
 }
