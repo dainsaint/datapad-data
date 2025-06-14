@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 1064.3899999999962,
+      "timeElapsed": 1070.3949999999963,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1228,7 +1228,7 @@
       "_type": "Resource",
       "id": "Y6pPT",
       "communityId": "JdDRm",
-      "name": "Analytical ",
+      "name": "Analytical Mycelium",
       "tags": {
         "_type": "Tags",
         "value": []
