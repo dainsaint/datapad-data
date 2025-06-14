@@ -1877,7 +1877,13 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {},
-      "alterLeadership": {}
+      "alterLeadership": {
+        "R29jS": "leader",
+        "r1dal": "leader",
+        "JdDRm": "leader",
+        "gRrcN": "leader",
+        "AJzGJ": "leader"
+      }
     },
     {
       "_type": "Turn",
