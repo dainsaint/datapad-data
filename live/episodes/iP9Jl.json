@@ -906,7 +906,7 @@
       "status": "playing",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 580.2159999999981,
+      "timeElapsed": 583.2159999999981,
       "actualTime": {
         "s": "2025-06-14T19:01:15.167+00:00",
         "e": "2025-06-14T19:11:15.167+00:00",
@@ -1434,9 +1434,7 @@
       "name": "Mnemonic Songs",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
