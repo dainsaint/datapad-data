@@ -903,10 +903,10 @@
       "_type": "Phase",
       "id": "O7Hkr",
       "type": "Break",
-      "status": "playing",
+      "status": "paused",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 588.2149999999981,
+      "timeElapsed": 620.2339999999976,
       "actualTime": {
         "s": "2025-06-14T19:01:15.167+00:00",
         "e": "2025-06-14T19:11:15.167+00:00",
