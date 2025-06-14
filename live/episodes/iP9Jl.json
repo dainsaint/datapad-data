@@ -1175,13 +1175,13 @@
       "_type": "Phase",
       "id": "ilgvy",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 950.3169999999984,
+      "timeElapsed": 1056.331999999998,
       "actualTime": {
         "s": "2025-06-14T21:31:46.768+00:00",
-        "e": "2025-06-14T21:43:46.768+00:00",
+        "e": "2025-06-14T21:49:22.765+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -47091,6 +47091,22 @@
       "timestamp": "2025-06-14T21:34:00.045Z",
       "type": "ResourceCreated",
       "value": "Plasma CANNONS"
+    },
+    {
+      "_type": "Record",
+      "id": "FD6hg",
+      "timestamp": "2025-06-14T21:49:22.766Z",
+      "type": "PhaseEnded",
+      "description": "Round 4: Galactic Phase",
+      "value": "2025-06-14T21:49:22.766Z"
+    },
+    {
+      "_type": "Record",
+      "id": "PSqGp",
+      "timestamp": "2025-06-14T21:49:22.766Z",
+      "type": "PhaseDuration",
+      "description": "Round 4: Galactic Phase",
+      "value": 17.59995
     }
   ]
 }
