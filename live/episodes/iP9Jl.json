@@ -500,7 +500,7 @@
       "id": "Q5mwY",
       "societyId": "e-JcG",
       "player": "Sarah Peony She/they",
-      "name": "X Pilots",
+      "name": "Sparkly Pilots",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1200,
-      "timeElapsed": 881.2489999999972,
+      "timeElapsed": 892.2519999999971,
       "actualTime": {
         "s": "2025-06-14T16:48:55.289+00:00",
         "e": "2025-06-14T17:08:55.289+00:00",
@@ -1871,7 +1871,8 @@
         "baFQb": "",
         "HxH3y": "",
         "nmW7Z": "",
-        "l5d1f": ""
+        "l5d1f": "",
+        "Q5mwY": ""
       },
       "alterLeadership": {
         "baFQb": "leader",
