@@ -498,11 +498,13 @@
       "resourceIds": [
         "Nuy8t",
         "M3SI8",
-        "RmFMh"
+        "RmFMh",
+        "vv9ks"
       ],
       "texts": [
         "Continue building university ",
         "To support building",
+        "",
         ""
       ],
       "result": [],
@@ -1131,7 +1133,7 @@
       "status": "playing",
       "round": 4,
       "duration": 660,
-      "timeElapsed": 626.3399999999976,
+      "timeElapsed": 628.3409999999976,
       "actualTime": {
         "s": "2025-06-14T21:18:24.774+00:00",
         "e": "2025-06-14T21:28:24.774+00:00",
