@@ -870,7 +870,7 @@
       "status": "playing",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 3.002,
+      "timeElapsed": 357.059,
       "actualTime": {
         "s": "2025-06-14T18:50:25.289+00:00",
         "e": "2025-06-14T19:00:25.289+00:00",
@@ -888,7 +888,7 @@
       "type": "Break",
       "status": "idle",
       "round": 2,
-      "duration": 300,
+      "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:30:36.410+00:00",
