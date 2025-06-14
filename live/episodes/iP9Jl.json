@@ -687,9 +687,7 @@
       "id": "k6Xw6",
       "round": "5",
       "societyId": "e-JcG",
-      "resourceIds": [
-        "TSCkq"
-      ],
+      "resourceIds": [],
       "texts": [
         "Create safe meeting places",
         ""
@@ -1351,7 +1349,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 469.20199999999903,
+      "timeElapsed": 472.202999999999,
       "actualTime": {
         "s": "2025-06-14T22:05:48.888+00:00",
         "e": "2025-06-14T22:13:48.888+00:00",
