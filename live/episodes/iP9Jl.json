@@ -719,7 +719,7 @@
       "status": "playing",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 299.2079999999999,
+      "timeElapsed": 305.20999999999987,
       "actualTime": {
         "s": "2025-06-14T18:20:11.976+00:00",
         "e": "2025-06-14T18:31:11.976+00:00",
@@ -1140,7 +1140,9 @@
       "name": "Buried Relics",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
