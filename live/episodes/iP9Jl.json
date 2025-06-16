@@ -1572,7 +1572,7 @@
       "_type": "Phase",
       "id": "zJkVX",
       "type": "Generational Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 6,
       "duration": 960,
       "timeElapsed": 1303.3549999999964,
@@ -47790,15 +47790,15 @@
     {
       "_type": "Record",
       "id": "LNeFM",
-      "timestamp": "2025-06-14T23:00:07.017Z",
+      "timestamp": "2025-06-14T23:00:07.017+00:00",
       "type": "PhaseEnded",
       "description": "Round 6: Generational Phase",
-      "value": "2025-06-14T23:00:07.017Z"
+      "value": "2025-06-14T23:00:07.017+00:00"
     },
     {
       "_type": "Record",
       "id": "CpDLG",
-      "timestamp": "2025-06-14T23:00:07.018Z",
+      "timestamp": "2025-06-14T23:00:07.018+00:00",
       "type": "PhaseDuration",
       "description": "Round 6: Generational Phase",
       "value": 23.120383333333333
@@ -47806,10 +47806,10 @@
     {
       "_type": "Record",
       "id": "m2VFP",
-      "timestamp": "2025-06-14T23:00:08.066Z",
+      "timestamp": "2025-06-14T23:00:08.066+00:00",
       "type": "PhaseStarted",
       "description": "Round 6: Conclusion",
-      "value": "2025-06-14T23:00:08.066Z"
+      "value": "2025-06-14T23:00:08.066+00:00"
     }
   ]
 }
