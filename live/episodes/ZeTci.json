@@ -81,6 +81,7 @@
       ],
       "texts": [
         "Make the kids think we're cool",
+        "Make the kids think we're cool",
         ""
       ],
       "result": [],
@@ -129,7 +130,10 @@
         "Support the diagrams with presentations",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-18T22:24:14.403+00:00",
       "status": "voted",
       "tags": {
