@@ -719,10 +719,10 @@
       "_type": "Phase",
       "id": "uCfsG",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 1.005,
+      "timeElapsed": 29.026000000000003,
       "actualTime": {
         "s": "2025-06-18T22:44:43.494+00:00",
         "e": "2025-06-18T22:56:43.494+00:00",
@@ -44978,10 +44978,10 @@
     {
       "_type": "Record",
       "id": "ND88C",
-      "timestamp": "2025-06-18T22:44:43.494Z",
+      "timestamp": "2025-06-18T22:44:43.494+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
-      "value": "2025-06-18T22:44:43.494Z"
+      "value": "2025-06-18T22:44:43.494+00:00"
     }
   ]
 }
