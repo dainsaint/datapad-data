@@ -1295,13 +1295,13 @@
       "_type": "Phase",
       "id": "ao-zv",
       "type": "Galactic Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 2,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T22:00:00.491+00:00",
-        "e": "2025-06-13T22:12:00.491+00:00",
+        "e": "2025-06-18T18:57:39.204+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1314,13 +1314,13 @@
       "_type": "Phase",
       "id": "iFRIY",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-06-03T19:48:49.252+00:00",
+        "e": "2025-06-18T18:57:40.056+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1333,13 +1333,13 @@
       "_type": "Phase",
       "id": "VZQ7m",
       "type": "Break",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-02T18:41:47.647+00:00",
-        "e": "2025-06-03T19:48:49.709+00:00",
+        "e": "2025-06-18T18:57:40.693+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46687,6 +46687,78 @@
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "RRRlS",
+      "timestamp": "2025-06-18T18:57:40.693Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "gamfH",
+      "timestamp": "2025-06-18T18:57:40.693Z",
+      "type": "ActionResources",
+      "description": "the faithful used arg,feral cats to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "CXPMF",
+      "timestamp": "2025-06-18T18:57:40.693Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "nRsfJ",
+      "timestamp": "2025-06-18T18:57:40.693Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Heavy Ass Sandbags to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "PxaZc",
+      "timestamp": "2025-06-18T18:57:40.693Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "KQbI6",
+      "timestamp": "2025-06-18T18:57:40.693Z",
+      "type": "ActionResources",
+      "description": "the mighty used Incredible Thighs to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "fG1aL",
+      "timestamp": "2025-06-18T18:57:40.693Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "CzUpm",
+      "timestamp": "2025-06-18T18:57:40.693Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "PRzt-",
+      "timestamp": "2025-06-18T18:57:40.693Z",
+      "type": "ActionResources",
+      "description": "the enterprise used Personal Shields  to take action.",
+      "value": 1
     }
   ]
 }
