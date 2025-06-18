@@ -818,7 +818,18 @@
     }
   ],
   "players": [],
-  "resources": [],
+  "resources": [
+    {
+      "_type": "Resource",
+      "id": "FZOOF",
+      "communityId": "DgkcU",
+      "name": "Learned Muskrats",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    }
+  ],
   "societies": [
     {
       "_type": "Society",
@@ -44573,6 +44584,13 @@
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "H8DCP",
+      "timestamp": "2025-06-18T22:21:25.463Z",
+      "type": "ResourceCreated",
+      "value": "Learned Muskrats"
     }
   ]
 }
