@@ -873,6 +873,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "pbMYf",
+      "communityId": "baFQb",
+      "name": "Good Luck",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44643,6 +44653,13 @@
       "timestamp": "2025-06-18T22:21:28.942Z",
       "type": "ResourceCreated",
       "value": "Spicy Cheetoes"
+    },
+    {
+      "_type": "Record",
+      "id": "Cynel",
+      "timestamp": "2025-06-18T22:21:44.061Z",
+      "type": "ResourceCreated",
+      "value": "Good Luck"
     }
   ]
 }
