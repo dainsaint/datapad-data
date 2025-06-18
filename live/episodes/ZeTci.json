@@ -731,13 +731,13 @@
       "_type": "Phase",
       "id": "uCfsG",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 75.107,
+      "timeElapsed": 77.107,
       "actualTime": {
-        "s": "2025-06-18T23:02:06.121+00:00",
-        "e": "2025-06-18T23:14:06.121+00:00",
+        "s": "2025-06-18T23:04:04.009+00:00",
+        "e": "2025-06-18T23:16:04.009+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45043,6 +45043,14 @@
       "timestamp": "2025-06-18T23:02:32.178+00:00",
       "type": "ResourceCreated",
       "value": "Terrifying Grip Strength"
+    },
+    {
+      "_type": "Record",
+      "id": "G5fxE",
+      "timestamp": "2025-06-18T23:04:04.009Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Societal Phase",
+      "value": "2025-06-18T23:04:04.009Z"
     }
   ]
 }
