@@ -1153,6 +1153,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "nJFcG",
+      "communityId": "ZQ5E1",
+      "name": "Starlight Navigation",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45059,6 +45069,13 @@
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
       "value": "2025-06-18T23:04:20.492Z"
+    },
+    {
+      "_type": "Record",
+      "id": "D62N2",
+      "timestamp": "2025-06-18T23:05:57.711Z",
+      "type": "ResourceCreated",
+      "value": "Starlight Navigation"
     }
   ]
 }
