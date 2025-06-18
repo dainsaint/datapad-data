@@ -722,10 +722,10 @@
       "status": "paused",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 29.026000000000003,
+      "timeElapsed": 31.029000000000003,
       "actualTime": {
-        "s": "2025-06-18T22:44:43.494+00:00",
-        "e": "2025-06-18T22:56:43.494+00:00",
+        "s": "2025-06-18T22:59:10.453+00:00",
+        "e": "2025-06-18T23:11:10.453+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -44982,6 +44982,14 @@
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
       "value": "2025-06-18T22:44:43.494+00:00"
+    },
+    {
+      "_type": "Record",
+      "id": "RIqKQ",
+      "timestamp": "2025-06-18T22:59:10.453Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Societal Phase",
+      "value": "2025-06-18T22:59:10.453Z"
     }
   ]
 }
