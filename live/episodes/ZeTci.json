@@ -701,13 +701,13 @@
       "_type": "Phase",
       "id": "uCfsG",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 3,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "s": "2025-06-18T22:32:09.542+00:00",
+        "e": "2025-06-18T22:44:09.542+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -44948,6 +44948,14 @@
       "timestamp": "2025-06-18T22:31:38.783Z",
       "type": "ResourceCreated",
       "value": "Strong Rope"
+    },
+    {
+      "_type": "Record",
+      "id": "Bz--2",
+      "timestamp": "2025-06-18T22:32:09.542Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Societal Phase",
+      "value": "2025-06-18T22:32:09.542Z"
     }
   ]
 }
