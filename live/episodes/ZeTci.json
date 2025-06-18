@@ -1058,6 +1058,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "Mm-tS",
+      "communityId": "CYPuO",
+      "name": "Sharp Slippers",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44863,6 +44873,13 @@
       "timestamp": "2025-06-18T22:26:39.450Z",
       "type": "ResourceCreated",
       "value": "Shrieking Altars"
+    },
+    {
+      "_type": "Record",
+      "id": "SwQJU",
+      "timestamp": "2025-06-18T22:27:13.857Z",
+      "type": "ResourceCreated",
+      "value": "Sharp Slippers"
     }
   ]
 }
