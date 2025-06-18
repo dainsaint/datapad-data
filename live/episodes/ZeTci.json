@@ -731,13 +731,13 @@
       "_type": "Phase",
       "id": "uCfsG",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 3,
       "duration": 720,
       "timeElapsed": 42.03,
       "actualTime": {
         "s": "2025-06-18T23:01:45.416+00:00",
-        "e": "2025-06-18T23:13:45.416+00:00",
+        "e": "2025-06-18T23:02:03.431+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
