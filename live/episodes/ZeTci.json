@@ -1103,6 +1103,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "avw36",
+      "communityId": "ZQ5E1",
+      "name": "Strong Rope",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44931,6 +44941,13 @@
       "timestamp": "2025-06-18T22:30:45.317Z",
       "type": "ResourceCreated",
       "value": "Spicy Potatoes"
+    },
+    {
+      "_type": "Record",
+      "id": "IM1FV",
+      "timestamp": "2025-06-18T22:31:38.783Z",
+      "type": "ResourceCreated",
+      "value": "Strong Rope"
     }
   ]
 }
