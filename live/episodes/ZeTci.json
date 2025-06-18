@@ -734,7 +734,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 42.03,
+      "timeElapsed": 68.108,
       "actualTime": {
         "s": "2025-06-18T23:02:06.121+00:00",
         "e": "2025-06-18T23:14:06.121+00:00",
@@ -1139,6 +1139,16 @@
       "id": "avw36",
       "communityId": "ZQ5E1",
       "name": "Strong Rope",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "nd9ko",
+      "communityId": "iRW5s",
+      "name": "Terrifying Grip Strength",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -45026,6 +45036,13 @@
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
       "value": "2025-06-18T23:02:06.121Z"
+    },
+    {
+      "_type": "Record",
+      "id": "IBaVK",
+      "timestamp": "2025-06-18T23:02:32.178Z",
+      "type": "ResourceCreated",
+      "value": "Terrifying Grip Strength"
     }
   ]
 }
