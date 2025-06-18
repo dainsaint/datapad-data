@@ -307,13 +307,13 @@
       "_type": "Phase",
       "id": "RwtYa",
       "type": "Setup/Onboarding",
-      "status": "idle",
+      "status": "complete",
       "round": 0,
       "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "e": "2025-06-18T22:21:06.511+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -44288,5 +44288,46 @@
     }
   ],
   "links": {},
-  "records": []
+  "records": [
+    {
+      "_type": "Record",
+      "id": "ZUzjW",
+      "timestamp": "2025-06-18T22:21:06.511Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "y7Wvo",
+      "timestamp": "2025-06-18T22:21:06.511Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "UHMZq",
+      "timestamp": "2025-06-18T22:21:06.511Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "Vzv5a",
+      "timestamp": "2025-06-18T22:21:06.511Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "j-bKR",
+      "timestamp": "2025-06-18T22:21:06.511Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 0
+    }
+  ]
 }
