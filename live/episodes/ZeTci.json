@@ -734,10 +734,10 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 31.029000000000003,
+      "timeElapsed": 37.03,
       "actualTime": {
-        "s": "2025-06-18T23:01:39.299+00:00",
-        "e": "2025-06-18T23:13:39.299+00:00",
+        "s": "2025-06-18T23:01:45.416+00:00",
+        "e": "2025-06-18T23:13:45.416+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45010,6 +45010,14 @@
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
       "value": "2025-06-18T23:01:39.300Z"
+    },
+    {
+      "_type": "Record",
+      "id": "oT2xF",
+      "timestamp": "2025-06-18T23:01:45.416Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Societal Phase",
+      "value": "2025-06-18T23:01:45.416Z"
     }
   ]
 }
