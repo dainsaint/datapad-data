@@ -731,10 +731,10 @@
       "_type": "Phase",
       "id": "uCfsG",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 68.108,
+      "timeElapsed": 101.12200000000007,
       "actualTime": {
         "s": "2025-06-18T23:02:06.121+00:00",
         "e": "2025-06-18T23:14:06.121+00:00",
@@ -45008,39 +45008,39 @@
     {
       "_type": "Record",
       "id": "RIqKQ",
-      "timestamp": "2025-06-18T22:59:10.453Z",
+      "timestamp": "2025-06-18T22:59:10.453+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
-      "value": "2025-06-18T22:59:10.453Z"
+      "value": "2025-06-18T22:59:10.453+00:00"
     },
     {
       "_type": "Record",
       "id": "n0Rf_",
-      "timestamp": "2025-06-18T23:01:39.300Z",
+      "timestamp": "2025-06-18T23:01:39.300+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
-      "value": "2025-06-18T23:01:39.300Z"
+      "value": "2025-06-18T23:01:39.300+00:00"
     },
     {
       "_type": "Record",
       "id": "oT2xF",
-      "timestamp": "2025-06-18T23:01:45.416Z",
+      "timestamp": "2025-06-18T23:01:45.416+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
-      "value": "2025-06-18T23:01:45.416Z"
+      "value": "2025-06-18T23:01:45.416+00:00"
     },
     {
       "_type": "Record",
       "id": "jaCMH",
-      "timestamp": "2025-06-18T23:02:06.122Z",
+      "timestamp": "2025-06-18T23:02:06.122+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
-      "value": "2025-06-18T23:02:06.121Z"
+      "value": "2025-06-18T23:02:06.121+00:00"
     },
     {
       "_type": "Record",
       "id": "IBaVK",
-      "timestamp": "2025-06-18T23:02:32.178Z",
+      "timestamp": "2025-06-18T23:02:32.178+00:00",
       "type": "ResourceCreated",
       "value": "Terrifying Grip Strength"
     }
