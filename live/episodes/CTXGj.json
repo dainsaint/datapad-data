@@ -1352,13 +1352,13 @@
       "_type": "Phase",
       "id": "tJXlr",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 3,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-24T03:26:28.659+00:00",
-        "e": "2025-06-03T19:48:53.316+00:00",
+        "e": "2025-06-18T18:57:41.193+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1371,13 +1371,13 @@
       "_type": "Phase",
       "id": "mBIUo",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 3,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-04-16T22:14:26.371+00:00",
-        "e": "2025-06-03T19:48:54.316+00:00",
+        "e": "2025-06-18T18:57:41.737+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1390,13 +1390,13 @@
       "_type": "Phase",
       "id": "KnY3K",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 3,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-26T00:06:55.382+00:00",
-        "e": "2025-06-03T19:48:54.831+00:00",
+        "e": "2025-06-18T18:57:42.071+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1409,13 +1409,13 @@
       "_type": "Phase",
       "id": "xOO-S",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 3,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-11T19:03:20.805+00:00",
-        "e": "2025-06-11T19:03:20.805+00:00",
+        "e": "2025-06-18T18:57:42.616+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1428,13 +1428,13 @@
       "_type": "Phase",
       "id": "vS8v2",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 4,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T22:07:51.603+00:00",
-        "e": "2025-05-17T12:14:36.354+00:00",
+        "e": "2025-06-18T18:57:43.373+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46759,6 +46759,54 @@
       "type": "ActionResources",
       "description": "the enterprise used Personal Shields  to take action.",
       "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "O--CP",
+      "timestamp": "2025-06-18T18:57:42.616Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "p9heU",
+      "timestamp": "2025-06-18T18:57:42.616Z",
+      "type": "ActionResources",
+      "description": "the faithful used righteous anger to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "sTTB9",
+      "timestamp": "2025-06-18T18:57:42.616Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "ougre",
+      "timestamp": "2025-06-18T18:57:42.616Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "f7lJl",
+      "timestamp": "2025-06-18T18:57:42.616Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "TVw5m",
+      "timestamp": "2025-06-18T18:57:42.616Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 0
     }
   ]
 }
