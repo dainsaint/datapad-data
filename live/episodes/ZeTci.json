@@ -215,11 +215,12 @@
       "id": "MliJq",
       "round": "3",
       "societyId": "yXHVO",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "sTmIC"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -751,7 +752,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 646.3729999999972,
+      "timeElapsed": 648.3719999999972,
       "actualTime": {
         "s": "2025-06-18T23:06:13.294+00:00",
         "e": "2025-06-18T23:18:13.294+00:00",
