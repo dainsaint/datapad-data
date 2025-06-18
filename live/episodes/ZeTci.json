@@ -455,7 +455,7 @@
       "id": "Z8-ZD",
       "societyId": "yXHVO",
       "player": "",
-      "name": "Adaptable ___",
+      "name": "Adaptable Tubercollectors",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1459,7 +1459,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "Z8-ZD": ""
+      },
       "alterLeadership": {}
     }
   ],
