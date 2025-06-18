@@ -498,7 +498,7 @@
       "societyId": "yXHVO",
       "player": "Cat",
       "name": "Cloistered Balloonists",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1542,7 +1542,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "Z8-ZD": ""
+        "Z8-ZD": "",
+        "ZQ5E1": ""
       },
       "alterLeadership": {}
     }
