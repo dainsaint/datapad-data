@@ -473,6 +473,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "ZQ5E1",
+      "societyId": "yXHVO",
+      "player": "Cat",
+      "name": "Cloistered Balloonists",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
