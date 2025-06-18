@@ -712,7 +712,7 @@
       "_type": "Phase",
       "id": "qY-y5",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 3,
       "duration": 300,
       "timeElapsed": 0,
@@ -734,7 +734,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 77.107,
+      "timeElapsed": 83.11800000000001,
       "actualTime": {
         "s": "2025-06-18T23:04:04.009+00:00",
         "e": "2025-06-18T23:16:04.009+00:00",
