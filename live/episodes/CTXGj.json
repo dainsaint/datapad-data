@@ -1447,13 +1447,13 @@
       "_type": "Phase",
       "id": "MFyrT",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 4,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-04-20T19:28:15.501+00:00",
-        "e": "2025-05-10T17:48:47.649+00:00",
+        "e": "2025-06-18T18:57:44.014+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1466,13 +1466,13 @@
       "_type": "Phase",
       "id": "dr96n",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 4,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T03:53:00.133+00:00",
-        "e": "2025-05-10T17:48:56.974+00:00",
+        "e": "2025-06-18T18:57:44.360+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1485,13 +1485,13 @@
       "_type": "Phase",
       "id": "Z6ovG",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 4,
       "duration": 480,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T16:06:16.286+00:00",
-        "e": "2025-05-10T17:49:04.987+00:00",
+        "e": "2025-06-18T18:57:44.969+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1504,13 +1504,13 @@
       "_type": "Phase",
       "id": "Oa_Yg",
       "type": "Break",
-      "status": "idle",
+      "status": "complete",
       "round": 4,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-17T12:14:53.780+00:00",
-        "e": "2025-05-17T12:14:53.780+00:00",
+        "e": "2025-06-18T18:57:45.793+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46804,6 +46804,46 @@
       "_type": "Record",
       "id": "TVw5m",
       "timestamp": "2025-06-18T18:57:42.616Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "HrE0H",
+      "timestamp": "2025-06-18T18:57:45.793Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "uF8mn",
+      "timestamp": "2025-06-18T18:57:45.793Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "n9ir9",
+      "timestamp": "2025-06-18T18:57:45.793Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "F716W",
+      "timestamp": "2025-06-18T18:57:45.793Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "c-qwa",
+      "timestamp": "2025-06-18T18:57:45.793Z",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
