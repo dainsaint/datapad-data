@@ -84,8 +84,12 @@
         "Make the kids think we're coo",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0
+      ],
+      "voteTime": "2025-06-18T22:24:28.174+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
