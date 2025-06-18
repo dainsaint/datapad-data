@@ -225,7 +225,8 @@
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-18T23:19:41.775+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -752,13 +753,13 @@
       "_type": "Phase",
       "id": "uCfsG",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 3,
       "duration": 720,
       "timeElapsed": 719.4219999999966,
       "actualTime": {
         "s": "2025-06-18T23:06:13.294+00:00",
-        "e": "2025-06-18T23:18:13.294+00:00",
+        "e": "2025-06-18T23:19:39.262+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -771,13 +772,13 @@
       "_type": "Phase",
       "id": "y_J11",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 0,
+      "timeElapsed": 2.001,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "s": "2025-06-18T23:19:40.503+00:00",
+        "e": "2025-06-18T23:31:40.503+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45106,6 +45107,14 @@
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
       "value": "2025-06-18T23:06:13.295Z"
+    },
+    {
+      "_type": "Record",
+      "id": "WsctV",
+      "timestamp": "2025-06-18T23:19:40.503Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Galactic Phase",
+      "value": "2025-06-18T23:19:40.503Z"
     }
   ]
 }
