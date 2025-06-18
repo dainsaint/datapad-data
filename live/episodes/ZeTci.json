@@ -719,13 +719,13 @@
       "_type": "Phase",
       "id": "uCfsG",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "playing",
       "round": 3,
       "duration": 720,
       "timeElapsed": 1.005,
       "actualTime": {
-        "s": "2025-06-18T22:32:09.542+00:00",
-        "e": "2025-06-18T22:44:09.542+00:00",
+        "s": "2025-06-18T22:44:14.175+00:00",
+        "e": "2025-06-18T22:56:14.175+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -44974,6 +44974,14 @@
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
       "value": "2025-06-18T22:32:09.542+00:00"
+    },
+    {
+      "_type": "Record",
+      "id": "RUdXo",
+      "timestamp": "2025-06-18T22:44:14.175Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Societal Phase",
+      "value": "2025-06-18T22:44:14.175Z"
     }
   ]
 }
