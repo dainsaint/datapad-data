@@ -1279,7 +1279,7 @@
       "status": "complete",
       "round": 2,
       "duration": 660,
-      "timeElapsed": 128.0670000000001,
+      "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:57:12.551+00:00",
         "e": "2025-06-13T21:59:21.205+00:00",
