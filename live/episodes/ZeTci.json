@@ -64,7 +64,7 @@
         0
       ],
       "voteTime": "2025-06-18T22:22:10.027+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -104,8 +104,12 @@
         "Illustrate the intri",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0
+      ],
+      "voteTime": "2025-06-18T22:23:31.942+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
