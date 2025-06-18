@@ -907,6 +907,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "sikEC",
+      "communityId": "DgkcU",
+      "name": "Magical Powerpoints",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44684,6 +44694,13 @@
       "timestamp": "2025-06-18T22:21:44.061Z",
       "type": "ResourceCreated",
       "value": "Good Luck"
+    },
+    {
+      "_type": "Record",
+      "id": "Bl5hW",
+      "timestamp": "2025-06-18T22:23:04.943Z",
+      "type": "ResourceCreated",
+      "value": "Magical Powerpoints"
     }
   ]
 }
