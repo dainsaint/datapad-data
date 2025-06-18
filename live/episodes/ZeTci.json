@@ -148,7 +148,7 @@
       "disadvantage": 0,
       "result": [
         3,
-        4
+        3
       ],
       "voteTime": "2025-06-18T22:24:14.403+00:00",
       "status": "voted",
@@ -778,7 +778,7 @@
       "status": "playing",
       "round": 3,
       "duration": 900,
-      "timeElapsed": 44.035999999999994,
+      "timeElapsed": 47.03699999999999,
       "actualTime": {
         "s": "2025-06-18T23:19:40.503+00:00",
         "e": "2025-06-18T23:31:40.503+00:00",
