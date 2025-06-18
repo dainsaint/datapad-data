@@ -1162,7 +1162,7 @@
       "_type": "Phase",
       "id": "KN4Rt",
       "type": "Setup/Onboarding",
-      "status": "complete",
+      "status": "idle",
       "round": 0,
       "duration": 480,
       "timeElapsed": 0,
