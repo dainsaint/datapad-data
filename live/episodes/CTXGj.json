@@ -1181,7 +1181,7 @@
       "_type": "Phase",
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 1,
       "duration": 240,
       "timeElapsed": 0,
@@ -1203,7 +1203,7 @@
       "status": "idle",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 48.028,
+      "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:09:53.808+00:00",
         "e": "2025-06-13T21:10:42.180+00:00",
