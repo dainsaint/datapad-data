@@ -775,10 +775,10 @@
       "_type": "Phase",
       "id": "y_J11",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 3,
       "duration": 900,
-      "timeElapsed": 492.29899999999833,
+      "timeElapsed": 531.3049999999982,
       "actualTime": {
         "s": "2025-06-18T23:29:47.134+00:00",
         "e": "2025-06-18T23:44:47.134+00:00",
