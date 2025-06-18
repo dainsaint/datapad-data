@@ -2,7 +2,7 @@
   "_type": "Episode",
   "id": "E-xVR",
   "name": "Episode2 Testing",
-  "date": "2025-06-18",
+  "date": "2025-06-18T00:00:00.000+00:00",
   "scheduledTime": {
     "s": "2025-06-18T21:22:48.640+00:00",
     "e": "2025-06-19T02:22:48.640+00:00",
@@ -287,15 +287,15 @@
   "phases": [
     {
       "_type": "Phase",
-      "id": "L8GdP",
+      "id": "inztZ",
       "type": "Setup/Onboarding",
       "status": "idle",
       "round": 0,
       "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -306,15 +306,15 @@
     },
     {
       "_type": "Phase",
-      "id": "GECi8",
+      "id": "xP84F",
       "type": "Universal Phase",
       "status": "idle",
       "round": 1,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -325,15 +325,15 @@
     },
     {
       "_type": "Phase",
-      "id": "OeBCp",
+      "id": "fFpbL",
       "type": "Societal Phase",
       "status": "idle",
       "round": 1,
       "duration": 1080,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -344,15 +344,15 @@
     },
     {
       "_type": "Phase",
-      "id": "QTw7q",
+      "id": "di32i",
       "type": "Galactic Phase",
       "status": "idle",
       "round": 1,
       "duration": 900,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -363,15 +363,15 @@
     },
     {
       "_type": "Phase",
-      "id": "rssHt",
+      "id": "X27ce",
       "type": "Individual Phase",
       "status": "idle",
       "round": 1,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -382,15 +382,15 @@
     },
     {
       "_type": "Phase",
-      "id": "uNlg0",
+      "id": "y-1MK",
       "type": "Universal Phase",
       "status": "idle",
       "round": 2,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -401,15 +401,15 @@
     },
     {
       "_type": "Phase",
-      "id": "jgxkM",
+      "id": "QJXqw",
       "type": "Societal Phase",
       "status": "idle",
       "round": 2,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -420,15 +420,15 @@
     },
     {
       "_type": "Phase",
-      "id": "lhXKX",
+      "id": "P966c",
       "type": "Galactic Phase",
       "status": "idle",
       "round": 2,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -439,15 +439,15 @@
     },
     {
       "_type": "Phase",
-      "id": "vm8wb",
+      "id": "BpVn7",
       "type": "Individual Phase",
       "status": "idle",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -458,15 +458,15 @@
     },
     {
       "_type": "Phase",
-      "id": "M3zVT",
+      "id": "MrQlH",
       "type": "Break",
       "status": "idle",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -477,15 +477,15 @@
     },
     {
       "_type": "Phase",
-      "id": "Td6Bc",
+      "id": "JZLaC",
       "type": "Universal Phase",
       "status": "idle",
       "round": 3,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -496,15 +496,15 @@
     },
     {
       "_type": "Phase",
-      "id": "s6PLt",
+      "id": "HX7vu",
       "type": "Societal Phase",
       "status": "idle",
       "round": 3,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -515,15 +515,15 @@
     },
     {
       "_type": "Phase",
-      "id": "mFf1X",
+      "id": "ae0XO",
       "type": "Galactic Phase",
       "status": "idle",
       "round": 3,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -534,15 +534,15 @@
     },
     {
       "_type": "Phase",
-      "id": "O3tQ5",
+      "id": "OrU_E",
       "type": "Individual Phase",
       "status": "idle",
       "round": 3,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -553,15 +553,15 @@
     },
     {
       "_type": "Phase",
-      "id": "GGCc_",
+      "id": "i00di",
       "type": "Universal Phase",
       "status": "idle",
       "round": 4,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -572,15 +572,15 @@
     },
     {
       "_type": "Phase",
-      "id": "MEZMO",
+      "id": "A_WGk",
       "type": "Societal Phase",
       "status": "idle",
       "round": 4,
       "duration": 660,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -591,15 +591,15 @@
     },
     {
       "_type": "Phase",
-      "id": "x8cf7",
+      "id": "gQesQ",
       "type": "Galactic Phase",
       "status": "idle",
       "round": 4,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -610,15 +610,15 @@
     },
     {
       "_type": "Phase",
-      "id": "haB_9",
+      "id": "edsyl",
       "type": "Individual Phase",
       "status": "idle",
       "round": 4,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -629,15 +629,15 @@
     },
     {
       "_type": "Phase",
-      "id": "I4Rm9",
+      "id": "f77_W",
       "type": "Universal Phase",
       "status": "idle",
       "round": 5,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -648,15 +648,15 @@
     },
     {
       "_type": "Phase",
-      "id": "Nn0zL",
+      "id": "FUFPX",
       "type": "Societal Phase",
       "status": "idle",
       "round": 5,
       "duration": 480,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -667,15 +667,15 @@
     },
     {
       "_type": "Phase",
-      "id": "U1cTY",
+      "id": "jGzJG",
       "type": "Galactic Phase",
       "status": "idle",
       "round": 5,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -686,15 +686,15 @@
     },
     {
       "_type": "Phase",
-      "id": "b40XK",
+      "id": "y3dIc",
       "type": "Individual Phase",
       "status": "idle",
       "round": 5,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -705,15 +705,15 @@
     },
     {
       "_type": "Phase",
-      "id": "Dgumx",
+      "id": "gzyGF",
       "type": "Universal Phase",
       "status": "idle",
       "round": 6,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -724,15 +724,15 @@
     },
     {
       "_type": "Phase",
-      "id": "egaKc",
+      "id": "rvpuG",
       "type": "Societal Phase",
       "status": "idle",
       "round": 6,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.608+00:00",
-        "e": "2025-06-18T21:39:20.608+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -743,15 +743,15 @@
     },
     {
       "_type": "Phase",
-      "id": "oGi2I",
+      "id": "p7kYE",
       "type": "Galactic Phase",
       "status": "idle",
       "round": 6,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.609+00:00",
-        "e": "2025-06-18T21:39:20.609+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -762,15 +762,15 @@
     },
     {
       "_type": "Phase",
-      "id": "kleUd",
+      "id": "R8YxV",
       "type": "Generational Phase",
       "status": "idle",
       "round": 6,
       "duration": 960,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.609+00:00",
-        "e": "2025-06-18T21:39:20.609+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -781,15 +781,15 @@
     },
     {
       "_type": "Phase",
-      "id": "esftx",
+      "id": "PeHgq",
       "type": "Conclusion",
       "status": "idle",
       "round": 6,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-18T21:39:20.609+00:00",
-        "e": "2025-06-18T21:39:20.609+00:00",
+        "s": "2025-06-18T21:39:54.814+00:00",
+        "e": "2025-06-18T21:39:54.814+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -963,7 +963,7 @@
   "documents": [
     {
       "_type": "Document",
-      "id": "GzUKa",
+      "id": "xzLw2",
       "name": "Script",
       "icon": "fa-scroll",
       "googleDocId": "1QcLeu3uYx2UBNTtc07xQuKd9cOtlMOh29d-dx1j_X1E",
@@ -28867,7 +28867,7 @@
     },
     {
       "_type": "Document",
-      "id": "yfEhm",
+      "id": "GR4EI",
       "name": "Rules",
       "icon": "fa-scale-balanced",
       "googleDocId": "1k_TK2l6W1WKhCIqoDxCzCF2ahS5J-1oveQtxyfKq8RU",
@@ -40378,7 +40378,7 @@
     },
     {
       "_type": "Document",
-      "id": "gpqmm",
+      "id": "hEpv4",
       "name": "Pf-Uni-Gal",
       "icon": "fa-arrows",
       "googleDocId": "12KDGkwt0g-E7vmr5XevgdCcT_O506jZlhws8dhbehE8",
