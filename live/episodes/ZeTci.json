@@ -224,7 +224,10 @@
         "Really squeeze them into it ",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-18T23:19:41.775+00:00",
       "status": "voted",
       "tags": {
@@ -774,8 +777,8 @@
       "type": "Galactic Phase",
       "status": "playing",
       "round": 3,
-      "duration": 720,
-      "timeElapsed": 2.001,
+      "duration": 900,
+      "timeElapsed": 10.007,
       "actualTime": {
         "s": "2025-06-18T23:19:40.503+00:00",
         "e": "2025-06-18T23:31:40.503+00:00",
