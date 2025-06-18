@@ -1001,6 +1001,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "DEg_7",
+      "communityId": "xUCao",
+      "name": "Blood Packets ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44792,6 +44802,13 @@
       "timestamp": "2025-06-18T22:24:38.897Z",
       "type": "ResourceCreated",
       "value": "Blood Bombs"
+    },
+    {
+      "_type": "Record",
+      "id": "oE5QL",
+      "timestamp": "2025-06-18T22:26:01.882Z",
+      "type": "ResourceCreated",
+      "value": "Blood Packets "
     }
   ]
 }
