@@ -182,8 +182,11 @@
         "Aid the invocation ritual of the Sons of Jeff and the Realm",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0
+      ],
+      "voteTime": "2025-06-18T22:27:24.921+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
