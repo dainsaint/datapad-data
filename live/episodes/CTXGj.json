@@ -1618,13 +1618,13 @@
       "_type": "Phase",
       "id": "ebgeJ",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 6,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T13:27:26.238+00:00",
-        "e": "2025-05-10T13:27:26.238+00:00",
+        "e": "2025-06-18T18:57:48.757+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1637,13 +1637,13 @@
       "_type": "Phase",
       "id": "eTVTw",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 6,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-12T21:35:21.813+00:00",
-        "e": "2025-05-12T21:35:21.813+00:00",
+        "e": "2025-06-18T18:57:49.076+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1656,13 +1656,13 @@
       "_type": "Phase",
       "id": "lyb7N",
       "type": "Generational Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 6,
       "duration": 900,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-05-10T15:52:59.017+00:00",
-        "e": "2025-05-10T15:52:59.017+00:00",
+        "e": "2025-06-18T18:57:49.674+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
