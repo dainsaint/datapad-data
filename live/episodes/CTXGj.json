@@ -1241,7 +1241,7 @@
       "status": "idle",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 599.5049999999973,
+      "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:12:51.592+00:00",
         "e": "2025-06-13T21:56:58.505+00:00",
