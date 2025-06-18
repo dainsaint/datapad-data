@@ -972,6 +972,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "i0HVf",
+      "communityId": "xUCao",
+      "name": "Blood Bombs",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44756,6 +44766,13 @@
       "timestamp": "2025-06-18T22:23:04.943Z",
       "type": "ResourceCreated",
       "value": "Magical Powerpoints"
+    },
+    {
+      "_type": "Record",
+      "id": "QhV9g",
+      "timestamp": "2025-06-18T22:24:38.897Z",
+      "type": "ResourceCreated",
+      "value": "Blood Bombs"
     }
   ]
 }
