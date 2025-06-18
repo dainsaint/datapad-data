@@ -61,7 +61,8 @@
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-18T22:22:10.027+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
