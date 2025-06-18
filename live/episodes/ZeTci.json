@@ -60,7 +60,9 @@
         "Teach affective mechanics ",
         ""
       ],
-      "result": [],
+      "result": [
+        0
+      ],
       "voteTime": "2025-06-18T22:22:10.027+00:00",
       "status": "voted",
       "tags": {
@@ -77,6 +79,7 @@
         "N5jiH"
       ],
       "texts": [
+        "Make the kids think we're cool",
         ""
       ],
       "result": [],
