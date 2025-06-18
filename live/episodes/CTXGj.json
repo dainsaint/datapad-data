@@ -1656,7 +1656,7 @@
       "_type": "Phase",
       "id": "lyb7N",
       "type": "Generational Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 6,
       "duration": 900,
       "timeElapsed": 0,
