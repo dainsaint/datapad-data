@@ -1071,6 +1071,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "sTmIC",
+      "communityId": "CYPuO",
+      "name": "Piercing Disappointment",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44883,6 +44893,13 @@
       "timestamp": "2025-06-18T22:27:13.857Z",
       "type": "ResourceCreated",
       "value": "Sharp Slippers"
+    },
+    {
+      "_type": "Record",
+      "id": "sF6hC",
+      "timestamp": "2025-06-18T22:28:22.498Z",
+      "type": "ResourceCreated",
+      "value": "Piercing Disappointment"
     }
   ]
 }
