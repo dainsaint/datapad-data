@@ -503,6 +503,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "iRW5s",
+      "societyId": "yXHVO",
+      "player": "Sam",
+      "name": "Tender Bodybuilders",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
