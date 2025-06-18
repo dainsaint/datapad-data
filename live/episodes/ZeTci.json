@@ -216,9 +216,11 @@
       "round": "3",
       "societyId": "yXHVO",
       "resourceIds": [
-        "sTmIC"
+        "sTmIC",
+        "nJFcG"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -752,7 +754,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 648.3719999999972,
+      "timeElapsed": 652.3739999999972,
       "actualTime": {
         "s": "2025-06-18T23:06:13.294+00:00",
         "e": "2025-06-18T23:18:13.294+00:00",
