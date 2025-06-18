@@ -1093,6 +1093,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "dH2Ne",
+      "communityId": "Z8-ZD",
+      "name": "Spicy Potatoes",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -44914,6 +44924,13 @@
       "timestamp": "2025-06-18T22:28:22.498Z",
       "type": "ResourceCreated",
       "value": "Piercing Disappointment"
+    },
+    {
+      "_type": "Record",
+      "id": "jxzef",
+      "timestamp": "2025-06-18T22:30:45.317Z",
+      "type": "ResourceCreated",
+      "value": "Spicy Potatoes"
     }
   ]
 }
