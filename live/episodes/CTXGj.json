@@ -1181,13 +1181,13 @@
       "_type": "Phase",
       "id": "TW6li",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-12T23:11:06.381+00:00",
-        "e": "2025-06-13T21:09:24.546+00:00",
+        "e": "2025-06-18T18:57:36.839+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1200,13 +1200,13 @@
       "_type": "Phase",
       "id": "r5gob",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 1080,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:09:53.808+00:00",
-        "e": "2025-06-13T21:10:42.180+00:00",
+        "e": "2025-06-18T18:57:37.356+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1219,13 +1219,13 @@
       "_type": "Phase",
       "id": "qveE2",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 900,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T00:50:13.612+00:00",
-        "e": "2025-06-13T21:12:47.871+00:00",
+        "e": "2025-06-18T18:57:37.621+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1238,13 +1238,13 @@
       "_type": "Phase",
       "id": "CxJcg",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 1,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:12:51.592+00:00",
-        "e": "2025-06-13T21:56:58.505+00:00",
+        "e": "2025-06-18T18:57:37.869+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1257,13 +1257,13 @@
       "_type": "Phase",
       "id": "ml6Q3",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 240,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-12T00:54:34.525+00:00",
-        "e": "2025-06-13T21:56:54.905+00:00",
+        "e": "2025-06-18T18:57:38.141+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1276,13 +1276,13 @@
       "_type": "Phase",
       "id": "BJ7S8",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 660,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-13T21:57:12.551+00:00",
-        "e": "2025-06-13T21:59:21.205+00:00",
+        "e": "2025-06-18T18:57:38.603+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46612,6 +46612,78 @@
       "_type": "Record",
       "id": "HwKI1",
       "timestamp": "2025-06-18T18:57:25.356Z",
+      "type": "SocietyActionsTaken",
+      "description": "the enterprise",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "tLAU5",
+      "timestamp": "2025-06-18T18:57:37.869Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "jIJ8v",
+      "timestamp": "2025-06-18T18:57:37.870Z",
+      "type": "ActionResources",
+      "description": "the faithful used feral cats,dirty litter to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "RiFeA",
+      "timestamp": "2025-06-18T18:57:37.870Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "zpmVI",
+      "timestamp": "2025-06-18T18:57:37.870Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Spring Rolls,Adele CDs to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "wOAXx",
+      "timestamp": "2025-06-18T18:57:37.870Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "CW4K1",
+      "timestamp": "2025-06-18T18:57:37.870Z",
+      "type": "ActionResources",
+      "description": "the mighty used Poisonous Chow,Diamond Pickaxes,Sonic Scissors to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "qawi-",
+      "timestamp": "2025-06-18T18:57:37.870Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "MvYey",
+      "timestamp": "2025-06-18T18:57:37.870Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Space Faring Hot Air Balloons,Slpstck Comedy Based Lesson Plans to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "x36Zo",
+      "timestamp": "2025-06-18T18:57:37.870Z",
       "type": "SocietyActionsTaken",
       "description": "the enterprise",
       "value": 0
