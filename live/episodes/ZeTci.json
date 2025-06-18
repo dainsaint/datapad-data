@@ -71,11 +71,12 @@
       "id": "RCfDK",
       "round": "3",
       "societyId": "e-JcG",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "N5jiH"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
