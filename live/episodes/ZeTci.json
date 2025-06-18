@@ -731,13 +731,13 @@
       "_type": "Phase",
       "id": "uCfsG",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 0,
+      "timeElapsed": 2.002,
       "actualTime": {
-        "s": "2025-06-18T23:04:20.492+00:00",
-        "e": "2025-06-18T23:16:20.492+00:00",
+        "s": "2025-06-18T23:06:13.294+00:00",
+        "e": "2025-06-18T23:18:13.294+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -45077,6 +45077,14 @@
       "timestamp": "2025-06-18T23:05:57.711Z",
       "type": "ResourceCreated",
       "value": "Starlight Navigation"
+    },
+    {
+      "_type": "Record",
+      "id": "nAve-",
+      "timestamp": "2025-06-18T23:06:13.295Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Societal Phase",
+      "value": "2025-06-18T23:06:13.295Z"
     }
   ]
 }
