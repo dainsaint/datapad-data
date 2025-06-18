@@ -159,7 +159,10 @@
         "Reinforce the vitality of our warriors",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-18T22:26:18.244+00:00",
       "status": "voted",
       "tags": {
@@ -1010,6 +1013,16 @@
       "id": "DEg_7",
       "communityId": "xUCao",
       "name": "Blood Packets ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "eYhr8",
+      "communityId": "bWsq5",
+      "name": "Shrieking Altars",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -44812,6 +44825,13 @@
       "timestamp": "2025-06-18T22:26:01.882Z",
       "type": "ResourceCreated",
       "value": "Blood Packets "
+    },
+    {
+      "_type": "Record",
+      "id": "in2-r",
+      "timestamp": "2025-06-18T22:26:39.450Z",
+      "type": "ResourceCreated",
+      "value": "Shrieking Altars"
     }
   ]
 }
