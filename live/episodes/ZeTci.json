@@ -632,6 +632,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "BNuWv",
+      "societyId": "V9xbw",
+      "player": "[] ()",
+      "name": "Dark []",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
