@@ -1387,6 +1387,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "U6kbF",
+      "communityId": "DgkcU",
+      "name": "Fun []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45369,6 +45379,13 @@
       "timestamp": "2025-06-20T19:18:00.579Z",
       "type": "ResourceCreated",
       "value": "Bears"
+    },
+    {
+      "_type": "Record",
+      "id": "vfBGo",
+      "timestamp": "2025-06-20T19:19:33.234Z",
+      "type": "ResourceCreated",
+      "value": "Fun []"
     }
   ]
 }
