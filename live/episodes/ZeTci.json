@@ -1227,13 +1227,13 @@
       "_type": "Phase",
       "id": "SBJee",
       "type": "Generational Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 6,
       "duration": 1200,
-      "timeElapsed": 0,
+      "timeElapsed": 2,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "s": "2025-06-20T22:19:05.831+00:00",
+        "e": "2025-06-20T22:39:05.831+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46952,6 +46952,14 @@
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "ShmMA",
+      "timestamp": "2025-06-20T22:19:05.831Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Generational Phase",
+      "value": "2025-06-20T22:19:05.831Z"
     }
   ]
 }
