@@ -1863,6 +1863,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "XPY83",
+      "communityId": "IytuF",
+      "name": "Transport Ships",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46160,6 +46170,13 @@
       "timestamp": "2025-06-20T19:33:42.674Z",
       "type": "ResourceCreated",
       "value": "Undying Fire"
+    },
+    {
+      "_type": "Record",
+      "id": "R2R6q",
+      "timestamp": "2025-06-20T19:34:40.090Z",
+      "type": "ResourceCreated",
+      "value": "Transport Ships"
     }
   ]
 }
