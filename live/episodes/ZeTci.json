@@ -445,8 +445,8 @@
       "_type": "Community",
       "id": "Rcsl8",
       "societyId": "Feay0",
-      "player": "Brandon He/him",
-      "name": "HARDWORKING builders",
+      "player": "",
+      "name": "builders",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1404,7 +1404,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "xUCao": ""
+        "xUCao": "",
+        "Rcsl8": ""
       },
       "alterLeadership": {}
     },
