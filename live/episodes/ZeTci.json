@@ -1823,6 +1823,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "kG235",
+      "communityId": "bWsq5",
+      "name": "Rhetorical Aptitude",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46092,6 +46102,13 @@
       "timestamp": "2025-06-20T19:31:24.422Z",
       "type": "ResourceCreated",
       "value": "X X"
+    },
+    {
+      "_type": "Record",
+      "id": "GYPdM",
+      "timestamp": "2025-06-20T19:31:27.142Z",
+      "type": "ResourceCreated",
+      "value": "Rhetorical Aptitude"
     }
   ]
 }
