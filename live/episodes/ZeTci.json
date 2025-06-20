@@ -1913,6 +1913,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "C-sPd",
+      "communityId": "yC0li",
+      "name": "Biological []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46245,6 +46255,13 @@
       "timestamp": "2025-06-20T19:36:31.343Z",
       "type": "ResourceCreated",
       "value": "Diplomatic []"
+    },
+    {
+      "_type": "Record",
+      "id": "NO4OF",
+      "timestamp": "2025-06-20T19:36:49.551Z",
+      "type": "ResourceCreated",
+      "value": "Biological []"
     }
   ]
 }
