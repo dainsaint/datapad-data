@@ -1803,6 +1803,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "phzIN",
+      "communityId": "baFQb",
+      "name": "X X",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46058,6 +46068,13 @@
       "timestamp": "2025-06-20T19:31:05.197Z",
       "type": "ResourceCreated",
       "value": "Green Hands"
+    },
+    {
+      "_type": "Record",
+      "id": "mmUMD",
+      "timestamp": "2025-06-20T19:31:12.418Z",
+      "type": "ResourceCreated",
+      "value": "X X"
     }
   ]
 }
