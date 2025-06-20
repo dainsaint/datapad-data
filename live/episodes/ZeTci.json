@@ -254,6 +254,23 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Action",
+      "id": "W8a-J",
+      "round": "0",
+      "societyId": "Feay0",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -652,6 +669,18 @@
       "player": "G",
       "name": "Belligerent X",
       "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Community",
+      "id": "Uyeis",
+      "societyId": "Feay0",
+      "player": "",
+      "name": "ANGRY",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
