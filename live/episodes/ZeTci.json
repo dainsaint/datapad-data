@@ -1397,6 +1397,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "SSMub",
+      "communityId": "xUCao",
+      "name": "_____ Bending",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45386,6 +45396,13 @@
       "timestamp": "2025-06-20T19:19:33.234Z",
       "type": "ResourceCreated",
       "value": "Fun []"
+    },
+    {
+      "_type": "Record",
+      "id": "KKW8R",
+      "timestamp": "2025-06-20T19:19:44.706Z",
+      "type": "ResourceCreated",
+      "value": "_____ Bending"
     }
   ]
 }
