@@ -721,6 +721,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "j8Gf_",
+      "societyId": "et0k8",
+      "player": "FMP7",
+      "name": "Soothing []",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
