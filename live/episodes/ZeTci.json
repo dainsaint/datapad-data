@@ -1447,6 +1447,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "ngIzv",
+      "communityId": "baFQb",
+      "name": "Universal X",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45471,6 +45481,13 @@
       "timestamp": "2025-06-20T19:20:52.551Z",
       "type": "ResourceCreated",
       "value": "Huge []"
+    },
+    {
+      "_type": "Record",
+      "id": "UX2y8",
+      "timestamp": "2025-06-20T19:21:09.009Z",
+      "type": "ResourceCreated",
+      "value": "Universal X"
     }
   ]
 }
