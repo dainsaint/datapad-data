@@ -1094,13 +1094,13 @@
       "_type": "Phase",
       "id": "EI8SB",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 5,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "e": "2025-06-20T22:18:52.834+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1113,13 +1113,13 @@
       "_type": "Phase",
       "id": "z5yUi",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 5,
       "duration": 480,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "e": "2025-06-20T22:18:53.260+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1132,13 +1132,13 @@
       "_type": "Phase",
       "id": "qWW_D",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 5,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "e": "2025-06-20T22:18:53.598+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1151,13 +1151,13 @@
       "_type": "Phase",
       "id": "wy9YA",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 5,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "e": "2025-06-20T22:18:53.952+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1170,13 +1170,13 @@
       "_type": "Phase",
       "id": "OrUOU",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 6,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "e": "2025-06-20T22:18:54.582+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -2435,6 +2435,116 @@
       "_type": "Turn",
       "id": "bifNp",
       "round": 4,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "lunX0",
+      "round": 5,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "jF5Pm",
+      "round": 5,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "kfnO5",
+      "round": 5,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "iwUTA",
+      "round": 5,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "cb10X",
+      "round": 5,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "s1tab",
+      "round": 6,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "k5Aj5",
+      "round": 6,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "MXLJH",
+      "round": 6,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "qNdjo",
+      "round": 6,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "xip2f",
+      "round": 6,
       "societyId": "yXHVO",
       "risk": 1,
       "advantage": 0,
@@ -46799,6 +46909,46 @@
       "_type": "Record",
       "id": "qLY2o",
       "timestamp": "2025-06-20T22:18:52.361Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "b7g1p",
+      "timestamp": "2025-06-20T22:18:53.952Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "MshwB",
+      "timestamp": "2025-06-20T22:18:53.952Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "hNHIJ",
+      "timestamp": "2025-06-20T22:18:53.952Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "e0IZD",
+      "timestamp": "2025-06-20T22:18:53.952Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "y0cta",
+      "timestamp": "2025-06-20T22:18:53.952Z",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
