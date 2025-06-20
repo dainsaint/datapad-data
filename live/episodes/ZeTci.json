@@ -433,8 +433,8 @@
       "_type": "Community",
       "id": "cBV-v",
       "societyId": "Feay0",
-      "player": "Moss They/them",
-      "name": "Loyal Squires",
+      "player": "",
+      "name": "Nurses",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1500,7 +1500,8 @@
         "xUCao": "",
         "Rcsl8": "",
         "adPGA": "",
-        "bIa2P": ""
+        "bIa2P": "",
+        "cBV-v": ""
       },
       "alterLeadership": {}
     },
