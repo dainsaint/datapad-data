@@ -530,7 +530,7 @@
       "id": "CYPuO",
       "societyId": "yXHVO",
       "player": "Joe He/they",
-      "name": "Militant Grannies",
+      "name": "Militant Teachers ",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -1590,7 +1590,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "Z8-ZD": "",
-        "ZQ5E1": ""
+        "ZQ5E1": "",
+        "CYPuO": ""
       },
       "alterLeadership": {}
     }
