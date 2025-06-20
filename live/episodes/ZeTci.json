@@ -506,7 +506,7 @@
       "id": "hqZZ8",
       "societyId": "yXHVO",
       "player": "",
-      "name": "___ Oracles",
+      "name": "Envious Druids",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1592,7 +1592,8 @@
       "ambassadors": {
         "Z8-ZD": "",
         "ZQ5E1": "",
-        "CYPuO": ""
+        "CYPuO": "",
+        "hqZZ8": ""
       },
       "alterLeadership": {}
     }
