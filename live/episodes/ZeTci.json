@@ -776,7 +776,7 @@
       "_type": "Phase",
       "id": "uCfsG",
       "type": "Societal Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 3,
       "duration": 720,
       "timeElapsed": 0,
