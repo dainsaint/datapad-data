@@ -1266,6 +1266,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "LE291",
+      "communityId": "hqZZ8",
+      "name": "Deep Silos",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45231,6 +45241,13 @@
       "timestamp": "2025-06-20T19:17:14.007Z",
       "type": "ResourceCreated",
       "value": "Factories "
+    },
+    {
+      "_type": "Record",
+      "id": "Ld0WM",
+      "timestamp": "2025-06-20T19:17:28.449Z",
+      "type": "ResourceCreated",
+      "value": "Deep Silos"
     }
   ]
 }
