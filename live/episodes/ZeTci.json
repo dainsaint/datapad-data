@@ -1793,6 +1793,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "WV5zq",
+      "communityId": "bWsq5",
+      "name": "Green Hands",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46041,6 +46051,13 @@
       "timestamp": "2025-06-20T19:30:00.843Z",
       "type": "ResourceCreated",
       "value": "Endless X"
+    },
+    {
+      "_type": "Record",
+      "id": "btkxE",
+      "timestamp": "2025-06-20T19:31:05.197Z",
+      "type": "ResourceCreated",
+      "value": "Green Hands"
     }
   ]
 }
