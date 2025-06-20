@@ -488,7 +488,7 @@
       "societyId": "e-JcG",
       "player": "Sarah Peony She/they",
       "name": "X X",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1894,7 +1894,8 @@
       "ambassadors": {
         "nmW7Z": "",
         "baFQb": "",
-        "l5d1f": ""
+        "l5d1f": "",
+        "Q5mwY": ""
       },
       "alterLeadership": {}
     },
