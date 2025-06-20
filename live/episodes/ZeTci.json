@@ -1903,6 +1903,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "VZF0V",
+      "communityId": "IytuF",
+      "name": "Diplomatic []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46228,6 +46238,13 @@
       "timestamp": "2025-06-20T19:36:04.968Z",
       "type": "ResourceCreated",
       "value": "[] Smelters"
+    },
+    {
+      "_type": "Record",
+      "id": "CSmEI",
+      "timestamp": "2025-06-20T19:36:31.343Z",
+      "type": "ResourceCreated",
+      "value": "Diplomatic []"
     }
   ]
 }
