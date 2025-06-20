@@ -1963,6 +1963,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "VrUN9",
+      "communityId": "ol1GN",
+      "name": "[] []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46330,6 +46340,13 @@
       "timestamp": "2025-06-20T19:37:36.679Z",
       "type": "ResourceCreated",
       "value": "[] Tomes"
+    },
+    {
+      "_type": "Record",
+      "id": "Howhc",
+      "timestamp": "2025-06-20T19:38:19.395Z",
+      "type": "ResourceCreated",
+      "value": "[] []"
     }
   ]
 }
