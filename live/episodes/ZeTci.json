@@ -1717,6 +1717,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "fFeKC",
+      "communityId": "baFQb",
+      "name": "Super-sneaky Stealth",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45934,6 +45944,13 @@
       "timestamp": "2025-06-20T19:27:11.270Z",
       "type": "ResourceCreated",
       "value": "Joyful Disobedience "
+    },
+    {
+      "_type": "Record",
+      "id": "jh_Rv",
+      "timestamp": "2025-06-20T19:28:17.081Z",
+      "type": "ResourceCreated",
+      "value": "Super-sneaky Stealth"
     }
   ]
 }
