@@ -1597,6 +1597,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "LDWjn",
+      "communityId": "xUCao",
+      "name": "Relentless Guardians",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45726,6 +45736,13 @@
       "timestamp": "2025-06-20T19:24:22.560Z",
       "type": "ResourceCreated",
       "value": "Invasive []"
+    },
+    {
+      "_type": "Record",
+      "id": "JNAqr",
+      "timestamp": "2025-06-20T19:24:36.334Z",
+      "type": "ResourceCreated",
+      "value": "Relentless Guardians"
     }
   ]
 }
