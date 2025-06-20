@@ -1527,6 +1527,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "IzJGT",
+      "communityId": "xUCao",
+      "name": "Powerful Ships",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45607,6 +45617,13 @@
       "timestamp": "2025-06-20T19:22:33.150Z",
       "type": "ResourceCreated",
       "value": "Military Training"
+    },
+    {
+      "_type": "Record",
+      "id": "Xycxe",
+      "timestamp": "2025-06-20T19:22:49.828Z",
+      "type": "ResourceCreated",
+      "value": "Powerful Ships"
     }
   ]
 }
