@@ -798,7 +798,7 @@
       "status": "paused",
       "round": 3,
       "duration": 900,
-      "timeElapsed": 531.3049999999982,
+      "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-18T23:29:47.134+00:00",
         "e": "2025-06-18T23:44:47.134+00:00",
