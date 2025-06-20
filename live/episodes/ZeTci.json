@@ -1208,7 +1208,7 @@
       "_type": "Phase",
       "id": "oqN8V",
       "type": "Galactic Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 6,
       "duration": 720,
       "timeElapsed": 0,
