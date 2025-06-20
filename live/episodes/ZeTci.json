@@ -346,8 +346,8 @@
       "id": "HxH3y",
       "societyId": "e-JcG",
       "player": "Jess She/they",
-      "name": "Reckless Clockmakers",
-      "voice": "leader",
+      "name": "X Clockmakers",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1575,7 +1575,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "HxH3y": ""
+      },
       "alterLeadership": {}
     },
     {
