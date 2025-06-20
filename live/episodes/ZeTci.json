@@ -692,7 +692,7 @@
       "societyId": "V9xbw",
       "player": "[] ()",
       "name": "[] Researchers",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1559,7 +1559,8 @@
         "ZTISw": "",
         "LFwRq": "",
         "DgkcU": "",
-        "M8dPd": ""
+        "M8dPd": "",
+        "ZF_eN": ""
       },
       "alterLeadership": {}
     },
