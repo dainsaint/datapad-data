@@ -697,6 +697,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "Wpl8h",
+      "societyId": "Feay0",
+      "player": "",
+      "name": "SCIENTISTS ",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
