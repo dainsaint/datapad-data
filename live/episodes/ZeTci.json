@@ -1300,6 +1300,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "GetAN",
+      "communityId": "hqZZ8",
+      "name": "Bears",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45274,6 +45284,13 @@
       "timestamp": "2025-06-20T19:17:28.449Z",
       "type": "ResourceCreated",
       "value": "Deep Silos"
+    },
+    {
+      "_type": "Record",
+      "id": "oFo1n",
+      "timestamp": "2025-06-20T19:18:00.579Z",
+      "type": "ResourceCreated",
+      "value": "Bears"
     }
   ]
 }
