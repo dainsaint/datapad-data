@@ -567,7 +567,7 @@
       "societyId": "Feay0",
       "player": "",
       "name": "_______",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1417,7 +1417,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "xUCao": "",
-        "Rcsl8": ""
+        "Rcsl8": "",
+        "adPGA": ""
       },
       "alterLeadership": {}
     },
