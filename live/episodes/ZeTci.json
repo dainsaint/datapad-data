@@ -1923,6 +1923,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "AhntF",
+      "communityId": "yC0li",
+      "name": "Engineering Knowledge",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46262,6 +46272,13 @@
       "timestamp": "2025-06-20T19:36:49.551Z",
       "type": "ResourceCreated",
       "value": "Biological []"
+    },
+    {
+      "_type": "Record",
+      "id": "qQBOA",
+      "timestamp": "2025-06-20T19:37:04.280Z",
+      "type": "ResourceCreated",
+      "value": "Engineering Knowledge"
     }
   ]
 }
