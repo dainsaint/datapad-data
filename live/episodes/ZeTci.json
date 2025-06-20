@@ -1853,6 +1853,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "YWgUJ",
+      "communityId": "bWsq5",
+      "name": "Undying Fire",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46143,6 +46153,13 @@
       "timestamp": "2025-06-20T19:32:12.500Z",
       "type": "ResourceCreated",
       "value": "Natural Charisma"
+    },
+    {
+      "_type": "Record",
+      "id": "FpaxR",
+      "timestamp": "2025-06-20T19:33:42.674Z",
+      "type": "ResourceCreated",
+      "value": "Undying Fire"
     }
   ]
 }
