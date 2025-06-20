@@ -1677,6 +1677,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "ACfFJ",
+      "communityId": "bIa2P",
+      "name": "______ Materials",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45863,6 +45873,13 @@
       "timestamp": "2025-06-20T19:26:00.121Z",
       "type": "ResourceCreated",
       "value": "Outdated []"
+    },
+    {
+      "_type": "Record",
+      "id": "XEpz5",
+      "timestamp": "2025-06-20T19:26:35.243Z",
+      "type": "ResourceCreated",
+      "value": "______ Materials"
     }
   ]
 }
