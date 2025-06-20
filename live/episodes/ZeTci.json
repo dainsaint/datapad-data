@@ -1407,6 +1407,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "S91xm",
+      "communityId": "LFwRq",
+      "name": "Electromagnetic Shields",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45403,6 +45413,13 @@
       "timestamp": "2025-06-20T19:19:44.706Z",
       "type": "ResourceCreated",
       "value": "_____ Bending"
+    },
+    {
+      "_type": "Record",
+      "id": "MZX0v",
+      "timestamp": "2025-06-20T19:20:03.952Z",
+      "type": "ResourceCreated",
+      "value": "Electromagnetic Shields"
     }
   ]
 }
