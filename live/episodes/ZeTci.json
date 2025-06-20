@@ -1617,6 +1617,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "jxMrH",
+      "communityId": "BNuWv",
+      "name": "[] Intoxicants",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45760,6 +45770,13 @@
       "timestamp": "2025-06-20T19:24:52.584Z",
       "type": "ResourceCreated",
       "value": "Blood Recycler"
+    },
+    {
+      "_type": "Record",
+      "id": "Akq0h",
+      "timestamp": "2025-06-20T19:25:10.077Z",
+      "type": "ResourceCreated",
+      "value": "[] Intoxicants"
     }
   ]
 }
