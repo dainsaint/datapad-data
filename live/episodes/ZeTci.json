@@ -885,13 +885,13 @@
       "_type": "Phase",
       "id": "U_v6u",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-18T22:21:11.356+00:00",
+        "e": "2025-06-20T22:18:48.244+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -904,13 +904,13 @@
       "_type": "Phase",
       "id": "iVPmg",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-18T22:21:11.752+00:00",
+        "e": "2025-06-20T22:18:48.752+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -923,13 +923,13 @@
       "_type": "Phase",
       "id": "hKy9u",
       "type": "Break",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-18T22:21:12.594+00:00",
+        "e": "2025-06-20T22:18:49.030+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -942,13 +942,13 @@
       "_type": "Phase",
       "id": "qY-y5",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 3,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-18T23:04:44.680+00:00",
+        "e": "2025-06-20T22:18:49.407+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -961,13 +961,13 @@
       "_type": "Phase",
       "id": "uCfsG",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 3,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-18T23:06:13.294+00:00",
-        "e": "2025-06-18T23:19:39.262+00:00",
+        "e": "2025-06-20T22:18:49.798+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -980,13 +980,13 @@
       "_type": "Phase",
       "id": "y_J11",
       "type": "Galactic Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 3,
       "duration": 900,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-18T23:29:47.134+00:00",
-        "e": "2025-06-18T23:44:47.134+00:00",
+        "e": "2025-06-20T22:18:50.211+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46584,6 +46584,46 @@
       "_type": "Record",
       "id": "qio5w",
       "timestamp": "2025-06-20T22:18:46.609Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "w9qOz",
+      "timestamp": "2025-06-20T22:18:49.030Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "mRJZc",
+      "timestamp": "2025-06-20T22:18:49.030Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "OEskJ",
+      "timestamp": "2025-06-20T22:18:49.030Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "Mp4LK",
+      "timestamp": "2025-06-20T22:18:49.030Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "rv2KV",
+      "timestamp": "2025-06-20T22:18:49.030Z",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
