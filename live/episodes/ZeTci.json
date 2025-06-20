@@ -758,7 +758,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:37.040+00:00",
+        "e": "2025-06-20T22:18:39.782+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -46384,6 +46384,166 @@
       "_type": "Record",
       "id": "U-M_O",
       "timestamp": "2025-06-20T22:18:37.041Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "yR3uy",
+      "timestamp": "2025-06-20T22:18:37.413Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "jLWVE",
+      "timestamp": "2025-06-20T22:18:37.413Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "hONhS",
+      "timestamp": "2025-06-20T22:18:37.413Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "qR-hr",
+      "timestamp": "2025-06-20T22:18:37.413Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "xR4Aa",
+      "timestamp": "2025-06-20T22:18:37.413Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "F-8Qk",
+      "timestamp": "2025-06-20T22:18:37.894Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "dW77K",
+      "timestamp": "2025-06-20T22:18:37.894Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "lb7Wy",
+      "timestamp": "2025-06-20T22:18:37.894Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "S6iWQ",
+      "timestamp": "2025-06-20T22:18:37.894Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "U6AkF",
+      "timestamp": "2025-06-20T22:18:37.894Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "ApDlX",
+      "timestamp": "2025-06-20T22:18:38.662Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "wpD_U",
+      "timestamp": "2025-06-20T22:18:38.662Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "t6MVz",
+      "timestamp": "2025-06-20T22:18:38.662Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "NcWD-",
+      "timestamp": "2025-06-20T22:18:38.662Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "Dvqbn",
+      "timestamp": "2025-06-20T22:18:38.662Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "P67uS",
+      "timestamp": "2025-06-20T22:18:39.782Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "foPxu",
+      "timestamp": "2025-06-20T22:18:39.782Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "f3KIT",
+      "timestamp": "2025-06-20T22:18:39.782Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "FV5Gt",
+      "timestamp": "2025-06-20T22:18:39.782Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "FKEx0",
+      "timestamp": "2025-06-20T22:18:39.782Z",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
