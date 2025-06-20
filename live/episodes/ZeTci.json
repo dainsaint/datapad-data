@@ -1627,6 +1627,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "QSKsQ",
+      "communityId": "xUCao",
+      "name": "Blood Festivals",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45777,6 +45787,13 @@
       "timestamp": "2025-06-20T19:25:10.077Z",
       "type": "ResourceCreated",
       "value": "[] Intoxicants"
+    },
+    {
+      "_type": "Record",
+      "id": "tPxf8",
+      "timestamp": "2025-06-20T19:25:13.512Z",
+      "type": "ResourceCreated",
+      "value": "Blood Festivals"
     }
   ]
 }
