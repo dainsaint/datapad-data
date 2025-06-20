@@ -224,12 +224,32 @@
         "Really squeeze them into it ",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         3,
         3
       ],
       "voteTime": "2025-06-18T23:19:41.775+00:00",
       "status": "voted",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Action",
+      "id": "SirFJ",
+      "round": "3",
+      "societyId": "yXHVO",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -45083,49 +45103,49 @@
     {
       "_type": "Record",
       "id": "G5fxE",
-      "timestamp": "2025-06-18T23:04:04.009Z",
+      "timestamp": "2025-06-18T23:04:04.009+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
-      "value": "2025-06-18T23:04:04.009Z"
+      "value": "2025-06-18T23:04:04.009+00:00"
     },
     {
       "_type": "Record",
       "id": "U2C_x",
-      "timestamp": "2025-06-18T23:04:20.492Z",
+      "timestamp": "2025-06-18T23:04:20.492+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
-      "value": "2025-06-18T23:04:20.492Z"
+      "value": "2025-06-18T23:04:20.492+00:00"
     },
     {
       "_type": "Record",
       "id": "D62N2",
-      "timestamp": "2025-06-18T23:05:57.711Z",
+      "timestamp": "2025-06-18T23:05:57.711+00:00",
       "type": "ResourceCreated",
       "value": "Starlight Navigation"
     },
     {
       "_type": "Record",
       "id": "nAve-",
-      "timestamp": "2025-06-18T23:06:13.295Z",
+      "timestamp": "2025-06-18T23:06:13.295+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
-      "value": "2025-06-18T23:06:13.295Z"
+      "value": "2025-06-18T23:06:13.295+00:00"
     },
     {
       "_type": "Record",
       "id": "WsctV",
-      "timestamp": "2025-06-18T23:19:40.503Z",
+      "timestamp": "2025-06-18T23:19:40.503+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Galactic Phase",
-      "value": "2025-06-18T23:19:40.503Z"
+      "value": "2025-06-18T23:19:40.503+00:00"
     },
     {
       "_type": "Record",
       "id": "jzf9b",
-      "timestamp": "2025-06-18T23:29:47.134Z",
+      "timestamp": "2025-06-18T23:29:47.134+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Galactic Phase",
-      "value": "2025-06-18T23:29:47.134Z"
+      "value": "2025-06-18T23:29:47.134+00:00"
     }
   ]
 }
