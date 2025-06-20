@@ -369,9 +369,9 @@
       "_type": "Community",
       "id": "l5d1f",
       "societyId": "e-JcG",
-      "player": "Ricky She/they",
-      "name": "Wayfaring Weavers",
-      "voice": "leader",
+      "player": "E",
+      "name": "X X",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1153,7 +1153,7 @@
       "_type": "Resource",
       "id": "Mm-tS",
       "communityId": "CYPuO",
-      "name": "Sharp Slippers",
+      "name": "Scholastic Warships",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1418,7 +1418,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "nmW7Z": "",
-        "baFQb": ""
+        "baFQb": "",
+        "l5d1f": ""
       },
       "alterLeadership": {}
     },
