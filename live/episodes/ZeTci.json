@@ -421,8 +421,8 @@
       "_type": "Community",
       "id": "xUCao",
       "societyId": "Feay0",
-      "player": "BRITTNEY SHE/HER",
-      "name": "Venerated Warriors",
+      "player": "",
+      "name": " Warriors",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -1403,7 +1403,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "xUCao": ""
+      },
       "alterLeadership": {}
     },
     {
