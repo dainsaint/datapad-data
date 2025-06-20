@@ -482,7 +482,7 @@
       "id": "ZTISw",
       "societyId": "V9xbw",
       "player": "Sabrina She Her",
-      "name": "Extroverted Researchers",
+      "name": "Extroverted []",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -554,8 +554,8 @@
       "id": "iRW5s",
       "societyId": "yXHVO",
       "player": "Sam",
-      "name": "Tender Bodybuilders",
-      "voice": "people",
+      "name": "Powerful Rangers ",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -567,7 +567,7 @@
       "_type": "Phase",
       "id": "RwtYa",
       "type": "Setup/Onboarding",
-      "status": "complete",
+      "status": "idle",
       "round": 0,
       "duration": 1200,
       "timeElapsed": 0,
@@ -1388,7 +1388,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "ZTISw": ""
+      },
       "alterLeadership": {}
     },
     {
@@ -1476,7 +1478,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "iRW5s": ""
+      },
       "alterLeadership": {}
     },
     {
