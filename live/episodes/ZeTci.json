@@ -1567,6 +1567,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "i3Cf3",
+      "communityId": "Rp9Mo",
+      "name": "[] Helpers",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45675,6 +45685,13 @@
       "timestamp": "2025-06-20T19:23:55.556Z",
       "type": "ResourceCreated",
       "value": "Ancient Well"
+    },
+    {
+      "_type": "Record",
+      "id": "D7v93",
+      "timestamp": "2025-06-20T19:24:00.372Z",
+      "type": "ResourceCreated",
+      "value": "[] Helpers"
     }
   ]
 }
