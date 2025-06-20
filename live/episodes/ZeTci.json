@@ -1697,6 +1697,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "mwv56",
+      "communityId": "xUCao",
+      "name": "Swift ______",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45897,6 +45907,13 @@
       "timestamp": "2025-06-20T19:26:47.475Z",
       "type": "ResourceCreated",
       "value": "Scouting X"
+    },
+    {
+      "_type": "Record",
+      "id": "DKun4",
+      "timestamp": "2025-06-20T19:26:48.582Z",
+      "type": "ResourceCreated",
+      "value": "Swift ______"
     }
   ]
 }
