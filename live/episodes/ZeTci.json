@@ -1873,6 +1873,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "urOWb",
+      "communityId": "bWsq5",
+      "name": "Clean-Energy []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46177,6 +46187,13 @@
       "timestamp": "2025-06-20T19:34:40.090Z",
       "type": "ResourceCreated",
       "value": "Transport Ships"
+    },
+    {
+      "_type": "Record",
+      "id": "bOkZS",
+      "timestamp": "2025-06-20T19:35:09.194Z",
+      "type": "ResourceCreated",
+      "value": "Clean-Energy []"
     }
   ]
 }
