@@ -1457,6 +1457,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "G_MCK",
+      "communityId": "xUCao",
+      "name": "Manufacturing Depots",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45488,6 +45498,13 @@
       "timestamp": "2025-06-20T19:21:09.009Z",
       "type": "ResourceCreated",
       "value": "Universal X"
+    },
+    {
+      "_type": "Record",
+      "id": "lYQWp",
+      "timestamp": "2025-06-20T19:21:16.342Z",
+      "type": "ResourceCreated",
+      "value": "Manufacturing Depots"
     }
   ]
 }
