@@ -1657,6 +1657,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "HvNUI",
+      "communityId": "baFQb",
+      "name": "X Sense",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45828,6 +45838,13 @@
       "timestamp": "2025-06-20T19:25:34.329Z",
       "type": "ResourceCreated",
       "value": "Overwhelming []"
+    },
+    {
+      "_type": "Record",
+      "id": "xDjz8",
+      "timestamp": "2025-06-20T19:25:39.793Z",
+      "type": "ResourceCreated",
+      "value": "X Sense"
     }
   ]
 }
