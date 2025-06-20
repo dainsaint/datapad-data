@@ -1557,6 +1557,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "z2t10",
+      "communityId": "baFQb",
+      "name": "Ancient Well",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45658,6 +45668,13 @@
       "timestamp": "2025-06-20T19:23:43.712Z",
       "type": "ResourceCreated",
       "value": "Disinfecting []"
+    },
+    {
+      "_type": "Record",
+      "id": "TdaY4",
+      "timestamp": "2025-06-20T19:23:55.556Z",
+      "type": "ResourceCreated",
+      "value": "Ancient Well"
     }
   ]
 }
