@@ -1727,6 +1727,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "MORGd",
+      "communityId": "xUCao",
+      "name": "______ Torches",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45952,6 +45962,13 @@
       "timestamp": "2025-06-20T19:28:17.081Z",
       "type": "ResourceCreated",
       "value": "Super-sneaky Stealth"
+    },
+    {
+      "_type": "Record",
+      "id": "SD_w2",
+      "timestamp": "2025-06-20T19:28:30.272Z",
+      "type": "ResourceCreated",
+      "value": "______ Torches"
     }
   ]
 }
