@@ -999,13 +999,13 @@
       "_type": "Phase",
       "id": "ygjZU",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 3,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "e": "2025-06-20T22:18:50.648+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1018,13 +1018,13 @@
       "_type": "Phase",
       "id": "I_L2i",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 4,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "e": "2025-06-20T22:18:50.968+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1037,13 +1037,13 @@
       "_type": "Phase",
       "id": "MnUfO",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 4,
       "duration": 660,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "e": "2025-06-20T22:18:51.404+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1056,13 +1056,13 @@
       "_type": "Phase",
       "id": "ipW2q",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 4,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "e": "2025-06-20T22:18:51.880+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1075,13 +1075,13 @@
       "_type": "Phase",
       "id": "lm2PY",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 4,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "e": "2025-06-20T22:18:52.361+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -2385,6 +2385,61 @@
         "CYPuO": "",
         "hqZZ8": ""
       },
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "E0i_C",
+      "round": 4,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "zHM9L",
+      "round": 4,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "oDGmS",
+      "round": 4,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "esXy5",
+      "round": 4,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "bifNp",
+      "round": 4,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
       "alterLeadership": {}
     }
   ],
@@ -46624,6 +46679,126 @@
       "_type": "Record",
       "id": "rv2KV",
       "timestamp": "2025-06-20T22:18:49.030Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "ES25e",
+      "timestamp": "2025-06-20T22:18:50.648Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "FK9-t",
+      "timestamp": "2025-06-20T22:18:50.648Z",
+      "type": "ActionResources",
+      "description": "the mighty used [] Altars to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "KmgQc",
+      "timestamp": "2025-06-20T22:18:50.648Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "NdOp8",
+      "timestamp": "2025-06-20T22:18:50.648Z",
+      "type": "ActionResources",
+      "description": "the scholars used Luminous Farmlands,Meme Generator to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "X2Xg1",
+      "timestamp": "2025-06-20T22:18:50.648Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "ROqvW",
+      "timestamp": "2025-06-20T22:18:50.648Z",
+      "type": "ActionResources",
+      "description": "the curious used Blood _____,Blood Science to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "hakhG",
+      "timestamp": "2025-06-20T22:18:50.648Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "ydU_5",
+      "timestamp": "2025-06-20T22:18:50.648Z",
+      "type": "ActionResources",
+      "description": "the intrepid used X Maps,Internal Navigation to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "laM4d",
+      "timestamp": "2025-06-20T22:18:50.648Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "rpVUw",
+      "timestamp": "2025-06-20T22:18:50.648Z",
+      "type": "ActionResources",
+      "description": "the grounded used Mycelium Energy ,? to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "XpwON",
+      "timestamp": "2025-06-20T22:18:52.361Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "E-y4w",
+      "timestamp": "2025-06-20T22:18:52.361Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "jtX0g",
+      "timestamp": "2025-06-20T22:18:52.361Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "PK9Lr",
+      "timestamp": "2025-06-20T22:18:52.361Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "qLY2o",
+      "timestamp": "2025-06-20T22:18:52.361Z",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
