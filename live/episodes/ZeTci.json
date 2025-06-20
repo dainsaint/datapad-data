@@ -357,9 +357,9 @@
       "_type": "Community",
       "id": "nmW7Z",
       "societyId": "e-JcG",
-      "player": "Dana They/them",
-      "name": "Neurodivergent Navigators ",
-      "voice": "leader",
+      "player": "C",
+      "name": "X X",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1414,7 +1414,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "nmW7Z": ""
+      },
       "alterLeadership": {}
     },
     {
