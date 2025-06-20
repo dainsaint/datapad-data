@@ -314,8 +314,8 @@
       "_type": "Community",
       "id": "Pwqoy",
       "societyId": "et0k8",
-      "player": "Corey She/her",
-      "name": "Militant Spiritual Advisors ",
+      "player": "FMP2",
+      "name": "[] Priests",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -1887,7 +1887,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "bWsq5": ""
+        "bWsq5": "",
+        "Pwqoy": ""
       },
       "alterLeadership": {}
     },
