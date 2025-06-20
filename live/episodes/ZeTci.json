@@ -1417,6 +1417,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "fU-yH",
+      "communityId": "HxH3y",
+      "name": "Refreshing Underthinking",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45420,6 +45430,13 @@
       "timestamp": "2025-06-20T19:20:03.952Z",
       "type": "ResourceCreated",
       "value": "Electromagnetic Shields"
+    },
+    {
+      "_type": "Record",
+      "id": "bInev",
+      "timestamp": "2025-06-20T19:20:13.485Z",
+      "type": "ResourceCreated",
+      "value": "Refreshing Underthinking"
     }
   ]
 }
