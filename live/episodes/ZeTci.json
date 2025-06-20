@@ -1737,6 +1737,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "v4tSA",
+      "communityId": "Wpl8h",
+      "name": "________ Laboratories ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45970,6 +45980,13 @@
       "timestamp": "2025-06-20T19:28:30.272Z",
       "type": "ResourceCreated",
       "value": "______ Torches"
+    },
+    {
+      "_type": "Record",
+      "id": "Ar_HL",
+      "timestamp": "2025-06-20T19:29:06.226Z",
+      "type": "ResourceCreated",
+      "value": "________ Laboratories "
     }
   ]
 }
