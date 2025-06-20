@@ -273,8 +273,8 @@
       "_type": "Community",
       "id": "baFQb",
       "societyId": "e-JcG",
-      "player": "Tay She/her",
-      "name": "Honorable Rebels",
+      "player": "D",
+      "name": "X X",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1415,7 +1415,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "nmW7Z": ""
+        "nmW7Z": "",
+        "baFQb": ""
       },
       "alterLeadership": {}
     },
