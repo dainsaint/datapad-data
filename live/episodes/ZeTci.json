@@ -458,8 +458,8 @@
       "id": "bIa2P",
       "societyId": "Feay0",
       "player": "Arthur any",
-      "name": "Grieving Gardeners",
-      "voice": "people",
+      "name": "ASSISTANTS",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1487,7 +1487,8 @@
       "ambassadors": {
         "xUCao": "",
         "Rcsl8": "",
-        "adPGA": ""
+        "adPGA": "",
+        "bIa2P": ""
       },
       "alterLeadership": {}
     },
