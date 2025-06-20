@@ -1893,6 +1893,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "rk6c1",
+      "communityId": "bWsq5",
+      "name": "[] Smelters",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46211,6 +46221,13 @@
       "timestamp": "2025-06-20T19:35:47.250Z",
       "type": "ResourceCreated",
       "value": "Excellent Cardio"
+    },
+    {
+      "_type": "Record",
+      "id": "r5NzQ",
+      "timestamp": "2025-06-20T19:36:04.968Z",
+      "type": "ResourceCreated",
+      "value": "[] Smelters"
     }
   ]
 }
