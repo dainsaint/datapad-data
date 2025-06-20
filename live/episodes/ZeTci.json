@@ -1481,7 +1481,7 @@
     {
       "_type": "Resource",
       "id": "s9jpM",
-      "communityId": "hqZZ8",
+      "communityId": "Pry_D",
       "name": "Imperial _",
       "tags": {
         "_type": "Tags",
@@ -1493,6 +1493,26 @@
       "id": "XDREI",
       "communityId": "ZTISw",
       "name": "[] Language ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "awPje",
+      "communityId": "baFQb",
+      "name": "Weather-Resistant Fabric ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "lc0U-",
+      "communityId": "xUCao",
+      "name": "Titanium Swords",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -45556,6 +45576,20 @@
       "timestamp": "2025-06-20T19:21:44.825Z",
       "type": "ResourceCreated",
       "value": "[] Language "
+    },
+    {
+      "_type": "Record",
+      "id": "O3vis",
+      "timestamp": "2025-06-20T19:21:53.984Z",
+      "type": "ResourceCreated",
+      "value": "Weather-Resistant Fabric "
+    },
+    {
+      "_type": "Record",
+      "id": "LaQPs",
+      "timestamp": "2025-06-20T19:21:54.047Z",
+      "type": "ResourceCreated",
+      "value": "Titanium Swords"
     }
   ]
 }
