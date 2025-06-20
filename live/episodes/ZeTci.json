@@ -1487,6 +1487,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "XDREI",
+      "communityId": "ZTISw",
+      "name": "[] Language ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45539,6 +45549,13 @@
       "timestamp": "2025-06-20T19:21:39.270Z",
       "type": "ResourceCreated",
       "value": "Imperial _"
+    },
+    {
+      "_type": "Record",
+      "id": "eYKoL",
+      "timestamp": "2025-06-20T19:21:44.825Z",
+      "type": "ResourceCreated",
+      "value": "[] Language "
     }
   ]
 }
