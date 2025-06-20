@@ -278,8 +278,8 @@
       "_type": "Community",
       "id": "bWsq5",
       "societyId": "et0k8",
-      "player": "Zac He/him",
-      "name": "Spelunking Prists",
+      "player": "FP1",
+      "name": "[] []",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -1886,7 +1886,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "bWsq5": ""
+      },
       "alterLeadership": {}
     },
     {
