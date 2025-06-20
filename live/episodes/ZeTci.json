@@ -733,6 +733,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "ol1GN",
+      "societyId": "et0k8",
+      "player": "FMP8",
+      "name": "[] Caretakers",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
