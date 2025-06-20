@@ -1427,6 +1427,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "zJDU4",
+      "communityId": "HxH3y",
+      "name": "Freakish X",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45437,6 +45447,13 @@
       "timestamp": "2025-06-20T19:20:13.485Z",
       "type": "ResourceCreated",
       "value": "Refreshing Underthinking"
+    },
+    {
+      "_type": "Record",
+      "id": "J3Zyv",
+      "timestamp": "2025-06-20T19:20:43.558Z",
+      "type": "ResourceCreated",
+      "value": "Freakish X"
     }
   ]
 }
