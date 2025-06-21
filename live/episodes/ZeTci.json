@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1166.6999999999928,
+      "timeElapsed": 1176.7059999999926,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1549,7 +1549,7 @@
       "_type": "Resource",
       "id": "MORGd",
       "communityId": "Uyeis",
-      "name": "______ Torches",
+      "name": "Arcane Torches",
       "tags": {
         "_type": "Tags",
         "value": []
