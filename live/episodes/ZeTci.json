@@ -1408,7 +1408,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 664.5899999999974,
+      "timeElapsed": 668.5919999999974,
       "actualTime": {
         "s": "2025-06-21T21:13:43.680+00:00",
         "e": "2025-06-21T21:25:43.680+00:00",
@@ -1786,7 +1786,7 @@
       "_type": "Resource",
       "id": "GetAN",
       "communityId": "hqZZ8",
-      "name": "Healing Bears",
+      "name": "Healing NEBULA ",
       "tags": {
         "_type": "Tags",
         "value": []
