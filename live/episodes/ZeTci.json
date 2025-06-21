@@ -409,7 +409,9 @@
       "id": "jMtCh",
       "round": "2",
       "societyId": "V9xbw",
-      "resourceIds": [],
+      "resourceIds": [
+        "HUFgn"
+      ],
       "texts": [
         ""
       ],
