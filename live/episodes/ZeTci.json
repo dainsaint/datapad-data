@@ -988,13 +988,13 @@
       "_type": "Phase",
       "id": "iVPmg",
       "type": "Individual Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 507.24899999999843,
+      "timeElapsed": 602.2689999999981,
       "actualTime": {
         "s": "2025-06-21T19:03:44.114+00:00",
-        "e": "2025-06-21T19:13:44.114+00:00",
+        "e": "2025-06-21T19:13:46.515+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -49089,6 +49089,22 @@
       "timestamp": "2025-06-21T19:12:11.373Z",
       "type": "ResourceCreated",
       "value": "Redacted Redacted "
+    },
+    {
+      "_type": "Record",
+      "id": "vuHBH",
+      "timestamp": "2025-06-21T19:13:46.516Z",
+      "type": "PhaseEnded",
+      "description": "Round 2: Individual Phase",
+      "value": "2025-06-21T19:13:46.515Z"
+    },
+    {
+      "_type": "Record",
+      "id": "xfQGH",
+      "timestamp": "2025-06-21T19:13:46.516Z",
+      "type": "PhaseDuration",
+      "description": "Round 2: Individual Phase",
+      "value": 10.040016666666666
     }
   ]
 }
