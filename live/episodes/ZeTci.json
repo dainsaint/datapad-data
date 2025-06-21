@@ -1525,7 +1525,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 32.011,
+      "timeElapsed": 35.012,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -1567,25 +1567,6 @@
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
         "e": "2025-06-20T22:18:53.952+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Phase",
-      "id": "oqN8V",
-      "type": "Galactic Phase",
-      "status": "idle",
-      "round": 5,
-      "duration": 720,
-      "timeElapsed": 0,
-      "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:55.742+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
