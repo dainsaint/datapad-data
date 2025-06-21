@@ -1410,7 +1410,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 705.5979999999972,
+      "timeElapsed": 709.5979999999972,
       "actualTime": {
         "s": "2025-06-21T21:13:43.680+00:00",
         "e": "2025-06-21T21:25:43.680+00:00",
@@ -1739,7 +1739,9 @@
       "name": "Unnatural Crops",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "destroyed"
+        ]
       }
     },
     {
