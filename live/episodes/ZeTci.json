@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 897.5689999999953,
+      "timeElapsed": 900.5689999999953,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1679,7 +1679,7 @@
       "_type": "Resource",
       "id": "rk6c1",
       "communityId": "bWsq5",
-      "name": "[] Smelters",
+      "name": "Crystal Smelters",
       "tags": {
         "_type": "Tags",
         "value": []
