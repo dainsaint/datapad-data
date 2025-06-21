@@ -364,8 +364,13 @@
         "Emit electromagnetic shield",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0,
+        0
+      ],
+      "voteTime": "2025-06-21T18:37:16.728+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
