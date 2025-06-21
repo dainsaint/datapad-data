@@ -810,10 +810,10 @@
       "round": "5",
       "societyId": "e-JcG",
       "resourceIds": [
-        "zJDU4",
-        "yw87H"
+        "zJDU4"
       ],
       "texts": [
+        "",
         "",
         ""
       ],
@@ -1638,7 +1638,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 472.3969999999993,
+      "timeElapsed": 477.4559999999993,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
