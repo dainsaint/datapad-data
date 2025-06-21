@@ -746,7 +746,7 @@
       "status": "playing",
       "round": 1,
       "duration": 900,
-      "timeElapsed": 312.11399999999986,
+      "timeElapsed": 316.1159999999998,
       "actualTime": {
         "s": "2025-06-21T17:48:28.568+00:00",
         "e": "2025-06-21T18:03:28.568+00:00",
@@ -1909,6 +1909,16 @@
       "id": "Ird98",
       "communityId": "bWsq5",
       "name": "Crystal Altars",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "n6jLU",
+      "communityId": "DgkcU",
+      "name": "Division's Good Will",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -48008,6 +48018,13 @@
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
       "value": "2025-06-21T17:48:28.568Z"
+    },
+    {
+      "_type": "Record",
+      "id": "QwH8d",
+      "timestamp": "2025-06-21T17:53:41.199Z",
+      "type": "ResourceCreated",
+      "value": "Division's Good Will"
     }
   ]
 }
