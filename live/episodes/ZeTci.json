@@ -1525,7 +1525,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 157.11500000000012,
+      "timeElapsed": 159.11600000000013,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -1773,9 +1773,7 @@
       "name": "Healing NEBULA ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2985,9 +2983,9 @@
       "id": "N81zW",
       "round": 5,
       "societyId": "Feay0",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "0",
+      "advantage": "0",
+      "disadvantage": "0",
       "emissaryCommunityId": "Uyeis",
       "ambassadors": {},
       "alterLeadership": {}
