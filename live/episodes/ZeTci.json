@@ -389,19 +389,13 @@
       "round": "2",
       "societyId": "V9xbw",
       "resourceIds": [
-        "S91xm",
-        "FZOOF",
-        "JnOTM"
+        "FZOOF"
       ],
       "texts": [
         "Protect all planets from laser",
         "Grow invasive species",
-        "Emit electromagnetic shield",
-        ""
+        "Emit electromagnetic shield"
       ],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
       "result": [
         6,
         4,
