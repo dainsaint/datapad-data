@@ -1722,9 +1722,9 @@
     {
       "_type": "Phase",
       "id": "wy9YA",
-      "type": "Individual Phase",
+      "type": "Universal Phase",
       "status": "complete",
-      "round": 5,
+      "round": 6,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
@@ -1743,7 +1743,7 @@
       "id": "SBJee",
       "type": "Generational Phase",
       "status": "paused",
-      "round": 5,
+      "round": 6,
       "duration": 1200,
       "timeElapsed": 1,
       "actualTime": {
@@ -1762,7 +1762,7 @@
       "id": "qq_t4",
       "type": "Conclusion",
       "status": "idle",
-      "round": 5,
+      "round": 6,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
