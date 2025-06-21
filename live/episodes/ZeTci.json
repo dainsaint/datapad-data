@@ -303,7 +303,7 @@
       "_type": "Community",
       "id": "hqZZ8",
       "societyId": "yXHVO",
-      "player": "",
+      "player": "Adam He Him",
       "name": "Envious Druids",
       "voice": "people",
       "tags": {
@@ -1979,7 +1979,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "hqZZ8": ""
+      },
       "alterLeadership": {}
     }
   ],
