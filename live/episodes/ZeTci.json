@@ -1675,8 +1675,8 @@
       "type": "Galactic Phase",
       "status": "playing",
       "round": 5,
-      "duration": 840,
-      "timeElapsed": 2,
+      "duration": 900,
+      "timeElapsed": 5.0649999999999995,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
