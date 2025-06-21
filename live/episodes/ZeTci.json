@@ -988,13 +988,13 @@
       "_type": "Phase",
       "id": "iVPmg",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:48.752+00:00",
+        "s": "2025-06-21T19:03:44.114+00:00",
+        "e": "2025-06-21T19:13:44.114+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -49060,6 +49060,14 @@
       "type": "PhaseDuration",
       "description": "Round 2: Galactic Phase",
       "value": 24.173533333333335
+    },
+    {
+      "_type": "Record",
+      "id": "ipV5A",
+      "timestamp": "2025-06-21T19:03:44.114Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Individual Phase",
+      "value": "2025-06-21T19:03:44.114Z"
     }
   ]
 }
