@@ -1468,7 +1468,7 @@
       "status": "playing",
       "round": 4,
       "duration": 900,
-      "timeElapsed": 608.1429999999992,
+      "timeElapsed": 627.1619999999992,
       "actualTime": {
         "s": "2025-06-21T21:27:53.007+00:00",
         "e": "2025-06-21T21:42:53.007+00:00",
@@ -2500,6 +2500,16 @@
       "id": "yKH_H",
       "communityId": "Pf-Th",
       "name": "[]",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "Vae4N",
+      "communityId": "baFQb",
+      "name": "Invasive Shield Schematics",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -51327,6 +51337,13 @@
       "timestamp": "2025-06-21T21:30:53.730Z",
       "type": "ResourceCreated",
       "value": "[]"
+    },
+    {
+      "_type": "Record",
+      "id": "zqYar",
+      "timestamp": "2025-06-21T21:38:20.489Z",
+      "type": "ResourceCreated",
+      "value": "Invasive Shield Schematics"
     }
   ]
 }
