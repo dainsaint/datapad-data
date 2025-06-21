@@ -739,11 +739,30 @@
       "round": "5",
       "societyId": "yXHVO",
       "resourceIds": [
-        "GetAN"
+        "GetAN",
+        "LE291"
       ],
       "texts": [
+        "",
         ""
       ],
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Action",
+      "id": "FIHoa",
+      "round": "5",
+      "societyId": "V9xbw",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -1565,7 +1584,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 388.3139999999998,
+      "timeElapsed": 390.31499999999977,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
