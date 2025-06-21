@@ -602,10 +602,9 @@
         "fU-yH"
       ],
       "texts": [
-        "",
-        "",
-        "",
-        ""
+        "Lure the Burning Ember into the black hole",
+        "Cloak our original planet",
+        "To give us the courage"
       ],
       "result": [
         0,
@@ -1408,7 +1407,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 668.5919999999974,
+      "timeElapsed": 672.5919999999974,
       "actualTime": {
         "s": "2025-06-21T21:13:43.680+00:00",
         "e": "2025-06-21T21:25:43.680+00:00",
