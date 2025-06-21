@@ -95,7 +95,7 @@
       "_type": "Community",
       "id": "Pwqoy",
       "societyId": "et0k8",
-      "player": "FMP2",
+      "player": "Nate He/him",
       "name": "[] Priests",
       "voice": "leader",
       "tags": {
@@ -1923,7 +1923,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "Pwqoy": ""
+      },
       "alterLeadership": {}
     },
     {
