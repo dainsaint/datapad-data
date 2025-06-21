@@ -564,7 +564,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 358.1569999999994,
+      "timeElapsed": 447.1859999999987,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
@@ -2036,6 +2036,7 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
+      "emissaryCommunityId": "Uyeis",
       "ambassadors": {
         "adPGA": ""
       },
