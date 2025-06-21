@@ -548,6 +548,7 @@
         "ngIzv"
       ],
       "texts": [
+        "Call on the Comets to rejoin our society",
         "",
         ""
       ],
@@ -1192,7 +1193,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 745.1259999999966,
+      "timeElapsed": 764.1379999999964,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
