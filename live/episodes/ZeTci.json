@@ -598,7 +598,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 537.2239999999981,
+      "timeElapsed": 627.2639999999973,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
@@ -1293,7 +1293,7 @@
       "_type": "Resource",
       "id": "ngIzv",
       "communityId": "HxH3y",
-      "name": "Universal X",
+      "name": "Universal Healthcare",
       "tags": {
         "_type": "Tags",
         "value": []
