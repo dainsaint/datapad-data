@@ -1852,7 +1852,9 @@
       "name": "Teleporting Exo-Suits",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "destroyed"
+        ]
       }
     },
     {
@@ -2619,6 +2621,16 @@
       "id": "ndYVm",
       "communityId": "iRW5s",
       "name": "Invasive Shield Schematics",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "fiCSS",
+      "communityId": "LFwRq",
+      "name": "Invasive Species ",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -51716,6 +51728,13 @@
       "timestamp": "2025-06-21T22:15:57.107Z",
       "type": "ResourceCreated",
       "value": "Invasive Shield Schematics"
+    },
+    {
+      "_type": "Record",
+      "id": "iJdcE",
+      "timestamp": "2025-06-21T22:16:04.484Z",
+      "type": "ResourceCreated",
+      "value": "Invasive Species "
     }
   ]
 }
