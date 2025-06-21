@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1418.7629999999917,
+      "timeElapsed": 1429.7649999999917,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1469,7 +1469,7 @@
       "_type": "Resource",
       "id": "R5zjM",
       "communityId": "BNuWv",
-      "name": "Overwhelming []",
+      "name": "Overwhelming Population",
       "tags": {
         "_type": "Tags",
         "value": []
