@@ -1118,7 +1118,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 482.6709999999987,
+      "timeElapsed": 485.67399999999867,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
@@ -2176,9 +2176,7 @@
       "name": "Invasive Shield Schematics",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
