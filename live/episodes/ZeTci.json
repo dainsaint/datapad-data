@@ -1065,7 +1065,7 @@
       "status": "playing",
       "round": 3,
       "duration": 300,
-      "timeElapsed": 140.06400000000008,
+      "timeElapsed": 142.06400000000008,
       "actualTime": {
         "s": "2025-06-21T20:09:30.767+00:00",
         "e": "2025-06-21T20:14:30.767+00:00",
@@ -2558,9 +2558,9 @@
       "id": "hvQKw",
       "round": 3,
       "societyId": "Feay0",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "3",
+      "advantage": "0",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     },
