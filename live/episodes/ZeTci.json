@@ -743,10 +743,10 @@
       "_type": "Phase",
       "id": "I9Rtl",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 1,
       "duration": 900,
-      "timeElapsed": 0,
+      "timeElapsed": 4,
       "actualTime": {
         "s": "2025-06-21T17:48:18.604+00:00",
         "e": "2025-06-21T18:03:18.604+00:00",
