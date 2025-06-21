@@ -1545,7 +1545,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 336.3,
+      "timeElapsed": 341.301,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -1674,7 +1674,7 @@
       "_type": "Resource",
       "id": "sikEC",
       "communityId": "M8dPd",
-      "name": "Meme Ray",
+      "name": "Growth Ray",
       "tags": {
         "_type": "Tags",
         "value": []
