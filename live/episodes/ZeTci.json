@@ -730,7 +730,7 @@
       ],
       "result": [
         1,
-        0,
+        6,
         0,
         0
       ],
@@ -778,9 +778,9 @@
       ],
       "texts": [
         "Fire at the burning ember",
-        "Shoot drugs",
-        "Grow the invasive plants",
-        "Shoot invasive plants"
+        "Boost the potency of the invasive species",
+        "Accelerate the growth of the invasive species ",
+        "Seed their ships"
       ],
       "result": [
         0,
@@ -1693,7 +1693,7 @@
       "status": "playing",
       "round": 5,
       "duration": 900,
-      "timeElapsed": 25.073,
+      "timeElapsed": 27.074,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
