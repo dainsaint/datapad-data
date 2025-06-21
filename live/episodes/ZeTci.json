@@ -399,9 +399,9 @@
       "_type": "Community",
       "id": "h3rgn",
       "societyId": "Feay0",
-      "player": "",
+      "player": "Mars Any",
       "name": "________",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1954,7 +1954,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "bIa2P": "",
-        "xUCao": ""
+        "xUCao": "",
+        "h3rgn": ""
       },
       "alterLeadership": {}
     },
