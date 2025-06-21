@@ -1621,7 +1621,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 433.3809999999995,
+      "timeElapsed": 436.3809999999995,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -2563,6 +2563,16 @@
       "_type": "Resource",
       "id": "I2IHM",
       "communityId": "iV-n0",
+      "name": "Wide Ranging Cannons",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "ND1C8",
+      "communityId": "LFwRq",
       "name": "Wide Ranging Cannons",
       "tags": {
         "_type": "Tags",
@@ -51638,6 +51648,13 @@
       "_type": "Record",
       "id": "hMzbT",
       "timestamp": "2025-06-21T22:14:23.835Z",
+      "type": "ResourceCreated",
+      "value": "Wide Ranging Cannons"
+    },
+    {
+      "_type": "Record",
+      "id": "XKNuL",
+      "timestamp": "2025-06-21T22:14:49.498Z",
       "type": "ResourceCreated",
       "value": "Wide Ranging Cannons"
     }
