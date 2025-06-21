@@ -644,7 +644,7 @@
       "societyId": "Feay0",
       "player": "Brandon He/him",
       "name": "Unscrupulous builders",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1084,7 +1084,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 274.4300000000002,
+      "timeElapsed": 280.4350000000002,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
@@ -2568,7 +2568,8 @@
       "disadvantage": "0",
       "emissaryCommunityId": "h3rgn",
       "ambassadors": {
-        "cBV-v": ""
+        "cBV-v": "",
+        "Rcsl8": ""
       },
       "alterLeadership": {}
     },
