@@ -752,8 +752,7 @@
       ],
       "texts": [
         "Free the 2 suns",
-        "",
-        ""
+        "Protect our planet"
       ],
       "result": [
         0,
@@ -1676,8 +1675,8 @@
       "type": "Galactic Phase",
       "status": "playing",
       "round": 5,
-      "duration": 720,
-      "timeElapsed": 0,
+      "duration": 840,
+      "timeElapsed": 2,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
