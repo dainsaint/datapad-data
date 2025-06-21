@@ -1747,7 +1747,7 @@
       "status": "playing",
       "round": 6,
       "duration": 1200,
-      "timeElapsed": 526.2329999999977,
+      "timeElapsed": 529.2339999999976,
       "actualTime": {
         "s": "2025-06-21T22:51:14.306+00:00",
         "e": "2025-06-21T23:11:14.306+00:00",
@@ -2002,9 +2002,7 @@
       "name": "Freakish Tastebuds",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
