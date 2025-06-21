@@ -524,9 +524,11 @@
       "societyId": "et0k8",
       "resourceIds": [
         "H8M0s",
-        "Ird98"
+        "Ird98",
+        "iKbqP"
       ],
       "texts": [
+        "",
         "",
         ""
       ],
@@ -1191,7 +1193,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 706.861999999997,
+      "timeElapsed": 715.8709999999968,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
