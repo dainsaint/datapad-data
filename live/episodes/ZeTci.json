@@ -655,7 +655,7 @@
         "i3Cf3"
       ],
       "texts": [
-        "Initiate evacuate to",
+        "Initiate evacuation to the crumbs",
         ""
       ],
       "result": [],
@@ -1407,7 +1407,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 672.5919999999974,
+      "timeElapsed": 682.5969999999973,
       "actualTime": {
         "s": "2025-06-21T21:13:43.680+00:00",
         "e": "2025-06-21T21:25:43.680+00:00",
