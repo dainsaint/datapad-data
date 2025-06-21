@@ -1272,13 +1272,13 @@
       "_type": "Phase",
       "id": "ygjZU",
       "type": "Individual Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 3,
       "duration": 600,
-      "timeElapsed": 601.3009999999971,
+      "timeElapsed": 752.3349999999963,
       "actualTime": {
         "s": "2025-06-21T21:02:15.979+00:00",
-        "e": "2025-06-21T21:12:15.979+00:00",
+        "e": "2025-06-21T21:04:49.472+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -50746,6 +50746,102 @@
       "type": "PhaseStarted",
       "description": "Round 3: Individual Phase",
       "value": "2025-06-21T21:02:15.979Z"
+    },
+    {
+      "_type": "Record",
+      "id": "VkYTl",
+      "timestamp": "2025-06-21T21:04:49.472Z",
+      "type": "PhaseEnded",
+      "description": "Round 3: Individual Phase",
+      "value": "2025-06-21T21:04:49.472Z"
+    },
+    {
+      "_type": "Record",
+      "id": "kznB4",
+      "timestamp": "2025-06-21T21:04:49.473Z",
+      "type": "PhaseDuration",
+      "description": "Round 3: Individual Phase",
+      "value": 2.5582166666666666
+    },
+    {
+      "_type": "Record",
+      "id": "PF3NE",
+      "timestamp": "2025-06-21T21:04:49.474Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "T_KYC",
+      "timestamp": "2025-06-21T21:04:49.474Z",
+      "type": "ActionResources",
+      "description": "the mighty used Abundant Followers,Sacrificial Altars,Healing Quartz-Crystals to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "UNC8O",
+      "timestamp": "2025-06-21T21:04:49.474Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "G2Wfi",
+      "timestamp": "2025-06-21T21:04:49.474Z",
+      "type": "ActionResources",
+      "description": "the scholars used Forbidden Language ,Interstellar Radio to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "TPg7y",
+      "timestamp": "2025-06-21T21:04:49.474Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "qwv6n",
+      "timestamp": "2025-06-21T21:04:49.474Z",
+      "type": "ActionResources",
+      "description": "the curious used Blood Science,Blood Bending to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "KdJtW",
+      "timestamp": "2025-06-21T21:04:49.474Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "K3YcN",
+      "timestamp": "2025-06-21T21:04:49.474Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Internal Navigation,Universal Healthcare to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "Txe7z",
+      "timestamp": "2025-06-21T21:04:49.474Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "pexBD",
+      "timestamp": "2025-06-21T21:04:49.474Z",
+      "type": "ActionResources",
+      "description": "the grounded used The CONCERN's Computing Power,Alignment Factories  to take action.",
+      "value": 2
     }
   ]
 }
