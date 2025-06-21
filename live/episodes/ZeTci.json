@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 369.16699999999935,
+      "timeElapsed": 372.17099999999937,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -6612,7 +6612,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "The UEC found this solution unacceptable. With the best of intentions, they transformed the Unity Siphon, but these changes allowed for more than just a more efficient transfer of energy. In a last ditch effort to compel the people of the Kin System to join them, they fired the newly built laser from the Unity Siphon, destroying a (somewhat) abandoned planet in the process and the surviving refugees finding homes with the other people of Kin."
+                "value": "The UEC found this solution unacceptable. With the best of intentions, they transformed the Unity Siphon, but these changes allowed for more than just a more efficient transfer of energy. In a last ditch effort to compel the people of the Kin System to join them, they fired the newly built laser from the Unity Siphon, destroying a (somewhat) abandoned planet in the process and the surviving refugees xpfinding homes with the other people of Kin."
               }
             ]
           },
@@ -15681,7 +15681,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "So if…"
+                "value": "So for instance, let’s say the Mighty take an action:"
               }
             ]
           },
