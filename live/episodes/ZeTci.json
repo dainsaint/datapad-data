@@ -299,7 +299,11 @@
         "",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0,
+        0
+      ],
       "voteTime": "2025-06-21T18:35:36.875+00:00",
       "status": "voted",
       "tags": {
@@ -313,9 +317,11 @@
       "round": "2",
       "societyId": "e-JcG",
       "resourceIds": [
-        "fU-yH"
+        "fU-yH",
+        "h30WH"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -882,7 +888,7 @@
       "status": "playing",
       "round": 2,
       "duration": 840,
-      "timeElapsed": 773.0889999999986,
+      "timeElapsed": 778.0899999999986,
       "actualTime": {
         "s": "2025-06-21T18:22:43.738+00:00",
         "e": "2025-06-21T18:34:43.738+00:00",
