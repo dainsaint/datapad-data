@@ -1744,7 +1744,7 @@
       "_type": "Phase",
       "id": "SBJee",
       "type": "Generational Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 6,
       "duration": 1200,
       "timeElapsed": 1210.484999999992,
@@ -1766,7 +1766,7 @@
       "status": "playing",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 2.001,
+      "timeElapsed": 64.012,
       "actualTime": {
         "s": "2025-06-21T23:11:52.697+00:00",
         "e": "2025-06-21T23:21:52.697+00:00",
