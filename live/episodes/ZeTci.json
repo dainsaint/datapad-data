@@ -1140,7 +1140,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 617.8139999999977,
+      "timeElapsed": 634.8219999999975,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
@@ -2626,7 +2626,7 @@
       "ambassadors": {
         "cBV-v": "",
         "Rcsl8": "",
-        "bIa2P": "V9xbw"
+        "bIa2P": ""
       },
       "alterLeadership": {}
     },
