@@ -716,11 +716,12 @@
       "id": "Bdqt-",
       "round": "5",
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "IzJGT"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1542,7 +1543,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 303.23400000000004,
+      "timeElapsed": 306.23400000000004,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
