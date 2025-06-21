@@ -746,7 +746,7 @@
       "status": "playing",
       "round": 1,
       "duration": 900,
-      "timeElapsed": 505.1759999999985,
+      "timeElapsed": 515.1799999999985,
       "actualTime": {
         "s": "2025-06-21T17:48:28.568+00:00",
         "e": "2025-06-21T18:03:28.568+00:00",
@@ -1566,10 +1566,12 @@
       "_type": "Resource",
       "id": "LDWjn",
       "communityId": "xUCao",
-      "name": "Relentless Guardians",
+      "name": "Relentless Guardsmen",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
