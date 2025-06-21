@@ -120,6 +120,7 @@
       ],
       "texts": [
         "Throw a party",
+        "Create a chill out zone",
         ""
       ],
       "result": [],
@@ -658,7 +659,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 957.376999999995,
+      "timeElapsed": 963.3779999999949,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
