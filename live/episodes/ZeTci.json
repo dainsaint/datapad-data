@@ -132,7 +132,7 @@
       "id": "DgkcU",
       "societyId": "V9xbw",
       "player": "Sabrina (She/her)",
-      "name": "Extroverted []",
+      "name": "Extroverted Bartenders",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1684.0249999999903,
+      "timeElapsed": 1699.0269999999903,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1956,7 +1956,8 @@
         "Rp9Mo": "",
         "iV-n0": "",
         "BNuWv": "",
-        "LFwRq": ""
+        "LFwRq": "",
+        "DgkcU": ""
       },
       "alterLeadership": {}
     },
