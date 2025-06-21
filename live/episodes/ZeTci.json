@@ -1525,7 +1525,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 75.08499999999998,
+      "timeElapsed": 78.08599999999998,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -2201,7 +2201,7 @@
     {
       "_type": "Resource",
       "id": "Fqvn9",
-      "communityId": "nHktk",
+      "communityId": "nmW7Z",
       "name": "Safe Housing",
       "tags": {
         "_type": "Tags",
