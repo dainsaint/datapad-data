@@ -1084,7 +1084,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 76.057,
+      "timeElapsed": 78.056,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
@@ -1940,7 +1940,7 @@
     {
       "_type": "Resource",
       "id": "phzIN",
-      "communityId": "n9ZRY",
+      "communityId": "Q5mwY",
       "name": "Neverending  Notebooks",
       "tags": {
         "_type": "Tags",
