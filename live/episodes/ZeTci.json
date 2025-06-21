@@ -939,7 +939,7 @@
       "status": "playing",
       "round": 2,
       "duration": 900,
-      "timeElapsed": 1178.5499999999925,
+      "timeElapsed": 1195.5559999999923,
       "actualTime": {
         "s": "2025-06-21T18:39:08.724+00:00",
         "e": "2025-06-21T18:54:08.724+00:00",
@@ -2056,6 +2056,16 @@
       "id": "n6jLU",
       "communityId": "DgkcU",
       "name": "Division's Good Will",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "HUFgn",
+      "communityId": "iV-n0",
+      "name": "Invasive Shield Schematics",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -48994,6 +49004,13 @@
       "type": "PhaseStarted",
       "description": "Round 2: Galactic Phase",
       "value": "2025-06-21T18:39:08.724Z"
+    },
+    {
+      "_type": "Record",
+      "id": "A8Csk",
+      "timestamp": "2025-06-21T18:59:04.793Z",
+      "type": "ResourceCreated",
+      "value": "Invasive Shield Schematics"
     }
   ]
 }
