@@ -1747,7 +1747,7 @@
       "status": "playing",
       "round": 6,
       "duration": 1200,
-      "timeElapsed": 480.20999999999816,
+      "timeElapsed": 484.20999999999816,
       "actualTime": {
         "s": "2025-06-21T22:51:14.306+00:00",
         "e": "2025-06-21T23:11:14.306+00:00",
@@ -2374,7 +2374,9 @@
       "name": "Neverending  Notebooks",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "destroyed"
+        ]
       }
     },
     {
