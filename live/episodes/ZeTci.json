@@ -1708,7 +1708,7 @@
       "status": "playing",
       "round": 5,
       "duration": 900,
-      "timeElapsed": 665.4759999999981,
+      "timeElapsed": 668.486999999998,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
@@ -3215,7 +3215,7 @@
       "id": "RSCjX",
       "round": 5,
       "societyId": "e-JcG",
-      "risk": "1",
+      "risk": "2",
       "advantage": "1",
       "disadvantage": "0",
       "ambassadors": {},
