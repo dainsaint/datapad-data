@@ -121,7 +121,7 @@
       "societyId": "et0k8",
       "player": "Dwight He/him",
       "name": "Impatient Elders",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 380.17199999999934,
+      "timeElapsed": 392.17599999999925,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
