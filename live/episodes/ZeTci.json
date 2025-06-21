@@ -1525,7 +1525,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 150.11500000000012,
+      "timeElapsed": 153.11500000000012,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -1763,9 +1763,7 @@
       "name": "Deep Silos",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2110,7 +2108,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "exhausted"
+          "exhausted",
+          "destroyed"
         ]
       }
     },
