@@ -36,9 +36,10 @@
       "id": "ioiep",
       "round": "0",
       "societyId": "V9xbw",
-      "resourceIds": [],
+      "resourceIds": [
+        "S91xm"
+      ],
       "texts": [
-        "",
         ""
       ],
       "result": [],
