@@ -423,7 +423,7 @@
       "_type": "Community",
       "id": "iV-n0",
       "societyId": "V9xbw",
-      "player": "[] ()",
+      "player": "Heather (She/her)",
       "name": "[] []",
       "voice": "leader",
       "tags": {
@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 571.2749999999982,
+      "timeElapsed": 583.2779999999981,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1943,7 +1943,8 @@
       "ambassadors": {
         "ZTISw": "",
         "M8dPd": "",
-        "Rp9Mo": ""
+        "Rp9Mo": "",
+        "iV-n0": ""
       },
       "alterLeadership": {}
     },
