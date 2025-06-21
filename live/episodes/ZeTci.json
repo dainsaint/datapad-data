@@ -1315,7 +1315,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 287.19800000000004,
+      "timeElapsed": 295.24,
       "actualTime": {
         "s": "2025-06-21T21:13:43.680+00:00",
         "e": "2025-06-21T21:25:43.680+00:00",
@@ -2021,7 +2021,7 @@
       "_type": "Resource",
       "id": "R5sHY",
       "communityId": "baFQb",
-      "name": "Scouting Tools",
+      "name": "Holographic Planet Projector",
       "tags": {
         "_type": "Tags",
         "value": []
