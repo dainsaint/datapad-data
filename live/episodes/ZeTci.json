@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1156.6969999999928,
+      "timeElapsed": 1160.6989999999928,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1903,7 +1903,7 @@
       "_type": "Society",
       "id": "yXHVO",
       "archetype": "the grounded",
-      "fateId": "",
+      "fateId": "fate_one",
       "color": "color-canary-diamond",
       "tags": {
         "_type": "Tags",
