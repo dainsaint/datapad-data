@@ -1296,7 +1296,7 @@
       "status": "playing",
       "round": 4,
       "duration": 300,
-      "timeElapsed": 2.001,
+      "timeElapsed": 30.004,
       "actualTime": {
         "s": "2025-06-21T21:07:16.849+00:00",
         "e": "2025-06-21T21:12:16.849+00:00",
@@ -2773,9 +2773,9 @@
       "id": "DYwoh",
       "round": 4,
       "societyId": "et0k8",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "3",
+      "advantage": "0",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     },
