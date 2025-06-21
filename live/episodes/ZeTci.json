@@ -144,7 +144,7 @@
       "id": "HxH3y",
       "societyId": "e-JcG",
       "player": "Jess She/they",
-      "name": "X Clockmakers",
+      "name": "Combustible Clockmakers",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 753.4199999999968,
+      "timeElapsed": 785.4329999999965,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1981,7 +1981,8 @@
         "nHktk": "",
         "l5d1f": "",
         "baFQb": "",
-        "n9ZRY": ""
+        "n9ZRY": "",
+        "HxH3y": ""
       },
       "alterLeadership": {}
     },
