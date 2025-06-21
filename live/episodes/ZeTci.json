@@ -115,7 +115,8 @@
       "round": "1",
       "societyId": "V9xbw",
       "resourceIds": [
-        "U6kbF"
+        "U6kbF",
+        "jxMrH"
       ],
       "texts": [
         "Throw a party",
@@ -656,7 +657,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 942.373999999995,
+      "timeElapsed": 944.374999999995,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
