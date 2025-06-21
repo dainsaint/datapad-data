@@ -2601,6 +2601,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "TdAK7",
+      "communityId": "baFQb",
+      "name": "Super Sneaky Stealth",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -51680,6 +51690,13 @@
       "timestamp": "2025-06-21T22:14:49.498Z",
       "type": "ResourceCreated",
       "value": "Wide Ranging Cannons"
+    },
+    {
+      "_type": "Record",
+      "id": "TkWQD",
+      "timestamp": "2025-06-21T22:15:53.080Z",
+      "type": "ResourceCreated",
+      "value": "Super Sneaky Stealth"
     }
   ]
 }
