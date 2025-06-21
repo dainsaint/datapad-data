@@ -1118,7 +1118,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 480.6699999999987,
+      "timeElapsed": 482.6709999999987,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
@@ -1770,9 +1770,7 @@
       "name": "Logistics-oriented Helpers",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
