@@ -558,7 +558,10 @@
         "",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-21T20:31:11.257+00:00",
       "status": "voted",
       "tags": {
@@ -1197,10 +1200,10 @@
       "_type": "Phase",
       "id": "uCfsG",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 778.1429999999963,
+      "timeElapsed": 782.1449999999962,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
