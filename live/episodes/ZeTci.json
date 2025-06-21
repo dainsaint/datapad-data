@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1441.7669999999916,
+      "timeElapsed": 1447.7929999999917,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1299,7 +1299,7 @@
       "_type": "Resource",
       "id": "s9jpM",
       "communityId": "Pry_D",
-      "name": "Imperial _",
+      "name": "Imperial Databases",
       "tags": {
         "_type": "Tags",
         "value": []
