@@ -1087,7 +1087,7 @@
       "societyId": "V9xbw",
       "player": "Heather (She/her)",
       "name": "Resilient Rhizomes",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1525,7 +1525,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 222.19900000000024,
+      "timeElapsed": 228.19900000000024,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -2978,7 +2978,8 @@
       "ambassadors": {
         "Pf-Th": "",
         "LFwRq": "",
-        "M8dPd": ""
+        "M8dPd": "",
+        "iV-n0": ""
       },
       "alterLeadership": {}
     },
