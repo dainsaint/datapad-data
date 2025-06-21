@@ -1484,13 +1484,13 @@
       "_type": "Phase",
       "id": "lm2PY",
       "type": "Break",
-      "status": "playing",
+      "status": "complete",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 743.2909999999961,
       "actualTime": {
         "s": "2025-06-21T21:49:32.417+00:00",
-        "e": "2025-06-21T21:59:32.417+00:00",
+        "e": "2025-06-21T22:01:56.538+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51388,6 +51388,102 @@
       "type": "PhaseStarted",
       "description": "Round 4: Break",
       "value": "2025-06-21T21:49:32.417Z"
+    },
+    {
+      "_type": "Record",
+      "id": "LCyMK",
+      "timestamp": "2025-06-21T22:01:56.538Z",
+      "type": "PhaseEnded",
+      "description": "Round 4: Break",
+      "value": "2025-06-21T22:01:56.538Z"
+    },
+    {
+      "_type": "Record",
+      "id": "NT1jx",
+      "timestamp": "2025-06-21T22:01:56.539Z",
+      "type": "PhaseDuration",
+      "description": "Round 4: Break",
+      "value": 12.402016666666666
+    },
+    {
+      "_type": "Record",
+      "id": "Vh9RA",
+      "timestamp": "2025-06-21T22:01:56.539Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "PLtJS",
+      "timestamp": "2025-06-21T22:01:56.539Z",
+      "type": "ActionResources",
+      "description": "the mighty used Engineering Knowledge to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "INwVJ",
+      "timestamp": "2025-06-21T22:01:56.539Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "OwFQ_",
+      "timestamp": "2025-06-21T22:01:56.539Z",
+      "type": "ActionResources",
+      "description": "the scholars used Logistics-oriented Helpers to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "x0ovL",
+      "timestamp": "2025-06-21T22:01:56.539Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "OFeoB",
+      "timestamp": "2025-06-21T22:01:56.539Z",
+      "type": "ActionResources",
+      "description": "the curious used Invasive Shield Schematics,Powerful Ships,Relentless Guardsmen to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "Ql0TU",
+      "timestamp": "2025-06-21T22:01:56.539Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "wduOr",
+      "timestamp": "2025-06-21T22:01:56.539Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Holographic Planet Projector,Super-sneaky Stealth,Refreshing Underthinking to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "Ysi2v",
+      "timestamp": "2025-06-21T22:01:56.539Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "TswGQ",
+      "timestamp": "2025-06-21T22:01:56.539Z",
+      "type": "ActionResources",
+      "description": "the grounded used Healing NEBULA ,Deep Silos to take action.",
+      "value": 2
     }
   ]
 }
