@@ -1140,7 +1140,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 615.8129999999977,
+      "timeElapsed": 617.8139999999977,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
@@ -1822,7 +1822,7 @@
     {
       "_type": "Resource",
       "id": "LDWjn",
-      "communityId": "xUCao",
+      "communityId": "adPGA",
       "name": "Relentless Guardsmen",
       "tags": {
         "_type": "Tags",
