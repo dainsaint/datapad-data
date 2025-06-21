@@ -743,13 +743,13 @@
       "_type": "Phase",
       "id": "I9Rtl",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 1,
       "duration": 900,
-      "timeElapsed": 943.4019999999945,
+      "timeElapsed": 1024.4409999999937,
       "actualTime": {
         "s": "2025-06-21T17:48:28.568+00:00",
-        "e": "2025-06-21T18:03:28.568+00:00",
+        "e": "2025-06-21T18:05:29.398+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -48333,6 +48333,22 @@
       "timestamp": "2025-06-21T17:53:41.199Z",
       "type": "ResourceCreated",
       "value": "Division's Good Will"
+    },
+    {
+      "_type": "Record",
+      "id": "TnZv_",
+      "timestamp": "2025-06-21T18:05:29.398Z",
+      "type": "PhaseEnded",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-06-21T18:05:29.398Z"
+    },
+    {
+      "_type": "Record",
+      "id": "x8Q2T",
+      "timestamp": "2025-06-21T18:05:29.399Z",
+      "type": "PhaseDuration",
+      "description": "Round 1: Galactic Phase",
+      "value": 17.013833333333334
     }
   ]
 }
