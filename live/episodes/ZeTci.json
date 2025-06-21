@@ -1766,7 +1766,7 @@
       "status": "playing",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 1091.2479999999962,
+      "timeElapsed": 1094.2479999999962,
       "actualTime": {
         "s": "2025-06-21T23:11:52.697+00:00",
         "e": "2025-06-21T23:21:52.697+00:00",
@@ -2094,7 +2094,7 @@
     {
       "_type": "Resource",
       "id": "pXBwp",
-      "communityId": "Pry_D",
+      "communityId": "CYPuO",
       "name": "Military Training",
       "tags": {
         "_type": "Tags",
