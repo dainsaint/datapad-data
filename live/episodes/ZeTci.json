@@ -657,7 +657,7 @@
         "Prepare an evacuation to the crumbs"
       ],
       "result": [
-        0
+        6
       ],
       "voteTime": "2025-06-21T21:25:11.872+00:00",
       "status": "voted",
@@ -1468,7 +1468,7 @@
       "status": "playing",
       "round": 4,
       "duration": 900,
-      "timeElapsed": 589.1419999999993,
+      "timeElapsed": 606.1429999999992,
       "actualTime": {
         "s": "2025-06-21T21:27:53.007+00:00",
         "e": "2025-06-21T21:42:53.007+00:00",
