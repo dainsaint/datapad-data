@@ -769,10 +769,12 @@
       "societyId": "V9xbw",
       "resourceIds": [
         "ND1C8",
-        "jxMrH"
+        "jxMrH",
+        "sikEC"
       ],
       "texts": [
         "Fire at",
+        "",
         ""
       ],
       "result": [],
@@ -2607,6 +2609,16 @@
       "id": "TdAK7",
       "communityId": "baFQb",
       "name": "Super Sneaky Stealth",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "ndYVm",
+      "communityId": "iRW5s",
+      "name": "Invasive Shield Schematics",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -51697,6 +51709,13 @@
       "timestamp": "2025-06-21T22:15:53.080Z",
       "type": "ResourceCreated",
       "value": "Super Sneaky Stealth"
+    },
+    {
+      "_type": "Record",
+      "id": "R9fYY",
+      "timestamp": "2025-06-21T22:15:57.107Z",
+      "type": "ResourceCreated",
+      "value": "Invasive Shield Schematics"
     }
   ]
 }
