@@ -511,11 +511,12 @@
       "id": "L2iTF",
       "round": "3",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "H8M0s"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1175,7 +1176,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 680.8549999999972,
+      "timeElapsed": 683.8559999999972,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
