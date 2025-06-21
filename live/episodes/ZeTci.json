@@ -205,7 +205,10 @@
         "Adapt crops to each planetary ecosystem ",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-21T17:48:10.359+00:00",
       "status": "voted",
       "tags": {
@@ -740,13 +743,13 @@
       "_type": "Phase",
       "id": "I9Rtl",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 900,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:43.746+00:00",
+        "s": "2025-06-21T17:48:18.604+00:00",
+        "e": "2025-06-21T18:03:18.604+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -48593,6 +48596,14 @@
       "type": "PhaseStarted",
       "description": "Round 1: Societal Phase",
       "value": "2025-06-21T17:28:20.557Z"
+    },
+    {
+      "_type": "Record",
+      "id": "NxUNO",
+      "timestamp": "2025-06-21T17:48:18.604Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-06-21T17:48:18.604Z"
     }
   ]
 }
