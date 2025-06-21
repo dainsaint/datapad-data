@@ -1525,7 +1525,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 68.08299999999997,
+      "timeElapsed": 75.08499999999998,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -2989,6 +2989,7 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
+      "emissaryCommunityId": "Uyeis",
       "ambassadors": {},
       "alterLeadership": {}
     },
