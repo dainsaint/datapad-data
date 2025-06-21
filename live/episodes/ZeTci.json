@@ -49,8 +49,14 @@
         "podfcastastststststst asdf asdfa sdfasd",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "voteTime": "2025-06-21T14:58:24.365+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
