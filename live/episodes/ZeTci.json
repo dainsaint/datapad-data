@@ -1275,10 +1275,10 @@
       "status": "playing",
       "round": 3,
       "duration": 600,
-      "timeElapsed": 267.1120000000001,
+      "timeElapsed": 601.3009999999971,
       "actualTime": {
-        "s": "2025-06-21T20:52:15.848+00:00",
-        "e": "2025-06-21T21:02:15.848+00:00",
+        "s": "2025-06-21T21:02:15.979+00:00",
+        "e": "2025-06-21T21:12:15.979+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -50738,6 +50738,14 @@
       "timestamp": "2025-06-21T20:56:42.892Z",
       "type": "ResourceCreated",
       "value": "Screaming Whips"
+    },
+    {
+      "_type": "Record",
+      "id": "Xj6ka",
+      "timestamp": "2025-06-21T21:02:15.979Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Individual Phase",
+      "value": "2025-06-21T21:02:15.979Z"
     }
   ]
 }
