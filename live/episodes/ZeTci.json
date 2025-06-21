@@ -678,7 +678,7 @@
         "Try and fix the eye"
       ],
       "result": [
-        0
+        6
       ],
       "voteTime": "2025-06-21T21:25:46.480+00:00",
       "status": "voted",
@@ -1468,7 +1468,7 @@
       "status": "playing",
       "round": 4,
       "duration": 900,
-      "timeElapsed": 750.1889999999989,
+      "timeElapsed": 843.2029999999986,
       "actualTime": {
         "s": "2025-06-21T21:27:53.007+00:00",
         "e": "2025-06-21T21:42:53.007+00:00",
