@@ -106,7 +106,11 @@
         "Arm, guards",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0,
+        0
+      ],
       "voteTime": "2025-06-21T17:45:59.782+00:00",
       "status": "voted",
       "tags": {
@@ -149,9 +153,11 @@
       "societyId": "e-JcG",
       "resourceIds": [
         "fFeKC",
-        "awPje"
+        "awPje",
+        "N5jiH"
       ],
       "texts": [
+        "",
         "",
         ""
       ],
@@ -708,7 +714,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 1059.6179999999945,
+      "timeElapsed": 1068.6199999999944,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
