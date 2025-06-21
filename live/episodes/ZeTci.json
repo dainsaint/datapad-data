@@ -1244,7 +1244,7 @@
       "status": "playing",
       "round": 3,
       "duration": 900,
-      "timeElapsed": 1060.5969999999948,
+      "timeElapsed": 1080.6049999999946,
       "actualTime": {
         "s": "2025-06-21T20:31:48.471+00:00",
         "e": "2025-06-21T20:46:48.471+00:00",
@@ -1555,7 +1555,9 @@
       "name": "Internal Navigation",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "destroyed"
+        ]
       }
     },
     {
