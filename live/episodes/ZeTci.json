@@ -991,7 +991,7 @@
       "status": "playing",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 424.19999999999897,
+      "timeElapsed": 507.24899999999843,
       "actualTime": {
         "s": "2025-06-21T19:03:44.114+00:00",
         "e": "2025-06-21T19:13:44.114+00:00",
@@ -2103,6 +2103,16 @@
       "id": "HUFgn",
       "communityId": "iV-n0",
       "name": "Invasive Shield Schematics",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "awdkU",
+      "communityId": "nmW7Z",
+      "name": "Redacted Redacted ",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -49072,6 +49082,13 @@
       "type": "PhaseStarted",
       "description": "Round 2: Individual Phase",
       "value": "2025-06-21T19:03:44.114Z"
+    },
+    {
+      "_type": "Record",
+      "id": "rhUvM",
+      "timestamp": "2025-06-21T19:12:11.373Z",
+      "type": "ResourceCreated",
+      "value": "Redacted Redacted "
     }
   ]
 }
