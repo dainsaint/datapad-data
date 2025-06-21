@@ -503,8 +503,7 @@
       ],
       "texts": [
         "Decode the eye of unity's message",
-        "",
-        ""
+        "Receive the message in a different, more stable medium"
       ],
       "result": [
         0,
@@ -1193,7 +1192,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 718.0019999999968,
+      "timeElapsed": 721.1099999999968,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
