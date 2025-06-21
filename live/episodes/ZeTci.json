@@ -1275,7 +1275,7 @@
       "status": "playing",
       "round": 3,
       "duration": 600,
-      "timeElapsed": 249.10200000000026,
+      "timeElapsed": 267.1120000000001,
       "actualTime": {
         "s": "2025-06-21T20:52:15.848+00:00",
         "e": "2025-06-21T21:02:15.848+00:00",
@@ -2328,6 +2328,16 @@
       "id": "XQM4p",
       "communityId": "Pry_D",
       "name": "The CONCERN's Computing Power",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "SUHmS",
+      "communityId": "erGwW",
+      "name": "Screaming Whips",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -50721,6 +50731,13 @@
       "type": "PhaseStarted",
       "description": "Round 3: Individual Phase",
       "value": "2025-06-21T20:52:15.848Z"
+    },
+    {
+      "_type": "Record",
+      "id": "lr6nq",
+      "timestamp": "2025-06-21T20:56:42.892Z",
+      "type": "ResourceCreated",
+      "value": "Screaming Whips"
     }
   ]
 }
