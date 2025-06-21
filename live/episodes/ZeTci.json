@@ -850,10 +850,10 @@
       "societyId": "yXHVO",
       "resourceIds": [
         "GetAN",
-        "LE291"
+        "LE291",
+        "ndYVm"
       ],
       "texts": [
-        "",
         "",
         "",
         ""
@@ -1698,7 +1698,7 @@
       "status": "playing",
       "round": 5,
       "duration": 900,
-      "timeElapsed": 123.20700000000008,
+      "timeElapsed": 125.20700000000008,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
@@ -3160,7 +3160,7 @@
       "round": 5,
       "societyId": "et0k8",
       "risk": "3",
-      "advantage": "0",
+      "advantage": "1",
       "disadvantage": "0",
       "ambassadors": {
         "bWsq5": "",
