@@ -76,9 +76,11 @@
       "round": "1",
       "societyId": "et0k8",
       "resourceIds": [
-        "rk6c1"
+        "rk6c1",
+        "AhntF"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -705,7 +707,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 1034.6129999999946,
+      "timeElapsed": 1036.6129999999946,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
