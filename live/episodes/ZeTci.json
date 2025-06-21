@@ -939,7 +939,7 @@
       "status": "playing",
       "round": 2,
       "duration": 900,
-      "timeElapsed": 379.15399999999937,
+      "timeElapsed": 564.2239999999977,
       "actualTime": {
         "s": "2025-06-21T18:39:08.724+00:00",
         "e": "2025-06-21T18:54:08.724+00:00",
@@ -2398,7 +2398,7 @@
       "round": 2,
       "societyId": "Feay0",
       "risk": "2",
-      "advantage": "0",
+      "advantage": "1",
       "disadvantage": "0",
       "emissaryCommunityId": "adPGA",
       "ambassadors": {},
