@@ -783,7 +783,7 @@
         "Seed their ships"
       ],
       "result": [
-        0,
+        6,
         0,
         0,
         0
@@ -1708,7 +1708,7 @@
       "status": "playing",
       "round": 5,
       "duration": 900,
-      "timeElapsed": 483.3909999999987,
+      "timeElapsed": 490.39199999999875,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
