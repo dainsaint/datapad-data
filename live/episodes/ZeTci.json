@@ -658,18 +658,6 @@
     },
     {
       "_type": "Community",
-      "id": "j8Gf_",
-      "societyId": "et0k8",
-      "player": "FMP7",
-      "name": "Soothing []",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "ol1GN",
       "societyId": "et0k8",
       "player": "FMP8",
@@ -765,7 +753,7 @@
       "status": "playing",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 328.1369999999998,
+      "timeElapsed": 343.14199999999965,
       "actualTime": {
         "s": "2025-06-21T18:05:39.377+00:00",
         "e": "2025-06-21T18:15:39.377+00:00",
