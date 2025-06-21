@@ -155,7 +155,7 @@
       "_type": "Community",
       "id": "nmW7Z",
       "societyId": "e-JcG",
-      "player": "C",
+      "player": "Benny",
       "name": "X X",
       "voice": "leader",
       "tags": {
@@ -1961,7 +1961,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "nmW7Z": ""
+      },
       "alterLeadership": {}
     },
     {
