@@ -1747,7 +1747,7 @@
       "status": "playing",
       "round": 6,
       "duration": 1200,
-      "timeElapsed": 484.20999999999816,
+      "timeElapsed": 523.2319999999977,
       "actualTime": {
         "s": "2025-06-21T22:51:14.306+00:00",
         "e": "2025-06-21T23:11:14.306+00:00",
@@ -50688,6 +50688,237 @@
                             "value": "Move through the system to successfully share shield schematics with everyone but burning embers"
                           }
                         ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "In your travels, you become aware of how the situation is unfolding on UNITY; as the curious have uploaded themselves to the EYE of UNITY; "
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "SCHOLARS: "
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Logistics oriented helpers to prepare evacuation to the crumbs"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "1D6: with advantage, risk level 4"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "As the gravity around unity starts to warp and wobble, the university finds itself in a decaying orbit; if you don’t address this, the university will crash into Luster in a cataclysmic event"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "MIGHTY: "
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "use engineering knowledge to try and fix the EYE"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "1D6 (risk 3 to 2) with inspired die:3;3."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Fixing the EYE is a much larger undertaking than anticipated; impacts will be felt later. There is some interference affecting the esthetic net impacting comms. from the EYE; you can’t sense whether it’s positive or negative, just that it’s happening."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "GROUNDED:"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "use healing nebula to heal the EYE"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "use deep silo to channel power of magical water on our planet"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Double Advantage resource cards to reroll lowest die."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "2D6 w/ reroll: 6,4"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Tapping into the magical powers of the water to commune with the EYEfor insight :"
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Sense deep internal conflict between eye itself and the uploaded consciousness of the concern- two thoughts: 1-we must protect the kin system from all threats; 2-the burning ember is the biggest threat to the kin system."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "The EYE is able to release some processing power from this conflict, and some pressure eases on the containment"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
@@ -50727,39 +50958,353 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "     "
+                    "value": "CURIOUS "
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "    Powerful ships tow university into the crumbs; rare material to power the ship; plasma battery to power ships (no blood festival)"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "3D6, advantage of risk level zero (111,reroll 4)"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Successfully able to connect university and move university into the crumbs gravitational field/orbit."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Not made to be in the chaotic space of crumbs, future tbd"
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
+              },
               {
-                "type": "text",
-                "value": ""
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "MIGHTY:"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "detailed maps to map what signals the EYE is trying to tell us, and other messages being dosceen"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "s",
+                            "properties": {},
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Excellent cardio to engage in convo with AI"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "s",
+                            "properties": {},
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Biological nutrient bars to sustain convo to solve the riddle of the 2 suns"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Risk 2 D6 w: advantage: 4"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "you’re able to eavesdrop on the conversation they’re having; what you already knew: there are two suns being held back by the ey of unity, asking the AI to disable itself to free the two suns…AI acknowledges that there is some bigger energy or entity/truth to the two suns myth/story"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
               {
-                "type": "text",
-                "value": ""
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "SCHOLARS:"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Use wide ranging cannons to fire invasive species using growth ray and and hidden intoxicants to boost them"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "3D6 with advantage: 654"
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Access to armada, or remove burning embers from KIN? ->Access to armada, possibility burning ember will return"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "GROUNDED:"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Use healing nebula free 2 suns; Deep silos to protect our people; Invasive shield schematics to protect planet."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Using advantage cards"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "3D6 w/ advantage, increase risk level of 4"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "?????"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "INTREPID: "
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Strategize Willpower card for advantage"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Freakish tastebuds to feed a feast to refugees; super sneaky stealth to refugees safely to the feast"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "2D6: 3, "
+                  }
+                ]
               }
             ]
           },
