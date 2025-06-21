@@ -268,7 +268,7 @@
       "id": "Q5mwY",
       "societyId": "e-JcG",
       "player": "Sarah Peony She/they",
-      "name": "X X",
+      "name": "Verbose Infantry",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 942.587999999995,
+      "timeElapsed": 973.6029999999946,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1992,7 +1992,8 @@
         "l5d1f": "",
         "baFQb": "",
         "n9ZRY": "",
-        "HxH3y": ""
+        "HxH3y": "",
+        "Q5mwY": ""
       },
       "alterLeadership": {}
     },
