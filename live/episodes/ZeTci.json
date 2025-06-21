@@ -256,7 +256,7 @@
       "id": "bIa2P",
       "societyId": "Feay0",
       "player": "Arianne All",
-      "name": "ASSISTANTS",
+      "name": "Subterannean ASSISTANTS",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 717.4069999999971,
+      "timeElapsed": 726.409999999997,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
