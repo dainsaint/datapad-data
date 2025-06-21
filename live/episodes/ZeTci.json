@@ -279,7 +279,7 @@
       "_type": "Community",
       "id": "ZTISw",
       "societyId": "V9xbw",
-      "player": "[] ()",
+      "player": "Ed (He/him)",
       "name": "Archival []",
       "voice": "leader",
       "tags": {
@@ -1934,7 +1934,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "ZTISw": ""
+      },
       "alterLeadership": {}
     },
     {
