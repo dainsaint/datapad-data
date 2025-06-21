@@ -1065,7 +1065,7 @@
       "status": "playing",
       "round": 3,
       "duration": 300,
-      "timeElapsed": 149.0690000000001,
+      "timeElapsed": 315.1749999999996,
       "actualTime": {
         "s": "2025-06-21T20:09:30.767+00:00",
         "e": "2025-06-21T20:14:30.767+00:00",
@@ -2536,7 +2536,7 @@
       "id": "Uu0NJ",
       "round": 3,
       "societyId": "et0k8",
-      "risk": "3",
+      "risk": "4",
       "advantage": "0",
       "disadvantage": "0",
       "ambassadors": {},
