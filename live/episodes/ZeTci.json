@@ -167,7 +167,7 @@
       "_type": "Community",
       "id": "l5d1f",
       "societyId": "e-JcG",
-      "player": "E",
+      "player": "Larry",
       "name": "X X",
       "voice": "people",
       "tags": {
@@ -1966,7 +1966,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "nmW7Z": "",
-        "nHktk": ""
+        "nHktk": "",
+        "l5d1f": ""
       },
       "alterLeadership": {}
     },
