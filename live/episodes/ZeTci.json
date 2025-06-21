@@ -1455,7 +1455,7 @@
       "status": "playing",
       "round": 4,
       "duration": 900,
-      "timeElapsed": 19.003,
+      "timeElapsed": 21.003,
       "actualTime": {
         "s": "2025-06-21T21:27:53.007+00:00",
         "e": "2025-06-21T21:42:53.007+00:00",
@@ -1913,7 +1913,7 @@
     {
       "_type": "Resource",
       "id": "G95pq",
-      "communityId": "BNuWv",
+      "communityId": "Rp9Mo",
       "name": "Forbidden Language ",
       "tags": {
         "_type": "Tags",
