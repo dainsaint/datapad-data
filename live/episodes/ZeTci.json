@@ -366,7 +366,7 @@
       "id": "adPGA",
       "societyId": "Feay0",
       "player": "Moss They/them",
-      "name": "_______",
+      "name": "Blood Avatars",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -576,7 +576,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 2,
+      "timeElapsed": 202.09000000000026,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
@@ -2050,7 +2050,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "adPGA": ""
+      },
       "alterLeadership": {}
     },
     {
