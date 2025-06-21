@@ -1006,6 +1006,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "erGwW",
+      "societyId": "et0k8",
+      "player": "Sterling",
+      "name": "Curious Inquisitors",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -1263,7 +1275,7 @@
       "status": "playing",
       "round": 3,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 249.10200000000026,
       "actualTime": {
         "s": "2025-06-21T20:52:15.848+00:00",
         "e": "2025-06-21T21:02:15.848+00:00",
