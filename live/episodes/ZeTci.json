@@ -533,13 +533,13 @@
       "_type": "Phase",
       "id": "RwtYa",
       "type": "Setup/Onboarding",
-      "status": "idle",
+      "status": "playing",
       "round": 0,
       "duration": 1800,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:39.782+00:00",
+        "s": "2025-06-21T16:45:40.848+00:00",
+        "e": "2025-06-21T17:15:40.848+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -48224,5 +48224,14 @@
     }
   ],
   "links": {},
-  "records": []
+  "records": [
+    {
+      "_type": "Record",
+      "id": "tBXpX",
+      "timestamp": "2025-06-21T16:45:40.848Z",
+      "type": "PhaseStarted",
+      "description": "Round 0: Setup/Onboarding",
+      "value": "2025-06-21T16:45:40.848Z"
+    }
+  ]
 }
