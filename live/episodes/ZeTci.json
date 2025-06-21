@@ -179,7 +179,7 @@
       "_type": "Community",
       "id": "xUCao",
       "societyId": "Feay0",
-      "player": "",
+      "player": "Bless He/Him",
       "name": " Warriors",
       "voice": "leader",
       "tags": {
@@ -1906,7 +1906,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "bIa2P": ""
+        "bIa2P": "",
+        "xUCao": ""
       },
       "alterLeadership": {}
     },
