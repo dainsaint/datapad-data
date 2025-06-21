@@ -1708,7 +1708,7 @@
       "status": "playing",
       "round": 5,
       "duration": 900,
-      "timeElapsed": 661.4749999999981,
+      "timeElapsed": 665.4759999999981,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
@@ -3226,7 +3226,7 @@
       "id": "zGvhQ",
       "round": 5,
       "societyId": "yXHVO",
-      "risk": "1",
+      "risk": "2",
       "advantage": "1",
       "disadvantage": "0",
       "ambassadors": {},
