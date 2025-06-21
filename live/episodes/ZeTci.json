@@ -1299,7 +1299,7 @@
       "timeElapsed": 382.0999999999994,
       "actualTime": {
         "s": "2025-06-21T21:07:16.849+00:00",
-        "e": "2025-06-21T21:13:39.058+00:00",
+        "e": "2025-06-21T21:13:43.192+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1312,13 +1312,13 @@
       "_type": "Phase",
       "id": "MnUfO",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 0,
+      "timeElapsed": 2,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:51.404+00:00",
+        "s": "2025-06-21T21:13:43.680+00:00",
+        "e": "2025-06-21T21:25:43.680+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -50927,6 +50927,14 @@
       "type": "PhaseDuration",
       "description": "Round 4: Universal Phase",
       "value": 6.37015
+    },
+    {
+      "_type": "Record",
+      "id": "Ou3pw",
+      "timestamp": "2025-06-21T21:13:43.680Z",
+      "type": "PhaseStarted",
+      "description": "Round 4: Societal Phase",
+      "value": "2025-06-21T21:13:43.680Z"
     }
   ]
 }
