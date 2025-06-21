@@ -723,11 +723,10 @@
         "QSKsQ"
       ],
       "texts": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Tow the University into the crumbs stable gravity field",
+        "Power  the ships",
+        "Power the ships",
+        "Bolster morale to boost battery"
       ],
       "result": [
         0,
@@ -749,9 +748,11 @@
       "societyId": "yXHVO",
       "resourceIds": [
         "GetAN",
-        "LE291"
+        "LE291",
+        "ndYVm"
       ],
       "texts": [
+        "",
         "",
         ""
       ],
@@ -774,7 +775,8 @@
         "fiCSS"
       ],
       "texts": [
-        "Fire at",
+        "Fire at the burning embe",
+        "",
         "",
         "",
         ""
