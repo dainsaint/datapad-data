@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 60.01999999999999,
+      "timeElapsed": 80.02700000000003,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -48223,7 +48223,9 @@
       }
     }
   ],
-  "links": {},
+  "links": {
+    "discord": "discord://-/channels/1063250197993492480/1385992470130724946"
+  },
   "records": [
     {
       "_type": "Record",
