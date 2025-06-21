@@ -714,13 +714,13 @@
       "_type": "Phase",
       "id": "t8uwG",
       "type": "Individual Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 467.2149999999986,
+      "timeElapsed": 602.2759999999971,
       "actualTime": {
         "s": "2025-06-21T18:05:39.377+00:00",
-        "e": "2025-06-21T18:15:39.377+00:00",
+        "e": "2025-06-21T18:15:41.125+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -48313,6 +48313,102 @@
       "type": "PhaseStarted",
       "description": "Round 1: Individual Phase",
       "value": "2025-06-21T18:05:39.378Z"
+    },
+    {
+      "_type": "Record",
+      "id": "oTxqe",
+      "timestamp": "2025-06-21T18:15:41.125Z",
+      "type": "PhaseEnded",
+      "description": "Round 1: Individual Phase",
+      "value": "2025-06-21T18:15:41.125Z"
+    },
+    {
+      "_type": "Record",
+      "id": "dBoGy",
+      "timestamp": "2025-06-21T18:15:41.126Z",
+      "type": "PhaseDuration",
+      "description": "Round 1: Individual Phase",
+      "value": 10.029133333333334
+    },
+    {
+      "_type": "Record",
+      "id": "BP3G4",
+      "timestamp": "2025-06-21T18:15:41.126Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "PxouD",
+      "timestamp": "2025-06-21T18:15:41.126Z",
+      "type": "ActionResources",
+      "description": "the mighty used Crystal Smelters to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "UXuib",
+      "timestamp": "2025-06-21T18:15:41.126Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "eQ1cW",
+      "timestamp": "2025-06-21T18:15:41.126Z",
+      "type": "ActionResources",
+      "description": "the scholars used Fun Mixers,Hidden Intoxicants,Meme Generator to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "oSljb",
+      "timestamp": "2025-06-21T18:15:41.126Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "RTyJb",
+      "timestamp": "2025-06-21T18:15:41.126Z",
+      "type": "ActionResources",
+      "description": "the curious used Relentless Guardsmen,Blood Bending,Titanium Swords to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "yxFXV",
+      "timestamp": "2025-06-21T18:15:41.126Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "TRfBo",
+      "timestamp": "2025-06-21T18:15:41.126Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Super-sneaky Stealth,Weather-Resistant Fabric ,Detailed Maps to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "xhHaY",
+      "timestamp": "2025-06-21T18:15:41.126Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "YKTJM",
+      "timestamp": "2025-06-21T18:15:41.126Z",
+      "type": "ActionResources",
+      "description": "the grounded used Unnatural Crops,Programmable DNA  to take action.",
+      "value": 2
     }
   ]
 }
