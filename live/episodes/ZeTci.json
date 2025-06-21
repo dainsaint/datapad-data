@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1724.0709999999901,
+      "timeElapsed": 1732.07699999999,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1699,7 +1699,7 @@
       "_type": "Resource",
       "id": "C-sPd",
       "communityId": "yC0li",
-      "name": "Biological []",
+      "name": "Biological Nutrient-Bars",
       "tags": {
         "_type": "Tags",
         "value": []
