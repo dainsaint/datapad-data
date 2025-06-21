@@ -1154,7 +1154,7 @@
       "societyId": "et0k8",
       "player": "Sterling",
       "name": "Curious Inquisitors",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1542,7 +1542,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 290.2320000000001,
+      "timeElapsed": 294.23300000000006,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -2980,7 +2980,8 @@
       "advantage": "0",
       "disadvantage": "0",
       "ambassadors": {
-        "bWsq5": ""
+        "bWsq5": "",
+        "erGwW": ""
       },
       "alterLeadership": {}
     },
