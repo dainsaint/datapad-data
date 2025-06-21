@@ -607,7 +607,7 @@
         "To give us the courage"
       ],
       "result": [
-        0,
+        6,
         0,
         0
       ],
@@ -1454,7 +1454,7 @@
       "status": "playing",
       "round": 4,
       "duration": 900,
-      "timeElapsed": 51.042999999999985,
+      "timeElapsed": 95.06200000000004,
       "actualTime": {
         "s": "2025-06-21T21:27:53.007+00:00",
         "e": "2025-06-21T21:42:53.007+00:00",
