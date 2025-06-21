@@ -596,11 +596,12 @@
       "id": "Klkbq",
       "round": "4",
       "societyId": "e-JcG",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "R5sHY"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1332,7 +1333,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 448.29499999999905,
+      "timeElapsed": 450.295999999999,
       "actualTime": {
         "s": "2025-06-21T21:13:43.680+00:00",
         "e": "2025-06-21T21:25:43.680+00:00",
