@@ -94,10 +94,12 @@
       "societyId": "Feay0",
       "resourceIds": [
         "LDWjn",
-        "SSMub"
+        "SSMub",
+        "lc0U-"
       ],
       "texts": [
         "Protect the celebration ",
+        "",
         ""
       ],
       "result": [],
@@ -654,7 +656,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 933.3719999999951,
+      "timeElapsed": 935.3719999999951,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
