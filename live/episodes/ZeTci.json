@@ -573,13 +573,13 @@
       "_type": "Phase",
       "id": "NnmwS",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 0,
+      "timeElapsed": 2,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:42.988+00:00",
+        "s": "2025-06-21T17:28:20.556+00:00",
+        "e": "2025-06-21T17:46:20.556+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -48446,6 +48446,14 @@
       "type": "PhaseDuration",
       "description": "Round 1: Universal Phase",
       "value": 6.323416666666667
+    },
+    {
+      "_type": "Record",
+      "id": "wuElk",
+      "timestamp": "2025-06-21T17:28:20.557Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-06-21T17:28:20.557Z"
     }
   ]
 }
