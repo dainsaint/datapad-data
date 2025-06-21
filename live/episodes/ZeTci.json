@@ -75,11 +75,12 @@
       "id": "PJiJt",
       "round": "1",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "rk6c1"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -704,7 +705,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 1026.5689999999947,
+      "timeElapsed": 1029.6129999999946,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
