@@ -164,7 +164,11 @@
         "",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0,
+        0
+      ],
       "voteTime": "2025-06-21T17:46:15.821+00:00",
       "status": "voted",
       "tags": {
@@ -195,9 +199,11 @@
       "round": "1",
       "societyId": "yXHVO",
       "resourceIds": [
-        "dH2Ne"
+        "dH2Ne",
+        "avw36"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -718,7 +724,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 1075.6229999999944,
+      "timeElapsed": 1078.6229999999944,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
