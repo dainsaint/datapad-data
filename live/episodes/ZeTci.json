@@ -1239,7 +1239,7 @@
       "status": "playing",
       "round": 3,
       "duration": 900,
-      "timeElapsed": 81.03500000000003,
+      "timeElapsed": 84.03500000000003,
       "actualTime": {
         "s": "2025-06-21T20:31:48.471+00:00",
         "e": "2025-06-21T20:46:48.471+00:00",
@@ -2715,7 +2715,7 @@
       "id": "kXRoW",
       "round": 3,
       "societyId": "e-JcG",
-      "risk": "3",
+      "risk": "2",
       "advantage": "0",
       "disadvantage": "0",
       "ambassadors": {
