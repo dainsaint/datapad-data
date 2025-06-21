@@ -483,6 +483,23 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Action",
+      "id": "Ai8xs",
+      "round": "3",
+      "societyId": "V9xbw",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -1118,7 +1135,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 512.6859999999986,
+      "timeElapsed": 529.6949999999983,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
