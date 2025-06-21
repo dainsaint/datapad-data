@@ -1698,7 +1698,7 @@
       "status": "playing",
       "round": 5,
       "duration": 900,
-      "timeElapsed": 120.14600000000007,
+      "timeElapsed": 123.20700000000008,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
@@ -2177,7 +2177,9 @@
       "name": "Plasma BATTERY",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
