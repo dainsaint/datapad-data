@@ -531,7 +531,7 @@
         "Reflects the e ergy to heal their fear and anger"
       ],
       "result": [
-        0,
+        6,
         0,
         0
       ],
@@ -1244,7 +1244,7 @@
       "status": "playing",
       "round": 3,
       "duration": 900,
-      "timeElapsed": 531.3849999999985,
+      "timeElapsed": 533.3849999999985,
       "actualTime": {
         "s": "2025-06-21T20:31:48.471+00:00",
         "e": "2025-06-21T20:46:48.471+00:00",
