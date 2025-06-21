@@ -1118,7 +1118,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 494.6779999999986,
+      "timeElapsed": 496.6779999999986,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
@@ -1790,7 +1790,9 @@
       "name": "Invasive Species",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
