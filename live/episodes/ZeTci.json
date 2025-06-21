@@ -96,7 +96,7 @@
       "id": "Pwqoy",
       "societyId": "et0k8",
       "player": "Emil They/them",
-      "name": "[] Priests",
+      "name": "Delving Priests",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 317.1429999999998,
+      "timeElapsed": 347.1539999999996,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
