@@ -1742,13 +1742,13 @@
       "_type": "Phase",
       "id": "SBJee",
       "type": "Generational Phase",
-      "status": "idle",
+      "status": "paused",
       "round": 5,
       "duration": 1200,
-      "timeElapsed": 0,
+      "timeElapsed": 1,
       "actualTime": {
-        "s": "2025-06-20T22:19:05.831+00:00",
-        "e": "2025-06-20T22:39:05.831+00:00",
+        "s": "2025-06-21T22:40:57.195+00:00",
+        "e": "2025-06-21T23:00:57.195+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51797,6 +51797,14 @@
       "type": "PhaseDuration",
       "description": "Round 5: Galactic Phase",
       "value": 22.76035
+    },
+    {
+      "_type": "Record",
+      "id": "flcMg",
+      "timestamp": "2025-06-21T22:40:57.195Z",
+      "type": "PhaseStarted",
+      "description": "Round 5: Generational Phase",
+      "value": "2025-06-21T22:40:57.195Z"
     }
   ]
 }
