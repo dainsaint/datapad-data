@@ -59,7 +59,7 @@
       "_type": "Community",
       "id": "bWsq5",
       "societyId": "et0k8",
-      "player": "FMP3",
+      "player": "Nate He/him",
       "name": "Militant []",
       "voice": "people",
       "tags": {
@@ -1924,7 +1924,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "Pwqoy": ""
+        "Pwqoy": "",
+        "bWsq5": ""
       },
       "alterLeadership": {}
     },
