@@ -746,7 +746,7 @@
       "status": "playing",
       "round": 1,
       "duration": 900,
-      "timeElapsed": 316.1159999999998,
+      "timeElapsed": 319.1169999999998,
       "actualTime": {
         "s": "2025-06-21T17:48:28.568+00:00",
         "e": "2025-06-21T18:03:28.568+00:00",
@@ -47519,6 +47519,196 @@
               "className": [
                 "heading-1"
               ],
+              "id": "galactic-phase-1"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Galactic Phase #1"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "    SCHOLARS: "
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": " roll 3D6 6, 2, 1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "2: Fun mixers destroyed"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "6: a rotating caravan of bartenders traverses the canvas, party grows & twists through academic buildings, visible from space!"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "6: part was success Gained goodwill of the people of Division, feeling real kinship with Division"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "CURIOUS:"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Relentless guardsmen to protect the celebrations, blood bending to instill fear, titanium swords to guards"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": ""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "h1",
+            "properties": {
+              "className": [
+                "heading-1"
+              ],
+              "id": "galactic-phase-2"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Galactic Phase #2"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "     "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "h1",
+            "properties": {
+              "className": [
+                "heading-1"
+              ],
               "id": "universe-responds-3"
             },
             "children": [
@@ -47592,6 +47782,44 @@
               {
                 "type": "text",
                 "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "h1",
+            "properties": {
+              "className": [
+                "heading-1"
+              ],
+              "id": "galactic-phase-3"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Galactic Phase #3"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "    "
+                  }
+                ]
               }
             ]
           },
@@ -47685,6 +47913,44 @@
               "className": [
                 "heading-1"
               ],
+              "id": "galactic-phase-4"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Galactic Phase #4"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "    "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "h1",
+            "properties": {
+              "className": [
+                "heading-1"
+              ],
               "id": "universe-responds-5"
             },
             "children": [
@@ -47758,6 +48024,44 @@
               {
                 "type": "text",
                 "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "h1",
+            "properties": {
+              "className": [
+                "heading-1"
+              ],
+              "id": "galactic-phase-5"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Galactic Phase #5"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "    "
+                  }
+                ]
               }
             ]
           },
