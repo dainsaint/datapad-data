@@ -1577,29 +1577,10 @@
     },
     {
       "_type": "Phase",
-      "id": "OrUOU",
-      "type": "Universal Phase",
-      "status": "idle",
-      "round": 6,
-      "duration": 300,
-      "timeElapsed": 0,
-      "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:54.582+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Phase",
       "id": "jTspb",
       "type": "Societal Phase",
       "status": "idle",
-      "round": 6,
+      "round": 5,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
@@ -1618,7 +1599,7 @@
       "id": "oqN8V",
       "type": "Galactic Phase",
       "status": "idle",
-      "round": 6,
+      "round": 5,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
@@ -1637,7 +1618,7 @@
       "id": "SBJee",
       "type": "Generational Phase",
       "status": "idle",
-      "round": 6,
+      "round": 5,
       "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
@@ -1656,7 +1637,7 @@
       "id": "qq_t4",
       "type": "Conclusion",
       "status": "idle",
-      "round": 6,
+      "round": 5,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
