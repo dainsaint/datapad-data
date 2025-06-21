@@ -1296,7 +1296,7 @@
       "status": "playing",
       "round": 4,
       "duration": 300,
-      "timeElapsed": 37.022,
+      "timeElapsed": 39.022999999999996,
       "actualTime": {
         "s": "2025-06-21T21:07:16.849+00:00",
         "e": "2025-06-21T21:12:16.849+00:00",
@@ -2817,9 +2817,9 @@
       "id": "Zggr3",
       "round": 4,
       "societyId": "yXHVO",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "3",
+      "advantage": "0",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     }
