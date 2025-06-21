@@ -597,9 +597,11 @@
       "round": "4",
       "societyId": "e-JcG",
       "resourceIds": [
-        "R5sHY"
+        "R5sHY",
+        "fFeKC"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -1333,7 +1335,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 450.295999999999,
+      "timeElapsed": 454.298999999999,
       "actualTime": {
         "s": "2025-06-21T21:13:43.680+00:00",
         "e": "2025-06-21T21:25:43.680+00:00",
