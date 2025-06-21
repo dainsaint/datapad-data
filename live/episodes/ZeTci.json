@@ -526,10 +526,9 @@
         "iKbqP"
       ],
       "texts": [
-        "",
-        "",
-        "",
-        ""
+        "Rile up the pirates ",
+        "Magically take their aggression from them",
+        "Reflects the e ergy to heal their fear and anger"
       ],
       "result": [
         0,
@@ -1239,7 +1238,7 @@
       "status": "playing",
       "round": 3,
       "duration": 900,
-      "timeElapsed": 30.01,
+      "timeElapsed": 55.020999999999994,
       "actualTime": {
         "s": "2025-06-21T20:31:48.471+00:00",
         "e": "2025-06-21T20:46:48.471+00:00",
