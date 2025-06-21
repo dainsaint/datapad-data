@@ -92,9 +92,10 @@
       "id": "KjpLR",
       "round": "1",
       "societyId": "Feay0",
-      "resourceIds": [],
+      "resourceIds": [
+        "LDWjn"
+      ],
       "texts": [
-        "",
         ""
       ],
       "result": [],
@@ -632,7 +633,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 860.3549999999955,
+      "timeElapsed": 862.3549999999955,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
