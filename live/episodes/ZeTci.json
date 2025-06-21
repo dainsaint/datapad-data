@@ -498,7 +498,8 @@
       "round": "3",
       "societyId": "V9xbw",
       "resourceIds": [
-        "G95pq"
+        "G95pq",
+        "XDREI"
       ],
       "texts": [
         "Decode the eye of unity's message",
@@ -1183,7 +1184,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 696.8589999999971,
+      "timeElapsed": 700.860999999997,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
