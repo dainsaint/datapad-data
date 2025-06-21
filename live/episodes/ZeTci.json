@@ -736,7 +736,7 @@
       "societyId": "et0k8",
       "player": "Nate He/him",
       "name": "Militant Bondsmemn",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1542,7 +1542,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 279.2280000000001,
+      "timeElapsed": 290.2320000000001,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -2979,7 +2979,9 @@
       "risk": "3",
       "advantage": "0",
       "disadvantage": "0",
-      "ambassadors": {},
+      "ambassadors": {
+        "bWsq5": ""
+      },
       "alterLeadership": {}
     },
     {
