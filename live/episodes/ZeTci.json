@@ -1148,7 +1148,7 @@
       "id": "Pf-Th",
       "societyId": "V9xbw",
       "player": "Sabrina (She/her)",
-      "name": "[]",
+      "name": "Extroverted Bartenders",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1525,7 +1525,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 201.1370000000002,
+      "timeElapsed": 214.14100000000022,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -2975,7 +2975,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "Pf-Th": ""
+      },
       "alterLeadership": {}
     },
     {
