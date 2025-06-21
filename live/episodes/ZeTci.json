@@ -1140,7 +1140,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 642.8269999999975,
+      "timeElapsed": 644.8279999999975,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
@@ -1800,7 +1800,7 @@
     {
       "_type": "Resource",
       "id": "DUcFA",
-      "communityId": "adPGA",
+      "communityId": "bIa2P",
       "name": "Plasma Transfusers",
       "tags": {
         "_type": "Tags",
