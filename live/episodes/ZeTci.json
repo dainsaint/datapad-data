@@ -1043,13 +1043,13 @@
       "_type": "Phase",
       "id": "hKy9u",
       "type": "Break",
-      "status": "paused",
+      "status": "complete",
       "round": 2,
       "duration": 300,
       "timeElapsed": 299.11199999999997,
       "actualTime": {
         "s": "2025-06-21T19:14:38.988+00:00",
-        "e": "2025-06-21T19:19:38.988+00:00",
+        "e": "2025-06-21T20:02:06.617+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -49740,6 +49740,86 @@
       "timestamp": "2025-06-21T19:23:32.827Z",
       "type": "ResourceCreated",
       "value": "The CONCERN's Computing Power"
+    },
+    {
+      "_type": "Record",
+      "id": "iiUs_",
+      "timestamp": "2025-06-21T20:02:06.617Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "Kirz6",
+      "timestamp": "2025-06-21T20:02:06.617Z",
+      "type": "ActionResources",
+      "description": "the mighty used Rhetorical Aptitude,Natural Charisma,Diplomatic Leaders  to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "t4sNA",
+      "timestamp": "2025-06-21T20:02:06.617Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "lLNMz",
+      "timestamp": "2025-06-21T20:02:06.617Z",
+      "type": "ActionResources",
+      "description": "the scholars used Logistics-oriented Helpers,Invasive Shield Schematics to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "UKZXC",
+      "timestamp": "2025-06-21T20:02:06.617Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "KJaZW",
+      "timestamp": "2025-06-21T20:02:06.617Z",
+      "type": "ActionResources",
+      "description": "the curious used Swift Spies to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "ACGUi",
+      "timestamp": "2025-06-21T20:02:06.617Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "HvtJg",
+      "timestamp": "2025-06-21T20:02:06.617Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Refreshing Underthinking,Joyful Disobedience ,Attuned Sense to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "r_NDM",
+      "timestamp": "2025-06-21T20:02:06.617Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "o9Jej",
+      "timestamp": "2025-06-21T20:02:06.617Z",
+      "type": "ActionResources",
+      "description": "the grounded used Scholastic Warships,Military Training,Imperial Databases to take action.",
+      "value": 3
     }
   ]
 }
