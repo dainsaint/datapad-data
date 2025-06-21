@@ -1635,10 +1635,10 @@
       "_type": "Phase",
       "id": "z5yUi",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 477.4559999999993,
+      "timeElapsed": 481.45699999999925,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
