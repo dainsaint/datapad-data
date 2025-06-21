@@ -692,11 +692,12 @@
       "id": "KyZXm",
       "round": "4",
       "societyId": "yXHVO",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "GetAN"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
