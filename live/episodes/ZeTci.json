@@ -1747,7 +1747,7 @@
       "status": "playing",
       "round": 6,
       "duration": 1200,
-      "timeElapsed": 536.2369999999976,
+      "timeElapsed": 540.2389999999975,
       "actualTime": {
         "s": "2025-06-21T22:51:14.306+00:00",
         "e": "2025-06-21T23:11:14.306+00:00",
@@ -2320,9 +2320,7 @@
       "name": "Super-sneaky Stealth",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
