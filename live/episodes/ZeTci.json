@@ -1484,13 +1484,13 @@
       "_type": "Phase",
       "id": "lm2PY",
       "type": "Break",
-      "status": "idle",
+      "status": "playing",
       "round": 4,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:52.361+00:00",
+        "s": "2025-06-21T21:49:32.417+00:00",
+        "e": "2025-06-21T21:59:32.417+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51380,6 +51380,14 @@
       "type": "PhaseDuration",
       "description": "Round 4: Galactic Phase",
       "value": 21.340816666666665
+    },
+    {
+      "_type": "Record",
+      "id": "N-Eky",
+      "timestamp": "2025-06-21T21:49:32.417Z",
+      "type": "PhaseStarted",
+      "description": "Round 4: Break",
+      "value": "2025-06-21T21:49:32.417Z"
     }
   ]
 }
