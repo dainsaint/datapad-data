@@ -447,7 +447,7 @@
       "_type": "Community",
       "id": "n9ZRY",
       "societyId": "e-JcG",
-      "player": "Lucy",
+      "player": "Lucy Shethey",
       "name": "Belligerent X",
       "voice": "people",
       "tags": {
@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 0,
+      "timeElapsed": 60.01999999999999,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
