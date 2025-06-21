@@ -717,7 +717,7 @@
       "status": "playing",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 391.1729999999993,
+      "timeElapsed": 398.1859999999993,
       "actualTime": {
         "s": "2025-06-21T18:05:39.377+00:00",
         "e": "2025-06-21T18:15:39.377+00:00",
@@ -1789,7 +1789,9 @@
       "name": "Crystal Smelters",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
