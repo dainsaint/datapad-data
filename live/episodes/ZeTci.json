@@ -848,10 +848,9 @@
       "id": "xYnCN",
       "round": "5",
       "societyId": "yXHVO",
-      "resourceIds": [
-        "ndYVm"
-      ],
+      "resourceIds": [],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -1694,7 +1693,7 @@
       "status": "playing",
       "round": 5,
       "duration": 900,
-      "timeElapsed": 100.14200000000007,
+      "timeElapsed": 104.14200000000007,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
