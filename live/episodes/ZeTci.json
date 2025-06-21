@@ -836,7 +836,10 @@
         "To get refugees to our planet",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-21T22:25:54.097+00:00",
       "status": "voted",
       "tags": {
@@ -1705,7 +1708,7 @@
       "status": "playing",
       "round": 5,
       "duration": 900,
-      "timeElapsed": 467.3799999999988,
+      "timeElapsed": 470.3799999999988,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
