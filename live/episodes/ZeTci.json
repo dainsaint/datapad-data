@@ -387,7 +387,7 @@
       "_type": "Community",
       "id": "nHktk",
       "societyId": "e-JcG",
-      "player": "F",
+      "player": "Jim",
       "name": "X Navigators",
       "voice": "people",
       "tags": {
@@ -1965,7 +1965,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "nmW7Z": ""
+        "nmW7Z": "",
+        "nHktk": ""
       },
       "alterLeadership": {}
     },
