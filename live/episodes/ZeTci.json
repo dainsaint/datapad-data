@@ -134,11 +134,12 @@
       "id": "fzChe",
       "round": "1",
       "societyId": "e-JcG",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "fFeKC"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -657,7 +658,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 955.376999999995,
+      "timeElapsed": 957.376999999995,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
