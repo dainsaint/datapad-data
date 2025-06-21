@@ -126,8 +126,13 @@
         "Create crystal party favors that showcase our knowledge",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0,
+        0
+      ],
+      "voteTime": "2025-06-21T17:45:02.853+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -696,7 +701,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 1001.5399999999947,
+      "timeElapsed": 1004.5409999999947,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
