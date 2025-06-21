@@ -939,7 +939,7 @@
       "status": "playing",
       "round": 2,
       "duration": 900,
-      "timeElapsed": 747.342999999996,
+      "timeElapsed": 750.341999999996,
       "actualTime": {
         "s": "2025-06-21T18:39:08.724+00:00",
         "e": "2025-06-21T18:54:08.724+00:00",
@@ -1493,9 +1493,7 @@
       "name": "Blood Bending",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
