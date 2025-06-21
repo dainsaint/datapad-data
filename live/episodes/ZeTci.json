@@ -1723,13 +1723,13 @@
       "_type": "Phase",
       "id": "wy9YA",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 5,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:53.952+00:00",
+        "e": "2025-06-21T22:40:56.452+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
