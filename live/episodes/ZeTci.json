@@ -856,7 +856,7 @@
       "texts": [
         "Free the 2 suns",
         "Protect our people ",
-        "",
+        "Protect our planet ",
         ""
       ],
       "result": [],
@@ -1699,7 +1699,7 @@
       "status": "playing",
       "round": 5,
       "duration": 900,
-      "timeElapsed": 189.23800000000023,
+      "timeElapsed": 204.24900000000025,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
