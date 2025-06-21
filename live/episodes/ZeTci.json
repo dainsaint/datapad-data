@@ -746,7 +746,7 @@
       "status": "playing",
       "round": 1,
       "duration": 900,
-      "timeElapsed": 279.10600000000005,
+      "timeElapsed": 284.10600000000005,
       "actualTime": {
         "s": "2025-06-21T17:48:28.568+00:00",
         "e": "2025-06-21T18:03:28.568+00:00",
@@ -1587,7 +1587,9 @@
       "name": "Hidden Intoxicants",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
