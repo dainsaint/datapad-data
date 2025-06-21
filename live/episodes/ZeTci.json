@@ -721,13 +721,13 @@
       "_type": "Phase",
       "id": "NnmwS",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 1,
       "duration": 1080,
       "timeElapsed": 1081.6229999999944,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
-        "e": "2025-06-21T17:46:20.556+00:00",
+        "e": "2025-06-21T17:46:46.730+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
