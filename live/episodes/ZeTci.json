@@ -643,18 +643,6 @@
         "_type": "Tags",
         "value": []
       }
-    },
-    {
-      "_type": "Community",
-      "id": "hbwfQ",
-      "societyId": "et0k8",
-      "player": "FMP6",
-      "name": "[] Inquisitors",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
     }
   ],
   "phases": [
@@ -741,7 +729,7 @@
       "status": "playing",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 352.14699999999954,
+      "timeElapsed": 359.1629999999995,
       "actualTime": {
         "s": "2025-06-21T18:05:39.377+00:00",
         "e": "2025-06-21T18:15:39.377+00:00",
