@@ -576,7 +576,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 214.09200000000027,
+      "timeElapsed": 228.0980000000003,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
@@ -1221,7 +1221,7 @@
       "_type": "Resource",
       "id": "SSMub",
       "communityId": "adPGA",
-      "name": "_____ Bending",
+      "name": "Blood Bending",
       "tags": {
         "_type": "Tags",
         "value": []
