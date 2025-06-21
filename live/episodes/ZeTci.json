@@ -420,7 +420,7 @@
         0
       ],
       "voteTime": "2025-06-21T19:42:43.720+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -440,8 +440,12 @@
         "Test",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0
+      ],
+      "voteTime": "2025-06-21T19:43:09.025+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
