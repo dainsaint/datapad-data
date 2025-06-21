@@ -289,11 +289,12 @@
       "id": "X3GiH",
       "round": "2",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "kG235"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -840,7 +841,7 @@
       "status": "playing",
       "round": 2,
       "duration": 840,
-      "timeElapsed": 623.068999999999,
+      "timeElapsed": 625.068999999999,
       "actualTime": {
         "s": "2025-06-21T18:22:43.738+00:00",
         "e": "2025-06-21T18:34:43.738+00:00",
