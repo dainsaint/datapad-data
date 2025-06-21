@@ -756,7 +756,8 @@
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-21T22:17:19.528+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
