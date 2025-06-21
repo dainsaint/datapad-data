@@ -991,7 +991,7 @@
       "status": "playing",
       "round": 2,
       "duration": 600,
-      "timeElapsed": 400.18799999999914,
+      "timeElapsed": 406.1909999999991,
       "actualTime": {
         "s": "2025-06-21T19:03:44.114+00:00",
         "e": "2025-06-21T19:13:44.114+00:00",
@@ -1947,7 +1947,9 @@
       "name": "Natural Charisma",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
