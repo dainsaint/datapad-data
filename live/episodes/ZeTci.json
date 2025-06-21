@@ -677,10 +677,12 @@
         "AhntF"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-21T21:25:46.480+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
