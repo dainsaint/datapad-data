@@ -1296,7 +1296,7 @@
       "status": "playing",
       "round": 4,
       "duration": 300,
-      "timeElapsed": 54.022999999999996,
+      "timeElapsed": 87.02900000000001,
       "actualTime": {
         "s": "2025-06-21T21:07:16.849+00:00",
         "e": "2025-06-21T21:12:16.849+00:00",
@@ -2795,7 +2795,7 @@
       "id": "l9FF0",
       "round": 4,
       "societyId": "Feay0",
-      "risk": "5",
+      "risk": "4",
       "advantage": "0",
       "disadvantage": "0",
       "ambassadors": {},
