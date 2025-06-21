@@ -755,7 +755,10 @@
         "",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-21T22:17:19.528+00:00",
       "status": "voted",
       "tags": {
@@ -832,7 +835,7 @@
       ],
       "texts": [
         "Feed a feast to refugees",
-        "",
+        "To get refugees to our planet",
         ""
       ],
       "result": [],
