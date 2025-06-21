@@ -315,7 +315,7 @@
       "_type": "Community",
       "id": "Z8-ZD",
       "societyId": "yXHVO",
-      "player": "",
+      "player": "Milo",
       "name": "Biologists ",
       "voice": "leader",
       "tags": {
@@ -1981,7 +1981,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "hqZZ8": ""
+        "hqZZ8": "",
+        "Z8-ZD": ""
       },
       "alterLeadership": {}
     }
