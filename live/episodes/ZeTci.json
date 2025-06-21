@@ -746,7 +746,7 @@
       "status": "playing",
       "round": 1,
       "duration": 900,
-      "timeElapsed": 289.109,
+      "timeElapsed": 312.11399999999986,
       "actualTime": {
         "s": "2025-06-21T17:48:28.568+00:00",
         "e": "2025-06-21T18:03:28.568+00:00",
@@ -44272,6 +44272,7 @@
       "name": "Pf-Uni-Gal",
       "icon": "fa-arrows",
       "googleDocId": "12KDGkwt0g-E7vmr5XevgdCcT_O506jZlhws8dhbehE8",
+      "status": "ok",
       "content": {
         "type": "root",
         "children": [
@@ -44282,7 +44283,7 @@
               "className": [
                 "heading-2"
               ],
-              "id": "galactic-phase"
+              "id": "individual-phase-prep-for-universe-responds"
             },
             "children": [
               {
@@ -44294,135 +44295,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Galactic Phase"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Round 1"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Round 2"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Round 3"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "ul",
-            "properties": {
-              "className": [
-                "nesting-level-1"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "span",
-                    "properties": {
-                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                    },
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "P/Fs get together and identify which players from your communities should the UEC (NPCs) approach in the next Individual Phase"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "h2",
-            "properties": {
-              "className": [
-                "heading-2"
-              ],
-              "id": "individual-phase--universe-responds"
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Individual Phase → Universe Responds"
+                    "value": "Individual Phase Prep for Universe Responds"
                   }
                 ]
               }
@@ -44451,33 +44324,9 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "Menu for prep"
+                        "value": "Hear from GMs"
                       }
                     ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Identify"
                   }
                 ]
               }
@@ -44585,14 +44434,21 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
+                "tagName": "strong",
+                "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Share"
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Decide with GMs"
+                      }
+                    ]
                   }
                 ]
               }
@@ -44661,7 +44517,7 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "Out"
+                        "value": "End of each P/F mini-scene"
                       }
                     ]
                   }
@@ -44681,7 +44537,7 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "Mode"
+                        "value": "Order"
                       }
                     ]
                   }
@@ -44700,14 +44556,123 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
+                "tagName": "strong",
+                "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Alway"
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Decide with Cat "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Mode"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Staging"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Casting"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Alway"
+                      }
+                    ]
                   }
                 ]
               }
@@ -45063,37 +45028,6 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "strong",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "span",
-                    "properties": {
-                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                    },
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Characters"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
                 "tagName": "span",
                 "properties": {
                   "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
@@ -45135,21 +45069,14 @@
                         "children": [
                           {
                             "type": "element",
-                            "tagName": "strong",
-                            "properties": {},
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
                             "children": [
                               {
-                                "type": "element",
-                                "tagName": "span",
-                                "properties": {
-                                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                                },
-                                "children": [
-                                  {
-                                    "type": "text",
-                                    "value": "Faction"
-                                  }
-                                ]
+                                "type": "text",
+                                "value": "Faction"
                               }
                             ]
                           }
@@ -45175,21 +45102,14 @@
                         "children": [
                           {
                             "type": "element",
-                            "tagName": "strong",
-                            "properties": {},
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
                             "children": [
                               {
-                                "type": "element",
-                                "tagName": "span",
-                                "properties": {
-                                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                                },
-                                "children": [
-                                  {
-                                    "type": "text",
-                                    "value": "Character"
-                                  }
-                                ]
+                                "type": "text",
+                                "value": "Character"
                               }
                             ]
                           }
@@ -45215,21 +45135,14 @@
                         "children": [
                           {
                             "type": "element",
-                            "tagName": "strong",
-                            "properties": {},
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
                             "children": [
                               {
-                                "type": "element",
-                                "tagName": "span",
-                                "properties": {
-                                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                                },
-                                "children": [
-                                  {
-                                    "type": "text",
-                                    "value": "PFs"
-                                  }
-                                ]
+                                "type": "text",
+                                "value": "P/F"
                               }
                             ]
                           }
@@ -45269,749 +45182,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "TransCorp"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Carl"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "AMB"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Free Unity"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Jeff"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Jackie"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": ""
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Little kid"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Jackie"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": ""
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Not Jeff"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "KC"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "UEC Board"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Greg & Board Chair"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Joe, Matthew"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "UEC "
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "PR"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Jackie"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "UEC Community Coordinator Outreach Missionaries"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Theophilus Greta & "
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Anthony & KC"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Realm"
+                                "value": "Suns of Jeff - wellness culture, exist in a spread out way and not based in a singular location with followers everywhere, not centralized yet"
                               }
                             ]
                           }
@@ -46040,16 +45211,7 @@
                             ]
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
+                      },
                       {
                         "type": "element",
                         "tagName": "p",
@@ -46068,7 +45230,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Magical ol’ Sage"
+                                "value": "“2 Suns 1 Truth”"
                               }
                             ]
                           }
@@ -46101,7 +45263,88 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "KC"
+                                "value": "High Jeff"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Follower"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "td",
+                    "properties": {
+                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Jackie"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Sam"
                               }
                             ]
                           }
@@ -46141,7 +45384,55 @@
                             "children": [
                               {
                                 "type": "text",
+                                "value": "Burning Ember - very military, with respect for Elders"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
                                 "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "“Victory through Unity”"
                               }
                             ]
                           }
@@ -46174,7 +45465,257 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Sir riverbend"
+                                "value": "Big Baby"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Granny"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "td",
+                    "properties": {
+                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "KC"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Jackie"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "tr",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "td",
+                    "properties": {
+                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "The Concern"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "“For the good of Kin”"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "td",
+                    "properties": {
+                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Concern #1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Concern #2"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "The Eye"
                               }
                             ]
                           }
@@ -46212,89 +45753,7 @@
                             ]
                           }
                         ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": ""
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Dirt-loving sprout picker"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
+                      },
                       {
                         "type": "element",
                         "tagName": "p",
@@ -46318,23 +45777,7 @@
                             ]
                           }
                         ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
+                      },
                       {
                         "type": "element",
                         "tagName": "p",
@@ -46353,73 +45796,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": ""
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": ""
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": ""
+                                "value": "Sam (with everyone else around them embodied)"
                               }
                             ]
                           }
@@ -46459,7 +45836,55 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "marauders"
+                                "value": "People of Division"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "“Divided we stand”"
                               }
                             ]
                           }
@@ -46492,7 +45917,103 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": ""
+                                "value": "Each character has a different accent and characterization:"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Division 234"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Division 14"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Division 69"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "etc."
                               }
                             ]
                           }
@@ -46525,7 +46046,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": ""
+                                "value": "Anyone"
                               }
                             ]
                           }
@@ -46565,94 +46086,12 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": ""
+                                "value": "University of Truth and Beauty"
                               }
                             ]
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": " Wardinghy Crew"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Matthew & Joe"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
+                      },
                       {
                         "type": "element",
                         "tagName": "p",
@@ -46676,16 +46115,7 @@
                             ]
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
+                      },
                       {
                         "type": "element",
                         "tagName": "p",
@@ -46704,7 +46134,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": ""
+                                "value": "“Knowledge is Power”"
                               }
                             ]
                           }
@@ -46737,28 +46167,12 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": ""
+                                "value": "Gemmy the Gemstone (mascot, very goofy)"
                               }
                             ]
                           }
                         ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
+                      },
                       {
                         "type": "element",
                         "tagName": "p",
@@ -46777,40 +46191,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Ashen glow"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Mama"
+                                "value": "Dean Turmaline (very serious)"
                               }
                             ]
                           }
@@ -46848,23 +46229,7 @@
                             ]
                           }
                         ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
+                      },
                       {
                         "type": "element",
                         "tagName": "p",
@@ -46883,73 +46248,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": ""
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Algernon "
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "AMB"
+                                "value": "Anthony"
                               }
                             ]
                           }
@@ -46989,7 +46288,31 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": ""
+                                "value": "The Comets"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "“Your booty is our bounty”"
                               }
                             ]
                           }
@@ -47022,7 +46345,31 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Caliope"
+                                "value": "Pirate Lassy"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Pirate Pa"
                               }
                             ]
                           }
@@ -47055,7 +46402,31 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Jackie"
+                                "value": "Matthew"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Anthony"
                               }
                             ]
                           }
@@ -47095,7 +46466,55 @@
                             "children": [
                               {
                                 "type": "text",
+                                "value": "The Realm"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
                                 "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "“For home and hearth”"
                               }
                             ]
                           }
@@ -47128,7 +46547,31 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": ""
+                                "value": "Sir Riverbend"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Archmage Willowbark"
                               }
                             ]
                           }
@@ -47161,7 +46604,31 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": ""
+                                "value": "Joe"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "KC"
                               }
                             ]
                           }
@@ -47208,7 +46675,31 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "strong",
+                "tagName": "span",
+                "properties": {
+                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Individual Phase Mechanics"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
                 "properties": {},
                 "children": [
                   {
@@ -47220,7 +46711,7 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "The Starlight Empire"
+                        "value": "There will be a driving A plot that will happen no matter what"
                       }
                     ]
                   }
@@ -47228,55 +46719,7 @@
               },
               {
                 "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": " - "
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "strong",
+                "tagName": "li",
                 "properties": {},
                 "children": [
                   {
@@ -47288,7 +46731,38 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "The United Energy Concern"
+                        "value": "Planning on increasing the risk level more as tensions rise and the solar system becomes more violent"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Risk Level increases to 2 for EVERYBODY in round 2"
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
@@ -47296,55 +46770,7 @@
               },
               {
                 "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": " - When the empire began to crumble, so did the infrastructure that it supported. The most immediate concern in the Kin system was the energy infrastructure of Unity. The United Energy Concern arose from a group of bureaucrats, engineers, and politicians from across the Kin system who were previously involved in maintaining the Siphon around Unity. The UEC is led by a Board of Stakeholders, with representatives from the various factions from the Kin system who receive energy from Unity, followed by a Council of Directors made up of the various stakeholder groups within the UEC itself. In the 5 years since the UEC first formed, they have developed somewhat of a martyr complex; It is not uncommon to hear UEC workers espousing, “We are the ones who stepped up” and “We’re doing this for the good of the Kin system.”"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "strong",
+                "tagName": "li",
                 "properties": {},
                 "children": [
                   {
@@ -47356,7 +46782,78 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "The Realm"
+                        "value": "Some things that might happen:"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Burning ember attacks a player society and attempts to claim 1 or multiple resources"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Suns of Jeff will convince their followers in enemy societies to rise up and revolt (might raise the risk level until protests are quelled, add disadvantage, or add guerilla attacks)"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Comets are hired to control the space around society and raising the risk level"
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
@@ -47364,55 +46861,7 @@
               },
               {
                 "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": " - A Monarchic and luddite society that avoided being absorbed by the Empire. They value maintaining a balance with their planet’s ecology having never become reliant on the Empire’s economy and thus having developed a regenerative (and thus relatively low-tech) economy. Their planet is notable for its vast meadowlands. They have a small number of space ships, which are made of wood and their greatest weapon are their High Wizards. They believe that the fall of the Empire was fated, and see themselves as morally superior compared to the factions that were part of the Empire."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "strong",
+                "tagName": "li",
                 "properties": {},
                 "children": [
                   {
@@ -47424,182 +46873,151 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "The Marauders"
+                        "value": "Suns of Jeff will try to gain control over the Etheric Net"
                       }
                     ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": " - The Marauders are what is left of the lower-classes of the Kin system after the Fall of the Empire. They live on X, an already inhospitable planet made worse by a huge missing chunk, not dissimilar to a bite missing from an apple. Being used to fighting for survival, the Marauders have built their way of life around a Robin Hood complex: taking from those who have to give to the have-nots."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "strong",
-                "properties": {},
-                "children": [
+                  },
                   {
                     "type": "element",
-                    "tagName": "span",
+                    "tagName": "ul",
                     "properties": {
-                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                      "className": [
+                        "nesting-level-2"
+                      ]
                     },
                     "children": [
                       {
-                        "type": "text",
-                        "value": "Trans Corp."
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": " - Under the Starlight Empire, Trans Corp. was tasked with the hard work of transporting goods and people across the Kin system. They maintained this role, though now as a private company, after the fall. The Trans Corp have no singular home base, but exist like sharks: constantly on the move. With efficiency in service of profit as a primary motivator, your average Trans Corp. driver suffers from low bone density due to spending 98% of their life in their ships with the artificial gravity turned off."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "strong",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "span",
-                    "properties": {
-                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                    },
-                    "children": [
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Could decrease the time for the societal phase (because communication now takes more time)"
+                              }
+                            ]
+                          }
+                        ]
+                      },
                       {
-                        "type": "text",
-                        "value": "Free Unity"
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Could give disadvantage on rolls that involve the communication"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Are there changes that could happen to the Individual Phase because that’s where people are trying to communicate with one another?"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                                    },
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "value": "Could cut an individual phase"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                                    },
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "value": "Individual Phase stays at the table with NPCs coming to societies (everyone kind of has to role play)"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                                    },
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "value": ""
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": " - Free Unity (FU) is a recently formed and small but loud coalition that believes the Kin system must divest from the UEC and dismantle the Siphon surrounding Unity. While the movement has no clear leader, one name is heard more than others: Jeff. Jeff was an average UEC maintenance engineer: competent, hard working, and well-liked by most. The word is that one day while on shift, Jeff had visions of two suns emerging from Unity. Word began to spread of the ex-UEC engineer who would tell anyone she could about the wrongness of extracting from Unity. While some might believe in these visions and the moral imperative, one thing is clear: everyone who considers themselves as part of the Free Unity movement has a motivation for divestment from the UEC and the dismantling of the Siphon."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
                   }
                 ]
               }
@@ -47628,39 +47046,11 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "The Ashen Glow"
+                        "value": ""
                       }
                     ]
                   }
                 ]
-              },
-              {
-                "type": "element",
-                "tagName": "span",
-                "properties": {
-                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                },
-                "children": [
-                  {
-                    "type": "text",
-                    "value": " - The Ashen Glow are a faction similar to our player Societies in many ways. Their primary distinguishing feature is that they have chosen to hold on to their identity as part of the Starlight Empire, with the hope and belief that the Immortal Emperor will return, like a phoenix born from the ashes."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": ""
               }
             ]
           },
