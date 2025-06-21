@@ -718,9 +718,11 @@
       "societyId": "Feay0",
       "resourceIds": [
         "IzJGT",
-        "ACfFJ"
+        "ACfFJ",
+        "Z0vpH"
       ],
       "texts": [
+        "",
         "",
         ""
       ],
@@ -1563,7 +1565,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 381.31199999999984,
+      "timeElapsed": 383.31199999999984,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
