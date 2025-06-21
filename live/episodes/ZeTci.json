@@ -1452,13 +1452,13 @@
       "_type": "Phase",
       "id": "ipW2q",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 4,
       "duration": 900,
-      "timeElapsed": 0,
+      "timeElapsed": 1.999,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:51.880+00:00",
+        "s": "2025-06-21T21:27:53.007+00:00",
+        "e": "2025-06-21T21:42:53.007+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51080,6 +51080,14 @@
       "timestamp": "2025-06-21T21:18:43.942Z",
       "type": "ResourceCreated",
       "value": "Blood Transfusers"
+    },
+    {
+      "_type": "Record",
+      "id": "eAolZ",
+      "timestamp": "2025-06-21T21:27:53.008Z",
+      "type": "PhaseStarted",
+      "description": "Round 4: Galactic Phase",
+      "value": "2025-06-21T21:27:53.008Z"
     }
   ]
 }
