@@ -290,7 +290,7 @@
         "Ally with pirates to bolster defense & seek intel"
       ],
       "result": [
-        0
+        6
       ],
       "voteTime": "2025-06-21T18:36:29.284+00:00",
       "status": "voted",
@@ -939,7 +939,7 @@
       "status": "playing",
       "round": 2,
       "duration": 900,
-      "timeElapsed": 564.2239999999977,
+      "timeElapsed": 571.2249999999976,
       "actualTime": {
         "s": "2025-06-21T18:39:08.724+00:00",
         "e": "2025-06-21T18:54:08.724+00:00",
