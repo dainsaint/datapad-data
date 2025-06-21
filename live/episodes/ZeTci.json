@@ -23,10 +23,14 @@
         "i3Cf3"
       ],
       "texts": [
+        "",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0
+      ],
+      "voteTime": "2025-06-21T16:08:48.551+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
