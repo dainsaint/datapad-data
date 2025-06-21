@@ -798,7 +798,11 @@
         "",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0,
+        0
+      ],
       "voteTime": "2025-06-21T22:15:39.908+00:00",
       "status": "voted",
       "tags": {
@@ -1637,13 +1641,13 @@
       "_type": "Phase",
       "id": "z5yUi",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 5,
       "duration": 480,
       "timeElapsed": 481.45699999999925,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
-        "e": "2025-06-21T22:15:35.583+00:00",
+        "e": "2025-06-21T22:15:45.952+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
