@@ -2560,6 +2560,7 @@
       "name": "Script",
       "icon": "fa-scroll",
       "googleDocId": "1QcLeu3uYx2UBNTtc07xQuKd9cOtlMOh29d-dx1j_X1E",
+      "status": "ok",
       "content": {
         "type": "root",
         "children": [
@@ -10253,22 +10254,6 @@
             "children": [
               {
                 "type": "text",
-                "value": ""
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "style": "margin-top: 12PT; margin-bottom: 12PT",
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
                 "value": "P/Fs, introduce the Archetype Gesture:"
               }
             ]
@@ -10512,7 +10497,7 @@
                         "children": [
                           {
                             "type": "text",
-                            "value": "Name for the communities"
+                            "value": "At the top, you will see a section titled “What We Remember.” This is a belief that your community holds as true, one that has been passed down for generations."
                           }
                         ]
                       },
@@ -10523,7 +10508,7 @@
                         "children": [
                           {
                             "type": "text",
-                            "value": "On your Community sheet you will see who your Community was Generations ago. This broad archetype takes the form of “Adjective People.” For example, “Rebellious Youth” or “Entrenched Dynasty.” "
+                            "value": "Below you will see space for your Community Name. Each Community is a broad archetype that takes the form of “Adjective People.” For example, “Rebellious Youth” or “Entrenched Dynasty.”  For some of you, you might have just one word written. For others, there might be nothing written.  For these Communities, time has taken its toll, and our communities have changed over time. If both words are written for “Adjective People” on your sheet, leave it as it is. If you have one word written, you can fill in the missing word, or if both spots are blank, you can fill in both words. This is the Community you will be playing as for this Generation."
                           }
                         ]
                       },
@@ -10534,7 +10519,7 @@
                         "children": [
                           {
                             "type": "text",
-                            "value": "Now, look on your Community Sheet where it says, “Now.” For some of you, you will see the same thing written. For some of you, you might have just one word written. For others, there might be nothing written. Time has taken its toll, and our communities change over time. If both words are written for “Adjective People” on your sheet, leave it as it is. If you have one word written, you can fill in the missing word, or if both spots are blank, you can fill in both words. This is the Community you will be playing as for this Generation.\u000b"
+                            "value": "Name the communities\u000b"
                           },
                           {
                             "type": "element",
@@ -13343,7 +13328,7 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "PFs sing “It’s Abundance Day!” until Matthew cuts them off. "
+                        "value": "Matthew snaps to cue the PFs singing “It’s Abundance Day!”.  They sing until Matthew cuts them off. "
                       }
                     ]
                   }
@@ -23834,7 +23819,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "During the 3rd Individual Phase, each bar will have one NPC who is a representative of the United Energy Concern. These UEC representatives are tasked with speaking with pre-identified Players and convincing them to become Brand Ambassadors for the UEC within their Society."
+                "value": "During the 3rd Individual Phase, each bar will have one NPC who is a representative of the United Energy Concern. These UEC representatives are tasked with speaking with pre-identified Players and convinmoocing them to become Brand Ambassadors for the UEC within their Society."
               }
             ]
           },
@@ -24000,6 +23985,10 @@
                     "value": "5 Minutes"
                   }
                 ]
+              },
+              {
+                "type": "text",
+                "value": ""
               }
             ]
           },
@@ -24019,7 +24008,29 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "The UEC invites the Intrepid, the Aesthetic, and The Enterprise to join the UEC as subsidiaries, this will allow them to transform your Prototype Energy Wells into Fully Functioning Energy Wells, avoiding any future catastrophe."
+                    "value": "Mighty energy"
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Crises make strange bedfellows the Ashen Glow and Marauders Team-Up living together on Incense, and the UEC use that as an excuse for why everyone needs to join together as subsidiaries. "
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "The UEC invites the Intrepid and the the Aesthetic to join the UEC as subsidiaries, this will allow them to transform your Prototype Energy Wells into Fully Functioning Energy Wells, avoiding any future catastrophe."
                   },
                   {
                     "type": "element",
@@ -24044,6 +24055,39 @@
                     ]
                   }
                 ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "The UEC tells the enterprise to turn their Energy Well back into a normal energy well."
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "The University is set-up and working"
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "FU members look to the new ashen glow/marauders teamup as something to put their energy into"
+                  }
+                ]
               }
             ]
           },
@@ -24059,6 +24103,59 @@
               {
                 "type": "text",
                 "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "So the question is: as division and unrest grow in your societies, what do you do?"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "span",
+                        "properties": {
+                          "style": "background-color: rgb(255, 0, 255); color: rgb(255, 255, 255)"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": ""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           },
@@ -24352,21 +24449,6 @@
                     "value": ""
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": ""
               }
             ]
           },
@@ -25948,7 +26030,29 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "If there are any remaining energy wells, the UEC will explode X of them, which will also destroy all of the resources held by that Community."
+                    "value": "The UEC has an announcement:... (gesture)"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Demands control of the University from the Aesthetic"
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               },
@@ -25959,7 +26063,154 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "Quell any remaining dissent (attack or take things from NPC and Player Societies)"
+                    "value": "UEC Explodes the sanctions"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "None of you helped us help you, we had to defend ourselves"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "The Marauders and Ashen Glow have come to a deal: (gesutre)"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Ashen Glow and Marauders move into position to attack the UEC on Division"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "So the question is: With the UEC demanding control of this up-and-coming new energy source and the Kin system on the brink of an energy war, what will you do?"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "If there are any remaining energy wells, the UEC will explode X of them, which will also destroy all of the resources held by that Community."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Quell any remaining dissent (attack or take things from NPC and Player Societies)"
+                      }
+                    ]
                   }
                 ]
               }
@@ -27236,106 +27487,13 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "Individual Phase #5"
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": ""
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
                 "type": "element",
-                "tagName": "strong",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
                     "type": "text",
-                    "value": "DANIEL"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": "As we head to the Individual phase, remember that if you currently have 0 resources your Community is lost. If that’s the case, take your character sheet, Willpower cards, and Resources with you to talk to the Keeper of the space that matches your current status."
-              },
-              {
-                "type": "element",
-                "tagName": "strong",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": ""
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "P/Fs guide players to their respective spaces, bringing zines and pens."
+                    "value": "Individual Phase #5"
                   }
                 ]
               }
@@ -27352,7 +27510,7 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
@@ -27374,12 +27532,168 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "strong",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "DANIEL"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
                     "type": "text",
-                    "value": "P/Fs"
+                    "value": "As we head to the Individual phase, remember that if you currently have 0 resources your Community is lost. If that’s the case, take your character sheet, Willpower cards, and Resources with you to talk to the Keeper of the space that matches your current status."
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "P/Fs guide players to their respective spaces, bringing zines and pens."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "P/Fs"
+                      }
+                    ]
                   }
                 ]
               }
@@ -27400,8 +27714,15 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Direct players to draw a random Willpower card"
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Direct players to draw a random Willpower card"
+                      }
+                    ]
                   }
                 ]
               },
@@ -27411,8 +27732,15 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Remind players that this phase is a major event in the characters life and direct them to the Menu"
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Remind players that this phase is a major event in the characters life and direct them to the Menu"
+                      }
+                    ]
                   }
                 ]
               },
@@ -27422,8 +27750,15 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Encourage them to also use this time as a moment to take a bathroom break if they need one."
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Encourage them to also use this time as a moment to take a bathroom break if they need one."
+                      }
+                    ]
                   }
                 ]
               }
@@ -27439,8 +27774,15 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": ""
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
               }
             ]
           },
@@ -27455,12 +27797,19 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "strong",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Community Creation directions:"
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Community Creation directions:"
+                      }
+                    ]
                   }
                 ]
               }
@@ -27482,8 +27831,15 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Discard all resources and Willpower cards from your previous Community."
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Discard all resources and Willpower cards from your previous Community."
+                      }
+                    ]
                   }
                 ]
               },
@@ -27493,8 +27849,15 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Take a blank Community sheet. Your new community will be a Voice of the People."
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Take a blank Community sheet. Your new community will be a Voice of the People."
+                      }
+                    ]
                   }
                 ]
               },
@@ -27504,8 +27867,15 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Create a new archetype that takes the form “[Adjective] [Noun]” ex. Rebellious Youth or Entrenched Dynasty,"
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Create a new archetype that takes the form “[Adjective] [Noun]” ex. Rebellious Youth or Entrenched Dynasty,"
+                      }
+                    ]
                   }
                 ]
               },
@@ -27515,8 +27885,15 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Choose to receive either 2 new resources, 2 additional willpower cards, or one of each."
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Choose to receive either 2 new resources, 2 additional willpower cards, or one of each."
+                      }
+                    ]
                   }
                 ]
               }
@@ -27537,8 +27914,15 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "New resources are created using blank resource cards, and must be named immediately. "
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "New resources are created using blank resource cards, and must be named immediately. "
+                      }
+                    ]
                   }
                 ]
               },
@@ -27548,8 +27932,15 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Willpower cards are drawn randomly from the Voice of the People Willpower deck."
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Willpower cards are drawn randomly from the Voice of the People Willpower deck."
+                      }
+                    ]
                   }
                 ]
               }
@@ -27571,8 +27962,15 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Decide if their previous character joined this community or if they would like to create a new Individual."
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Decide if their previous character joined this community or if they would like to create a new Individual."
+                      }
+                    ]
                   }
                 ]
               }
@@ -27588,8 +27986,15 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "Reflect with the facilitator on why this community is entering the spotlight at this moment in history."
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Reflect with the facilitator on why this community is entering the spotlight at this moment in history."
+                  }
+                ]
               }
             ]
           },
@@ -27604,8 +28009,15 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "Universe Responds "
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Universe Responds "
+                  }
+                ]
               }
             ]
           },
@@ -27621,29 +28033,21 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "5 Minutes"
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "5 Minutes"
+                      }
+                    ]
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": ""
               }
             ]
           },
@@ -27658,34 +28062,14 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "background-color: rgb(255, 0, 255); color: rgb(255, 255, 255)"
-                        },
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "TO BE IMPROVISED!"
-                          }
-                        ]
-                      }
-                    ]
+                    "type": "text",
+                    "value": ""
                   }
                 ]
-              },
-              {
-                "type": "text",
-                "value": ""
               }
             ]
           },
@@ -27699,8 +28083,71 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": ""
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "strong",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "background-color: rgb(255, 0, 255); color: rgb(255, 255, 255)"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "TO BE IMPROVISED!"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
               }
             ]
           },
@@ -27715,8 +28162,15 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "Societal Phase #6"
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Societal Phase #6"
+                  }
+                ]
               }
             ]
           },
@@ -27732,17 +28186,24 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
                     "type": "element",
-                    "tagName": "strong",
+                    "tagName": "i",
                     "properties": {},
                     "children": [
                       {
-                        "type": "text",
-                        "value": "8 Minutes"
+                        "type": "element",
+                        "tagName": "strong",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "8 Minutes"
+                          }
+                        ]
                       }
                     ]
                   }
@@ -27761,8 +28222,15 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "P/F Instructions"
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "P/F Instructions"
+                  }
+                ]
               }
             ]
           },
@@ -27782,8 +28250,15 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Establish Roles"
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Establish Roles"
+                      }
+                    ]
                   },
                   {
                     "type": "element",
@@ -27801,8 +28276,15 @@
                         "properties": {},
                         "children": [
                           {
-                            "type": "text",
-                            "value": "Confirm which Communities are currently Voice of the Leaders"
+                            "type": "element",
+                            "tagName": "s",
+                            "properties": {},
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Confirm which Communities are currently Voice of the Leaders"
+                              }
+                            ]
                           }
                         ]
                       },
@@ -27812,8 +28294,15 @@
                         "properties": {},
                         "children": [
                           {
-                            "type": "text",
-                            "value": "This is also a good opportunity for the Voice of the Leaders to vote in or vote out Voice of the Leaders."
+                            "type": "element",
+                            "tagName": "s",
+                            "properties": {},
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "This is also a good opportunity for the Voice of the Leaders to vote in or vote out Voice of the Leaders."
+                              }
+                            ]
                           }
                         ]
                       },
@@ -27823,8 +28312,15 @@
                         "properties": {},
                         "children": [
                           {
-                            "type": "text",
-                            "value": "Select an Emissary."
+                            "type": "element",
+                            "tagName": "s",
+                            "properties": {},
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Select an Emissary."
+                              }
+                            ]
                           }
                         ]
                       },
@@ -27834,8 +28330,15 @@
                         "properties": {},
                         "children": [
                           {
-                            "type": "text",
-                            "value": "Send Ambassadors or Receive Ambassadors."
+                            "type": "element",
+                            "tagName": "s",
+                            "properties": {},
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Send Ambassadors or Receive Ambassadors."
+                              }
+                            ]
                           },
                           {
                             "type": "element",
@@ -27853,8 +28356,15 @@
                                 "properties": {},
                                 "children": [
                                   {
-                                    "type": "text",
-                                    "value": "Optional and can be done at any point"
+                                    "type": "element",
+                                    "tagName": "s",
+                                    "properties": {},
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "value": "Optional and can be done at any point"
+                                      }
+                                    ]
                                   }
                                 ]
                               }
@@ -27872,8 +28382,15 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Propose Actions"
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Propose Actions"
+                      }
+                    ]
                   },
                   {
                     "type": "element",
@@ -27891,8 +28408,15 @@
                         "properties": {},
                         "children": [
                           {
-                            "type": "text",
-                            "value": "A single action must be written down in the Datapad before moving to the Formal Voting step."
+                            "type": "element",
+                            "tagName": "s",
+                            "properties": {},
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "A single action must be written down in the Datapad before moving to the Formal Voting step."
+                              }
+                            ]
                           }
                         ]
                       }
@@ -27906,8 +28430,15 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Formal Voting"
+                    "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Formal Voting"
+                      }
+                    ]
                   },
                   {
                     "type": "element",
@@ -27925,8 +28456,15 @@
                         "properties": {},
                         "children": [
                           {
-                            "type": "text",
-                            "value": "Only Voice of the Leader communities are able to vote in the final decision as to what the society’s action will be, and in order to pass, it requires a majority vote from the Voice of the Leaders. If a majority vote is not reached, or a vote does not happen the Society takes no action that round."
+                            "type": "element",
+                            "tagName": "s",
+                            "properties": {},
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Only Voice of the Leader communities are able to vote in the final decision as to what the society’s action will be, and in order to pass, it requires a majority vote from the Voice of the Leaders. If a majority vote is not reached, or a vote does not happen the Society takes no action that round."
+                              }
+                            ]
                           }
                         ]
                       }
@@ -27946,23 +28484,8 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": ""
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
                 "type": "element",
-                "tagName": "strong",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
@@ -27984,12 +28507,19 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "strong",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "KEL"
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
                   }
                 ]
               }
@@ -28005,8 +28535,22 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "Societal Phase completed. "
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "KEL"
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           },
@@ -28020,8 +28564,37 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "Emissaries, please stand by for the Galactic Phase. "
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Societal Phase completed. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Emissaries, please stand by for the Galactic Phase. "
+                  }
+                ]
               }
             ]
           },
@@ -28036,8 +28609,15 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "Galactic Phase #6"
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Galactic Phase #6"
+                  }
+                ]
               }
             ]
           },
@@ -28053,18 +28633,32 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "15 Minutes"
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "15 Minutes"
+                      }
+                    ]
                   }
                 ]
               },
               {
-                "type": "text",
-                "value": ""
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
               }
             ]
           },
@@ -28079,24 +28673,31 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
                     "type": "element",
-                    "tagName": "strong",
+                    "tagName": "i",
                     "properties": {},
                     "children": [
                       {
                         "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "background-color: rgb(255, 255, 0)"
-                        },
+                        "tagName": "strong",
+                        "properties": {},
                         "children": [
                           {
-                            "type": "text",
-                            "value": "TRANSITION INTO DICE ROLLING"
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "background-color: rgb(255, 255, 0)"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "TRANSITION INTO DICE ROLLING"
+                              }
+                            ]
                           }
                         ]
                       }
@@ -28117,8 +28718,15 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": ""
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
               }
             ]
           },
@@ -28133,17 +28741,31 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": "Dice Rolling"
-              },
-              {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
                     "type": "text",
-                    "value": ""
+                    "value": "Dice Rolling"
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
                   }
                 ]
               }
@@ -28160,30 +28782,17 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "GMs call for the entrance of the Emissary from respective society, "
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
                     "type": "element",
-                    "tagName": "span",
-                    "properties": {
-                      "style": "background-color: rgb(0, 255, 255)"
-                    },
+                    "tagName": "i",
+                    "properties": {},
                     "children": [
                       {
                         "type": "text",
-                        "value": "cued by projection and lighting elements."
+                        "value": "GMs call for the entrance of the Emissary from respective society, "
                       }
                     ]
                   }
@@ -28191,12 +28800,46 @@
               },
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": " "
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "span",
+                        "properties": {
+                          "style": "background-color: rgb(0, 255, 255)"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "cued by projection and lighting elements."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": " "
+                      }
+                    ]
                   }
                 ]
               }
@@ -28213,12 +28856,19 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": ""
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
                   }
                 ]
               }
@@ -28235,12 +28885,19 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "P/F in spirit mode rises while doing societal gesture as call and response with players, simultaneously emissary rises."
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "P/F in spirit mode rises while doing societal gesture as call and response with players, simultaneously emissary rises."
+                      }
+                    ]
                   }
                 ]
               }
@@ -28262,12 +28919,19 @@
                 "children": [
                   {
                     "type": "element",
-                    "tagName": "i",
+                    "tagName": "s",
                     "properties": {},
                     "children": [
                       {
-                        "type": "text",
-                        "value": "Other P/Fs in spirit mode stand and walk to the back of their table, while:"
+                        "type": "element",
+                        "tagName": "i",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Other P/Fs in spirit mode stand and walk to the back of their table, while:"
+                          }
+                        ]
                       }
                     ]
                   },
@@ -28287,12 +28951,19 @@
                         "children": [
                           {
                             "type": "element",
-                            "tagName": "i",
+                            "tagName": "s",
                             "properties": {},
                             "children": [
                               {
-                                "type": "text",
-                                "value": "throwing focus to appropriate society"
+                                "type": "element",
+                                "tagName": "i",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "throwing focus to appropriate society"
+                                  }
+                                ]
                               }
                             ]
                           }
@@ -28305,12 +28976,19 @@
                         "children": [
                           {
                             "type": "element",
-                            "tagName": "i",
+                            "tagName": "s",
                             "properties": {},
                             "children": [
                               {
-                                "type": "text",
-                                "value": "Assuring the table is quiet and not still societal gaming"
+                                "type": "element",
+                                "tagName": "i",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Assuring the table is quiet and not still societal gaming"
+                                  }
+                                ]
                               }
                             ]
                           }
@@ -28323,12 +29001,19 @@
                         "children": [
                           {
                             "type": "element",
-                            "tagName": "i",
+                            "tagName": "s",
                             "properties": {},
                             "children": [
                               {
-                                "type": "text",
-                                "value": "Hopefully getting in some biobreaks"
+                                "type": "element",
+                                "tagName": "i",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Hopefully getting in some biobreaks"
+                                  }
+                                ]
                               }
                             ]
                           }
@@ -28351,12 +29036,19 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": ""
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
                   }
                 ]
               }
@@ -28373,12 +29065,19 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to Dais. "
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "P/F remains in spirit mode throughout, theatrically, big gesture walk with sound leading player to Dais. "
+                      }
+                    ]
                   }
                 ]
               }
@@ -28395,12 +29094,19 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": ""
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
                   }
                 ]
               }
@@ -28417,12 +29123,19 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
-                    "type": "text",
-                    "value": "Final pose until Emissary takes place at Dais, then moves diagonal between Dais and GM (isocles triangle). "
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Final pose until Emissary takes place at Dais, then moves diagonal between Dais and GM (isocles triangle). "
+                      }
+                    ]
                   }
                 ]
               }
@@ -28444,12 +29157,48 @@
                 "children": [
                   {
                     "type": "element",
+                    "tagName": "s",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "i",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "In this position P/F gestures and responds to rolls, as well as throwing focus between player, witness activations, and GMs"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
                     "tagName": "i",
                     "properties": {},
                     "children": [
                       {
                         "type": "text",
-                        "value": "In this position P/F gestures and responds to rolls, as well as throwing focus between player, witness activations, and GMs"
+                        "value": ""
                       }
                     ]
                   }
@@ -28468,265 +29217,17 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "The action is presented to the GMs. "
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Emissary roll the dice. "
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "The GMs respond to the roll. "
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "End of emissary’s turn, P/F gently rushes towards the Emissary to get them back to the table"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ". "
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "value": ""
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Repeats until all Societies have rolled. "
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": ""
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
                     "type": "element",
-                    "tagName": "strong",
+                    "tagName": "i",
                     "properties": {},
                     "children": [
                       {
-                        "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "background-color: rgb(255, 255, 0)"
-                        },
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "TRANSITION OUT OF GALACTIC PHASE and into INDIVIDUAL PHASE"
-                          }
-                        ]
+                        "type": "text",
+                        "value": "The action is presented to the GMs. "
                       }
                     ]
                   }
@@ -28745,26 +29246,17 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
                     "type": "element",
-                    "tagName": "strong",
+                    "tagName": "i",
                     "properties": {},
                     "children": [
                       {
-                        "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "background-color: rgb(255, 255, 0)"
-                        },
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": ""
-                          }
-                        ]
+                        "type": "text",
+                        "value": ""
                       }
                     ]
                   }
@@ -28783,34 +29275,374 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "i",
+                "tagName": "s",
                 "properties": {},
                 "children": [
                   {
                     "type": "element",
-                    "tagName": "strong",
+                    "tagName": "i",
                     "properties": {},
                     "children": [
                       {
-                        "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "background-color: rgb(0, 255, 255)"
-                        },
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "LIGHT AND SOUND SHIFT"
-                          }
-                        ]
+                        "type": "text",
+                        "value": "Emissary roll the dice. "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "The GMs respond to the roll. "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "End of emissary’s turn, P/F gently rushes towards the Emissary to get them back to the table"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ". "
                       }
                     ]
                   }
                 ]
               },
               {
-                "type": "text",
-                "value": ""
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Repeats until all Societies have rolled. "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "strong",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "background-color: rgb(255, 255, 0)"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "TRANSITION OUT OF GALACTIC PHASE and into INDIVIDUAL PHASE"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "strong",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "background-color: rgb(255, 255, 0)"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "strong",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "background-color: rgb(0, 255, 255)"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "LIGHT AND SOUND SHIFT"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "s",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
               }
             ]
           },
@@ -28865,6 +29697,457 @@
                     "value": "5 Minutes"
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Attack on Division kills many, brings UEC to heel"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": " "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "The Siphon is still there, still able to provide power, still a weapon for anyone who controls it"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Trans Corp + FU"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "The Ashen Glow (remilitarize, swear to bring the empire back themselves"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "The Aesthetic "
+              },
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "-> The Scholars"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "The University"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "University of Truth and Beauty"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Free Unity members begin attending in droves, eager to end dependence on Unity for "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "The Mighty -> The Curious"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Reasserted themselves as a fearsome force, gruesome batteries, straining relationships"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "The Faithful"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Free Unity, Jeff"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "The Enterprise -> The Grounded"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "“Former Marauders” as a resource"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": " \t"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "padding-left: 36PT; text-indent: 36PT",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "The Intrepid"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Found new worlds in the solar system"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
               }
             ]
           },
