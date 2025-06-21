@@ -1062,13 +1062,13 @@
       "_type": "Phase",
       "id": "qY-y5",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 3,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:49.407+00:00",
+        "s": "2025-06-21T20:09:30.767+00:00",
+        "e": "2025-06-21T20:14:30.767+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1392,7 +1392,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -1453,7 +1454,9 @@
       "name": "Scholastic Warships",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1473,9 +1476,7 @@
       "name": "Programmable DNA ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1485,9 +1486,7 @@
       "name": "Unnatural Crops",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1548,8 +1547,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -1570,9 +1568,7 @@
       "name": "Electromagnetic Shields",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1582,7 +1578,9 @@
       "name": "Refreshing Underthinking",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1642,7 +1640,9 @@
       "name": "Imperial Databases",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1662,9 +1662,7 @@
       "name": "Weather-Resistant Fabric ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1675,8 +1673,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -1687,7 +1684,9 @@
       "name": "Military Training",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1737,7 +1736,9 @@
       "name": "Logistics-oriented Helpers",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1757,9 +1758,7 @@
       "name": "Invasive Species",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1829,7 +1828,9 @@
       "name": "Attuned Sense",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1881,7 +1882,9 @@
       "name": "Joyful Disobedience ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1891,9 +1894,7 @@
       "name": "Super-sneaky Stealth",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1964,7 +1965,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -2037,9 +2039,7 @@
       "name": "Crystal Smelters",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2141,7 +2141,9 @@
       "name": "Invasive Shield Schematics",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -49875,6 +49877,22 @@
       "type": "ActionResources",
       "description": "the grounded used Scholastic Warships,Military Training,Imperial Databases to take action.",
       "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "SyMHo",
+      "timestamp": "2025-06-21T20:09:30.767Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Universal Phase",
+      "value": "2025-06-21T20:09:30.767Z"
+    },
+    {
+      "_type": "Record",
+      "id": "dkmm0",
+      "timestamp": "2025-06-21T20:09:30.767Z",
+      "type": "CommunitiesEndangered",
+      "description": "Ep 2: Avant-Garde Gemcutters,Deceptive Losers",
+      "value": 2
     }
   ]
 }
