@@ -836,7 +836,7 @@
         "To get refugees safely to the feast"
       ],
       "result": [
-        0,
+        6,
         0
       ],
       "voteTime": "2025-06-21T22:25:54.097+00:00",
@@ -1707,7 +1707,7 @@
       "status": "playing",
       "round": 5,
       "duration": 900,
-      "timeElapsed": 859.5159999999975,
+      "timeElapsed": 1057.5559999999966,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
