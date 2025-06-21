@@ -82,7 +82,9 @@
         "",
         ""
       ],
-      "result": [],
+      "result": [
+        0
+      ],
       "voteTime": "2025-06-21T17:46:11.493+00:00",
       "status": "voted",
       "tags": {
@@ -159,10 +161,12 @@
       "texts": [
         "",
         "",
+        "",
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-21T17:46:15.821+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -714,7 +718,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 1071.6209999999944,
+      "timeElapsed": 1075.6229999999944,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
