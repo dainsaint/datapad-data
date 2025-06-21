@@ -1584,7 +1584,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 390.31499999999977,
+      "timeElapsed": 408.37499999999966,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -2517,6 +2517,16 @@
       "id": "thJOl",
       "communityId": "Rp9Mo",
       "name": "Invasive Shield Schematics ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "I2IHM",
+      "communityId": "iV-n0",
+      "name": "Wide Ranging Cannons",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -51586,6 +51596,13 @@
       "type": "PhaseStarted",
       "description": "Round 5: Societal Phase",
       "value": "2025-06-21T22:07:35.583Z"
+    },
+    {
+      "_type": "Record",
+      "id": "hMzbT",
+      "timestamp": "2025-06-21T22:14:23.835Z",
+      "type": "ResourceCreated",
+      "value": "Wide Ranging Cannons"
     }
   ]
 }
