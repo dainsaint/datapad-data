@@ -2769,6 +2769,61 @@
       "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "DYwoh",
+      "round": 4,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "RdUeO",
+      "round": 4,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "l9FF0",
+      "round": 4,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "Q3xBR",
+      "round": 4,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "Zggr3",
+      "round": 4,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
     }
   ],
   "documents": [
