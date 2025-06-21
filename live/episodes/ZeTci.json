@@ -1468,7 +1468,7 @@
       "status": "playing",
       "round": 4,
       "duration": 900,
-      "timeElapsed": 391.1159999999998,
+      "timeElapsed": 450.1239999999996,
       "actualTime": {
         "s": "2025-06-21T21:27:53.007+00:00",
         "e": "2025-06-21T21:42:53.007+00:00",
@@ -49978,7 +49978,7 @@
                         "children": [
                           {
                             "type": "text",
-                            "value": "A"
+                            "value": "Know there are 3 total mysterious signals "
                           }
                         ]
                       }
@@ -50048,7 +50048,117 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "INTREPID: we will use internal navigation to call on the comets to come back to their region and rejoin society, universal healthcare to heal the stabbing and give check ups; "
+                    "value": "INTREPID: we will use internal navigation to call on the comets to come back to their region and rejoin society, universal healthcare to heal from regular pirate stabbings and give check ups; "
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "2D6: 2,1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "The intrepid “thoughts and prayers”ed the comets"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Comets say no; not interested and actually offended by the offer; burning ember sees the intrepid trying to woo the comets, prepare an assault on the Intrepid."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "GROUNDED: use concerns computing to fix the esthetic net/comms issues; alignment factories to fix the alignment "
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "2D6: with advantage"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "1,1 reroll 1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Concern kick you out, the CONCERN is more or less defenseless against the burning ember, the concern’s computing power is destroyed with massive implications for all societies"
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Grounded* now know there are multiple mysterious message sources "
                   }
                 ]
               }
@@ -50169,7 +50279,95 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "    "
+                    "value": "INTREPID: Holographic planet projector to lure burning ember into black hole, super sneaky stealth to cloak original planet; refreshing underthinking to give us the courage "
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Risk level remains 3, rolls with dbl disadvantage. With a 3 or higher you’ll be rewarded. 3D6: 3,3,5"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Against all odds, burning ember still know where you live; see the audacity of this effort, there are consequences that won’t be disclosed in this moment…"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "CURIOUS: use invasive shield schematics to spread new shield tech, powerful ships across kin to give aid w/ relentless guardsmen "
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "3D6. Risk level 2 "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Lose guardsmen"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Move through the system to successfully share shield schematics"
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               }
