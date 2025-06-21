@@ -992,7 +992,9 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
@@ -1291,13 +1293,13 @@
       "_type": "Phase",
       "id": "I_L2i",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 4,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:50.968+00:00",
+        "s": "2025-06-21T21:07:16.849+00:00",
+        "e": "2025-06-21T21:12:16.849+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1545,8 +1547,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -1568,7 +1569,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -1600,7 +1602,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -1611,9 +1614,7 @@
       "name": "Scholastic Warships",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1673,7 +1674,9 @@
       "name": "Alignment Factories ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1716,7 +1719,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -1737,9 +1741,7 @@
       "name": "Refreshing Underthinking",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1770,7 +1772,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -1803,9 +1806,7 @@
       "name": "Imperial Databases",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1849,9 +1850,7 @@
       "name": "Military Training",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1994,7 +1993,6 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "exhausted",
           "destroyed"
         ]
       }
@@ -2036,9 +2034,7 @@
       "name": "Swift Spies",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2049,7 +2045,6 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "exhausted",
           "destroyed"
         ]
       }
@@ -2132,8 +2127,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -2144,7 +2138,9 @@
       "name": "Abundant Followers",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2154,9 +2150,7 @@
       "name": "Natural Charisma",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2216,9 +2210,7 @@
       "name": "Diplomatic Leaders ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2248,7 +2240,9 @@
       "name": "Healing Quartz-Crystals",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2288,7 +2282,9 @@
       "name": "Sacrificial Altars",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2330,7 +2326,9 @@
       "name": "The CONCERN's Computing Power",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -50897,6 +50895,22 @@
       "type": "ActionResources",
       "description": "the grounded used The CONCERN's Computing Power,Alignment Factories  to take action.",
       "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "JBT2g",
+      "timestamp": "2025-06-21T21:07:16.849Z",
+      "type": "PhaseStarted",
+      "description": "Round 4: Universal Phase",
+      "value": "2025-06-21T21:07:16.849Z"
+    },
+    {
+      "_type": "Record",
+      "id": "iEHZ4",
+      "timestamp": "2025-06-21T21:07:16.849Z",
+      "type": "CommunitiesEndangered",
+      "description": "Ep 2: Avant-Garde Gemcutters,Deceptive Losers,Belligerent Poets",
+      "value": 3
     }
   ]
 }
