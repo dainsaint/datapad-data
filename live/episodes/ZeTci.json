@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1564.9879999999912,
+      "timeElapsed": 1602.0019999999909,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1878,7 +1878,7 @@
       "_type": "Society",
       "id": "e-JcG",
       "archetype": "the intrepid",
-      "fateId": "",
+      "fateId": "fate_one",
       "color": "color-river-stone",
       "tags": {
         "_type": "Tags",
