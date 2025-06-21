@@ -736,7 +736,7 @@
       "status": "playing",
       "round": 2,
       "duration": 240,
-      "timeElapsed": 327.0299999999999,
+      "timeElapsed": 329.0309999999999,
       "actualTime": {
         "s": "2025-06-21T18:16:36.419+00:00",
         "e": "2025-06-21T18:20:36.419+00:00",
@@ -2243,9 +2243,9 @@
       "id": "bMFOn",
       "round": 2,
       "societyId": "e-JcG",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "2",
+      "advantage": "0",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     },
