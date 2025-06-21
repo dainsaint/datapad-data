@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1681.0249999999903,
+      "timeElapsed": 1684.0249999999903,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1827,7 +1827,7 @@
       "_type": "Society",
       "id": "V9xbw",
       "archetype": "the scholars",
-      "fateId": "",
+      "fateId": "fate_two",
       "color": "color-light-blue",
       "tags": {
         "_type": "Tags",
