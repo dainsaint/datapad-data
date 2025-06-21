@@ -1503,13 +1503,13 @@
       "_type": "Phase",
       "id": "EI8SB",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 5,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:52.834+00:00",
+        "s": "2025-06-21T22:04:05.081+00:00",
+        "e": "2025-06-21T22:09:05.081+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1684,8 +1684,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -1717,8 +1716,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -1793,9 +1791,7 @@
       "name": "Alignment Factories ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1805,7 +1801,9 @@
       "name": "Deep Silos",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1815,7 +1813,9 @@
       "name": "Healing NEBULA ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1838,8 +1838,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -1860,7 +1859,9 @@
       "name": "Refreshing Underthinking",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1891,8 +1892,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -2018,8 +2018,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "exhausted",
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -2051,7 +2051,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -2146,7 +2147,9 @@
       "name": "Holographic Planet Projector",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2178,7 +2181,9 @@
       "name": "Super-sneaky Stealth",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2260,9 +2265,7 @@
       "name": "Abundant Followers",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2352,7 +2355,9 @@
       "name": "Engineering Knowledge",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2362,9 +2367,7 @@
       "name": "Healing Quartz-Crystals",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2404,9 +2407,7 @@
       "name": "Sacrificial Altars",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2452,9 +2453,7 @@
       "name": "The CONCERN's Computing Power",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -51520,6 +51519,22 @@
       "type": "ActionResources",
       "description": "the grounded used Healing NEBULA ,Deep Silos to take action.",
       "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "GhigS",
+      "timestamp": "2025-06-21T22:04:05.081Z",
+      "type": "PhaseStarted",
+      "description": "Round 5: Universal Phase",
+      "value": "2025-06-21T22:04:05.081Z"
+    },
+    {
+      "_type": "Record",
+      "id": "JHQQG",
+      "timestamp": "2025-06-21T22:04:05.082Z",
+      "type": "CommunitiesEndangered",
+      "description": "Ep 2: Avant-Garde Gemcutters,Deceptive Losers,Belligerent Poets",
+      "value": 3
     }
   ]
 }
