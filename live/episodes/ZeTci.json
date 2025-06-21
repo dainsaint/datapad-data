@@ -539,7 +539,7 @@
       "timeElapsed": 1881.1129999999891,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
-        "e": "2025-06-21T17:18:59.640+00:00",
+        "e": "2025-06-21T17:19:01.809+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -2014,6 +2014,61 @@
         "ZQ5E1": "",
         "CYPuO": ""
       },
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "zYiyH",
+      "round": 1,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "B5U8z",
+      "round": 1,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "WLg9P",
+      "round": 1,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "Q8JZZ",
+      "round": 1,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "FgnPA",
+      "round": 1,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
       "alterLeadership": {}
     }
   ],
@@ -48304,6 +48359,54 @@
       "_type": "Record",
       "id": "dH4Oa",
       "timestamp": "2025-06-21T17:18:59.640Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "BHYJM",
+      "timestamp": "2025-06-21T17:19:01.809Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "U15qp",
+      "timestamp": "2025-06-21T17:19:01.809Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "Gxkow",
+      "timestamp": "2025-06-21T17:19:01.809Z",
+      "type": "ActionResources",
+      "description": "the scholars used Logistics-oriented Helpers to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "jXI55",
+      "timestamp": "2025-06-21T17:19:01.809Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "V_1nC",
+      "timestamp": "2025-06-21T17:19:01.809Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "X8BDl",
+      "timestamp": "2025-06-21T17:19:01.809Z",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
