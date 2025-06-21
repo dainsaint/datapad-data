@@ -1744,13 +1744,13 @@
       "_type": "Phase",
       "id": "SBJee",
       "type": "Generational Phase",
-      "status": "paused",
+      "status": "playing",
       "round": 6,
       "duration": 1200,
       "timeElapsed": 1,
       "actualTime": {
-        "s": "2025-06-21T22:40:57.195+00:00",
-        "e": "2025-06-21T23:00:57.195+00:00",
+        "s": "2025-06-21T22:51:14.306+00:00",
+        "e": "2025-06-21T23:11:14.306+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51911,6 +51911,14 @@
       "type": "PhaseDuration",
       "description": "Round 6: Universal Phase",
       "value": 9.974016666666667
+    },
+    {
+      "_type": "Record",
+      "id": "e2OjL",
+      "timestamp": "2025-06-21T22:51:14.306Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Generational Phase",
+      "value": "2025-06-21T22:51:14.306Z"
     }
   ]
 }
