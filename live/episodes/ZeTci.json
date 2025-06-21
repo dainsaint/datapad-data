@@ -1244,7 +1244,7 @@
       "status": "playing",
       "round": 3,
       "duration": 900,
-      "timeElapsed": 547.3869999999985,
+      "timeElapsed": 762.4509999999971,
       "actualTime": {
         "s": "2025-06-21T20:31:48.471+00:00",
         "e": "2025-06-21T20:46:48.471+00:00",
@@ -49069,6 +49069,17 @@
                         "children": [
                           {
                             "type": "text",
+                            "value": "6: taken out of play "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
                             "value": "1: Rhetorical aptitude is destroyed"
                           }
                         ]
@@ -49080,7 +49091,403 @@
                         "children": [
                           {
                             "type": "text",
-                            "value": "Mighty becomes tongue tied, talk feels tone deaf/out of touch with the sentiments of the people, burning ember take note of the mighty’s wishywashy stance…"
+                            "value": "3: Mighty becomes tongue tied, talk feels tone deaf/out of touch with the sentiments of the people, burning ember take note of the mighty’s wishywashy stance…see them as aligned with the status quo/allied with concern/an enemy"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "INTREPID: refreshing under thinking, make an agreement with comets to join forces"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Joyful disobedience to forge spirit of comraderie. Attuned sense to make sure comets are legit"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "3D6: 4,4,1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "1:joyful disobedience destroyed"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "4,4: doesn’t stop the comets from honoring their agreements to the burning ember, but if you call on the comets they will answer…gain information that the comets passed on from burning ember: they may be expanding their claim in universe"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "CURIOUS: swift spies to ally with pirates, bolster defense, and seek intelligence"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Roll with advantage"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "4: "
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "i",
+                            "properties": {},
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "we want to know about the how factions in the system are relating to the Eye of Unity. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tagName": "i",
+                                    "properties": {},
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "value": "Choice to receive information publicly or privately? Public"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "value": "l"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Concerning Construction happening in division, weapon has sophisticated targeting tech. Weapon is sitting on more power than previously understood"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "SCHOLARS: choosing not to align"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Electromagnetic shields to protect planets from laser, luminous farmlands to grow invasive species, use species to emit electromagnetic shields"
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "All five systems in one action isn’t feasible in one action, takes time before it can emit an electromagnetic shield. If you succeed, you can either A: have a shield that works for one planet, or plans to B: disseminate knowledge to each society. (Before you roll)"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "3D6: 6,4,2"
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "2: Luminous farmlands"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "6: receive schematics for Electromagnetic Shields"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "University has some shielding- an interesting signal pulsing through the universe with some regularity- receive the information public/privately?"
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Interference seems almost like language…gives you a sense that there is more operating in the kin systems than what is visible now"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "GROUNDED: scholastics warships to occupy concern to bring resources for control and occupation. Use military training to aid in occupation, imperial databases to Find weak points in defenses"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Risk level is 3, rolling w/ disadvantage"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "3D6: 6,5,4"
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "6 removed"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "The concern hail you emergency hailer on private frequencies: (public share)"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Weapon is truly there to protect, under no circumstances should anyone allow the eye of unity to fall; it’s the only thing keeping the eye of unity from expanding in your system."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Concern allows you to come aboard (cannot risk damage to the device), will give the grounded access the computing power available on the EYE. introduce you to AI itself"
                           }
                         ]
                       }
@@ -49102,7 +49509,22 @@
             "children": [
               {
                 "type": "text",
-                "value": "Universe Responds #3"
+                "value": "Universe"
+              },
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": " Respo"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "nds #3"
               }
             ]
           },
@@ -49205,7 +49627,183 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "    "
+                    "value": "CURIOUS: love science to create bio-based comms system; use blood building to strengthen network (alt to ethereal network)"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "2D6: 3,3 (risk level 3)"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "People in the kin system think this is creepy, don’t want you doing weird stuff with their blood. "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Lose both science and blood bending in this action "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "The curious have a new method of comms, so your risk level goes back down to 2"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "SCHOLARS: forbidden language to decoy of unity’s message, insterstellar radio to receive message in more stable medium"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "2D6 (risk level 3): 5,5"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "public or privately- PRIVATE"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "A"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "MIGHTY: abundant followers to rile up the pirates, use sacrificial altars to take their aggression, healing quartz crystals to heal their fear and anger "
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "3D6: 6,6,4"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Officially inspired: receive the golden inspiration die: any risks or 1s are null and void."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "The comets surrounding your planet chill the fuck out, offer the mighty their aid in any endeavors, risk at parody with rest of the system"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "INTREPID: we will use internal navigation to call on the comets to come back to their region and rejoin society, universal healthcare to heal the stabbing and give check ups; "
                   }
                 ]
               }
