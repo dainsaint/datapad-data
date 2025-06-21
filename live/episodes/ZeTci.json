@@ -760,11 +760,12 @@
       "id": "FIHoa",
       "round": "5",
       "societyId": "V9xbw",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "ND1C8"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1621,7 +1622,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 436.3809999999995,
+      "timeElapsed": 438.3819999999995,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
