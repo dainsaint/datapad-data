@@ -607,7 +607,11 @@
         "",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0,
+        0
+      ],
       "voteTime": "2025-06-21T21:23:23.434+00:00",
       "status": "voted",
       "tags": {
@@ -646,6 +650,7 @@
         "i3Cf3"
       ],
       "texts": [
+        "Initiate evacuate to",
         ""
       ],
       "result": [],
@@ -1379,7 +1384,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 579.451999999998,
+      "timeElapsed": 592.4549999999979,
       "actualTime": {
         "s": "2025-06-21T21:13:43.680+00:00",
         "e": "2025-06-21T21:25:43.680+00:00",
