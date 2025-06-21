@@ -553,9 +553,8 @@
         "ngIzv"
       ],
       "texts": [
-        "Call on the Comets to rejoin our society",
-        "",
-        ""
+        "Call on the Comets to come to our planet rejoin our society",
+        "Heal the constant stabbing and give annual checkups"
       ],
       "result": [
         0,
@@ -1239,7 +1238,7 @@
       "status": "playing",
       "round": 3,
       "duration": 900,
-      "timeElapsed": 17.003999999999998,
+      "timeElapsed": 22.008,
       "actualTime": {
         "s": "2025-06-21T20:31:48.471+00:00",
         "e": "2025-06-21T20:46:48.471+00:00",
