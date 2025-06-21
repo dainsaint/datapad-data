@@ -1217,7 +1217,9 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
@@ -1723,13 +1725,13 @@
       "_type": "Phase",
       "id": "wy9YA",
       "type": "Universal Phase",
-      "status": "complete",
+      "status": "playing",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 2.001,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-21T22:40:56.452+00:00",
+        "s": "2025-06-21T22:41:13.649+00:00",
+        "e": "2025-06-21T22:51:13.649+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1798,7 +1800,9 @@
       "name": "Detailed Maps",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1820,7 +1824,9 @@
       "name": "Growth Ray",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1928,7 +1934,9 @@
       "name": "Deep Silos",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1938,7 +1946,9 @@
       "name": "Healing NEBULA ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1982,9 +1992,7 @@
       "name": "Refreshing Underthinking",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1994,7 +2002,9 @@
       "name": "Freakish Tastebuds",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2141,8 +2151,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -2174,8 +2183,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -2198,7 +2206,9 @@
       "name": "Hidden Intoxicants",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2208,7 +2218,9 @@
       "name": "Blood Festivals",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2275,7 +2287,6 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "exhausted",
           "destroyed"
         ]
       }
@@ -2309,7 +2320,9 @@
       "name": "Super-sneaky Stealth",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2441,7 +2454,9 @@
       "name": "Excellent Cardio",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2471,7 +2486,9 @@
       "name": "Biological Nutrient-Bars",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2481,9 +2498,7 @@
       "name": "Engineering Knowledge",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2555,9 +2570,7 @@
       "name": "Invasive Shield Schematics",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2651,7 +2664,9 @@
       "name": "Wide Ranging Cannons",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2661,7 +2676,9 @@
       "name": "Invasive Shield Schematics",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2671,7 +2688,9 @@
       "name": "Invasive Species ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     }
   ],
@@ -3228,6 +3247,61 @@
       "risk": "4",
       "advantage": "1",
       "disadvantage": "0",
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "U3VI3",
+      "round": 6,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "DG5lv",
+      "round": 6,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "NsSSF",
+      "round": 6,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "tALC1",
+      "round": 6,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "jvXAA",
+      "round": 6,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "ambassadors": {},
       "alterLeadership": {}
     }
@@ -51805,6 +51879,22 @@
       "type": "PhaseStarted",
       "description": "Round 5: Generational Phase",
       "value": "2025-06-21T22:40:57.195Z"
+    },
+    {
+      "_type": "Record",
+      "id": "RqN5C",
+      "timestamp": "2025-06-21T22:41:13.649Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Universal Phase",
+      "value": "2025-06-21T22:41:13.649Z"
+    },
+    {
+      "_type": "Record",
+      "id": "HgPHe",
+      "timestamp": "2025-06-21T22:41:13.649Z",
+      "type": "CommunitiesEndangered",
+      "description": "Ep 2: Avant-Garde Gemcutters,Deceptive Losers,Exceptional Navigators,Belligerent Poets",
+      "value": 4
     }
   ]
 }
