@@ -1674,13 +1674,13 @@
       "_type": "Phase",
       "id": "qWW_D",
       "type": "Galactic Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 5,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:53.598+00:00",
+        "s": "2025-06-21T22:18:07.213+00:00",
+        "e": "2025-06-21T22:30:07.213+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51735,6 +51735,14 @@
       "timestamp": "2025-06-21T22:16:04.484Z",
       "type": "ResourceCreated",
       "value": "Invasive Species "
+    },
+    {
+      "_type": "Record",
+      "id": "S2XTK",
+      "timestamp": "2025-06-21T22:18:07.213Z",
+      "type": "PhaseStarted",
+      "description": "Round 5: Galactic Phase",
+      "value": "2025-06-21T22:18:07.213Z"
     }
   ]
 }
