@@ -1315,7 +1315,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 295.24,
+      "timeElapsed": 300.24199999999996,
       "actualTime": {
         "s": "2025-06-21T21:13:43.680+00:00",
         "e": "2025-06-21T21:25:43.680+00:00",
@@ -2336,6 +2336,16 @@
       "id": "SUHmS",
       "communityId": "erGwW",
       "name": "Screaming Whips",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "xtqwT",
+      "communityId": "LFwRq",
+      "name": "Blood Transfusers",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -50938,6 +50948,13 @@
       "type": "PhaseStarted",
       "description": "Round 4: Societal Phase",
       "value": "2025-06-21T21:13:43.680Z"
+    },
+    {
+      "_type": "Record",
+      "id": "p1rz1",
+      "timestamp": "2025-06-21T21:18:43.942Z",
+      "type": "ResourceCreated",
+      "value": "Blood Transfusers"
     }
   ]
 }
