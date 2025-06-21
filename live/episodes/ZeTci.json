@@ -1407,10 +1407,10 @@
       "_type": "Phase",
       "id": "MnUfO",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 709.5979999999972,
+      "timeElapsed": 720.6059999999972,
       "actualTime": {
         "s": "2025-06-21T21:13:43.680+00:00",
         "e": "2025-06-21T21:25:43.680+00:00",
