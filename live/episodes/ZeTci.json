@@ -398,7 +398,7 @@
         6
       ],
       "voteTime": "2025-06-21T18:37:16.728+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -417,7 +417,8 @@
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-21T19:42:43.720+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
