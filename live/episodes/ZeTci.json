@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 937.587999999995,
+      "timeElapsed": 942.587999999995,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1750,6 +1750,16 @@
       "id": "VrUN9",
       "communityId": "ol1GN",
       "name": "[] []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "Ird98",
+      "communityId": "bWsq5",
+      "name": "Crystal Altars",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -48240,6 +48250,13 @@
       "type": "PhaseStarted",
       "description": "Round 0: Setup/Onboarding",
       "value": "2025-06-21T16:45:40.848Z"
+    },
+    {
+      "_type": "Record",
+      "id": "h1--a",
+      "timestamp": "2025-06-21T17:01:23.122Z",
+      "type": "ResourceCreated",
+      "value": "Crystal Altars"
     }
   ]
 }
