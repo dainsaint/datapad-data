@@ -811,7 +811,7 @@
         "Sustain convo until we solve the riddle of the 2 suns"
       ],
       "result": [
-        6,
+        5,
         0,
         0
       ],
@@ -1704,7 +1704,7 @@
       "status": "playing",
       "round": 5,
       "duration": 900,
-      "timeElapsed": 275.2990000000002,
+      "timeElapsed": 278.2990000000002,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
