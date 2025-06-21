@@ -590,6 +590,23 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Action",
+      "id": "Klkbq",
+      "round": "4",
+      "societyId": "e-JcG",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -1315,7 +1332,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 300.24199999999996,
+      "timeElapsed": 304.24199999999996,
       "actualTime": {
         "s": "2025-06-21T21:13:43.680+00:00",
         "e": "2025-06-21T21:25:43.680+00:00",
