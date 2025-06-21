@@ -266,7 +266,11 @@
         "Find weak points their defenses ",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0,
+        0
+      ],
       "voteTime": "2025-06-21T18:40:18.221+00:00",
       "status": "voted",
       "tags": {
@@ -311,7 +315,7 @@
         "Negotiate between factions"
       ],
       "result": [
-        0,
+        6,
         0,
         0
       ],
@@ -935,7 +939,7 @@
       "status": "playing",
       "round": 2,
       "duration": 900,
-      "timeElapsed": 69.01599999999999,
+      "timeElapsed": 99.02400000000002,
       "actualTime": {
         "s": "2025-06-21T18:39:08.724+00:00",
         "e": "2025-06-21T18:54:08.724+00:00",
