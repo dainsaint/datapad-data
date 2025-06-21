@@ -1084,7 +1084,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 220.26600000000036,
+      "timeElapsed": 225.26900000000037,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
@@ -1722,7 +1722,7 @@
     {
       "_type": "Resource",
       "id": "z2t10",
-      "communityId": "Q5mwY",
+      "communityId": "nmW7Z",
       "name": "Ancient Well",
       "tags": {
         "_type": "Tags",
