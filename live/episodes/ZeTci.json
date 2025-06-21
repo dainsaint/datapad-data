@@ -503,10 +503,15 @@
       ],
       "texts": [
         "Decode the eye of unity's message",
+        "",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0
+      ],
+      "voteTime": "2025-06-21T20:29:54.499+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1184,7 +1189,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 700.860999999997,
+      "timeElapsed": 703.861999999997,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
