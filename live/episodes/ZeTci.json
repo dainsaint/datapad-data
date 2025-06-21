@@ -416,9 +416,28 @@
         "Test",
         ""
       ],
-      "result": [],
+      "result": [
+        0
+      ],
       "voteTime": "2025-06-21T19:42:43.720+00:00",
       "status": "voted",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Action",
+      "id": "ya16z",
+      "round": "2",
+      "societyId": "V9xbw",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
       "tags": {
         "_type": "Tags",
         "value": []
