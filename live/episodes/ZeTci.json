@@ -717,7 +717,7 @@
       "status": "playing",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 398.1859999999993,
+      "timeElapsed": 467.2149999999986,
       "actualTime": {
         "s": "2025-06-21T18:05:39.377+00:00",
         "e": "2025-06-21T18:15:39.377+00:00",
@@ -1163,7 +1163,7 @@
     {
       "_type": "Resource",
       "id": "N5jiH",
-      "communityId": "l5d1f",
+      "communityId": "Pwqoy",
       "name": "Detailed Maps",
       "tags": {
         "_type": "Tags",
