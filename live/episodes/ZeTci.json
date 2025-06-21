@@ -2166,7 +2166,16 @@
         "M8dPd": "",
         "ZF_eN": ""
       },
-      "alterLeadership": {}
+      "alterLeadership": {
+        "DgkcU": "leader",
+        "LFwRq": "leader",
+        "ZTISw": "leader",
+        "M8dPd": "leader",
+        "Rp9Mo": "leader",
+        "iV-n0": "leader",
+        "BNuWv": "leader",
+        "ZF_eN": "leader"
+      }
     },
     {
       "_type": "Turn",
@@ -49081,413 +49090,413 @@
     {
       "_type": "Record",
       "id": "lDdJe",
-      "timestamp": "2025-06-20T19:17:14.007Z",
+      "timestamp": "2025-06-20T19:17:14.007+00:00",
       "type": "ResourceCreated",
       "value": "Factories "
     },
     {
       "_type": "Record",
       "id": "Ld0WM",
-      "timestamp": "2025-06-20T19:17:28.449Z",
+      "timestamp": "2025-06-20T19:17:28.449+00:00",
       "type": "ResourceCreated",
       "value": "Deep Silos"
     },
     {
       "_type": "Record",
       "id": "oFo1n",
-      "timestamp": "2025-06-20T19:18:00.579Z",
+      "timestamp": "2025-06-20T19:18:00.579+00:00",
       "type": "ResourceCreated",
       "value": "Bears"
     },
     {
       "_type": "Record",
       "id": "vfBGo",
-      "timestamp": "2025-06-20T19:19:33.234Z",
+      "timestamp": "2025-06-20T19:19:33.234+00:00",
       "type": "ResourceCreated",
       "value": "Fun []"
     },
     {
       "_type": "Record",
       "id": "KKW8R",
-      "timestamp": "2025-06-20T19:19:44.706Z",
+      "timestamp": "2025-06-20T19:19:44.706+00:00",
       "type": "ResourceCreated",
       "value": "_____ Bending"
     },
     {
       "_type": "Record",
       "id": "MZX0v",
-      "timestamp": "2025-06-20T19:20:03.952Z",
+      "timestamp": "2025-06-20T19:20:03.952+00:00",
       "type": "ResourceCreated",
       "value": "Electromagnetic Shields"
     },
     {
       "_type": "Record",
       "id": "bInev",
-      "timestamp": "2025-06-20T19:20:13.485Z",
+      "timestamp": "2025-06-20T19:20:13.485+00:00",
       "type": "ResourceCreated",
       "value": "Refreshing Underthinking"
     },
     {
       "_type": "Record",
       "id": "J3Zyv",
-      "timestamp": "2025-06-20T19:20:43.558Z",
+      "timestamp": "2025-06-20T19:20:43.558+00:00",
       "type": "ResourceCreated",
       "value": "Freakish X"
     },
     {
       "_type": "Record",
       "id": "ky_mM",
-      "timestamp": "2025-06-20T19:20:52.551Z",
+      "timestamp": "2025-06-20T19:20:52.551+00:00",
       "type": "ResourceCreated",
       "value": "Huge []"
     },
     {
       "_type": "Record",
       "id": "UX2y8",
-      "timestamp": "2025-06-20T19:21:09.009Z",
+      "timestamp": "2025-06-20T19:21:09.009+00:00",
       "type": "ResourceCreated",
       "value": "Universal X"
     },
     {
       "_type": "Record",
       "id": "lYQWp",
-      "timestamp": "2025-06-20T19:21:16.342Z",
+      "timestamp": "2025-06-20T19:21:16.342+00:00",
       "type": "ResourceCreated",
       "value": "Manufacturing Depots"
     },
     {
       "_type": "Record",
       "id": "Z_B8l",
-      "timestamp": "2025-06-20T19:21:26.970Z",
+      "timestamp": "2025-06-20T19:21:26.970+00:00",
       "type": "ResourceCreated",
       "value": "[] Language "
     },
     {
       "_type": "Record",
       "id": "lZE_p",
-      "timestamp": "2025-06-20T19:21:39.270Z",
+      "timestamp": "2025-06-20T19:21:39.270+00:00",
       "type": "ResourceCreated",
       "value": "Imperial _"
     },
     {
       "_type": "Record",
       "id": "eYKoL",
-      "timestamp": "2025-06-20T19:21:44.825Z",
+      "timestamp": "2025-06-20T19:21:44.825+00:00",
       "type": "ResourceCreated",
       "value": "[] Language "
     },
     {
       "_type": "Record",
       "id": "O3vis",
-      "timestamp": "2025-06-20T19:21:53.984Z",
+      "timestamp": "2025-06-20T19:21:53.984+00:00",
       "type": "ResourceCreated",
       "value": "Weather-Resistant Fabric "
     },
     {
       "_type": "Record",
       "id": "LaQPs",
-      "timestamp": "2025-06-20T19:21:54.047Z",
+      "timestamp": "2025-06-20T19:21:54.047+00:00",
       "type": "ResourceCreated",
       "value": "Titanium Swords"
     },
     {
       "_type": "Record",
       "id": "Rlh8j",
-      "timestamp": "2025-06-20T19:22:33.150Z",
+      "timestamp": "2025-06-20T19:22:33.150+00:00",
       "type": "ResourceCreated",
       "value": "Military Training"
     },
     {
       "_type": "Record",
       "id": "Xycxe",
-      "timestamp": "2025-06-20T19:22:49.828Z",
+      "timestamp": "2025-06-20T19:22:49.828+00:00",
       "type": "ResourceCreated",
       "value": "Powerful Ships"
     },
     {
       "_type": "Record",
       "id": "NaK9R",
-      "timestamp": "2025-06-20T19:23:40.477Z",
+      "timestamp": "2025-06-20T19:23:40.477+00:00",
       "type": "ResourceCreated",
       "value": "____ Cannons"
     },
     {
       "_type": "Record",
       "id": "dRh2u",
-      "timestamp": "2025-06-20T19:23:43.712Z",
+      "timestamp": "2025-06-20T19:23:43.712+00:00",
       "type": "ResourceCreated",
       "value": "Disinfecting []"
     },
     {
       "_type": "Record",
       "id": "TdaY4",
-      "timestamp": "2025-06-20T19:23:55.556Z",
+      "timestamp": "2025-06-20T19:23:55.556+00:00",
       "type": "ResourceCreated",
       "value": "Ancient Well"
     },
     {
       "_type": "Record",
       "id": "D7v93",
-      "timestamp": "2025-06-20T19:24:00.372Z",
+      "timestamp": "2025-06-20T19:24:00.372+00:00",
       "type": "ResourceCreated",
       "value": "[] Helpers"
     },
     {
       "_type": "Record",
       "id": "qj_do",
-      "timestamp": "2025-06-20T19:24:04.984Z",
+      "timestamp": "2025-06-20T19:24:04.984+00:00",
       "type": "ResourceCreated",
       "value": "Plasma _____"
     },
     {
       "_type": "Record",
       "id": "RPjZE",
-      "timestamp": "2025-06-20T19:24:22.560Z",
+      "timestamp": "2025-06-20T19:24:22.560+00:00",
       "type": "ResourceCreated",
       "value": "Invasive []"
     },
     {
       "_type": "Record",
       "id": "JNAqr",
-      "timestamp": "2025-06-20T19:24:36.334Z",
+      "timestamp": "2025-06-20T19:24:36.334+00:00",
       "type": "ResourceCreated",
       "value": "Relentless Guardians"
     },
     {
       "_type": "Record",
       "id": "vmZ-N",
-      "timestamp": "2025-06-20T19:24:52.584Z",
+      "timestamp": "2025-06-20T19:24:52.584+00:00",
       "type": "ResourceCreated",
       "value": "Blood Recycler"
     },
     {
       "_type": "Record",
       "id": "Akq0h",
-      "timestamp": "2025-06-20T19:25:10.077Z",
+      "timestamp": "2025-06-20T19:25:10.077+00:00",
       "type": "ResourceCreated",
       "value": "[] Intoxicants"
     },
     {
       "_type": "Record",
       "id": "tPxf8",
-      "timestamp": "2025-06-20T19:25:13.512Z",
+      "timestamp": "2025-06-20T19:25:13.512+00:00",
       "type": "ResourceCreated",
       "value": "Blood Festivals"
     },
     {
       "_type": "Record",
       "id": "qDkEq",
-      "timestamp": "2025-06-20T19:25:23.462Z",
+      "timestamp": "2025-06-20T19:25:23.462+00:00",
       "type": "ResourceCreated",
       "value": "Divine Loom"
     },
     {
       "_type": "Record",
       "id": "OwnbG",
-      "timestamp": "2025-06-20T19:25:34.329Z",
+      "timestamp": "2025-06-20T19:25:34.329+00:00",
       "type": "ResourceCreated",
       "value": "Overwhelming []"
     },
     {
       "_type": "Record",
       "id": "xDjz8",
-      "timestamp": "2025-06-20T19:25:39.793Z",
+      "timestamp": "2025-06-20T19:25:39.793+00:00",
       "type": "ResourceCreated",
       "value": "X Sense"
     },
     {
       "_type": "Record",
       "id": "Qem2U",
-      "timestamp": "2025-06-20T19:26:00.121Z",
+      "timestamp": "2025-06-20T19:26:00.121+00:00",
       "type": "ResourceCreated",
       "value": "Outdated []"
     },
     {
       "_type": "Record",
       "id": "XEpz5",
-      "timestamp": "2025-06-20T19:26:35.243Z",
+      "timestamp": "2025-06-20T19:26:35.243+00:00",
       "type": "ResourceCreated",
       "value": "______ Materials"
     },
     {
       "_type": "Record",
       "id": "DWa3n",
-      "timestamp": "2025-06-20T19:26:47.475Z",
+      "timestamp": "2025-06-20T19:26:47.475+00:00",
       "type": "ResourceCreated",
       "value": "Scouting X"
     },
     {
       "_type": "Record",
       "id": "DKun4",
-      "timestamp": "2025-06-20T19:26:48.582Z",
+      "timestamp": "2025-06-20T19:26:48.582+00:00",
       "type": "ResourceCreated",
       "value": "Swift ______"
     },
     {
       "_type": "Record",
       "id": "T05Ie",
-      "timestamp": "2025-06-20T19:27:11.270Z",
+      "timestamp": "2025-06-20T19:27:11.270+00:00",
       "type": "ResourceCreated",
       "value": "Joyful Disobedience "
     },
     {
       "_type": "Record",
       "id": "jh_Rv",
-      "timestamp": "2025-06-20T19:28:17.081Z",
+      "timestamp": "2025-06-20T19:28:17.081+00:00",
       "type": "ResourceCreated",
       "value": "Super-sneaky Stealth"
     },
     {
       "_type": "Record",
       "id": "SD_w2",
-      "timestamp": "2025-06-20T19:28:30.272Z",
+      "timestamp": "2025-06-20T19:28:30.272+00:00",
       "type": "ResourceCreated",
       "value": "______ Torches"
     },
     {
       "_type": "Record",
       "id": "Ar_HL",
-      "timestamp": "2025-06-20T19:29:06.226Z",
+      "timestamp": "2025-06-20T19:29:06.226+00:00",
       "type": "ResourceCreated",
       "value": "________ Laboratories "
     },
     {
       "_type": "Record",
       "id": "k2dA2",
-      "timestamp": "2025-06-20T19:30:00.843Z",
+      "timestamp": "2025-06-20T19:30:00.843+00:00",
       "type": "ResourceCreated",
       "value": "Endless X"
     },
     {
       "_type": "Record",
       "id": "btkxE",
-      "timestamp": "2025-06-20T19:31:05.197Z",
+      "timestamp": "2025-06-20T19:31:05.197+00:00",
       "type": "ResourceCreated",
       "value": "Green Hands"
     },
     {
       "_type": "Record",
       "id": "mmUMD",
-      "timestamp": "2025-06-20T19:31:12.418Z",
+      "timestamp": "2025-06-20T19:31:12.418+00:00",
       "type": "ResourceCreated",
       "value": "X X"
     },
     {
       "_type": "Record",
       "id": "bN4Ts",
-      "timestamp": "2025-06-20T19:31:24.422Z",
+      "timestamp": "2025-06-20T19:31:24.422+00:00",
       "type": "ResourceCreated",
       "value": "X X"
     },
     {
       "_type": "Record",
       "id": "GYPdM",
-      "timestamp": "2025-06-20T19:31:27.142Z",
+      "timestamp": "2025-06-20T19:31:27.142+00:00",
       "type": "ResourceCreated",
       "value": "Rhetorical Aptitude"
     },
     {
       "_type": "Record",
       "id": "eE5GK",
-      "timestamp": "2025-06-20T19:31:48.885Z",
+      "timestamp": "2025-06-20T19:31:48.885+00:00",
       "type": "ResourceCreated",
       "value": "[] Followers"
     },
     {
       "_type": "Record",
       "id": "UGCWc",
-      "timestamp": "2025-06-20T19:32:12.500Z",
+      "timestamp": "2025-06-20T19:32:12.500+00:00",
       "type": "ResourceCreated",
       "value": "Natural Charisma"
     },
     {
       "_type": "Record",
       "id": "FpaxR",
-      "timestamp": "2025-06-20T19:33:42.674Z",
+      "timestamp": "2025-06-20T19:33:42.674+00:00",
       "type": "ResourceCreated",
       "value": "Undying Fire"
     },
     {
       "_type": "Record",
       "id": "R2R6q",
-      "timestamp": "2025-06-20T19:34:40.090Z",
+      "timestamp": "2025-06-20T19:34:40.090+00:00",
       "type": "ResourceCreated",
       "value": "Transport Ships"
     },
     {
       "_type": "Record",
       "id": "bOkZS",
-      "timestamp": "2025-06-20T19:35:09.194Z",
+      "timestamp": "2025-06-20T19:35:09.194+00:00",
       "type": "ResourceCreated",
       "value": "Clean-Energy []"
     },
     {
       "_type": "Record",
       "id": "hoqQ2",
-      "timestamp": "2025-06-20T19:35:47.250Z",
+      "timestamp": "2025-06-20T19:35:47.250+00:00",
       "type": "ResourceCreated",
       "value": "Excellent Cardio"
     },
     {
       "_type": "Record",
       "id": "r5NzQ",
-      "timestamp": "2025-06-20T19:36:04.968Z",
+      "timestamp": "2025-06-20T19:36:04.968+00:00",
       "type": "ResourceCreated",
       "value": "[] Smelters"
     },
     {
       "_type": "Record",
       "id": "CSmEI",
-      "timestamp": "2025-06-20T19:36:31.343Z",
+      "timestamp": "2025-06-20T19:36:31.343+00:00",
       "type": "ResourceCreated",
       "value": "Diplomatic []"
     },
     {
       "_type": "Record",
       "id": "NO4OF",
-      "timestamp": "2025-06-20T19:36:49.551Z",
+      "timestamp": "2025-06-20T19:36:49.551+00:00",
       "type": "ResourceCreated",
       "value": "Biological []"
     },
     {
       "_type": "Record",
       "id": "qQBOA",
-      "timestamp": "2025-06-20T19:37:04.280Z",
+      "timestamp": "2025-06-20T19:37:04.280+00:00",
       "type": "ResourceCreated",
       "value": "Engineering Knowledge"
     },
     {
       "_type": "Record",
       "id": "L-O9G",
-      "timestamp": "2025-06-20T19:37:14.128Z",
+      "timestamp": "2025-06-20T19:37:14.128+00:00",
       "type": "ResourceCreated",
       "value": "Healing []"
     },
     {
       "_type": "Record",
       "id": "oxAQ_",
-      "timestamp": "2025-06-20T19:37:28.970Z",
+      "timestamp": "2025-06-20T19:37:28.970+00:00",
       "type": "ResourceCreated",
       "value": "Screaming Whips"
     },
     {
       "_type": "Record",
       "id": "SRhik",
-      "timestamp": "2025-06-20T19:37:36.679Z",
+      "timestamp": "2025-06-20T19:37:36.679+00:00",
       "type": "ResourceCreated",
       "value": "[] Tomes"
     },
     {
       "_type": "Record",
       "id": "Howhc",
-      "timestamp": "2025-06-20T19:38:19.395Z",
+      "timestamp": "2025-06-20T19:38:19.395+00:00",
       "type": "ResourceCreated",
       "value": "[] []"
     },
     {
       "_type": "Record",
       "id": "f7MId",
-      "timestamp": "2025-06-20T22:18:37.040Z",
+      "timestamp": "2025-06-20T22:18:37.040+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -49495,7 +49504,7 @@
     {
       "_type": "Record",
       "id": "pguKB",
-      "timestamp": "2025-06-20T22:18:37.041Z",
+      "timestamp": "2025-06-20T22:18:37.041+00:00",
       "type": "SocietyActionsTaken",
       "description": "the scholars",
       "value": 0
@@ -49503,7 +49512,7 @@
     {
       "_type": "Record",
       "id": "Ntahs",
-      "timestamp": "2025-06-20T22:18:37.041Z",
+      "timestamp": "2025-06-20T22:18:37.041+00:00",
       "type": "SocietyActionsTaken",
       "description": "the curious",
       "value": 0
@@ -49511,7 +49520,7 @@
     {
       "_type": "Record",
       "id": "FKLqE",
-      "timestamp": "2025-06-20T22:18:37.041Z",
+      "timestamp": "2025-06-20T22:18:37.041+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -49519,7 +49528,7 @@
     {
       "_type": "Record",
       "id": "U-M_O",
-      "timestamp": "2025-06-20T22:18:37.041Z",
+      "timestamp": "2025-06-20T22:18:37.041+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
@@ -49527,7 +49536,7 @@
     {
       "_type": "Record",
       "id": "yR3uy",
-      "timestamp": "2025-06-20T22:18:37.413Z",
+      "timestamp": "2025-06-20T22:18:37.413+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -49535,7 +49544,7 @@
     {
       "_type": "Record",
       "id": "jLWVE",
-      "timestamp": "2025-06-20T22:18:37.413Z",
+      "timestamp": "2025-06-20T22:18:37.413+00:00",
       "type": "SocietyActionsTaken",
       "description": "the scholars",
       "value": 0
@@ -49543,7 +49552,7 @@
     {
       "_type": "Record",
       "id": "hONhS",
-      "timestamp": "2025-06-20T22:18:37.413Z",
+      "timestamp": "2025-06-20T22:18:37.413+00:00",
       "type": "SocietyActionsTaken",
       "description": "the curious",
       "value": 0
@@ -49551,7 +49560,7 @@
     {
       "_type": "Record",
       "id": "qR-hr",
-      "timestamp": "2025-06-20T22:18:37.413Z",
+      "timestamp": "2025-06-20T22:18:37.413+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -49559,7 +49568,7 @@
     {
       "_type": "Record",
       "id": "xR4Aa",
-      "timestamp": "2025-06-20T22:18:37.413Z",
+      "timestamp": "2025-06-20T22:18:37.413+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
@@ -49567,7 +49576,7 @@
     {
       "_type": "Record",
       "id": "F-8Qk",
-      "timestamp": "2025-06-20T22:18:37.894Z",
+      "timestamp": "2025-06-20T22:18:37.894+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -49575,7 +49584,7 @@
     {
       "_type": "Record",
       "id": "dW77K",
-      "timestamp": "2025-06-20T22:18:37.894Z",
+      "timestamp": "2025-06-20T22:18:37.894+00:00",
       "type": "SocietyActionsTaken",
       "description": "the scholars",
       "value": 0
@@ -49583,7 +49592,7 @@
     {
       "_type": "Record",
       "id": "lb7Wy",
-      "timestamp": "2025-06-20T22:18:37.894Z",
+      "timestamp": "2025-06-20T22:18:37.894+00:00",
       "type": "SocietyActionsTaken",
       "description": "the curious",
       "value": 0
@@ -49591,7 +49600,7 @@
     {
       "_type": "Record",
       "id": "S6iWQ",
-      "timestamp": "2025-06-20T22:18:37.894Z",
+      "timestamp": "2025-06-20T22:18:37.894+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -49599,7 +49608,7 @@
     {
       "_type": "Record",
       "id": "U6AkF",
-      "timestamp": "2025-06-20T22:18:37.894Z",
+      "timestamp": "2025-06-20T22:18:37.894+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
@@ -49607,7 +49616,7 @@
     {
       "_type": "Record",
       "id": "ApDlX",
-      "timestamp": "2025-06-20T22:18:38.662Z",
+      "timestamp": "2025-06-20T22:18:38.662+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -49615,7 +49624,7 @@
     {
       "_type": "Record",
       "id": "wpD_U",
-      "timestamp": "2025-06-20T22:18:38.662Z",
+      "timestamp": "2025-06-20T22:18:38.662+00:00",
       "type": "SocietyActionsTaken",
       "description": "the scholars",
       "value": 0
@@ -49623,7 +49632,7 @@
     {
       "_type": "Record",
       "id": "t6MVz",
-      "timestamp": "2025-06-20T22:18:38.662Z",
+      "timestamp": "2025-06-20T22:18:38.662+00:00",
       "type": "SocietyActionsTaken",
       "description": "the curious",
       "value": 0
@@ -49631,7 +49640,7 @@
     {
       "_type": "Record",
       "id": "NcWD-",
-      "timestamp": "2025-06-20T22:18:38.662Z",
+      "timestamp": "2025-06-20T22:18:38.662+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -49639,7 +49648,7 @@
     {
       "_type": "Record",
       "id": "Dvqbn",
-      "timestamp": "2025-06-20T22:18:38.662Z",
+      "timestamp": "2025-06-20T22:18:38.662+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
@@ -49647,7 +49656,7 @@
     {
       "_type": "Record",
       "id": "P67uS",
-      "timestamp": "2025-06-20T22:18:39.782Z",
+      "timestamp": "2025-06-20T22:18:39.782+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -49655,7 +49664,7 @@
     {
       "_type": "Record",
       "id": "foPxu",
-      "timestamp": "2025-06-20T22:18:39.782Z",
+      "timestamp": "2025-06-20T22:18:39.782+00:00",
       "type": "SocietyActionsTaken",
       "description": "the scholars",
       "value": 0
@@ -49663,7 +49672,7 @@
     {
       "_type": "Record",
       "id": "f3KIT",
-      "timestamp": "2025-06-20T22:18:39.782Z",
+      "timestamp": "2025-06-20T22:18:39.782+00:00",
       "type": "SocietyActionsTaken",
       "description": "the curious",
       "value": 0
@@ -49671,7 +49680,7 @@
     {
       "_type": "Record",
       "id": "FV5Gt",
-      "timestamp": "2025-06-20T22:18:39.782Z",
+      "timestamp": "2025-06-20T22:18:39.782+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -49679,7 +49688,7 @@
     {
       "_type": "Record",
       "id": "FKEx0",
-      "timestamp": "2025-06-20T22:18:39.782Z",
+      "timestamp": "2025-06-20T22:18:39.782+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
@@ -49687,7 +49696,7 @@
     {
       "_type": "Record",
       "id": "Ef-2o",
-      "timestamp": "2025-06-20T22:18:46.608Z",
+      "timestamp": "2025-06-20T22:18:46.608+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -49695,7 +49704,7 @@
     {
       "_type": "Record",
       "id": "MJKyB",
-      "timestamp": "2025-06-20T22:18:46.609Z",
+      "timestamp": "2025-06-20T22:18:46.609+00:00",
       "type": "SocietyActionsTaken",
       "description": "the scholars",
       "value": 0
@@ -49703,7 +49712,7 @@
     {
       "_type": "Record",
       "id": "UtbLZ",
-      "timestamp": "2025-06-20T22:18:46.609Z",
+      "timestamp": "2025-06-20T22:18:46.609+00:00",
       "type": "SocietyActionsTaken",
       "description": "the curious",
       "value": 0
@@ -49711,7 +49720,7 @@
     {
       "_type": "Record",
       "id": "qm-D2",
-      "timestamp": "2025-06-20T22:18:46.609Z",
+      "timestamp": "2025-06-20T22:18:46.609+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -49719,7 +49728,7 @@
     {
       "_type": "Record",
       "id": "qio5w",
-      "timestamp": "2025-06-20T22:18:46.609Z",
+      "timestamp": "2025-06-20T22:18:46.609+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
@@ -49727,7 +49736,7 @@
     {
       "_type": "Record",
       "id": "w9qOz",
-      "timestamp": "2025-06-20T22:18:49.030Z",
+      "timestamp": "2025-06-20T22:18:49.030+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -49735,7 +49744,7 @@
     {
       "_type": "Record",
       "id": "mRJZc",
-      "timestamp": "2025-06-20T22:18:49.030Z",
+      "timestamp": "2025-06-20T22:18:49.030+00:00",
       "type": "SocietyActionsTaken",
       "description": "the scholars",
       "value": 0
@@ -49743,7 +49752,7 @@
     {
       "_type": "Record",
       "id": "OEskJ",
-      "timestamp": "2025-06-20T22:18:49.030Z",
+      "timestamp": "2025-06-20T22:18:49.030+00:00",
       "type": "SocietyActionsTaken",
       "description": "the curious",
       "value": 0
@@ -49751,7 +49760,7 @@
     {
       "_type": "Record",
       "id": "Mp4LK",
-      "timestamp": "2025-06-20T22:18:49.030Z",
+      "timestamp": "2025-06-20T22:18:49.030+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -49759,7 +49768,7 @@
     {
       "_type": "Record",
       "id": "rv2KV",
-      "timestamp": "2025-06-20T22:18:49.030Z",
+      "timestamp": "2025-06-20T22:18:49.030+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
@@ -49767,7 +49776,7 @@
     {
       "_type": "Record",
       "id": "ES25e",
-      "timestamp": "2025-06-20T22:18:50.648Z",
+      "timestamp": "2025-06-20T22:18:50.648+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -49775,7 +49784,7 @@
     {
       "_type": "Record",
       "id": "FK9-t",
-      "timestamp": "2025-06-20T22:18:50.648Z",
+      "timestamp": "2025-06-20T22:18:50.648+00:00",
       "type": "ActionResources",
       "description": "the mighty used [] Altars to take action.",
       "value": 1
@@ -49783,7 +49792,7 @@
     {
       "_type": "Record",
       "id": "KmgQc",
-      "timestamp": "2025-06-20T22:18:50.648Z",
+      "timestamp": "2025-06-20T22:18:50.648+00:00",
       "type": "SocietyActionsTaken",
       "description": "the scholars",
       "value": 1
@@ -49791,7 +49800,7 @@
     {
       "_type": "Record",
       "id": "NdOp8",
-      "timestamp": "2025-06-20T22:18:50.648Z",
+      "timestamp": "2025-06-20T22:18:50.648+00:00",
       "type": "ActionResources",
       "description": "the scholars used Luminous Farmlands,Meme Generator to take action.",
       "value": 2
@@ -49799,7 +49808,7 @@
     {
       "_type": "Record",
       "id": "X2Xg1",
-      "timestamp": "2025-06-20T22:18:50.648Z",
+      "timestamp": "2025-06-20T22:18:50.648+00:00",
       "type": "SocietyActionsTaken",
       "description": "the curious",
       "value": 1
@@ -49807,7 +49816,7 @@
     {
       "_type": "Record",
       "id": "ROqvW",
-      "timestamp": "2025-06-20T22:18:50.648Z",
+      "timestamp": "2025-06-20T22:18:50.648+00:00",
       "type": "ActionResources",
       "description": "the curious used Blood _____,Blood Science to take action.",
       "value": 2
@@ -49815,7 +49824,7 @@
     {
       "_type": "Record",
       "id": "hakhG",
-      "timestamp": "2025-06-20T22:18:50.648Z",
+      "timestamp": "2025-06-20T22:18:50.648+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 1
@@ -49823,7 +49832,7 @@
     {
       "_type": "Record",
       "id": "ydU_5",
-      "timestamp": "2025-06-20T22:18:50.648Z",
+      "timestamp": "2025-06-20T22:18:50.648+00:00",
       "type": "ActionResources",
       "description": "the intrepid used X Maps,Internal Navigation to take action.",
       "value": 2
@@ -49831,7 +49840,7 @@
     {
       "_type": "Record",
       "id": "laM4d",
-      "timestamp": "2025-06-20T22:18:50.648Z",
+      "timestamp": "2025-06-20T22:18:50.648+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 1
@@ -49839,7 +49848,7 @@
     {
       "_type": "Record",
       "id": "rpVUw",
-      "timestamp": "2025-06-20T22:18:50.648Z",
+      "timestamp": "2025-06-20T22:18:50.648+00:00",
       "type": "ActionResources",
       "description": "the grounded used Mycelium Energy ,? to take action.",
       "value": 2
@@ -49847,7 +49856,7 @@
     {
       "_type": "Record",
       "id": "XpwON",
-      "timestamp": "2025-06-20T22:18:52.361Z",
+      "timestamp": "2025-06-20T22:18:52.361+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -49855,7 +49864,7 @@
     {
       "_type": "Record",
       "id": "E-y4w",
-      "timestamp": "2025-06-20T22:18:52.361Z",
+      "timestamp": "2025-06-20T22:18:52.361+00:00",
       "type": "SocietyActionsTaken",
       "description": "the scholars",
       "value": 0
@@ -49863,7 +49872,7 @@
     {
       "_type": "Record",
       "id": "jtX0g",
-      "timestamp": "2025-06-20T22:18:52.361Z",
+      "timestamp": "2025-06-20T22:18:52.361+00:00",
       "type": "SocietyActionsTaken",
       "description": "the curious",
       "value": 0
@@ -49871,7 +49880,7 @@
     {
       "_type": "Record",
       "id": "PK9Lr",
-      "timestamp": "2025-06-20T22:18:52.361Z",
+      "timestamp": "2025-06-20T22:18:52.361+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -49879,7 +49888,7 @@
     {
       "_type": "Record",
       "id": "qLY2o",
-      "timestamp": "2025-06-20T22:18:52.361Z",
+      "timestamp": "2025-06-20T22:18:52.361+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
@@ -49887,7 +49896,7 @@
     {
       "_type": "Record",
       "id": "b7g1p",
-      "timestamp": "2025-06-20T22:18:53.952Z",
+      "timestamp": "2025-06-20T22:18:53.952+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -49895,7 +49904,7 @@
     {
       "_type": "Record",
       "id": "MshwB",
-      "timestamp": "2025-06-20T22:18:53.952Z",
+      "timestamp": "2025-06-20T22:18:53.952+00:00",
       "type": "SocietyActionsTaken",
       "description": "the scholars",
       "value": 0
@@ -49903,7 +49912,7 @@
     {
       "_type": "Record",
       "id": "hNHIJ",
-      "timestamp": "2025-06-20T22:18:53.952Z",
+      "timestamp": "2025-06-20T22:18:53.952+00:00",
       "type": "SocietyActionsTaken",
       "description": "the curious",
       "value": 0
@@ -49911,7 +49920,7 @@
     {
       "_type": "Record",
       "id": "e0IZD",
-      "timestamp": "2025-06-20T22:18:53.952Z",
+      "timestamp": "2025-06-20T22:18:53.952+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -49919,7 +49928,7 @@
     {
       "_type": "Record",
       "id": "y0cta",
-      "timestamp": "2025-06-20T22:18:53.952Z",
+      "timestamp": "2025-06-20T22:18:53.952+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
@@ -49927,10 +49936,10 @@
     {
       "_type": "Record",
       "id": "ShmMA",
-      "timestamp": "2025-06-20T22:19:05.831Z",
+      "timestamp": "2025-06-20T22:19:05.831+00:00",
       "type": "PhaseStarted",
       "description": "Round 6: Generational Phase",
-      "value": "2025-06-20T22:19:05.831Z"
+      "value": "2025-06-20T22:19:05.831+00:00"
     }
   ]
 }
