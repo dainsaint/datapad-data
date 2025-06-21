@@ -45804,6 +45804,14 @@
           }
         ]
       }
+    },
+    {
+      "_type": "Document",
+      "id": "Swh3p",
+      "name": "Universe Responds",
+      "icon": "",
+      "googleDocId": "1jNwKJaOp4FY9EFLJQZ1PVi6OBSYCrSvNNGcnkhVyszs",
+      "content": {}
     }
   ],
   "links": {},
