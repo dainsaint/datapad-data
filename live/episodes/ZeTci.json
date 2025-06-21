@@ -943,7 +943,7 @@
       "societyId": "V9xbw",
       "player": "Ed (He/him)",
       "name": "Archival Facilitators",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1525,7 +1525,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 230.20400000000024,
+      "timeElapsed": 233.20800000000023,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -1933,9 +1933,7 @@
       "name": "Powerful Ships",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2979,7 +2977,8 @@
         "Pf-Th": "",
         "LFwRq": "",
         "M8dPd": "",
-        "iV-n0": ""
+        "iV-n0": "",
+        "ZTISw": ""
       },
       "alterLeadership": {}
     },
