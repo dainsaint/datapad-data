@@ -244,7 +244,7 @@
       "id": "Rcsl8",
       "societyId": "Feay0",
       "player": "Brandon He/him",
-      "name": "builders",
+      "name": "Unscrupulous builders",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 583.2779999999981,
+      "timeElapsed": 596.285999999998,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1961,7 +1961,8 @@
         "xUCao": "",
         "h3rgn": "",
         "Uyeis": "",
-        "cBV-v": ""
+        "cBV-v": "",
+        "Rcsl8": ""
       },
       "alterLeadership": {}
     },
