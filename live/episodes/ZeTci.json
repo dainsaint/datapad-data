@@ -1099,7 +1099,7 @@
       "societyId": "V9xbw",
       "player": "Richard (He/him)",
       "name": "Dark Reminders",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1525,7 +1525,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 233.20800000000023,
+      "timeElapsed": 236.2160000000002,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -2978,7 +2978,8 @@
         "LFwRq": "",
         "M8dPd": "",
         "iV-n0": "",
-        "ZTISw": ""
+        "ZTISw": "",
+        "BNuWv": ""
       },
       "alterLeadership": {}
     },
