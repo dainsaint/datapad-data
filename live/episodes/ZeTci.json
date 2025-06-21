@@ -1468,7 +1468,7 @@
       "status": "playing",
       "round": 4,
       "duration": 900,
-      "timeElapsed": 450.1239999999996,
+      "timeElapsed": 458.1239999999996,
       "actualTime": {
         "s": "2025-06-21T21:27:53.007+00:00",
         "e": "2025-06-21T21:42:53.007+00:00",
@@ -50363,7 +50363,7 @@
                         "children": [
                           {
                             "type": "text",
-                            "value": "Move through the system to successfully share shield schematics"
+                            "value": "Move through the system to successfully share shield schematics with everyone but burning embers"
                           }
                         ]
                       }
