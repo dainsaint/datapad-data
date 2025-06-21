@@ -1725,13 +1725,13 @@
       "_type": "Phase",
       "id": "wy9YA",
       "type": "Universal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 2.001,
+      "timeElapsed": 598.2189999999973,
       "actualTime": {
         "s": "2025-06-21T22:41:13.649+00:00",
-        "e": "2025-06-21T22:51:13.649+00:00",
+        "e": "2025-06-21T22:51:12.090+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51895,6 +51895,22 @@
       "type": "CommunitiesEndangered",
       "description": "Ep 2: Avant-Garde Gemcutters,Deceptive Losers,Exceptional Navigators,Belligerent Poets",
       "value": 4
+    },
+    {
+      "_type": "Record",
+      "id": "Gd-N4",
+      "timestamp": "2025-06-21T22:51:12.090Z",
+      "type": "PhaseEnded",
+      "description": "Round 6: Universal Phase",
+      "value": "2025-06-21T22:51:12.090Z"
+    },
+    {
+      "_type": "Record",
+      "id": "wGjoo",
+      "timestamp": "2025-06-21T22:51:12.090Z",
+      "type": "PhaseDuration",
+      "description": "Round 6: Universal Phase",
+      "value": 9.974016666666667
     }
   ]
 }
