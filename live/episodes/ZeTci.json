@@ -955,7 +955,7 @@
       "societyId": "V9xbw",
       "player": "Gina (Any Pronouns)",
       "name": "Sacrificial Truthtellers",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1525,7 +1525,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 218.19800000000023,
+      "timeElapsed": 222.19900000000024,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
@@ -2977,7 +2977,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "Pf-Th": "",
-        "LFwRq": ""
+        "LFwRq": "",
+        "M8dPd": ""
       },
       "alterLeadership": {}
     },
