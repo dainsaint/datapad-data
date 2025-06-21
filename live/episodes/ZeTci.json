@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1860,
-      "timeElapsed": 1800.0929999999896,
+      "timeElapsed": 1836.1049999999893,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1852,7 +1852,7 @@
       "_type": "Society",
       "id": "Feay0",
       "archetype": "the curious",
-      "fateId": "",
+      "fateId": "fate_two",
       "color": "color-deep-purple",
       "tags": {
         "_type": "Tags",
