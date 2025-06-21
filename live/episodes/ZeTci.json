@@ -392,14 +392,10 @@
         "FZOOF"
       ],
       "texts": [
-        "Protect all planets from laser",
-        "Grow invasive species",
-        "Emit electromagnetic shield"
+        "Protect all planets from laser"
       ],
       "result": [
-        6,
-        4,
-        2
+        6
       ],
       "voteTime": "2025-06-21T18:37:16.728+00:00",
       "status": "voted",
