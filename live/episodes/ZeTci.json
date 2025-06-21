@@ -1763,13 +1763,13 @@
       "_type": "Phase",
       "id": "qq_t4",
       "type": "Conclusion",
-      "status": "idle",
+      "status": "playing",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 2.001,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-14T23:11:13.719+00:00",
+        "s": "2025-06-21T23:11:52.697+00:00",
+        "e": "2025-06-21T23:21:52.697+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -52464,6 +52464,14 @@
       "type": "PhaseStarted",
       "description": "Round 6: Generational Phase",
       "value": "2025-06-21T22:51:14.306Z"
+    },
+    {
+      "_type": "Record",
+      "id": "CMq7O",
+      "timestamp": "2025-06-21T23:11:52.697Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Conclusion",
+      "value": "2025-06-21T23:11:52.697Z"
     }
   ]
 }
