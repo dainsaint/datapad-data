@@ -2117,6 +2117,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "XQM4p",
+      "communityId": "CYPuO",
+      "name": "The CONCERN's Computing Power",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -49113,6 +49123,13 @@
       "type": "PhaseStarted",
       "description": "Round 2: Break",
       "value": "2025-06-21T19:14:38.988Z"
+    },
+    {
+      "_type": "Record",
+      "id": "f7C6F",
+      "timestamp": "2025-06-21T19:23:32.827Z",
+      "type": "ResourceCreated",
+      "value": "The CONCERN's Computing Power"
     }
   ]
 }
