@@ -185,7 +185,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "lost"
+          "lost",
+          "endangered"
         ]
       }
     },
@@ -211,7 +212,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "lost"
+          "lost",
+          "endangered"
         ]
       }
     },
@@ -552,13 +554,13 @@
       "_type": "Phase",
       "id": "YcDgk",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-14T23:11:13.719+00:00",
-        "e": "2025-06-20T22:18:42.252+00:00",
+        "s": "2025-06-21T17:22:00.325+00:00",
+        "e": "2025-06-21T17:27:00.325+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1392,7 +1394,9 @@
       "name": "Logistics-oriented Helpers",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -48410,6 +48414,22 @@
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "eeHlk",
+      "timestamp": "2025-06-21T17:22:00.325Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Universal Phase",
+      "value": "2025-06-21T17:22:00.325Z"
+    },
+    {
+      "_type": "Record",
+      "id": "RaqH5",
+      "timestamp": "2025-06-21T17:22:00.326Z",
+      "type": "CommunitiesEndangered",
+      "description": "Ep 2: Avant-Garde Gemcutters,Deceptive Losers",
+      "value": 2
     }
   ]
 }
