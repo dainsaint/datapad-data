@@ -1296,7 +1296,7 @@
       "status": "playing",
       "round": 4,
       "duration": 300,
-      "timeElapsed": 46.022,
+      "timeElapsed": 54.022999999999996,
       "actualTime": {
         "s": "2025-06-21T21:07:16.849+00:00",
         "e": "2025-06-21T21:12:16.849+00:00",
@@ -2784,7 +2784,7 @@
       "id": "RdUeO",
       "round": 4,
       "societyId": "V9xbw",
-      "risk": "3",
+      "risk": "5",
       "advantage": "0",
       "disadvantage": "0",
       "ambassadors": {},
