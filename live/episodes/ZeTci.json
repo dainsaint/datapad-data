@@ -1465,13 +1465,13 @@
       "_type": "Phase",
       "id": "ipW2q",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 4,
       "duration": 900,
-      "timeElapsed": 1139.3539999999975,
+      "timeElapsed": 1280.3939999999966,
       "actualTime": {
         "s": "2025-06-21T21:27:53.007+00:00",
-        "e": "2025-06-21T21:42:53.007+00:00",
+        "e": "2025-06-21T21:49:13.456+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51364,6 +51364,22 @@
       "timestamp": "2025-06-21T21:40:23.573Z",
       "type": "ResourceCreated",
       "value": "Invasive Shield Schematics "
+    },
+    {
+      "_type": "Record",
+      "id": "tI_mc",
+      "timestamp": "2025-06-21T21:49:13.456Z",
+      "type": "PhaseEnded",
+      "description": "Round 4: Galactic Phase",
+      "value": "2025-06-21T21:49:13.456Z"
+    },
+    {
+      "_type": "Record",
+      "id": "U9sL6",
+      "timestamp": "2025-06-21T21:49:13.456Z",
+      "type": "PhaseDuration",
+      "description": "Round 4: Galactic Phase",
+      "value": 21.340816666666665
     }
   ]
 }
