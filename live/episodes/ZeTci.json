@@ -768,7 +768,8 @@
       "round": "5",
       "societyId": "V9xbw",
       "resourceIds": [
-        "ND1C8"
+        "ND1C8",
+        "jxMrH"
       ],
       "texts": [
         "Fire at",
@@ -787,9 +788,11 @@
       "round": "5",
       "societyId": "et0k8",
       "resourceIds": [
-        "N5jiH"
+        "N5jiH",
+        "v9f6q"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -1633,7 +1636,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 452.38799999999947,
+      "timeElapsed": 455.38799999999947,
       "actualTime": {
         "s": "2025-06-21T22:07:35.583+00:00",
         "e": "2025-06-21T22:15:35.583+00:00",
