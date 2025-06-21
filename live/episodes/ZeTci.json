@@ -664,7 +664,7 @@
       "societyId": "et0k8",
       "player": "Jenny Sheh/her",
       "name": "Restless Traders",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1332,7 +1332,7 @@
       "status": "playing",
       "round": 4,
       "duration": 720,
-      "timeElapsed": 343.2529999999998,
+      "timeElapsed": 347.25599999999974,
       "actualTime": {
         "s": "2025-06-21T21:13:43.680+00:00",
         "e": "2025-06-21T21:25:43.680+00:00",
@@ -2803,7 +2803,9 @@
       "risk": "3",
       "advantage": "0",
       "disadvantage": "0",
-      "ambassadors": {},
+      "ambassadors": {
+        "IytuF": ""
+      },
       "alterLeadership": {}
     },
     {
