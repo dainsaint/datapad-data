@@ -93,10 +93,10 @@
       "round": "1",
       "societyId": "Feay0",
       "resourceIds": [
-        "mwv56",
         "SSMub"
       ],
       "texts": [
+        "",
         "",
         ""
       ],
@@ -635,7 +635,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1080,
-      "timeElapsed": 749.3049999999963,
+      "timeElapsed": 826.3329999999958,
       "actualTime": {
         "s": "2025-06-21T17:28:20.556+00:00",
         "e": "2025-06-21T17:46:20.556+00:00",
