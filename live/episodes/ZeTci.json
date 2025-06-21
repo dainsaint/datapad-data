@@ -1468,7 +1468,7 @@
       "status": "playing",
       "round": 4,
       "duration": 900,
-      "timeElapsed": 168.08900000000014,
+      "timeElapsed": 180.09000000000015,
       "actualTime": {
         "s": "2025-06-21T21:27:53.007+00:00",
         "e": "2025-06-21T21:42:53.007+00:00",
@@ -2482,6 +2482,16 @@
       "id": "xtqwT",
       "communityId": "LFwRq",
       "name": "Blood Communicator ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "yKH_H",
+      "communityId": "Pf-Th",
+      "name": "[]",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -51103,6 +51113,13 @@
       "type": "PhaseStarted",
       "description": "Round 4: Galactic Phase",
       "value": "2025-06-21T21:27:53.008Z"
+    },
+    {
+      "_type": "Record",
+      "id": "TMh6D",
+      "timestamp": "2025-06-21T21:30:53.730Z",
+      "type": "ResourceCreated",
+      "value": "[]"
     }
   ]
 }
