@@ -194,7 +194,7 @@
       "id": "LFwRq",
       "societyId": "V9xbw",
       "player": "Severin (He/they/we)",
-      "name": "[] []",
+      "name": "Sonic Healers",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -536,7 +536,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 655.3679999999976,
+      "timeElapsed": 670.3709999999975,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
         "e": "2025-06-21T17:15:40.848+00:00",
@@ -1945,7 +1945,8 @@
         "M8dPd": "",
         "Rp9Mo": "",
         "iV-n0": "",
-        "BNuWv": ""
+        "BNuWv": "",
+        "LFwRq": ""
       },
       "alterLeadership": {}
     },
