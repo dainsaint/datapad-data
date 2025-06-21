@@ -908,13 +908,13 @@
       "_type": "Phase",
       "id": "PnzuW",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 2,
       "duration": 840,
       "timeElapsed": 843.1649999999984,
       "actualTime": {
         "s": "2025-06-21T18:22:43.738+00:00",
-        "e": "2025-06-21T18:34:43.738+00:00",
+        "e": "2025-06-21T18:37:02.018+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
