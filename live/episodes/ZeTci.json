@@ -266,6 +266,23 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Action",
+      "id": "omb4s",
+      "round": "2",
+      "societyId": "Feay0",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -806,7 +823,7 @@
       "status": "playing",
       "round": 2,
       "duration": 780,
-      "timeElapsed": 543.0569999999993,
+      "timeElapsed": 547.0559999999994,
       "actualTime": {
         "s": "2025-06-21T18:22:43.738+00:00",
         "e": "2025-06-21T18:34:43.738+00:00",
