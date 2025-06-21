@@ -567,6 +567,23 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Action",
+      "id": "mnN1X",
+      "round": "3",
+      "societyId": "yXHVO",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -1199,13 +1216,13 @@
       "_type": "Phase",
       "id": "uCfsG",
       "type": "Societal Phase",
-      "status": "paused",
+      "status": "complete",
       "round": 3,
       "duration": 780,
       "timeElapsed": 782.1449999999962,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
-        "e": "2025-06-21T20:30:12.908+00:00",
+        "e": "2025-06-21T20:31:18.443+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
