@@ -2608,16 +2608,6 @@
     },
     {
       "_type": "Resource",
-      "id": "TdAK7",
-      "communityId": "baFQb",
-      "name": "Super Sneaky Stealth",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Resource",
       "id": "ndYVm",
       "communityId": "iRW5s",
       "name": "Invasive Shield Schematics",
