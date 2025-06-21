@@ -811,7 +811,7 @@
         "Sustain convo until we solve the riddle of the 2 suns"
       ],
       "result": [
-        0,
+        6,
         0,
         0
       ],
@@ -859,7 +859,11 @@
         "Protect our planet ",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0,
+        0
+      ],
       "voteTime": "2025-06-21T22:21:44.867+00:00",
       "status": "voted",
       "tags": {
@@ -1700,7 +1704,7 @@
       "status": "playing",
       "round": 5,
       "duration": 900,
-      "timeElapsed": 218.25900000000027,
+      "timeElapsed": 275.2990000000002,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
