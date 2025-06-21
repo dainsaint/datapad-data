@@ -765,7 +765,7 @@
       "status": "playing",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 182.0790000000002,
       "actualTime": {
         "s": "2025-06-21T18:05:39.377+00:00",
         "e": "2025-06-21T18:15:39.377+00:00",
@@ -1284,7 +1284,7 @@
       "_type": "Resource",
       "id": "dH2Ne",
       "communityId": "Z8-ZD",
-      "name": "Progammable DNA ",
+      "name": "Programmable DNA ",
       "tags": {
         "_type": "Tags",
         "value": []
