@@ -1192,7 +1192,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 721.1099999999968,
+      "timeElapsed": 745.1259999999966,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
@@ -2231,7 +2231,7 @@
       "_type": "Resource",
       "id": "Ird98",
       "communityId": "bWsq5",
-      "name": "Crystal Altars",
+      "name": "Sacrificial Altars",
       "tags": {
         "_type": "Tags",
         "value": []
