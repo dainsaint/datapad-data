@@ -529,10 +529,9 @@
       "id": "oGdIq",
       "round": "3",
       "societyId": "e-JcG",
-      "resourceIds": [
-        "ngIzv"
-      ],
+      "resourceIds": [],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -1176,7 +1175,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 683.8559999999972,
+      "timeElapsed": 687.8569999999971,
       "actualTime": {
         "s": "2025-06-21T20:18:12.908+00:00",
         "e": "2025-06-21T20:30:12.908+00:00",
