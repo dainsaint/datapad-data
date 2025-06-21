@@ -849,9 +849,11 @@
       "round": "5",
       "societyId": "yXHVO",
       "resourceIds": [
-        "GetAN"
+        "GetAN",
+        "ndYVm"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -1694,7 +1696,7 @@
       "status": "playing",
       "round": 5,
       "duration": 900,
-      "timeElapsed": 109.14300000000007,
+      "timeElapsed": 111.14400000000008,
       "actualTime": {
         "s": "2025-06-21T22:18:07.213+00:00",
         "e": "2025-06-21T22:30:07.213+00:00",
