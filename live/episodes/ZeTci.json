@@ -533,13 +533,13 @@
       "_type": "Phase",
       "id": "RwtYa",
       "type": "Setup/Onboarding",
-      "status": "paused",
+      "status": "complete",
       "round": 0,
       "duration": 1860,
       "timeElapsed": 1881.1129999999891,
       "actualTime": {
         "s": "2025-06-21T16:45:40.848+00:00",
-        "e": "2025-06-21T17:15:40.848+00:00",
+        "e": "2025-06-21T17:18:59.640+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -48259,6 +48259,54 @@
       "timestamp": "2025-06-21T17:01:23.122Z",
       "type": "ResourceCreated",
       "value": "Crystal Altars"
+    },
+    {
+      "_type": "Record",
+      "id": "iCF68",
+      "timestamp": "2025-06-21T17:18:59.640Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "oItZb",
+      "timestamp": "2025-06-21T17:18:59.640Z",
+      "type": "SocietyActionsTaken",
+      "description": "the scholars",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "SGtQC",
+      "timestamp": "2025-06-21T17:18:59.640Z",
+      "type": "ActionResources",
+      "description": "the scholars used Logistics-oriented Helpers to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "NOPyr",
+      "timestamp": "2025-06-21T17:18:59.640Z",
+      "type": "SocietyActionsTaken",
+      "description": "the curious",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "JzNlV",
+      "timestamp": "2025-06-21T17:18:59.640Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "dH4Oa",
+      "timestamp": "2025-06-21T17:18:59.640Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 0
     }
   ]
 }
