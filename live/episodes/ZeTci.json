@@ -1840,7 +1840,7 @@
       "status": "playing",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 172.12300000000013,
+      "timeElapsed": 193.13600000000014,
       "actualTime": {
         "s": "2025-06-21T23:11:52.697+00:00",
         "e": "2025-06-21T23:21:52.697+00:00",
@@ -3355,7 +3355,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "xUCao": ""
+        "xUCao": "",
+        "cBV-v": ""
       },
       "alterLeadership": {}
     },
