@@ -1118,7 +1118,7 @@
       "_type": "Community",
       "id": "xUCao",
       "societyId": "Feay0",
-      "player": "Bless He/Him",
+      "player": "",
       "name": "Compassionate Warriors",
       "voice": "leader",
       "tags": {
@@ -1840,7 +1840,7 @@
       "status": "playing",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 103.10800000000008,
+      "timeElapsed": 172.12300000000013,
       "actualTime": {
         "s": "2025-06-21T23:11:52.697+00:00",
         "e": "2025-06-21T23:21:52.697+00:00",
@@ -3354,7 +3354,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "xUCao": ""
+      },
       "alterLeadership": {}
     },
     {
