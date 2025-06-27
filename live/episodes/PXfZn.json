@@ -976,6 +976,25 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Phase",
+      "id": "cdlYb",
+      "type": "Individual Phase",
+      "status": "idle",
+      "round": 6,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-06-27T22:16:08.415+00:00",
+        "e": "2025-06-27T22:16:08.415+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "players": [],
@@ -47958,385 +47977,385 @@
     {
       "_type": "Record",
       "id": "XBnnx",
-      "timestamp": "2025-06-27T20:15:18.443Z",
+      "timestamp": "2025-06-27T20:15:18.443+00:00",
       "type": "ResourceCreated",
       "value": "Healing Nebula "
     },
     {
       "_type": "Record",
       "id": "Xe5r1",
-      "timestamp": "2025-06-27T20:15:57.098Z",
+      "timestamp": "2025-06-27T20:15:57.098+00:00",
       "type": "ResourceCreated",
       "value": "Progammable DNA "
     },
     {
       "_type": "Record",
       "id": "UlZWC",
-      "timestamp": "2025-06-27T20:16:12.371Z",
+      "timestamp": "2025-06-27T20:16:12.371+00:00",
       "type": "ResourceCreated",
       "value": "Imperial Databases"
     },
     {
       "_type": "Record",
       "id": "LiEZe",
-      "timestamp": "2025-06-27T20:18:03.045Z",
+      "timestamp": "2025-06-27T20:18:03.045+00:00",
       "type": "ResourceCreated",
       "value": "[] Hands"
     },
     {
       "_type": "Record",
       "id": "a7Hpz",
-      "timestamp": "2025-06-27T20:18:07.939Z",
+      "timestamp": "2025-06-27T20:18:07.939+00:00",
       "type": "ResourceCreated",
       "value": "Electromagnetic Shields"
     },
     {
       "_type": "Record",
       "id": "wqqgy",
-      "timestamp": "2025-06-27T20:18:19.084Z",
+      "timestamp": "2025-06-27T20:18:19.084+00:00",
       "type": "ResourceCreated",
       "value": "Invasive Shield Schematics"
     },
     {
       "_type": "Record",
       "id": "iDIHr",
-      "timestamp": "2025-06-27T20:18:26.722Z",
+      "timestamp": "2025-06-27T20:18:26.722+00:00",
       "type": "ResourceCreated",
       "value": "Huge Mining Gear"
     },
     {
       "_type": "Record",
       "id": "VpFhH",
-      "timestamp": "2025-06-27T20:18:31.965Z",
+      "timestamp": "2025-06-27T20:18:31.965+00:00",
       "type": "ResourceCreated",
       "value": "Abundant Followers"
     },
     {
       "_type": "Record",
       "id": "g4oep",
-      "timestamp": "2025-06-27T20:18:42.858Z",
+      "timestamp": "2025-06-27T20:18:42.858+00:00",
       "type": "ResourceCreated",
       "value": "Natural Charisma"
     },
     {
       "_type": "Record",
       "id": "LtC1Y",
-      "timestamp": "2025-06-27T20:18:59.251Z",
+      "timestamp": "2025-06-27T20:18:59.251+00:00",
       "type": "ResourceCreated",
       "value": "___ Shield Schematics"
     },
     {
       "_type": "Record",
       "id": "WQl-p",
-      "timestamp": "2025-06-27T20:19:14.013Z",
+      "timestamp": "2025-06-27T20:19:14.013+00:00",
       "type": "ResourceCreated",
       "value": "_______ Materials"
     },
     {
       "_type": "Record",
       "id": "QkOV9",
-      "timestamp": "2025-06-27T20:19:31.917Z",
+      "timestamp": "2025-06-27T20:19:31.917+00:00",
       "type": "ResourceCreated",
       "value": "Undying Fire"
     },
     {
       "_type": "Record",
       "id": "Wi38a",
-      "timestamp": "2025-06-27T20:19:39.784Z",
+      "timestamp": "2025-06-27T20:19:39.784+00:00",
       "type": "ResourceCreated",
       "value": "_____ Battery"
     },
     {
       "_type": "Record",
       "id": "qacsQ",
-      "timestamp": "2025-06-27T20:19:43.156Z",
+      "timestamp": "2025-06-27T20:19:43.156+00:00",
       "type": "ResourceCreated",
       "value": "[] Altars"
     },
     {
       "_type": "Record",
       "id": "jEd7-",
-      "timestamp": "2025-06-27T20:19:52.891Z",
+      "timestamp": "2025-06-27T20:19:52.891+00:00",
       "type": "ResourceCreated",
       "value": "Crystal Smelters"
     },
     {
       "_type": "Record",
       "id": "bMc4f",
-      "timestamp": "2025-06-27T20:20:07.748Z",
+      "timestamp": "2025-06-27T20:20:07.748+00:00",
       "type": "ResourceCreated",
       "value": "Powerful Ships"
     },
     {
       "_type": "Record",
       "id": "Z_Sib",
-      "timestamp": "2025-06-27T20:20:18.687Z",
+      "timestamp": "2025-06-27T20:20:18.687+00:00",
       "type": "ResourceCreated",
       "value": "Manufacturing Depots"
     },
     {
       "_type": "Record",
       "id": "Tg2PT",
-      "timestamp": "2025-06-27T20:20:25.019Z",
+      "timestamp": "2025-06-27T20:20:25.019+00:00",
       "type": "ResourceCreated",
       "value": "The Comet's Strength"
     },
     {
       "_type": "Record",
       "id": "dfB94",
-      "timestamp": "2025-06-27T20:20:37.175Z",
+      "timestamp": "2025-06-27T20:20:37.175+00:00",
       "type": "ResourceCreated",
       "value": "Detailed Maps"
     },
     {
       "_type": "Record",
       "id": "k1bpH",
-      "timestamp": "2025-06-27T20:20:38.641Z",
+      "timestamp": "2025-06-27T20:20:38.641+00:00",
       "type": "ResourceCreated",
       "value": "Growth Ray"
     },
     {
       "_type": "Record",
       "id": "wMrlY",
-      "timestamp": "2025-06-27T20:21:17.653Z",
+      "timestamp": "2025-06-27T20:21:17.653+00:00",
       "type": "ResourceCreated",
       "value": "Diplomatic Leaders"
     },
     {
       "_type": "Record",
       "id": "lDcMq",
-      "timestamp": "2025-06-27T20:21:37.814Z",
+      "timestamp": "2025-06-27T20:21:37.814+00:00",
       "type": "ResourceCreated",
       "value": "Clean-Energy []"
     },
     {
       "_type": "Record",
       "id": "fpJtZ",
-      "timestamp": "2025-06-27T20:22:14.037Z",
+      "timestamp": "2025-06-27T20:22:14.037+00:00",
       "type": "ResourceCreated",
       "value": "[] Fungus-Gel"
     },
     {
       "_type": "Record",
       "id": "YnSMs",
-      "timestamp": "2025-06-27T20:22:17.257Z",
+      "timestamp": "2025-06-27T20:22:17.257+00:00",
       "type": "ResourceCreated",
       "value": "Biological Nutrient Bars"
     },
     {
       "_type": "Record",
       "id": "dNzeu",
-      "timestamp": "2025-06-27T20:22:28.478Z",
+      "timestamp": "2025-06-27T20:22:28.478+00:00",
       "type": "ResourceCreated",
       "value": "[] Knowledge"
     },
     {
       "_type": "Record",
       "id": "U0Ac4",
-      "timestamp": "2025-06-27T20:22:41.952Z",
+      "timestamp": "2025-06-27T20:22:41.952+00:00",
       "type": "ResourceCreated",
       "value": "Healing Quartz Crystals"
     },
     {
       "_type": "Record",
       "id": "Xpj0n",
-      "timestamp": "2025-06-27T20:22:53.127Z",
+      "timestamp": "2025-06-27T20:22:53.127+00:00",
       "type": "ResourceCreated",
       "value": "Screaming []"
     },
     {
       "_type": "Record",
       "id": "KqkRf",
-      "timestamp": "2025-06-27T20:23:07.277Z",
+      "timestamp": "2025-06-27T20:23:07.277+00:00",
       "type": "ResourceCreated",
       "value": "Forbidden []"
     },
     {
       "_type": "Record",
       "id": "X7bGC",
-      "timestamp": "2025-06-27T20:23:29.690Z",
+      "timestamp": "2025-06-27T20:23:29.690+00:00",
       "type": "ResourceCreated",
       "value": "Invisible Shield Schematics "
     },
     {
       "_type": "Record",
       "id": "St4s5",
-      "timestamp": "2025-06-27T20:23:30.934Z",
+      "timestamp": "2025-06-27T20:23:30.934+00:00",
       "type": "ResourceCreated",
       "value": "Refreshing Underthinking"
     },
     {
       "_type": "Record",
       "id": "WzAsz",
-      "timestamp": "2025-06-27T20:23:45.960Z",
+      "timestamp": "2025-06-27T20:23:45.960+00:00",
       "type": "ResourceCreated",
       "value": "Freakish X"
     },
     {
       "_type": "Record",
       "id": "tRqgH",
-      "timestamp": "2025-06-27T20:24:02.592Z",
+      "timestamp": "2025-06-27T20:24:02.592+00:00",
       "type": "ResourceCreated",
       "value": "X X"
     },
     {
       "_type": "Record",
       "id": "G6htv",
-      "timestamp": "2025-06-27T20:24:05.850Z",
+      "timestamp": "2025-06-27T20:24:05.850+00:00",
       "type": "ResourceCreated",
       "value": "Blood Share"
     },
     {
       "_type": "Record",
       "id": "RRUVZ",
-      "timestamp": "2025-06-27T20:24:15.039Z",
+      "timestamp": "2025-06-27T20:24:15.039+00:00",
       "type": "ResourceCreated",
       "value": "[] Species"
     },
     {
       "_type": "Record",
       "id": "n8yac",
-      "timestamp": "2025-06-27T20:24:19.004Z",
+      "timestamp": "2025-06-27T20:24:19.004+00:00",
       "type": "ResourceCreated",
       "value": "Ancient  X"
     },
     {
       "_type": "Record",
       "id": "k5mM-",
-      "timestamp": "2025-06-27T20:24:31.878Z",
+      "timestamp": "2025-06-27T20:24:31.878+00:00",
       "type": "ResourceCreated",
       "value": "Safe X"
     },
     {
       "_type": "Record",
       "id": "y6VLN",
-      "timestamp": "2025-06-27T20:24:42.204Z",
+      "timestamp": "2025-06-27T20:24:42.204+00:00",
       "type": "ResourceCreated",
       "value": "Wide Range Cannons"
     },
     {
       "_type": "Record",
       "id": "nvKsK",
-      "timestamp": "2025-06-27T20:24:43.950Z",
+      "timestamp": "2025-06-27T20:24:43.950+00:00",
       "type": "ResourceCreated",
       "value": "Blood Festivals"
     },
     {
       "_type": "Record",
       "id": "Mlmec",
-      "timestamp": "2025-06-27T20:24:50.979Z",
+      "timestamp": "2025-06-27T20:24:50.979+00:00",
       "type": "ResourceCreated",
       "value": "Endless X"
     },
     {
       "_type": "Record",
       "id": "V4QSC",
-      "timestamp": "2025-06-27T20:24:56.987Z",
+      "timestamp": "2025-06-27T20:24:56.987+00:00",
       "type": "ResourceCreated",
       "value": "[] Ancient Kilns"
     },
     {
       "_type": "Record",
       "id": "xI-6k",
-      "timestamp": "2025-06-27T20:25:22.693Z",
+      "timestamp": "2025-06-27T20:25:22.693+00:00",
       "type": "ResourceCreated",
       "value": "[] Intoxicants "
     },
     {
       "_type": "Record",
       "id": "Loa1S",
-      "timestamp": "2025-06-27T20:25:28.971Z",
+      "timestamp": "2025-06-27T20:25:28.971+00:00",
       "type": "ResourceCreated",
       "value": "Swift Spies"
     },
     {
       "_type": "Record",
       "id": "MXWAj",
-      "timestamp": "2025-06-27T20:25:37.877Z",
+      "timestamp": "2025-06-27T20:25:37.877+00:00",
       "type": "ResourceCreated",
       "value": "X Stealth"
     },
     {
       "_type": "Record",
       "id": "rX8l5",
-      "timestamp": "2025-06-27T20:25:42.504Z",
+      "timestamp": "2025-06-27T20:25:42.504+00:00",
       "type": "ResourceCreated",
       "value": "Overwhelming Numbers"
     },
     {
       "_type": "Record",
       "id": "L3xdB",
-      "timestamp": "2025-06-27T20:26:11.805Z",
+      "timestamp": "2025-06-27T20:26:11.805+00:00",
       "type": "ResourceCreated",
       "value": "[] []"
     },
     {
       "_type": "Record",
       "id": "n3lxs",
-      "timestamp": "2025-06-27T20:26:21.740Z",
+      "timestamp": "2025-06-27T20:26:21.740+00:00",
       "type": "ResourceCreated",
       "value": "[] []"
     },
     {
       "_type": "Record",
       "id": "CSKTU",
-      "timestamp": "2025-06-27T20:26:38.638Z",
+      "timestamp": "2025-06-27T20:26:38.638+00:00",
       "type": "ResourceCreated",
       "value": "______ _______"
     },
     {
       "_type": "Record",
       "id": "XQCM4",
-      "timestamp": "2025-06-27T20:26:52.778Z",
+      "timestamp": "2025-06-27T20:26:52.778+00:00",
       "type": "ResourceCreated",
       "value": "X X"
     },
     {
       "_type": "Record",
       "id": "HYN9h",
-      "timestamp": "2025-06-27T20:27:01.231Z",
+      "timestamp": "2025-06-27T20:27:01.231+00:00",
       "type": "ResourceCreated",
       "value": "X X"
     },
     {
       "_type": "Record",
       "id": "s7u6w",
-      "timestamp": "2025-06-27T20:27:10.480Z",
+      "timestamp": "2025-06-27T20:27:10.480+00:00",
       "type": "ResourceCreated",
       "value": "X X"
     },
     {
       "_type": "Record",
       "id": "mQE3l",
-      "timestamp": "2025-06-27T20:27:11.088Z",
+      "timestamp": "2025-06-27T20:27:11.088+00:00",
       "type": "ResourceCreated",
       "value": "_________ ________"
     },
     {
       "_type": "Record",
       "id": "puQT9",
-      "timestamp": "2025-06-27T20:27:55.497Z",
+      "timestamp": "2025-06-27T20:27:55.497+00:00",
       "type": "ResourceCreated",
       "value": "X X"
     },
     {
       "_type": "Record",
       "id": "QX_1s",
-      "timestamp": "2025-06-27T20:32:07.041Z",
+      "timestamp": "2025-06-27T20:32:07.041+00:00",
       "type": "ResourceCreated",
       "value": "Gemstone Armada"
     },
     {
       "_type": "Record",
       "id": "VPw-d",
-      "timestamp": "2025-06-27T20:44:04.082Z",
+      "timestamp": "2025-06-27T20:44:04.082+00:00",
       "type": "ResourceCreated",
       "value": "_______ ________"
     },
     {
       "_type": "Record",
       "id": "k9GHO",
-      "timestamp": "2025-06-27T21:52:20.830Z",
+      "timestamp": "2025-06-27T21:52:20.830+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 0
@@ -48344,7 +48363,7 @@
     {
       "_type": "Record",
       "id": "LXIR9",
-      "timestamp": "2025-06-27T21:52:20.830Z",
+      "timestamp": "2025-06-27T21:52:20.830+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -48352,7 +48371,7 @@
     {
       "_type": "Record",
       "id": "TyER4",
-      "timestamp": "2025-06-27T21:52:20.830Z",
+      "timestamp": "2025-06-27T21:52:20.830+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -48360,7 +48379,7 @@
     {
       "_type": "Record",
       "id": "IY4Bj",
-      "timestamp": "2025-06-27T21:52:20.830Z",
+      "timestamp": "2025-06-27T21:52:20.830+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
@@ -48368,7 +48387,7 @@
     {
       "_type": "Record",
       "id": "shr84",
-      "timestamp": "2025-06-27T21:52:20.830Z",
+      "timestamp": "2025-06-27T21:52:20.830+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 0
