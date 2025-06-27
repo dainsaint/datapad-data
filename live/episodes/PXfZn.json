@@ -1317,6 +1317,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "SnwfK",
+      "communityId": "nmW7Z",
+      "name": "Safe X",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46568,6 +46578,13 @@
       "timestamp": "2025-06-27T20:24:19.004Z",
       "type": "ResourceCreated",
       "value": "Ancient  X"
+    },
+    {
+      "_type": "Record",
+      "id": "k5mM-",
+      "timestamp": "2025-06-27T20:24:31.878Z",
+      "type": "ResourceCreated",
+      "value": "Safe X"
     }
   ]
 }
