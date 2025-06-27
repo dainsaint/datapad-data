@@ -1447,6 +1447,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "W3HFI",
+      "communityId": "n9ZRY",
+      "name": "X X",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46794,6 +46804,13 @@
       "_type": "Record",
       "id": "XQCM4",
       "timestamp": "2025-06-27T20:26:52.778Z",
+      "type": "ResourceCreated",
+      "value": "X X"
+    },
+    {
+      "_type": "Record",
+      "id": "HYN9h",
+      "timestamp": "2025-06-27T20:27:01.231Z",
       "type": "ResourceCreated",
       "value": "X X"
     }
