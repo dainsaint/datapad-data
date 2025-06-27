@@ -105,7 +105,7 @@
       "_type": "Community",
       "id": "HxH3y",
       "societyId": "e-JcG",
-      "player": "3",
+      "player": "1",
       "name": "Combustible X",
       "voice": "leader",
       "tags": {
@@ -207,7 +207,7 @@
       "_type": "Community",
       "id": "Rcsl8",
       "societyId": "Feay0",
-      "player": "Brandon He/him",
+      "player": "",
       "name": "Unscrupulous builders",
       "voice": "leader",
       "tags": {
@@ -1314,7 +1314,9 @@
       "risk": "1",
       "advantage": "0",
       "disadvantage": "0",
-      "ambassadors": {},
+      "ambassadors": {
+        "Rcsl8": ""
+      },
       "alterLeadership": {}
     },
     {
