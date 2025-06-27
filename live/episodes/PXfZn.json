@@ -971,6 +971,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "jOlZU",
+      "communityId": "LFwRq",
+      "name": "Electromagnetic Shields",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45994,6 +46004,13 @@
       "timestamp": "2025-06-27T20:18:03.045Z",
       "type": "ResourceCreated",
       "value": "[] Hands"
+    },
+    {
+      "_type": "Record",
+      "id": "a7Hpz",
+      "timestamp": "2025-06-27T20:18:07.939Z",
+      "type": "ResourceCreated",
+      "value": "Electromagnetic Shields"
     }
   ]
 }
