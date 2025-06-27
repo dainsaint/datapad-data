@@ -305,7 +305,7 @@
       "societyId": "yXHVO",
       "player": "Deen They Them",
       "name": "Traveling Farmers ",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1673,7 +1673,8 @@
       "ambassadors": {
         "CYPuO": "",
         "Pry_D": "",
-        "hqZZ8": ""
+        "hqZZ8": "",
+        "ZQ5E1": ""
       },
       "alterLeadership": {}
     }
