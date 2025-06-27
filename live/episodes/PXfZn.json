@@ -31,7 +31,7 @@
       "_type": "Community",
       "id": "baFQb",
       "societyId": "e-JcG",
-      "player": "Martha",
+      "player": "4",
       "name": "Democratic Peacekeepers ",
       "voice": "people",
       "tags": {
@@ -1351,7 +1351,8 @@
       "ambassadors": {
         "HxH3y": "",
         "Q5mwY": "",
-        "nmW7Z": ""
+        "nmW7Z": "",
+        "baFQb": ""
       },
       "alterLeadership": {}
     },
