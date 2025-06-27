@@ -40999,6 +40999,7 @@
       "name": "Pf-Uni-Gal",
       "icon": "fa-arrows",
       "googleDocId": "12KDGkwt0g-E7vmr5XevgdCcT_O506jZlhws8dhbehE8",
+      "status": "ok",
       "content": {
         "type": "root",
         "children": [
@@ -41022,6 +41023,68 @@
                   {
                     "type": "text",
                     "value": "Individual Phase Prep for Universe Responds"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Hear from Sam"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Message from Kin – can be represented by Kin players plus Sam, not other players"
+                      }
+                    ]
                   }
                 ]
               }
@@ -41142,6 +41205,40 @@
                       {
                         "type": "text",
                         "value": "Conflicts"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "i",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "strong",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Jackie’s Line"
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
@@ -41384,68 +41481,6 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "strong",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "span",
-                    "properties": {
-                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                    },
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Alway"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "ul",
-            "properties": {
-              "className": [
-                "nesting-level-1"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "span",
-                    "properties": {
-                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                    },
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Choose attitude for action, not vague spirit"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
                 "tagName": "span",
                 "properties": {
                   "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
@@ -41513,6 +41548,336 @@
                     "children": [
                       {
                         "type": "text",
+                        "value": "Observer / Player Activations"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "strong",
+                            "properties": {},
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "span",
+                                "properties": {
+                                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                                },
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Always:"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "\u000b"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "strong",
+                            "properties": {},
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "span",
+                                "properties": {
+                                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                                },
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Shepar"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "d – talks to players & tells them to return to tables after action\u000b"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "strong",
+                            "properties": {},
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "span",
+                                "properties": {
+                                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                                },
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "value": "Plot Captain"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": " – talks to audience & ends with catch phrase (PFs): "
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Front row of pews"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Fill center of pews"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                                    },
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "value": "Division cramped or Burning Ember march"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Leave from pews"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                                    },
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "value": "After leaving pews and finishing the action, return to tables"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Put Mic in Players face"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tagName": "ul",
+                            "properties": {
+                              "className": [
+                                "nesting-level-3"
+                              ]
+                            },
+                            "children": [
+                              {
+                                "type": "element",
+                                "tagName": "li",
+                                "properties": {},
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                                    },
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "value": "Comets or Phoenix"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Have audience read something from a sheet of paper"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
                         "value": "NPC"
                       }
                     ]
@@ -41534,46 +41899,6 @@
                       {
                         "type": "text",
                         "value": "Tablaue"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "span",
-                    "properties": {
-                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                    },
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Observer Activations"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "span",
-                    "properties": {
-                      "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                    },
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Put Mic in Players face"
                       }
                     ]
                   }
@@ -41704,7 +42029,7 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "Have audience read something from a sheet of paper"
+                        "value": ""
                       }
                     ]
                   }
@@ -41875,6 +42200,39 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "td",
+                    "properties": {
+                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "What’s enticing about this faction?  How do people need to care about the factions?"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               },
@@ -41908,7 +42266,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Suns of Jeff - wellness culture, exist in a spread out way and not based in a singular location with followers everywhere, not centralized yet"
+                                "value": "Suns of Jeff - they act as a source of communion with Duality and can communicate to the players this is what it want it needs OR they loose their faith and turn dark (become evil/nega versions of themselves)"
                               }
                             ]
                           }
@@ -41961,6 +42319,102 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Communion - “2 holes 1 Truth”"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Nega - “2 holes 1 Doom”"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Pro-let’s commune with Duality and try to address their pain"
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   },
@@ -41989,7 +42443,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "High Jeff"
+                                "value": "Communion High Jeff - same high Jeff but old"
                               }
                             ]
                           }
@@ -42013,7 +42467,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Follower"
+                                "value": "\u000b\u000bNega Jeff? or Follower"
                               }
                             ]
                           }
@@ -42070,47 +42524,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Sam"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Burning Ember - very military, with respect for Elders"
+                                "value": ""
                               }
                             ]
                           }
@@ -42158,7 +42572,55 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "“Victory through Unity”"
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Matthew"
                               }
                             ]
                           }
@@ -42191,7 +42653,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Big Baby"
+                                "value": "Communion = The fact that they can talk to Duality.  There’s a humility coming in (they didn’t get the truth that they wanted but are rolling with the punches and changing their minds). They’re silly, there’s fun.  We sing, we follow Jeff (she/her)."
                               }
                             ]
                           }
@@ -42215,7 +42677,368 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Granny"
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Nega Versions = same core fun; very emo; really leaning into the nihilism of nothing matters join us; nihilism can be FUN"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "tr",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "td",
+                    "properties": {
+                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Burning Ember "
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Since their takeover of Division, the Burning Ember has been in control on Division and Incense (not a strong grasp)"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "“Burning we rise”"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Pro-Stabilize"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "td",
+                    "properties": {
+                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Big Baby - overwhelmed and grieving Granny"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Advisor/Assistant"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Ghost of Granny"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
                               }
                             ]
                           }
@@ -42272,47 +43095,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Jackie"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "tr",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "The Concern"
+                                "value": ""
                               }
                             ]
                           }
@@ -42360,102 +43143,12 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "“For the good of Kin”"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Concern #1"
+                                "value": ""
                               }
                             ]
                           }
                         ]
                       },
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Concern #2"
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "type": "element",
-                        "tagName": "p",
-                        "properties": {
-                          "className": [
-                            "normal-text"
-                          ]
-                        },
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "The Eye"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "td",
-                    "properties": {
-                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
-                    },
-                    "children": [
                       {
                         "type": "element",
                         "tagName": "p",
@@ -42498,7 +43191,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Matthew"
+                                "value": ""
                               }
                             ]
                           }
@@ -42522,7 +43215,40 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Sam (with everyone else around them embodied)"
+                                "value": "Jackie"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "td",
+                    "properties": {
+                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Modeling the idea of an escape plan. Feeling bad for Big Baby."
                               }
                             ]
                           }
@@ -42562,7 +43288,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "People of Division"
+                                "value": "People of Division: Some are probably aligned with Burning Ember and some aren’t"
                               }
                             ]
                           }
@@ -42610,7 +43336,55 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "“Divided we stand”"
+                                "value": "“Burning divides ”"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Pro-Fleeing"
                               }
                             ]
                           }
@@ -42667,7 +43441,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Division 234"
+                                "value": "Division 206"
                               }
                             ]
                           }
@@ -42691,7 +43465,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Division 14"
+                                "value": "Division 16"
                               }
                             ]
                           }
@@ -42779,6 +43553,39 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "td",
+                    "properties": {
+                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Leaning into an underdog story.  Eclectic funny underdogs. They’re in a hard way and trying to get by. Everyone’s a little more beat up and a little more desperate. Really clear opinion on whats going on environmentally"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               },
@@ -42812,7 +43619,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "University of Truth and Beauty"
+                                "value": "University of Truth and Beauty - still around but don’t know what their vibe is; at the very least, they will definitely be the ones providing the “hey so we could build a new megastructure\"; now in The Crumbs"
                               }
                             ]
                           }
@@ -42865,6 +43672,54 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Pro-Stabilizing"
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   },
@@ -42893,7 +43748,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Gemmy the Gemstone (mascot, very goofy)"
+                                "value": "Gemmy the Gemstone (mascot, very goofy, but beat up)"
                               }
                             ]
                           }
@@ -42917,7 +43772,31 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "Dean Turmaline (very serious)"
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "(Interim Dean) Professor Jasper Bloodstone [Dean Tourmaline’s nephew?]"
                               }
                             ]
                           }
@@ -42974,7 +43853,136 @@
                             "children": [
                               {
                                 "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
                                 "value": "Anthony"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "td",
+                    "properties": {
+                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Brilliant, knowledge about how to stabilize, Curious energy, Macabre Wednesday Adams Vibe, the Rizz of Bob the Drag Queen + the “we gotta go bigger” of Tom Cruise"
                               }
                             ]
                           }
@@ -43014,7 +44022,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "The Comets"
+                                "value": "The Comets - about the same"
                               }
                             ]
                           }
@@ -43038,7 +44046,79 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "“Your booty is our bounty”"
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "“Here for your booty calls”"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Pro-Fleeing"
                               }
                             ]
                           }
@@ -43159,6 +44239,39 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "td",
+                    "properties": {
+                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Hole puns, still pirates, sexy/midriff"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               },
@@ -43192,7 +44305,7 @@
                             "children": [
                               {
                                 "type": "text",
-                                "value": "The Realm"
+                                "value": "The Realm - still exists, Dain has an idea that in their brief experience of getting hooked up to the Etheric Net some of them got obsessed and are now technowizards"
                               }
                             ]
                           }
@@ -43241,6 +44354,54 @@
                               {
                                 "type": "text",
                                 "value": "“For home and hearth”"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Pro-let’s commune with Duality and try to address their pain"
                               }
                             ]
                           }
@@ -43361,6 +44522,231 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "td",
+                    "properties": {
+                      "style": "padding-bottom: 5PT; padding-left: 5PT; padding-right: 5PT; padding-top: 5PT; vertical-align: top"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Factions form between Riverbend (Luddite) and Willowbark (Technowizard)."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Riverbend actively speaks of the magical trees."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "Willowbark likes the expediently of learning spells."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "p",
+                        "properties": {
+                          "className": [
+                            "normal-text"
+                          ]
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                              "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                            },
+                            "children": [
+                              {
+                                "type": "text",
+                                "value": "We see more magic done. FIREBALL!!!"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "span",
+                "properties": {
+                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "span",
+                "properties": {
+                  "style": "font-size: 11PT; font-family: Arial; font-weight: 400"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
                   }
                 ]
               }
