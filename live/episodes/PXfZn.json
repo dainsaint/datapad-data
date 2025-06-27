@@ -1141,6 +1141,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "VX_km",
+      "communityId": "IytuF",
+      "name": "Clean-Energy []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46288,6 +46298,13 @@
       "timestamp": "2025-06-27T20:21:17.653Z",
       "type": "ResourceCreated",
       "value": "Diplomatic Leaders"
+    },
+    {
+      "_type": "Record",
+      "id": "lDcMq",
+      "timestamp": "2025-06-27T20:21:37.814Z",
+      "type": "ResourceCreated",
+      "value": "Clean-Energy []"
     }
   ]
 }
