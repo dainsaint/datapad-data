@@ -44,7 +44,7 @@
       "id": "XxrAo",
       "societyId": "et0k8",
       "player": "Minou She/her",
-      "name": "Hopeful Gardens",
+      "name": "Gardens",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -1131,7 +1131,8 @@
       "advantage": "0",
       "disadvantage": "0",
       "ambassadors": {
-        "bWsq5": ""
+        "bWsq5": "",
+        "XxrAo": ""
       },
       "alterLeadership": {}
     },
