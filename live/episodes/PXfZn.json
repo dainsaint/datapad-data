@@ -494,6 +494,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "nlnRw",
+      "societyId": "et0k8",
+      "player": "AP7",
+      "name": "[] []",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
