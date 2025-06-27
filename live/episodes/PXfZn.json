@@ -981,6 +981,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "plwAq",
+      "communityId": "XxrAo",
+      "name": "Invasive Shield Schematics",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46011,6 +46021,13 @@
       "timestamp": "2025-06-27T20:18:07.939Z",
       "type": "ResourceCreated",
       "value": "Electromagnetic Shields"
+    },
+    {
+      "_type": "Record",
+      "id": "wqqgy",
+      "timestamp": "2025-06-27T20:18:19.084Z",
+      "type": "ResourceCreated",
+      "value": "Invasive Shield Schematics"
     }
   ]
 }
