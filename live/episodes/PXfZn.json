@@ -401,7 +401,7 @@
       "_type": "Community",
       "id": "BNuWv",
       "societyId": "V9xbw",
-      "player": "Richard (He/him)",
+      "player": "[] ()",
       "name": "Dark Reminders",
       "voice": "people",
       "tags": {
@@ -1151,7 +1151,8 @@
         "ZTISw": "",
         "M8dPd": "",
         "Rp9Mo": "",
-        "iV-n0": ""
+        "iV-n0": "",
+        "BNuWv": ""
       },
       "alterLeadership": {}
     },
