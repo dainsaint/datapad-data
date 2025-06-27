@@ -1001,6 +1001,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "n1bTO",
+      "communityId": "Pwqoy",
+      "name": "Abundant Followers",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46045,6 +46055,13 @@
       "timestamp": "2025-06-27T20:18:26.722Z",
       "type": "ResourceCreated",
       "value": "Huge Mining Gear"
+    },
+    {
+      "_type": "Record",
+      "id": "VpFhH",
+      "timestamp": "2025-06-27T20:18:31.965Z",
+      "type": "ResourceCreated",
+      "value": "Abundant Followers"
     }
   ]
 }
