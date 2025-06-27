@@ -1499,6 +1499,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "v-ciH",
+      "communityId": "LFwRq",
+      "name": "Gemstone Armada",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46876,6 +46886,13 @@
       "timestamp": "2025-06-27T20:27:55.497Z",
       "type": "ResourceCreated",
       "value": "X X"
+    },
+    {
+      "_type": "Record",
+      "id": "QX_1s",
+      "timestamp": "2025-06-27T20:32:07.041Z",
+      "type": "ResourceCreated",
+      "value": "Gemstone Armada"
     }
   ]
 }
