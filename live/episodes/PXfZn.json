@@ -527,7 +527,7 @@
       "type": "Setup/Onboarding",
       "status": "idle",
       "round": 0,
-      "duration": 1860,
+      "duration": 1800,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-27T17:10:52.381+00:00",
