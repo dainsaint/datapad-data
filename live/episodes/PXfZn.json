@@ -523,25 +523,6 @@
   "phases": [
     {
       "_type": "Phase",
-      "id": "cdlYb",
-      "type": "Individual Phase",
-      "status": "idle",
-      "round": 0,
-      "duration": 600,
-      "timeElapsed": 0,
-      "actualTime": {
-        "s": "2025-06-27T22:16:08.415+00:00",
-        "e": "2025-06-27T22:16:08.415+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Phase",
       "id": "W9QZA",
       "type": "Setup/Onboarding",
       "status": "idle",
@@ -874,6 +855,25 @@
       "actualTime": {
         "s": "2025-06-27T17:10:52.381+00:00",
         "e": "2025-06-27T17:10:52.381+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Phase",
+      "id": "cdlYb",
+      "type": "Individual Phase",
+      "status": "idle",
+      "round": 4,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-06-27T22:16:08.415+00:00",
+        "e": "2025-06-27T22:16:08.415+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
