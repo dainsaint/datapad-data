@@ -117,7 +117,7 @@
       "_type": "Community",
       "id": "nmW7Z",
       "societyId": "e-JcG",
-      "player": "Benny",
+      "player": "5",
       "name": "Sharpened Warriors",
       "voice": "leader",
       "tags": {
@@ -1172,7 +1172,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "HxH3y": "",
-        "Q5mwY": ""
+        "Q5mwY": "",
+        "nmW7Z": ""
       },
       "alterLeadership": {}
     },
