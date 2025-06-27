@@ -427,9 +427,9 @@
       "_type": "Community",
       "id": "Uyeis",
       "societyId": "Feay0",
-      "player": "AUGUST THEY/THEM",
-      "name": "ANGRY Alchemists",
-      "voice": "leader",
+      "player": "Moss They/them",
+      "name": "____________ Kin ",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1346,7 +1346,8 @@
       "disadvantage": "0",
       "ambassadors": {
         "Rcsl8": "",
-        "adPGA": ""
+        "adPGA": "",
+        "Uyeis": ""
       },
       "alterLeadership": {}
     },
