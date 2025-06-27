@@ -1499,6 +1499,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "WJcLI",
+      "communityId": "xUCao",
+      "name": "_______ ________",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46884,6 +46894,13 @@
       "timestamp": "2025-06-27T20:32:07.041Z",
       "type": "ResourceCreated",
       "value": "Gemstone Armada"
+    },
+    {
+      "_type": "Record",
+      "id": "VPw-d",
+      "timestamp": "2025-06-27T20:44:04.082Z",
+      "type": "ResourceCreated",
+      "value": "_______ ________"
     }
   ]
 }
