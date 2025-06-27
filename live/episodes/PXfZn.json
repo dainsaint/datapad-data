@@ -105,7 +105,7 @@
       "_type": "Community",
       "id": "HxH3y",
       "societyId": "e-JcG",
-      "player": "Jess She/they",
+      "player": "3",
       "name": "Combustible Clockmakers",
       "voice": "leader",
       "tags": {
@@ -1168,7 +1168,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "HxH3y": ""
+      },
       "alterLeadership": {}
     },
     {
