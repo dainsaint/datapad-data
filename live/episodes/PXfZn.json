@@ -961,6 +961,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "tVxct",
+      "communityId": "XxrAo",
+      "name": "[] Hands",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -45977,6 +45987,13 @@
       "timestamp": "2025-06-27T20:16:12.371Z",
       "type": "ResourceCreated",
       "value": "Imperial Databases"
+    },
+    {
+      "_type": "Record",
+      "id": "LiEZe",
+      "timestamp": "2025-06-27T20:18:03.045Z",
+      "type": "ResourceCreated",
+      "value": "[] Hands"
     }
   ]
 }
