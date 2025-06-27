@@ -156,7 +156,7 @@
       "_type": "Community",
       "id": "LFwRq",
       "societyId": "V9xbw",
-      "player": "Severin (He/they/we)",
+      "player": "[] ()",
       "name": "Sonic Healers",
       "voice": "people",
       "tags": {
@@ -1124,7 +1124,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "Pf-Th": ""
+        "Pf-Th": "",
+        "LFwRq": ""
       },
       "alterLeadership": {}
     },
