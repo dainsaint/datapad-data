@@ -243,8 +243,8 @@
       "_type": "Community",
       "id": "ZTISw",
       "societyId": "V9xbw",
-      "player": "Ed (He/him)",
-      "name": "Archival Facilitators",
+      "player": "[] ()",
+      "name": "Archival ",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1145,7 +1145,8 @@
       "disadvantage": 0,
       "ambassadors": {
         "Pf-Th": "",
-        "LFwRq": ""
+        "LFwRq": "",
+        "ZTISw": ""
       },
       "alterLeadership": {}
     },
