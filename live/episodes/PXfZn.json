@@ -1297,6 +1297,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "FVVX5",
+      "communityId": "iV-n0",
+      "name": "[] Species",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46532,6 +46542,13 @@
       "timestamp": "2025-06-27T20:24:05.850Z",
       "type": "ResourceCreated",
       "value": "Blood Share"
+    },
+    {
+      "_type": "Record",
+      "id": "RRUVZ",
+      "timestamp": "2025-06-27T20:24:15.039Z",
+      "type": "ResourceCreated",
+      "value": "[] Species"
     }
   ]
 }
