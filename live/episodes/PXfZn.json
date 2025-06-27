@@ -1427,6 +1427,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "bGZym",
+      "communityId": "xUCao",
+      "name": "______ _______",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46760,6 +46770,13 @@
       "timestamp": "2025-06-27T20:26:21.740Z",
       "type": "ResourceCreated",
       "value": "[] []"
+    },
+    {
+      "_type": "Record",
+      "id": "CSKTU",
+      "timestamp": "2025-06-27T20:26:38.638Z",
+      "type": "ResourceCreated",
+      "value": "______ _______"
     }
   ]
 }
