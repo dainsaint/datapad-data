@@ -1327,6 +1327,26 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "oKf8S",
+      "communityId": "iV-n0",
+      "name": "Wide Range Cannons",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "pMkky",
+      "communityId": "h3rgn",
+      "name": "Blood Festivals",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46586,6 +46606,20 @@
       "timestamp": "2025-06-27T20:24:31.878Z",
       "type": "ResourceCreated",
       "value": "Safe X"
+    },
+    {
+      "_type": "Record",
+      "id": "y6VLN",
+      "timestamp": "2025-06-27T20:24:42.204Z",
+      "type": "ResourceCreated",
+      "value": "Wide Range Cannons"
+    },
+    {
+      "_type": "Record",
+      "id": "nvKsK",
+      "timestamp": "2025-06-27T20:24:43.950Z",
+      "type": "ResourceCreated",
+      "value": "Blood Festivals"
     }
   ]
 }
