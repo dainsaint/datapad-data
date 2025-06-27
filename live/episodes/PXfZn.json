@@ -1213,6 +1213,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "Dyo-C",
+      "communityId": "Rp9Mo",
+      "name": "Forbidden []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46403,6 +46413,13 @@
       "timestamp": "2025-06-27T20:22:53.127Z",
       "type": "ResourceCreated",
       "value": "Screaming []"
+    },
+    {
+      "_type": "Record",
+      "id": "KqkRf",
+      "timestamp": "2025-06-27T20:23:07.277Z",
+      "type": "ResourceCreated",
+      "value": "Forbidden []"
     }
   ]
 }
