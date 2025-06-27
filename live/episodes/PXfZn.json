@@ -365,7 +365,7 @@
       "_type": "Community",
       "id": "h3rgn",
       "societyId": "Feay0",
-      "player": "Mars Any",
+      "player": "",
       "name": "Ritualistic Purifiers",
       "voice": "leader",
       "tags": {
@@ -1712,7 +1712,8 @@
         "Uyeis": "",
         "cBV-v": "",
         "xUCao": "",
-        "bIa2P": ""
+        "bIa2P": "",
+        "h3rgn": ""
       },
       "alterLeadership": {}
     },
