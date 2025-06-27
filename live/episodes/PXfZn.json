@@ -1277,6 +1277,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "RwJ55",
+      "communityId": "Q5mwY",
+      "name": "X X",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46497,6 +46507,13 @@
       "timestamp": "2025-06-27T20:23:45.960Z",
       "type": "ResourceCreated",
       "value": "Freakish X"
+    },
+    {
+      "_type": "Record",
+      "id": "tRqgH",
+      "timestamp": "2025-06-27T20:24:02.592Z",
+      "type": "ResourceCreated",
+      "value": "X X"
     }
   ]
 }
