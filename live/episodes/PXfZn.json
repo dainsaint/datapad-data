@@ -292,8 +292,8 @@
       "id": "CYPuO",
       "societyId": "yXHVO",
       "player": "PJ He/they",
-      "name": "Militant Teachers ",
-      "voice": "leader",
+      "name": "",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1133,7 +1133,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "CYPuO": ""
+      },
       "alterLeadership": {}
     }
   ],
