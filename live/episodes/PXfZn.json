@@ -1021,6 +1021,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "EHJOl",
+      "communityId": "xUCao",
+      "name": "___ Shield Schematics",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46079,6 +46089,13 @@
       "timestamp": "2025-06-27T20:18:42.858Z",
       "type": "ResourceCreated",
       "value": "Natural Charisma"
+    },
+    {
+      "_type": "Record",
+      "id": "LtC1Y",
+      "timestamp": "2025-06-27T20:18:59.251Z",
+      "type": "ResourceCreated",
+      "value": "___ Shield Schematics"
     }
   ]
 }
