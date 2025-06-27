@@ -991,6 +991,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "F2R-u",
+      "communityId": "ZTISw",
+      "name": "Huge Mining Gear",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46028,6 +46038,13 @@
       "timestamp": "2025-06-27T20:18:19.084Z",
       "type": "ResourceCreated",
       "value": "Invasive Shield Schematics"
+    },
+    {
+      "_type": "Record",
+      "id": "iDIHr",
+      "timestamp": "2025-06-27T20:18:26.722Z",
+      "type": "ResourceCreated",
+      "value": "Huge Mining Gear"
     }
   ]
 }
