@@ -80,7 +80,7 @@
       "id": "yC0li",
       "societyId": "et0k8",
       "player": "Dwight He/him",
-      "name": "Impatient Elders",
+      "name": "[] Elders",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -1132,7 +1132,8 @@
       "disadvantage": "0",
       "ambassadors": {
         "bWsq5": "",
-        "XxrAo": ""
+        "XxrAo": "",
+        "yC0li": ""
       },
       "alterLeadership": {}
     },
