@@ -931,7 +931,18 @@
     }
   ],
   "players": [],
-  "resources": [],
+  "resources": [
+    {
+      "_type": "Resource",
+      "id": "wV9LP",
+      "communityId": "hqZZ8",
+      "name": "Healing Nebula ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    }
+  ],
   "societies": [
     {
       "_type": "Society",
@@ -45912,5 +45923,13 @@
     }
   ],
   "links": {},
-  "records": []
+  "records": [
+    {
+      "_type": "Record",
+      "id": "XBnnx",
+      "timestamp": "2025-06-27T20:15:18.443Z",
+      "type": "ResourceCreated",
+      "value": "Healing Nebula "
+    }
+  ]
 }
