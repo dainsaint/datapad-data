@@ -1108,9 +1108,9 @@
       "id": "KqVXZ",
       "round": 0,
       "societyId": "Feay0",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "1",
+      "advantage": "1",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     },
