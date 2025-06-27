@@ -525,13 +525,13 @@
       "_type": "Phase",
       "id": "W9QZA",
       "type": "Setup/Onboarding",
-      "status": "idle",
+      "status": "complete",
       "round": 0,
       "duration": 1860,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-27T17:10:52.381+00:00",
-        "e": "2025-06-27T17:10:52.381+00:00",
+        "e": "2025-06-27T21:52:20.830+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -48277,6 +48277,46 @@
       "timestamp": "2025-06-27T20:44:04.082Z",
       "type": "ResourceCreated",
       "value": "_______ ________"
+    },
+    {
+      "_type": "Record",
+      "id": "k9GHO",
+      "timestamp": "2025-06-27T21:52:20.830Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "LXIR9",
+      "timestamp": "2025-06-27T21:52:20.830Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "TyER4",
+      "timestamp": "2025-06-27T21:52:20.830Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "IY4Bj",
+      "timestamp": "2025-06-27T21:52:20.830Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "shr84",
+      "timestamp": "2025-06-27T21:52:20.830Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 0
     }
   ]
 }
