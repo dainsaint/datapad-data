@@ -1357,6 +1357,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "XJjLx",
+      "communityId": "nlnRw",
+      "name": "[] Ancient Kilns",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46637,6 +46647,13 @@
       "timestamp": "2025-06-27T20:24:50.979Z",
       "type": "ResourceCreated",
       "value": "Endless X"
+    },
+    {
+      "_type": "Record",
+      "id": "V4QSC",
+      "timestamp": "2025-06-27T20:24:56.987Z",
+      "type": "ResourceCreated",
+      "value": "[] Ancient Kilns"
     }
   ]
 }
