@@ -106,7 +106,7 @@
       "id": "HxH3y",
       "societyId": "e-JcG",
       "player": "3",
-      "name": "Combustible Clockmakers",
+      "name": "Combustible X",
       "voice": "leader",
       "tags": {
         "_type": "Tags",
@@ -389,8 +389,8 @@
       "_type": "Community",
       "id": "iV-n0",
       "societyId": "V9xbw",
-      "player": "Heather (She/her)",
-      "name": "Resilient Rhizomes",
+      "player": "[] ()",
+      "name": "Resilient",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1150,7 +1150,8 @@
         "LFwRq": "",
         "ZTISw": "",
         "M8dPd": "",
-        "Rp9Mo": ""
+        "Rp9Mo": "",
+        "iV-n0": ""
       },
       "alterLeadership": {}
     },
