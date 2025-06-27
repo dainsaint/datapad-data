@@ -1477,6 +1477,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "HZ4oK",
+      "communityId": "nHktk",
+      "name": "X X",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46847,6 +46857,13 @@
       "timestamp": "2025-06-27T20:27:11.088Z",
       "type": "ResourceCreated",
       "value": "_________ ________"
+    },
+    {
+      "_type": "Record",
+      "id": "puQT9",
+      "timestamp": "2025-06-27T20:27:55.497Z",
+      "type": "ResourceCreated",
+      "value": "X X"
     }
   ]
 }
