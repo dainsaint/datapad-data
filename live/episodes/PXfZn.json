@@ -1417,6 +1417,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "coVck",
+      "communityId": "b6k9O",
+      "name": "[] []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46740,6 +46750,13 @@
       "_type": "Record",
       "id": "L3xdB",
       "timestamp": "2025-06-27T20:26:11.805Z",
+      "type": "ResourceCreated",
+      "value": "[] []"
+    },
+    {
+      "_type": "Record",
+      "id": "n3lxs",
+      "timestamp": "2025-06-27T20:26:21.740Z",
       "type": "ResourceCreated",
       "value": "[] []"
     }
