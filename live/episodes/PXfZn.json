@@ -1247,6 +1247,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "RWxj8",
+      "communityId": "Rp9Mo",
+      "name": "Invisible Shield Schematics ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46444,6 +46454,13 @@
       "timestamp": "2025-06-27T20:23:07.277Z",
       "type": "ResourceCreated",
       "value": "Forbidden []"
+    },
+    {
+      "_type": "Record",
+      "id": "X7bGC",
+      "timestamp": "2025-06-27T20:23:29.690Z",
+      "type": "ResourceCreated",
+      "value": "Invisible Shield Schematics "
     }
   ]
 }
