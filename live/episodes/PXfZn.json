@@ -546,7 +546,7 @@
       "type": "Universal Phase",
       "status": "idle",
       "round": 1,
-      "duration": 300,
+      "duration": 360,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-27T17:10:52.381+00:00",
