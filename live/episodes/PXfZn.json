@@ -255,8 +255,8 @@
       "_type": "Community",
       "id": "M8dPd",
       "societyId": "V9xbw",
-      "player": "Gina (Any Pronouns)",
-      "name": "Sacrificial Truthtellers",
+      "player": "[] ()",
+      "name": "Sacrificial []",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1146,7 +1146,8 @@
       "ambassadors": {
         "Pf-Th": "",
         "LFwRq": "",
-        "ZTISw": ""
+        "ZTISw": "",
+        "M8dPd": ""
       },
       "alterLeadership": {}
     },
