@@ -452,7 +452,7 @@
       "id": "Pf-Th",
       "societyId": "V9xbw",
       "player": "Sabrina (She/her)",
-      "name": "Extroverted Bartenders",
+      "name": "[] []",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1100,7 +1100,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "Pf-Th": ""
+      },
       "alterLeadership": {}
     },
     {
