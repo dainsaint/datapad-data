@@ -231,7 +231,7 @@
       "_type": "Community",
       "id": "Q5mwY",
       "societyId": "e-JcG",
-      "player": "5",
+      "player": "4",
       "name": "Verbose Infantry",
       "voice": "leader",
       "tags": {
@@ -340,7 +340,7 @@
       "id": "Pry_D",
       "societyId": "yXHVO",
       "player": "Pablo They Them",
-      "name": "Engaged Organizers",
+      "name": "!",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1187,7 +1187,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "CYPuO": ""
+        "CYPuO": "",
+        "Pry_D": ""
       },
       "alterLeadership": {}
     }
