@@ -1562,7 +1562,7 @@
       "_type": "Society",
       "id": "V9xbw",
       "archetype": "the mighty",
-      "fateId": "fate_two",
+      "fateId": "",
       "color": "color-light-blue",
       "tags": {
         "_type": "Tags",
