@@ -995,6 +995,25 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Phase",
+      "id": "PzLi3",
+      "type": "Break",
+      "status": "idle",
+      "round": 6,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-06-27T21:54:36.232+00:00",
+        "e": "2025-06-27T21:54:36.232+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "players": [],
