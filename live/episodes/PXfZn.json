@@ -470,6 +470,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "hlIaD",
+      "societyId": "e-JcG",
+      "player": "Jess She/they",
+      "name": "Kin 1",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
