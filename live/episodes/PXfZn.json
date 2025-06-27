@@ -1407,6 +1407,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "tVQAe",
+      "communityId": "Pf-Th",
+      "name": "[] []",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46724,6 +46734,13 @@
       "timestamp": "2025-06-27T20:25:42.504Z",
       "type": "ResourceCreated",
       "value": "Overwhelming Numbers"
+    },
+    {
+      "_type": "Record",
+      "id": "L3xdB",
+      "timestamp": "2025-06-27T20:26:11.805Z",
+      "type": "ResourceCreated",
+      "value": "[] []"
     }
   ]
 }
