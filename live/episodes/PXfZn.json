@@ -219,9 +219,9 @@
       "_type": "Community",
       "id": "bIa2P",
       "societyId": "Feay0",
-      "player": "Arianne All",
+      "player": "",
       "name": "Subterannean ASSISTANTS",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1579,7 +1579,8 @@
         "adPGA": "",
         "Uyeis": "",
         "cBV-v": "",
-        "xUCao": ""
+        "xUCao": "",
+        "bIa2P": ""
       },
       "alterLeadership": {}
     },
