@@ -1467,6 +1467,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "XiXwK",
+      "communityId": "xUCao",
+      "name": "_________ ________",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46830,6 +46840,13 @@
       "timestamp": "2025-06-27T20:27:10.480Z",
       "type": "ResourceCreated",
       "value": "X X"
+    },
+    {
+      "_type": "Record",
+      "id": "mQE3l",
+      "timestamp": "2025-06-27T20:27:11.088Z",
+      "type": "ResourceCreated",
+      "value": "_________ ________"
     }
   ]
 }
