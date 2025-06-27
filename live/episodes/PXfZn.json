@@ -1638,7 +1638,7 @@
       "_type": "Society",
       "id": "yXHVO",
       "archetype": "the faithful",
-      "fateId": "fate_one",
+      "fateId": "",
       "color": "color-canary-diamond",
       "tags": {
         "_type": "Tags",
