@@ -1377,6 +1377,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "GD6u_",
+      "communityId": "bIa2P",
+      "name": "Swift Spies",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46672,6 +46682,13 @@
       "timestamp": "2025-06-27T20:25:22.693Z",
       "type": "ResourceCreated",
       "value": "[] Intoxicants "
+    },
+    {
+      "_type": "Record",
+      "id": "Loa1S",
+      "timestamp": "2025-06-27T20:25:28.971Z",
+      "type": "ResourceCreated",
+      "value": "Swift Spies"
     }
   ]
 }
