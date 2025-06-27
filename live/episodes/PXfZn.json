@@ -317,7 +317,7 @@
       "societyId": "yXHVO",
       "player": "Princess Connor She Her",
       "name": "Powerful Rangers ",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -351,8 +351,8 @@
       "_type": "Community",
       "id": "nHktk",
       "societyId": "e-JcG",
-      "player": "Jim",
-      "name": "Exceptional Navigators",
+      "player": "6",
+      "name": "X X",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1431,7 +1431,7 @@
     {
       "_type": "Resource",
       "id": "bGZym",
-      "communityId": "xUCao",
+      "communityId": "EYh5k",
       "name": "______ _______",
       "tags": {
         "_type": "Tags",
@@ -1668,7 +1668,8 @@
         "nmW7Z": "",
         "baFQb": "",
         "n9ZRY": "",
-        "l5d1f": ""
+        "l5d1f": "",
+        "nHktk": ""
       },
       "alterLeadership": {}
     },
@@ -1684,7 +1685,8 @@
         "CYPuO": "",
         "Pry_D": "",
         "hqZZ8": "",
-        "ZQ5E1": ""
+        "ZQ5E1": "",
+        "iRW5s": ""
       },
       "alterLeadership": {}
     }
