@@ -1061,6 +1061,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "TpH3x",
+      "communityId": "bWsq5",
+      "name": "[] Altars",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46147,6 +46157,13 @@
       "timestamp": "2025-06-27T20:19:39.784Z",
       "type": "ResourceCreated",
       "value": "_____ Battery"
+    },
+    {
+      "_type": "Record",
+      "id": "qacsQ",
+      "timestamp": "2025-06-27T20:19:43.156Z",
+      "type": "ResourceCreated",
+      "value": "[] Altars"
     }
   ]
 }
