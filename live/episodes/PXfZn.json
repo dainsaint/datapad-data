@@ -195,9 +195,9 @@
       "_type": "Community",
       "id": "cBV-v",
       "societyId": "Feay0",
-      "player": "Michael He/him",
+      "player": "",
       "name": "SALVATIONAL Nurses",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1473,7 +1473,8 @@
       "ambassadors": {
         "Rcsl8": "",
         "adPGA": "",
-        "Uyeis": ""
+        "Uyeis": "",
+        "cBV-v": ""
       },
       "alterLeadership": {}
     },
