@@ -231,7 +231,7 @@
       "_type": "Community",
       "id": "Q5mwY",
       "societyId": "e-JcG",
-      "player": "Sarah Peony She/they",
+      "player": "5",
       "name": "Verbose Infantry",
       "voice": "leader",
       "tags": {
@@ -1170,7 +1170,8 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {
-        "HxH3y": ""
+        "HxH3y": "",
+        "Q5mwY": ""
       },
       "alterLeadership": {}
     },
