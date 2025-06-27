@@ -1437,6 +1437,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "tmrOc",
+      "communityId": "hlIaD",
+      "name": "X X",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46779,6 +46789,13 @@
       "timestamp": "2025-06-27T20:26:38.638Z",
       "type": "ResourceCreated",
       "value": "______ _______"
+    },
+    {
+      "_type": "Record",
+      "id": "XQCM4",
+      "timestamp": "2025-06-27T20:26:52.778Z",
+      "type": "ResourceCreated",
+      "value": "X X"
     }
   ]
 }
