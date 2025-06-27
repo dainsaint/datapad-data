@@ -1131,6 +1131,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "smTrB",
+      "communityId": "IytuF",
+      "name": "Diplomatic Leaders",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46270,6 +46280,13 @@
       "timestamp": "2025-06-27T20:20:38.641Z",
       "type": "ResourceCreated",
       "value": "Growth Ray"
+    },
+    {
+      "_type": "Record",
+      "id": "wMrlY",
+      "timestamp": "2025-06-27T20:21:17.653Z",
+      "type": "ResourceCreated",
+      "value": "Diplomatic Leaders"
     }
   ]
 }
