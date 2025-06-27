@@ -327,7 +327,7 @@
       "_type": "Community",
       "id": "adPGA",
       "societyId": "Feay0",
-      "player": "Moss They/them",
+      "player": "",
       "name": "Blood Avatars",
       "voice": "leader",
       "tags": {
@@ -1335,7 +1335,8 @@
       "advantage": "0",
       "disadvantage": "0",
       "ambassadors": {
-        "Rcsl8": ""
+        "Rcsl8": "",
+        "adPGA": ""
       },
       "alterLeadership": {}
     },
