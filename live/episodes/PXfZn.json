@@ -1111,6 +1111,26 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "rqH8v",
+      "communityId": "bWsq5",
+      "name": "Detailed Maps",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "XvWdm",
+      "communityId": "LFwRq",
+      "name": "Growth Ray",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46234,6 +46254,20 @@
       "timestamp": "2025-06-27T20:20:25.019Z",
       "type": "ResourceCreated",
       "value": "The Comet's Strength"
+    },
+    {
+      "_type": "Record",
+      "id": "dfB94",
+      "timestamp": "2025-06-27T20:20:37.175Z",
+      "type": "ResourceCreated",
+      "value": "Detailed Maps"
+    },
+    {
+      "_type": "Record",
+      "id": "k1bpH",
+      "timestamp": "2025-06-27T20:20:38.641Z",
+      "type": "ResourceCreated",
+      "value": "Growth Ray"
     }
   ]
 }
