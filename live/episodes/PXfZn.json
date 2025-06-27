@@ -458,6 +458,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "b6k9O",
+      "societyId": "V9xbw",
+      "player": "Severin (They/he/we)",
+      "name": "[] []",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
