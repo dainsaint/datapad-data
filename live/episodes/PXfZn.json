@@ -391,7 +391,7 @@
       "societyId": "V9xbw",
       "player": "[] ()",
       "name": "Resilient",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1055,7 +1055,7 @@
     {
       "_type": "Resource",
       "id": "NubjR",
-      "communityId": "xUCao",
+      "communityId": "Rcsl8",
       "name": "_____ Battery",
       "tags": {
         "_type": "Tags",
