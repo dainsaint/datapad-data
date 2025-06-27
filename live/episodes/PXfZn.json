@@ -55,9 +55,9 @@
       "_type": "Community",
       "id": "Pwqoy",
       "societyId": "et0k8",
-      "player": "Emil They/them",
+      "player": "AP2",
       "name": "Delving Priests",
-      "voice": "leader",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1449,7 +1449,8 @@
       "ambassadors": {
         "bWsq5": "",
         "XxrAo": "",
-        "yC0li": ""
+        "yC0li": "",
+        "Pwqoy": ""
       },
       "alterLeadership": {}
     },
