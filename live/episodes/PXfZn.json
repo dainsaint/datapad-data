@@ -1367,6 +1367,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "XvISU",
+      "communityId": "BNuWv",
+      "name": "[] Intoxicants ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46655,6 +46665,13 @@
       "timestamp": "2025-06-27T20:24:56.987Z",
       "type": "ResourceCreated",
       "value": "[] Ancient Kilns"
+    },
+    {
+      "_type": "Record",
+      "id": "xI-6k",
+      "timestamp": "2025-06-27T20:25:22.693Z",
+      "type": "ResourceCreated",
+      "value": "[] Intoxicants "
     }
   ]
 }
