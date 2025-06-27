@@ -1152,16 +1152,6 @@
     },
     {
       "_type": "Resource",
-      "id": "wxSof",
-      "communityId": "Pwqoy",
-      "name": "The Comet's Strength",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Resource",
       "id": "rqH8v",
       "communityId": "nlnRw",
       "name": "Detailed Maps",
