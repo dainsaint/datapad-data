@@ -1307,6 +1307,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "U3Q-8",
+      "communityId": "nmW7Z",
+      "name": "Ancient  X",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46549,6 +46559,13 @@
       "timestamp": "2025-06-27T20:24:15.039Z",
       "type": "ResourceCreated",
       "value": "[] Species"
+    },
+    {
+      "_type": "Record",
+      "id": "n8yac",
+      "timestamp": "2025-06-27T20:24:19.004Z",
+      "type": "ResourceCreated",
+      "value": "Ancient  X"
     }
   ]
 }
