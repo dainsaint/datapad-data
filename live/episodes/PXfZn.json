@@ -1163,6 +1163,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "cbEw9",
+      "communityId": "Rp9Mo",
+      "name": "[] Fungus-Gel",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46317,6 +46327,13 @@
       "timestamp": "2025-06-27T20:21:37.814Z",
       "type": "ResourceCreated",
       "value": "Clean-Energy []"
+    },
+    {
+      "_type": "Record",
+      "id": "fpJtZ",
+      "timestamp": "2025-06-27T20:22:14.037Z",
+      "type": "ResourceCreated",
+      "value": "[] Fungus-Gel"
     }
   ]
 }
