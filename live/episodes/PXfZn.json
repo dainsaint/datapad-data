@@ -1091,6 +1091,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "IBR6W",
+      "communityId": "Rcsl8",
+      "name": "Manufacturing Depots",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46198,6 +46208,13 @@
       "timestamp": "2025-06-27T20:20:07.748Z",
       "type": "ResourceCreated",
       "value": "Powerful Ships"
+    },
+    {
+      "_type": "Record",
+      "id": "Z_Sib",
+      "timestamp": "2025-06-27T20:20:18.687Z",
+      "type": "ResourceCreated",
+      "value": "Manufacturing Depots"
     }
   ]
 }
