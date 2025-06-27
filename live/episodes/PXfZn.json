@@ -1081,6 +1081,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "Pj4sx",
+      "communityId": "Rcsl8",
+      "name": "Powerful Ships",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46181,6 +46191,13 @@
       "timestamp": "2025-06-27T20:19:52.891Z",
       "type": "ResourceCreated",
       "value": "Crystal Smelters"
+    },
+    {
+      "_type": "Record",
+      "id": "bMc4f",
+      "timestamp": "2025-06-27T20:20:07.748Z",
+      "type": "ResourceCreated",
+      "value": "Powerful Ships"
     }
   ]
 }
