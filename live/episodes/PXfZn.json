@@ -1071,6 +1071,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "vJNNI",
+      "communityId": "bWsq5",
+      "name": "Crystal Smelters",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46164,6 +46174,13 @@
       "timestamp": "2025-06-27T20:19:43.156Z",
       "type": "ResourceCreated",
       "value": "[] Altars"
+    },
+    {
+      "_type": "Record",
+      "id": "jEd7-",
+      "timestamp": "2025-06-27T20:19:52.891Z",
+      "type": "ResourceCreated",
+      "value": "Crystal Smelters"
     }
   ]
 }
