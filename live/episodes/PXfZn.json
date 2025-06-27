@@ -1031,6 +1031,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "DwVAm",
+      "communityId": "xUCao",
+      "name": "_______ Materials",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46096,6 +46106,13 @@
       "timestamp": "2025-06-27T20:18:59.251Z",
       "type": "ResourceCreated",
       "value": "___ Shield Schematics"
+    },
+    {
+      "_type": "Record",
+      "id": "WQl-p",
+      "timestamp": "2025-06-27T20:19:14.013Z",
+      "type": "ResourceCreated",
+      "value": "_______ Materials"
     }
   ]
 }
