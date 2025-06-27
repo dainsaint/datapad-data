@@ -1101,6 +1101,16 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "wxSof",
+      "communityId": "Pwqoy",
+      "name": "The Comet's Strength",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -46215,6 +46225,13 @@
       "timestamp": "2025-06-27T20:20:18.687Z",
       "type": "ResourceCreated",
       "value": "Manufacturing Depots"
+    },
+    {
+      "_type": "Record",
+      "id": "Tg2PT",
+      "timestamp": "2025-06-27T20:20:25.019Z",
+      "type": "ResourceCreated",
+      "value": "The Comet's Strength"
     }
   ]
 }
