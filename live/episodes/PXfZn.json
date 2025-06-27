@@ -755,7 +755,7 @@
       "type": "Galactic Phase",
       "status": "idle",
       "round": 3,
-      "duration": 900,
+      "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-27T17:10:52.381+00:00",
