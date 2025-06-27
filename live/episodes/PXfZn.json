@@ -1281,8 +1281,8 @@
       "_type": "Society",
       "id": "Feay0",
       "archetype": "the intrepid",
-      "fateId": "fate_two",
-      "color": "color-deep-purple",
+      "fateId": "",
+      "color": "color-deep-orange",
       "tags": {
         "_type": "Tags",
         "value": []
