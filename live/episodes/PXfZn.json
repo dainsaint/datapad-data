@@ -1477,13 +1477,13 @@
       "_type": "Phase",
       "id": "JJK_T",
       "type": "Break",
-      "status": "paused",
+      "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 2.001,
+      "timeElapsed": 4.002,
       "actualTime": {
-        "s": "2025-06-28T21:43:49.831+00:00",
-        "e": "2025-06-28T21:53:49.831+00:00",
+        "s": "2025-06-28T21:43:52.960+00:00",
+        "e": "2025-06-28T21:53:52.960+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51478,6 +51478,14 @@
       "type": "PhaseStarted",
       "description": "Round 4: Break",
       "value": "2025-06-28T21:43:49.831Z"
+    },
+    {
+      "_type": "Record",
+      "id": "OE8aQ",
+      "timestamp": "2025-06-28T21:43:52.960Z",
+      "type": "PhaseStarted",
+      "description": "Round 4: Break",
+      "value": "2025-06-28T21:43:52.960Z"
     }
   ]
 }
