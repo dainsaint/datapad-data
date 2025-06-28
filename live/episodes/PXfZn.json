@@ -1256,7 +1256,7 @@
       "status": "playing",
       "round": 3,
       "duration": 1200,
-      "timeElapsed": 77.199,
+      "timeElapsed": 295.397,
       "actualTime": {
         "s": "2025-06-28T20:22:43.017+00:00",
         "e": "2025-06-28T20:42:43.017+00:00",
@@ -2597,9 +2597,9 @@
       "id": "rhdZy",
       "round": 3,
       "societyId": "yXHVO",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "1",
+      "advantage": "1",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     }
