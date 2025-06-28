@@ -889,7 +889,7 @@
       "societyId": "Feay0",
       "player": "Savannah She/her",
       "name": "Compassionate Warriors",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1562,7 +1562,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 197.08000000000018,
+      "timeElapsed": 201.08000000000018,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
@@ -2893,7 +2893,8 @@
       "advantage": "0",
       "disadvantage": "0",
       "ambassadors": {
-        "Rcsl8": ""
+        "Rcsl8": "",
+        "xUCao": ""
       },
       "alterLeadership": {}
     },
