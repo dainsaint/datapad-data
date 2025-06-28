@@ -1009,7 +1009,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 186.12100000000004,
+      "timeElapsed": 189.12400000000002,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
@@ -1665,9 +1665,7 @@
       "name": "Endless Energy",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
