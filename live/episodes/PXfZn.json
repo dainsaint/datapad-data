@@ -423,7 +423,11 @@
         "",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0,
+        0
+      ],
       "voteTime": "2025-06-28T20:20:02.946+00:00",
       "status": "voted",
       "tags": {
@@ -1144,7 +1148,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 714.8059999999971,
+      "timeElapsed": 716.8069999999971,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
@@ -1451,7 +1455,7 @@
     {
       "_type": "Resource",
       "id": "jOlZU",
-      "communityId": "LFwRq",
+      "communityId": "BNuWv",
       "name": "Electromagnetic Shields",
       "tags": {
         "_type": "Tags",
