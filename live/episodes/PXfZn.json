@@ -1675,13 +1675,13 @@
       "_type": "Phase",
       "id": "gcyDf",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 508.3109999999985,
+      "timeElapsed": 521.3169999999984,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
-        "e": "2025-06-28T22:24:44.519+00:00",
+        "e": "2025-06-28T22:25:25.207+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51912,6 +51912,22 @@
       "timestamp": "2025-06-28T22:21:46.238Z",
       "type": "ResourceCreated",
       "value": "20 Unconditional Resources "
+    },
+    {
+      "_type": "Record",
+      "id": "ahfxJ",
+      "timestamp": "2025-06-28T22:25:25.208Z",
+      "type": "PhaseEnded",
+      "description": "Round 5: Societal Phase",
+      "value": "2025-06-28T22:25:25.207Z"
+    },
+    {
+      "_type": "Record",
+      "id": "X8DOE",
+      "timestamp": "2025-06-28T22:25:25.208Z",
+      "type": "PhaseDuration",
+      "description": "Round 5: Societal Phase",
+      "value": 8.678133333333333
     }
   ]
 }
