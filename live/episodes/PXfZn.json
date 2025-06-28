@@ -717,10 +717,10 @@
       "_type": "Phase",
       "id": "wjRD6",
       "type": "Galactic Phase",
-      "status": "playing",
+      "status": "paused",
       "round": 1,
       "duration": 1200,
-      "timeElapsed": 0,
+      "timeElapsed": 3.024,
       "actualTime": {
         "s": "2025-06-28T17:49:42.367+00:00",
         "e": "2025-06-28T18:09:42.367+00:00",
