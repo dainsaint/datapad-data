@@ -580,10 +580,10 @@
       "round": "4",
       "societyId": "V9xbw",
       "resourceIds": [
-        "XvISU",
         "tVQAe"
       ],
       "texts": [
+        "",
         "",
         ""
       ],
@@ -1385,7 +1385,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 314.1329999999999,
+      "timeElapsed": 318.1339999999999,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
