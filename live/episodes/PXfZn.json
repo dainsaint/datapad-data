@@ -450,10 +450,17 @@
         "",
         "",
         "",
+        "",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "voteTime": "2025-06-28T20:20:21.982+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -492,6 +499,23 @@
       "id": "Lwc5L",
       "round": "3",
       "societyId": "e-JcG",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Action",
+      "id": "rvMoH",
+      "round": "3",
+      "societyId": "et0k8",
       "resourceIds": [],
       "texts": [],
       "risk": 1,
@@ -1167,7 +1191,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 731.909999999997,
+      "timeElapsed": 735.924999999997,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
