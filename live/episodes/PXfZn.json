@@ -208,6 +208,23 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Action",
+      "id": "v_mw8",
+      "round": "2",
+      "societyId": "yXHVO",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -789,7 +806,7 @@
       "status": "playing",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 400.46899999999886,
+      "timeElapsed": 407.47699999999884,
       "actualTime": {
         "s": "2025-06-28T18:30:37.602+00:00",
         "e": "2025-06-28T18:44:37.602+00:00",
