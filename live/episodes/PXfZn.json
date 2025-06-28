@@ -397,9 +397,11 @@
       "round": "3",
       "societyId": "e-JcG",
       "resourceIds": [
-        "XM5Fr"
+        "XM5Fr",
+        "tmrOc"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -1092,7 +1094,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 607.6489999999978,
+      "timeElapsed": 609.6489999999978,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
@@ -2408,7 +2410,7 @@
       "id": "HtOJx",
       "round": 3,
       "societyId": "V9xbw",
-      "risk": "2",
+      "risk": "1",
       "advantage": "0",
       "disadvantage": "0",
       "ambassadors": {},
