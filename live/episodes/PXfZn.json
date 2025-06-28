@@ -1667,7 +1667,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 474.29999999999876,
+      "timeElapsed": 482.3019999999987,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
@@ -3028,7 +3028,7 @@
       "round": 5,
       "societyId": "e-JcG",
       "risk": "4",
-      "advantage": "1",
+      "advantage": "2",
       "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
