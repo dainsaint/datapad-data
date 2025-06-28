@@ -287,9 +287,11 @@
       "societyId": "Feay0",
       "resourceIds": [
         "Pj4sx",
-        "EHJOl"
+        "EHJOl",
+        "WJcLI"
       ],
       "texts": [
+        "",
         "",
         ""
       ],
@@ -897,7 +899,7 @@
       "status": "playing",
       "round": 2,
       "duration": 780,
-      "timeElapsed": 724.6779999999973,
+      "timeElapsed": 726.6769999999973,
       "actualTime": {
         "s": "2025-06-28T18:30:37.602+00:00",
         "e": "2025-06-28T18:44:37.602+00:00",
