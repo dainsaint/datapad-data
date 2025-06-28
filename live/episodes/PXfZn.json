@@ -1009,7 +1009,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 189.12400000000002,
+      "timeElapsed": 195.137,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
@@ -1506,7 +1506,9 @@
       "name": "Biological Nutrient Bars",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "destroyed"
+        ]
       }
     },
     {
