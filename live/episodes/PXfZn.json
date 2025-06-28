@@ -1724,7 +1724,7 @@
       "status": "playing",
       "round": 5,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 466.1399999999987,
       "actualTime": {
         "s": "2025-06-28T22:44:59.385+00:00",
         "e": "2025-06-28T22:54:59.385+00:00",
@@ -1743,25 +1743,6 @@
       "status": "idle",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 0,
-      "actualTime": {
-        "s": "2025-06-27T17:10:52.382+00:00",
-        "e": "2025-06-27T17:10:52.382+00:00",
-        "invalid": null,
-        "isLuxonInterval": true
-      },
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Phase",
-      "id": "qxpyy",
-      "type": "Generational Phase",
-      "status": "idle",
-      "round": 6,
-      "duration": 1200,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-27T17:10:52.382+00:00",
