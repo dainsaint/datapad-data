@@ -949,13 +949,13 @@
       "_type": "Phase",
       "id": "AA4B7",
       "type": "Individual Phase",
-      "status": "paused",
+      "status": "playing",
       "round": 2,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-28T19:09:06.444+00:00",
-        "e": "2025-06-28T19:19:06.444+00:00",
+        "s": "2025-06-28T19:11:35.312+00:00",
+        "e": "2025-06-28T19:21:35.312+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -50497,6 +50497,14 @@
       "type": "PhaseStarted",
       "description": "Round 2: Individual Phase",
       "value": "2025-06-28T19:09:06.444Z"
+    },
+    {
+      "_type": "Record",
+      "id": "FaES9",
+      "timestamp": "2025-06-28T19:11:35.312Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Individual Phase",
+      "value": "2025-06-28T19:11:35.312Z"
     }
   ]
 }
