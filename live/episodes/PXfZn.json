@@ -968,13 +968,13 @@
       "_type": "Phase",
       "id": "FAO8Q",
       "type": "Break",
-      "status": "idle",
+      "status": "complete",
       "round": 2,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-27T17:10:52.381+00:00",
-        "e": "2025-06-27T17:10:52.381+00:00",
+        "e": "2025-06-28T20:00:37.273+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -50521,6 +50521,78 @@
       "type": "PhaseDuration",
       "description": "Round 2: Individual Phase",
       "value": 9.61855
+    },
+    {
+      "_type": "Record",
+      "id": "ohoqt",
+      "timestamp": "2025-06-28T20:00:37.273Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "Qlocu",
+      "timestamp": "2025-06-28T20:00:37.273Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Healing Quartz Crystals,Kin Treasure  to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "iQwUz",
+      "timestamp": "2025-06-28T20:00:37.273Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "HpL3W",
+      "timestamp": "2025-06-28T20:00:37.273Z",
+      "type": "ActionResources",
+      "description": "the mighty used Huge Mining Gear,Forbidden Foam,Overwhelming Numbers to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "LtaeT",
+      "timestamp": "2025-06-28T20:00:37.273Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "NOO8p",
+      "timestamp": "2025-06-28T20:00:37.273Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "e32ng",
+      "timestamp": "2025-06-28T20:00:37.273Z",
+      "type": "ActionResources",
+      "description": "the grounded used Safe Shelters,Endless Energy,Cunning Stealth,System's Attention to take action.",
+      "value": 4
+    },
+    {
+      "_type": "Record",
+      "id": "cD2ZH",
+      "timestamp": "2025-06-28T20:00:37.274Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "n7mAv",
+      "timestamp": "2025-06-28T20:00:37.274Z",
+      "type": "ActionResources",
+      "description": "the faithful used Healing Nebula ,Imperial Databases,Regenerative Construction to take action.",
+      "value": 3
     }
   ]
 }
