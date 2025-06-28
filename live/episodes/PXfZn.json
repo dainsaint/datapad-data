@@ -1518,7 +1518,7 @@
       "status": "playing",
       "round": 5,
       "duration": 300,
-      "timeElapsed": 0,
+      "timeElapsed": 2,
       "actualTime": {
         "s": "2025-06-28T22:07:57.214+00:00",
         "e": "2025-06-28T22:12:57.214+00:00",
