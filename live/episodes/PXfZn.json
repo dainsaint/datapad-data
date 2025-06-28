@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 1243.4249999999956,
+      "timeElapsed": 1249.4279999999956,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1411,7 +1411,7 @@
       "_type": "Resource",
       "id": "tVQAe",
       "communityId": "Pf-Th",
-      "name": "[] []",
+      "name": "Ancient Seedbanks",
       "tags": {
         "_type": "Tags",
         "value": []
