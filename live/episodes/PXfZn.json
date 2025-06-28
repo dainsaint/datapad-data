@@ -750,13 +750,13 @@
       "_type": "Phase",
       "id": "kPqaH",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 2,
       "duration": 360,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-27T17:10:52.381+00:00",
-        "e": "2025-06-27T17:10:52.381+00:00",
+        "s": "2025-06-28T18:21:53.946+00:00",
+        "e": "2025-06-28T18:27:53.946+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1417,7 +1417,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -1438,7 +1439,9 @@
       "name": "Freakish Explosions",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1478,7 +1481,9 @@
       "name": "Ancient  Sagas",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1608,7 +1613,9 @@
       "name": "Bedazzled Bomber Jackets",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1678,7 +1685,9 @@
       "name": "Sacrificial Chapels ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1708,7 +1717,9 @@
       "name": "KIN Collective Dreaming",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1718,7 +1729,9 @@
       "name": "Creative Understanding ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -50222,6 +50235,22 @@
       "type": "ActionResources",
       "description": "the faithful used KIN Collective Dreaming,Creative Understanding ,Sacrificial Chapels  to take action.",
       "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "vub7k",
+      "timestamp": "2025-06-28T18:21:53.946Z",
+      "type": "PhaseStarted",
+      "description": "Round 2: Universal Phase",
+      "value": "2025-06-28T18:21:53.946Z"
+    },
+    {
+      "_type": "Record",
+      "id": "kODRM",
+      "timestamp": "2025-06-28T18:21:53.947Z",
+      "type": "CommunitiesEndangered",
+      "description": "Arch St. — Episode 3: Extroverted Bartenders,Avant-Garde Gemcutters,Deceptive Losers,Powerful Rangers ",
+      "value": 4
     }
   ]
 }
