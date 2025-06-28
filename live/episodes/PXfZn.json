@@ -782,7 +782,7 @@
         "Attack in spite of our own attacks"
       ],
       "result": [
-        0,
+        6,
         0,
         0,
         0
@@ -1705,7 +1705,7 @@
       "status": "playing",
       "round": 5,
       "duration": 1200,
-      "timeElapsed": 361.1039999999999,
+      "timeElapsed": 409.10699999999986,
       "actualTime": {
         "s": "2025-06-28T22:25:36.916+00:00",
         "e": "2025-06-28T22:45:36.916+00:00",
