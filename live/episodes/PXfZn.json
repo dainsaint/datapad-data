@@ -747,6 +747,7 @@
         "XiXwK"
       ],
       "texts": [
+        "Unite wizards to give resources ",
         "",
         ""
       ],
@@ -1656,7 +1657,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 420.26399999999916,
+      "timeElapsed": 443.2749999999989,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
