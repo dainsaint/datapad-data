@@ -1515,13 +1515,13 @@
       "_type": "Phase",
       "id": "XXDVr",
       "type": "Universal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 5,
       "duration": 300,
-      "timeElapsed": 490.21899999999795,
+      "timeElapsed": 512.2299999999977,
       "actualTime": {
         "s": "2025-06-28T22:07:57.214+00:00",
-        "e": "2025-06-28T22:12:57.214+00:00",
+        "e": "2025-06-28T22:16:28.998+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51674,6 +51674,22 @@
       "type": "CommunitiesEndangered",
       "description": "Arch St. — Episode 3: Extroverted Bartenders,Avant-Garde Gemcutters,Deceptive Losers,Powerful Swimmers",
       "value": 4
+    },
+    {
+      "_type": "Record",
+      "id": "NlrML",
+      "timestamp": "2025-06-28T22:16:28.998Z",
+      "type": "PhaseEnded",
+      "description": "Round 5: Universal Phase",
+      "value": "2025-06-28T22:16:28.998Z"
+    },
+    {
+      "_type": "Record",
+      "id": "Cn3QM",
+      "timestamp": "2025-06-28T22:16:28.998Z",
+      "type": "PhaseDuration",
+      "description": "Round 5: Universal Phase",
+      "value": 8.529733333333333
     }
   ]
 }
