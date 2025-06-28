@@ -92,8 +92,7 @@
         "DwVAm"
       ],
       "texts": [
-        "",
-        ""
+        "Produce the most epic light show around the black hole"
       ],
       "result": [
         0
@@ -672,7 +671,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1200,
-      "timeElapsed": 1084.325999999996,
+      "timeElapsed": 1103.3279999999959,
       "actualTime": {
         "s": "2025-06-28T17:29:15.435+00:00",
         "e": "2025-06-28T17:47:15.435+00:00",
