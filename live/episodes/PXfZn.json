@@ -71,7 +71,7 @@
         "Act out the stories"
       ],
       "result": [
-        0,
+        6,
         0,
         0
       ],
@@ -727,7 +727,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1200,
-      "timeElapsed": 254.11900000000034,
+      "timeElapsed": 305.1439999999999,
       "actualTime": {
         "s": "2025-06-28T17:51:05.271+00:00",
         "e": "2025-06-28T18:11:05.271+00:00",
