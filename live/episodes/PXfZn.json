@@ -356,11 +356,12 @@
       "id": "uq6is",
       "round": "3",
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "XiXwK"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1031,7 +1032,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 522.5169999999983,
+      "timeElapsed": 524.5209999999984,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
