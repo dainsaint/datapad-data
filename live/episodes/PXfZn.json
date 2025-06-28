@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 876.264999999998,
+      "timeElapsed": 893.2719999999979,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1502,6 +1502,16 @@
       "id": "WJcLI",
       "communityId": "h3rgn",
       "name": "Purifying Stones",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "hzco7",
+      "communityId": "Saxy5",
+      "name": "Imperial Databases",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -49622,6 +49632,13 @@
       "type": "PhaseStarted",
       "description": "Round 0: Setup/Onboarding",
       "value": "2025-06-28T16:42:14.713Z"
+    },
+    {
+      "_type": "Record",
+      "id": "RQnp4",
+      "timestamp": "2025-06-28T16:57:08.107Z",
+      "type": "ResourceCreated",
+      "value": "Imperial Databases"
     }
   ]
 }
