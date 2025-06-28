@@ -420,10 +420,12 @@
       "texts": [
         "",
         "",
+        "",
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-28T20:20:02.946+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1142,7 +1144,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 711.8049999999971,
+      "timeElapsed": 714.8059999999971,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
@@ -2048,7 +2050,7 @@
     {
       "_type": "Resource",
       "id": "Y1qMQ",
-      "communityId": "LFwRq",
+      "communityId": "iV-n0",
       "name": "Energetic Crystals",
       "tags": {
         "_type": "Tags",
