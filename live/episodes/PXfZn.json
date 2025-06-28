@@ -504,7 +504,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 821.2559999999983,
+      "timeElapsed": 843.2599999999982,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1099,7 +1099,7 @@
       "_type": "Resource",
       "id": "NubjR",
       "communityId": "adPGA",
-      "name": "_____ Battery",
+      "name": "Community Battery",
       "tags": {
         "_type": "Tags",
         "value": []
