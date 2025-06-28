@@ -225,7 +225,7 @@
         "Aid in stabilization "
       ],
       "result": [
-        0,
+        6,
         0,
         0
       ],
@@ -939,7 +939,7 @@
       "status": "playing",
       "round": 2,
       "duration": 1200,
-      "timeElapsed": 950.3909999999936,
+      "timeElapsed": 998.4109999999931,
       "actualTime": {
         "s": "2025-06-28T18:46:10.708+00:00",
         "e": "2025-06-28T19:06:10.708+00:00",
