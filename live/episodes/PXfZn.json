@@ -1518,7 +1518,7 @@
       "status": "playing",
       "round": 5,
       "duration": 300,
-      "timeElapsed": 484.216999999998,
+      "timeElapsed": 490.21899999999795,
       "actualTime": {
         "s": "2025-06-28T22:07:57.214+00:00",
         "e": "2025-06-28T22:12:57.214+00:00",
@@ -2821,9 +2821,9 @@
       "id": "KOqMa",
       "round": 5,
       "societyId": "et0k8",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "4",
+      "advantage": "0",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     },
