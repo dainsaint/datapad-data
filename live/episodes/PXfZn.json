@@ -528,7 +528,7 @@
       "status": "playing",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 1481.5139999999938,
+      "timeElapsed": 1485.5139999999938,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1582,7 +1582,7 @@
     {
       "_type": "Resource",
       "id": "O65XI",
-      "communityId": "bWsq5",
+      "communityId": "vfrfk",
       "name": "Indeterminate Genetics",
       "tags": {
         "_type": "Tags",
