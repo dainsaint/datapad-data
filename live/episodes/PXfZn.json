@@ -845,7 +845,7 @@
       "societyId": "yXHVO",
       "player": "Carolyn She/her",
       "name": "Common Uniters ",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1313,7 +1313,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 86.08400000000002,
+      "timeElapsed": 98.08700000000003,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
@@ -2670,7 +2670,8 @@
       "disadvantage": "1",
       "ambassadors": {
         "iRW5s": "",
-        "CYPuO": ""
+        "CYPuO": "",
+        "Pry_D": ""
       },
       "alterLeadership": {}
     }
