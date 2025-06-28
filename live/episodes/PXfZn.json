@@ -450,8 +450,8 @@
         "Protect the ships "
       ],
       "result": [
+        5,
         6,
-        0,
         0,
         0
       ],
@@ -1256,7 +1256,7 @@
       "status": "playing",
       "round": 3,
       "duration": 1200,
-      "timeElapsed": 1022.1839999999928,
+      "timeElapsed": 1024.1829999999927,
       "actualTime": {
         "s": "2025-06-28T20:22:43.017+00:00",
         "e": "2025-06-28T20:42:43.017+00:00",
