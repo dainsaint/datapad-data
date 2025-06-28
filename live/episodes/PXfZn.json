@@ -514,11 +514,12 @@
       "id": "rvMoH",
       "round": "3",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "YXk54"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1206,7 +1207,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 758.935999999997,
+      "timeElapsed": 760.9369999999969,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
