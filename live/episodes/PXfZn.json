@@ -1011,7 +1011,7 @@
       "societyId": "Feay0",
       "player": "AZ They/he",
       "name": "Ritualistic Purifiers",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1562,7 +1562,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 201.08000000000018,
+      "timeElapsed": 207.08000000000018,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
@@ -2894,7 +2894,8 @@
       "disadvantage": "0",
       "ambassadors": {
         "Rcsl8": "",
-        "xUCao": ""
+        "xUCao": "",
+        "h3rgn": ""
       },
       "alterLeadership": {}
     },
