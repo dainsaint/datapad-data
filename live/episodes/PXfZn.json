@@ -252,7 +252,7 @@
         "Operate the gear"
       ],
       "result": [
-        6,
+        5,
         0,
         0
       ],
@@ -938,7 +938,7 @@
       "status": "playing",
       "round": 2,
       "duration": 1200,
-      "timeElapsed": 43.012,
+      "timeElapsed": 46.013,
       "actualTime": {
         "s": "2025-06-28T18:46:10.708+00:00",
         "e": "2025-06-28T19:06:10.708+00:00",
