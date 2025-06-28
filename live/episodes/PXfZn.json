@@ -5202,6 +5202,26 @@
               {
                 "type": "text",
                 "value": "\u000bYou don’t need to know anything about science to play."
+              },
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           },
@@ -5238,7 +5258,22 @@
             "children": [
               {
                 "type": "text",
-                "value": "What you do need to know is that you’re a core part of the story we tell today. Sometimes you’ll be yourself, sometimes you’ll represent an Individual character, and sometimes you’ll be the voice of a whole Community of people. \u000b"
+                "value": "What you do need to know is that you’re a core part of the story we tell today. Sometimes you’ll be yourself, sometimes you’ll represent an Individual character, and sometimes you’ll be the voice of a whole Community of people. "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
               }
             ]
           },
@@ -5265,11 +5300,15 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "(Move behind tables)"
+                        "value": "(P/Fs move behind tables)"
                       }
                     ]
                   }
                 ]
+              },
+              {
+                "type": "text",
+                "value": ""
               }
             ]
           },
@@ -5283,15 +5322,8 @@
             },
             "children": [
               {
-                "type": "element",
-                "tagName": "strong",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
+                "type": "text",
+                "value": ""
               }
             ]
           },
@@ -5318,6 +5350,37 @@
               {
                 "type": "text",
                 "value": "\u000bAs you navigate today’s experience, we ask you to hold two tensions: First, the universe-shaking power of making decisions together versus the hair-pulling challenge of making decisions together. "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(0, 255, 0)"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": ""
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           },
@@ -6375,7 +6438,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "Finally, they turned their attention to Unity itself. So much wasted energy swirling into a black hole simply would not do. So they built a grand array of devices known as the Siphon to surround Unity and capture that energy, providing virtually unlimited power to the societies of Kin… and furthering the aims of the Empire. "
+                "value": "Finally, they turned their attention to Unity itself. So much wasted energy swirling into a black hole simply would not do. So they built a grand array of devices known as the Siphon to surround Unity and capture that energy, providing virtually unlimited power to the societies of Kin… and furthering the aims of the Empire, or so they claimed."
               }
             ]
           },
@@ -6388,6 +6451,46 @@
               ]
             },
             "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "DANIEL"
+                      }
+                    ]
+                  }
+                ]
+              },
               {
                 "type": "element",
                 "tagName": "i",
@@ -6417,21 +6520,6 @@
               {
                 "type": "text",
                 "value": "The final bricks in the crumbling Empire collapsed, and the Kin system was forced to reckon with what it meant to gain freedom at the cost of safety and stability, as an energy crisis overtook the system. In the face of these challenges, some of the factions of Kin turned their attention away from the immediate danger and towards the future: founding the University of Truth and Beauty which would eventually succeed in its mission of creating renewable sources of energy for the people of Kin. With this new invention, the Unity Siphon had lost its purpose and fell dormant until…"
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": ""
               }
             ]
           },
@@ -6528,7 +6616,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "Through this communion, the Kin System learned that the artificial intelligence had developed a consciousness and will of its own. In its newly found sense of self, the Eye identified its own existence as the greatest threat to the Kin System and chose to launch itself into Unity, leaving only the parts that maintained regulation of the black hole. In the two generations since, the Suns of Jeff have worked tirelessly and are finally ready to complete the final steps in their ritual to free the Two Suns from their prison Which brings us to…"
+                "value": "Through this communion, the Kin System learned that the artificial intelligence had developed a consciousness and will of its own. In its newly found sense of self, the Eye identified its own existence as the greatest threat to the Kin System and chose to launch itself into Unity, leaving only the parts that maintained regulation of the black hole. In the two generations since, the Suns of Jeff have worked tirelessly and are finally ready to complete the final steps in their ritual to free the Two Suns from their prison, which brings us to…"
               }
             ]
           },
@@ -7046,7 +7134,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "But the years pass in the blink of an eye"
+                "value": "While the years pass in the blink of an eye"
               }
             ]
           },
@@ -11550,6 +11638,32 @@
                                         "properties": {},
                                         "children": [
                                           {
+                                            "type": "text",
+                                            "value": "We will forge a path"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tagName": "li",
+                                        "properties": {},
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "value": "We will chart the unknown"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tagName": "li",
+                                        "properties": {},
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "value": "We will risk safety for glory"
+                                          },
+                                          {
                                             "type": "element",
                                             "tagName": "strong",
                                             "properties": {},
@@ -11563,7 +11677,7 @@
                                                 "children": [
                                                   {
                                                     "type": "text",
-                                                    "value": "[NEW FATES HERE]"
+                                                    "value": ""
                                                   }
                                                 ]
                                               }
@@ -11588,47 +11702,31 @@
                                         "properties": {},
                                         "children": [
                                           {
-                                            "type": "element",
-                                            "tagName": "strong",
-                                            "properties": {},
-                                            "children": [
-                                              {
-                                                "type": "element",
-                                                "tagName": "span",
-                                                "properties": {
-                                                  "style": "background-color: rgb(255, 255, 0)"
-                                                },
-                                                "children": [
-                                                  {
-                                                    "type": "text",
-                                                    "value": "[NEW FATES HERE]"
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "type": "text",
+                                            "value": "We will claim what is ours"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tagName": "li",
+                                        "properties": {},
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "value": "We will strengthen our bonds"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tagName": "li",
+                                        "properties": {},
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "value": "We will hold the line"
                                           },
-                                          {
-                                            "type": "text",
-                                            "value": ""
-                                          }
-                                        ]
-                                      },
-                                      {
-                                        "type": "element",
-                                        "tagName": "li",
-                                        "properties": {},
-                                        "children": [
-                                          {
-                                            "type": "text",
-                                            "value": "The Curious"
-                                          }
-                                        ]
-                                      },
-                                      {
-                                        "type": "element",
-                                        "tagName": "li",
-                                        "properties": {},
-                                        "children": [
                                           {
                                             "type": "element",
                                             "tagName": "strong",
@@ -11643,15 +11741,75 @@
                                                 "children": [
                                                   {
                                                     "type": "text",
-                                                    "value": "[NEW FATES HERE]"
+                                                    "value": ""
                                                   }
                                                 ]
                                               }
                                             ]
-                                          },
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tagName": "li",
+                                        "properties": {},
+                                        "children": [
                                           {
                                             "type": "text",
-                                            "value": ""
+                                            "value": "The Aesthetic"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tagName": "li",
+                                        "properties": {},
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "value": "We will create something beautiful"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tagName": "li",
+                                        "properties": {},
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "value": "We will destroy something ugly"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tagName": "li",
+                                        "properties": {},
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "value": "We will reveal the truth behind the facade"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tagName": "strong",
+                                            "properties": {},
+                                            "children": [
+                                              {
+                                                "type": "element",
+                                                "tagName": "span",
+                                                "properties": {
+                                                  "style": "background-color: rgb(255, 255, 0)"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "type": "text",
+                                                    "value": ""
+                                                  }
+                                                ]
+                                              }
+                                            ]
                                           }
                                         ]
                                       },
@@ -11672,6 +11830,32 @@
                                         "properties": {},
                                         "children": [
                                           {
+                                            "type": "text",
+                                            "value": "We will convert others to our ways"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tagName": "li",
+                                        "properties": {},
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "value": "We will plunge into the unknown"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tagName": "li",
+                                        "properties": {},
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "value": "We will keep our faith in the darkness"
+                                          },
+                                          {
                                             "type": "element",
                                             "tagName": "strong",
                                             "properties": {},
@@ -11685,15 +11869,11 @@
                                                 "children": [
                                                   {
                                                     "type": "text",
-                                                    "value": "[NEW FATES HERE]"
+                                                    "value": ""
                                                   }
                                                 ]
                                               }
                                             ]
-                                          },
-                                          {
-                                            "type": "text",
-                                            "value": ""
                                           }
                                         ]
                                       },
@@ -11714,6 +11894,32 @@
                                         "properties": {},
                                         "children": [
                                           {
+                                            "type": "text",
+                                            "value": "We will make something barren, verdant"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tagName": "li",
+                                        "properties": {},
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "value": "We will root into the earth "
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tagName": "li",
+                                        "properties": {},
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "value": "We will engulf like vines"
+                                          },
+                                          {
                                             "type": "element",
                                             "tagName": "strong",
                                             "properties": {},
@@ -11727,7 +11933,7 @@
                                                 "children": [
                                                   {
                                                     "type": "text",
-                                                    "value": "[NEW FATES HERE]"
+                                                    "value": ""
                                                   }
                                                 ]
                                               }
@@ -14624,7 +14830,7 @@
               },
               {
                 "type": "text",
-                "value": " doesn’t make narrative sense (😢)"
+                "value": " doesn’t make narrative sense."
               }
             ]
           },
@@ -14665,22 +14871,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "If you do not decide your course of action, and/or do not pick an emissary by the time the phase has ended, no action will be taken."
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "text",
-                "value": "You have some things to decide, we’ll pass it over to your P/Fs to lead you through this action. "
+                "value": "If you do not decide your course of action, and/or do not pick an emissary by the time the phase has ended, no action will be taken. You have some things to decide, we’ll pass it over to your P/Fs to lead you through this action. "
               }
             ]
           },
@@ -17123,6 +17314,32 @@
             },
             "children": [
               {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "DAIN"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
                 "type": "text",
                 "value": "Across the Kin system, all eyes are on the black hole Unity and the last remnants of the Eye. It is a momentous occasion as the Suns of Jeff begin their final ritual to free the Two Suns. From the Sunrise temple in the Crumbs, amplified by the Etheric Net, it begins…"
               }
@@ -17175,8 +17392,37 @@
             },
             "children": [
               {
-                "type": "text",
-                "value": ""
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "DANIEL"
+                  }
+                ]
               }
             ]
           },
@@ -17207,6 +17453,28 @@
               {
                 "type": "text",
                 "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "DAIN"
+                  }
+                ]
               }
             ]
           },
@@ -17340,6 +17608,28 @@
             },
             "children": [
               {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "DAIN"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
                 "type": "text",
                 "value": "All Societies will roll at a Risk Level of 2 until you find a way to protect yourselves or deal with the storms."
               }
@@ -17357,6 +17647,28 @@
               {
                 "type": "text",
                 "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "DANIEL"
+                  }
+                ]
               }
             ]
           },
@@ -17414,6 +17726,32 @@
               ]
             },
             "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "DAIN"
+                  }
+                ]
+              },
               {
                 "type": "text",
                 "value": ""
@@ -17584,13 +17922,9 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "GM"
+                    "value": "DAIN"
                   }
                 ]
-              },
-              {
-                "type": "text",
-                "value": ""
               }
             ]
           },
@@ -17640,7 +17974,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "GM"
+                    "value": "DANIEL"
                   }
                 ]
               },
@@ -17767,7 +18101,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "GM"
+                    "value": "DANIEL"
                   }
                 ]
               },
@@ -17823,7 +18157,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "GM"
+                    "value": "DAIN"
                   }
                 ]
               },
@@ -17930,7 +18264,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "If we can ease their suffering, there may be a future for us yet."
+                "value": "If we can ease their suffering, there may be a future for us yet. But words alone cannot ameliorate their agony. How does one care for a volcano, soothe an earthquake, or prove their love to a tempest?"
               }
             ]
           },
@@ -17965,7 +18299,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "GM"
+                    "value": "DANIEL"
                   }
                 ]
               }
@@ -18075,7 +18409,7 @@
                 "children": [
                   {
                     "type": "text",
-                    "value": "DANIEL"
+                    "value": "DAIN"
                   }
                 ]
               }
@@ -18591,6 +18925,79 @@
                         ]
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "u",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "span",
+                        "properties": {
+                          "style": "color: rgb(255, 0, 0)"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "REMINDER"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "span",
+                "properties": {
+                  "style": "color: rgb(255, 0, 0)"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Share Map and Duality Crisis with Players"
                   }
                 ]
               }
@@ -21389,6 +21796,87 @@
           },
           {
             "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "The University of Truth and Beauty"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Has begun the engineering work to conceptualize the new megastructure - add 5 resources"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "The Burning Ember"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Provides blueprints, found in ancient imperial archives on Division, of the old Unity Siphon to the UTB - 8 Resources"
+                          },
+                          {
+                            "type": "text",
+                            "value": ""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
             "tagName": "p",
             "properties": {
               "className": [
@@ -23829,6 +24317,94 @@
           },
           {
             "type": "element",
+            "tagName": "ul",
+            "properties": {
+              "className": [
+                "nesting-level-1"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "The University of Truth and Beauty"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Has made a breakthrough in the algorithms necessary for regulating Duality, contributing 10 resources."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "li",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "The Burning Ember"
+                  },
+                  {
+                    "type": "element",
+                    "tagName": "ul",
+                    "properties": {
+                      "className": [
+                        "nesting-level-2"
+                      ]
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Has begun construction of the megastructure with workers from Division, contributing 15 resources"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tagName": "li",
+                        "properties": {},
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Attacks the Realm?"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
             "tagName": "p",
             "properties": {
               "className": [
@@ -23850,72 +24426,7 @@
                     "children": [
                       {
                         "type": "text",
-                        "value": "[NEW PLOT INFO] "
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "background-color: rgb(255, 255, 0)"
-                        },
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": ""
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "background-color: rgb(255, 255, 0)"
-                        },
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": ""
-                          }
-                        ]
+                        "value": ""
                       }
                     ]
                   }
@@ -27859,34 +28370,9 @@
             },
             "children": [
               {
-                "type": "element",
-                "tagName": "i",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "And with that, our vision of the Kin system begins to darken and blur. Without closure or absolution, but certainly having changed. And in its place we see a small blue marble of a planet filled with life and all the complexity that life brings. And on that planet we see a group of people, in a dark room, sitting around and telling stories together. Stories about a solar system far, far, away. Stories about today."
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
+                "type": "text",
+                "value": "And with that, our vision of the Kin system begins to darken and blur. Without closure or absolution, but certainly having changed. And in its place we see a small blue marble of a planet filled with life and all the complexity that life brings. And on that planet we see a group of people, in a dark room, sitting around and telling stories together. Stories about a solar system far, far, away. Stories about today."
+              },
               {
                 "type": "element",
                 "tagName": "i",
@@ -27950,6 +28436,117 @@
             "children": [
               {
                 "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "SAM"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "[INSERT HERE]"
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "ALL"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
                 "value": "Where have we been "
               }
             ]
@@ -27980,7 +28577,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "Who have we been "
+                "value": "Who were we then"
               }
             ]
           },
@@ -27995,7 +28592,681 @@
             "children": [
               {
                 "type": "text",
-                "value": "And who do we wanna be "
+                "value": "And who could we be"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where have we been "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where are we going "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Who were we then"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "And who could we be"
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "JOE"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Once we were intrepid out there finding new homes but we got our golden die too late then  couldn’t dodge war so we got grounded"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "MATTHEW"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "When the Faithful became the Mighty\u000bWe called for no war! "
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\u000b"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "KC/JOE"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "No Kings"
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\u000b"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "MATTHEW"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "That demand failed\u000bBut we kept on fighting until we united "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "margin-top: 12PT; margin-bottom: 12PT",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "JOE\u000b"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "[spoke] 9 generations ago, our system faced an energy crisis."
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "margin-top: 12PT; margin-bottom: 12PT",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "KC\u000b"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "So the Aesthetic of Luster took initiative "
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\u000b\u000bMATTHEW\u000b"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Yes you did"
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\u000b\u000bKC\u000b"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "We kick-started the creation of a university centered around clean energy research. "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "margin-top: 12PT; margin-bottom: 12PT",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "MATTHEW\u000b"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Forming it required sacrifice and commitment from everyone. "
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "KC\u000b"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "That founded the University of"
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\u000b\u000bJOE"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Truth …."
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "MATTHEW"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "And …."
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\u000b"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "JOE"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Beauty …."
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\u000b"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "ALL"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where have we been"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where are we going "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Who were we then"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "And who could we be"
               }
             ]
           },
@@ -28025,7 +29296,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "The story’s yours "
+                "value": "Where have we been "
               }
             ]
           },
@@ -28040,7 +29311,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "It’s up to you "
+                "value": "Where are we going "
               }
             ]
           },
@@ -28055,7 +29326,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "Back on planet earth "
+                "value": "Who were we then"
               }
             ]
           },
@@ -28070,71 +29341,7 @@
             "children": [
               {
                 "type": "text",
-                "value": "What are you gonna do"
-              },
-              {
-                "type": "text",
-                "value": ""
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "h1",
-            "properties": {
-              "className": [
-                "heading-1"
-              ],
-              "id": "generations-pass"
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Generations Pass"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "subtitle"
-              ],
-              "id": "h.cgcak439u12h"
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "i",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "20 Minutes"
-                      }
-                    ]
-                  }
-                ]
+                "value": "And who could we be"
               }
             ]
           },
@@ -28149,366 +29356,7 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "GM"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "I will now roll a 10 sided die to decide how many generations pass between now and the next session of Space Opera."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "span",
-                    "properties": {
-                      "style": "background-color: rgb(255, 255, 0)"
-                    },
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": ""
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "background-color: rgb(255, 255, 0)"
-                        },
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "GM ROLLS A D10 AT THE DAIS, ANNOUNCING THE NUMBER"
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": ""
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "background-color: rgb(255, 255, 0)"
-                        },
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "ATTENTION RETURNS TO TABLES, PFS LEAD TABLES THROUGH INDEPENDENTLY"
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "background-color: rgb(255, 255, 0)"
-                        },
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": ""
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": ""
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "color: rgb(255, 0, 0)"
-                        },
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "AS A SPIRIT"
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "background-color: rgb(255, 0, 255); color: rgb(255, 255, 255)"
-                        },
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": ""
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "P/F"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "It’s time to turn the final galactic page before closing today’s tome of Space Opera."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
+                "tagName": "strong",
                 "properties": {},
                 "children": [
                   {
@@ -28530,760 +29378,40 @@
             "children": [
               {
                 "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "P/F"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
+                "tagName": "strong",
                 "properties": {},
                 "children": [
                   {
                     "type": "text",
-                    "value": "Generations have "
+                    "value": "AMB"
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
               {
                 "type": "element",
-                "tagName": "s",
+                "tagName": "strong",
                 "properties": {},
                 "children": [
                   {
                     "type": "text",
-                    "value": "passed "
+                    "value": "\t"
                   }
                 ]
               },
               {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ".. It is now time to serve the future generations of this planet."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "u",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "strong",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "RULES: SOCIETY CHANGES"
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "ol",
-            "properties": {
-              "className": [
-                "nesting-level-1"
-              ],
-              "list-style-type": "decimal"
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "strong",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "New Society Sheet "
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "i",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "strong",
-                            "properties": {},
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "(along with the old Society Sheet)"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "C"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "reate a new story for your Society on a new Society Sheet"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "ol",
-                    "properties": {
-                      "className": [
-                        "nesting-level-2"
-                      ],
-                      "list-style-type": "lower-alpha"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "li",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "s",
-                            "properties": {},
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "“At first”, “but then”, and “and now.” "
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "“At First”: copy what was written for your Society’s previous “But then…”"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "“But then” copy what was written for your Society’s previous “And now…”"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Create something new for  and “And Now”"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "ol",
-                    "properties": {
-                      "className": [
-                        "nesting-level-2"
-                      ],
-                      "list-style-type": "lower-alpha"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "li",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "s",
-                            "properties": {},
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Vote - no longer as VoL and VoP"
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "type": "element",
-                        "tagName": "li",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "s",
-                            "properties": {},
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "There are no Voices of Leaders or Voices of People—there is only the voice of the ancestors you want to become."
-                              }
-                            ]
-                          },
-                          {
-                            "type": "element",
-                            "tagName": "s",
-                            "properties": {},
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": ""
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "s",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": ""
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "u",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "strong",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "RULES: COMMUNITY SHEET"
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "ol",
-            "properties": {
-              "className": [
-                "nesting-level-1"
-              ],
-              "list-style-type": "decimal"
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "strong",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "span",
-                            "properties": {
-                              "style": "color: rgb(255, 0, 0)"
-                            },
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "PFs PASS OUT NEW COMMUNITY SHEET AND GENERATIONS PASSING SHEET"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "strong",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": ""
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Ask: "
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "i",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "“What Lesson did your community learn that you want to pass to future generations?”"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "ol",
-                    "properties": {
-                      "className": [
-                        "nesting-level-2"
-                      ],
-                      "list-style-type": "lower-alpha"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "li",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "s",
-                            "properties": {},
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Write this response in the “What We Remember” box"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Community Archetype"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "ol",
-                    "properties": {
-                      "className": [
-                        "nesting-level-2"
-                      ],
-                      "list-style-type": "lower-alpha"
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "li",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "s",
-                            "properties": {},
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Roll 1 D6 and reference chart under “Community Archetype”"
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "type": "element",
-                        "tagName": "li",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "element",
-                            "tagName": "s",
-                            "properties": {},
-                            "children": [
-                              {
-                                "type": "text",
-                                "value": "Record this information on the new community sheet in the fields marked (adjective) (people)."
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "u",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "strong",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": ""
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "p",
-            "properties": {
-              "className": [
-                "normal-text"
-              ]
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "u",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "strong",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "RULES: NEW RESOURCES"
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "element",
-            "tagName": "ol",
-            "properties": {
-              "className": [
-                "nesting-level-1"
-              ],
-              "list-style-type": "decimal"
-            },
-            "children": [
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Roll 1 D6 per resource in your community’s control "
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Reference the “Resources” Chart and keep both words, cross out one word, or destroy the resource accordingly"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "s",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Make changes to resources on the resource itself"
-                      }
-                    ]
-                  }
-                ]
+                "type": "text",
+                "value": "Lassoooo"
               }
             ]
           },
@@ -29298,7 +29426,22 @@
             "children": [
               {
                 "type": "text",
-                "value": ""
+                "value": "\tCurious you moved the university into the crumbs"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\tAlsoooooo"
               }
             ]
           },
@@ -29317,24 +29460,741 @@
                 "properties": {},
                 "children": [
                   {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "span",
-                        "properties": {
-                          "style": "color: rgb(255, 0, 0)"
-                        },
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "Potential embodied moment - transition out of the story and let go of communities and characters"
-                          }
-                        ]
-                      }
-                    ]
+                    "type": "text",
+                    "value": "\tI don’t know the words, gotta wait until the future come (doofer)"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "JACKIE"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "The enterprise "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "and then the grounded "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "We double rolled some 1’s and freed the suns "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "And the faithful were founded "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "SAM - we don’t know yet!"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "a people displaced, still more rolls to take"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "history andfate that chased through time, "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "as if from nowhere, we arrived,"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "AMB - "
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Fearless in our blood, Intrepid"
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "SAM"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": " Forged through struggle, We The Kindred**"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "JACKIE "
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "- ____ and rolled some sixes "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "2gether "
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "- "
+              },
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "WE ___ ____ ______ _____ THE SYSTEM"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "ALL"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where have we been "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where are we going "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Who were we then"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "And who could we be"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where have we been "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\tWhere have we been"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where are we going "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\tWhere are we—"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Who were we then"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "And who could we be"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\tWho could we be"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Now who could we be\t\t"
+              },
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Who could we be "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Who could we be\t\t"
+              },
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Who could we be "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where are we going? \t\t"
+              },
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Where are we going? "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where are we going? \t\t"
+              },
+              {
+                "type": "element",
+                "tagName": "i",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Where are we going? "
                   }
                 ]
               }
@@ -29365,36 +30225,405 @@
             },
             "children": [
               {
-                "type": "element",
-                "tagName": "u",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "DEBRIEF QUESTIONS"
-                      }
-                    ]
-                  }
-                ]
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where have we been "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where are we going "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Who were we then"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "And who could we be"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "The story’s yours now"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "It’s up to you"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Now who are you "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "And what you gonna do"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where have we been "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Where are we going "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Who were we then"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "And who could we be"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "The story’s yours now"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "It’s up to you"
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Now who are you "
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "And what you gonna do"
               },
               {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
                 "type": "element",
-                "tagName": "u",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "END OF SONG"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "DANIEL"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
                 "properties": {},
                 "children": [
                   {
                     "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
+                    "tagName": "span",
+                    "properties": {
+                      "style": "background-color: rgb(255, 255, 0)"
+                    },
                     "children": [
                       {
                         "type": "text",
-                        "value": ""
+                        "value": "[STUFF ABOUT THIS BEING THE END!]"
                       }
                     ]
                   }
@@ -29404,105 +30633,101 @@
           },
           {
             "type": "element",
-            "tagName": "ul",
+            "tagName": "p",
             "properties": {
               "className": [
-                "nesting-level-1"
+                "normal-text"
               ]
             },
             "children": [
               {
                 "type": "element",
-                "tagName": "li",
+                "tagName": "strong",
                 "properties": {},
                 "children": [
                   {
                     "type": "text",
-                    "value": "What was your favorite moment of today?"
-                  },
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "text-align: center",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
                   {
-                    "type": "element",
-                    "tagName": "ul",
-                    "properties": {
-                      "className": [
-                        "nesting-level-2"
-                      ]
-                    },
-                    "children": [
-                      {
-                        "type": "element",
-                        "tagName": "li",
-                        "properties": {},
-                        "children": [
-                          {
-                            "type": "text",
-                            "value": "Aiming to start with a question that is fairly easy to answer. \u000bConsider offering this as a round where the facilitator models a short-ish answer."
-                          }
-                        ]
-                      }
-                    ]
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "text-align: center",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tagName": "p",
+            "properties": {
+              "style": "text-align: center",
+              "className": [
+                "normal-text"
+              ]
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "strong",
+                "properties": {},
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "END OF SHOW"
                   }
                 ]
               },
               {
                 "type": "element",
-                "tagName": "li",
+                "tagName": "strong",
                 "properties": {},
                 "children": [
                   {
                     "type": "text",
-                    "value": "What was challenging about making decisions with other communities?"
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "What happened today that feels like a metaphor for real life?"
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Were any of you here for an earlier day? What stood out about today in contrast to last time? "
-                  }
-                ]
-              },
-              {
-                "type": "element",
-                "tagName": "li",
-                "properties": {},
-                "children": [
-                  {
-                    "type": "element",
-                    "tagName": "strong",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Is there anything that happened in Space Opera that you’d like to see more of in real life? "
-                      }
-                    ]
-                  },
-                  {
-                    "type": "element",
-                    "tagName": "i",
-                    "properties": {},
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "(Most important!)"
-                      }
-                    ]
+                    "value": ""
                   }
                 ]
               }
