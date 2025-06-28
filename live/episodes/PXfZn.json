@@ -1272,13 +1272,13 @@
       "_type": "Phase",
       "id": "yOSrj",
       "type": "Individual Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 571.2279999999978,
+      "timeElapsed": 796.2469999999973,
       "actualTime": {
         "s": "2025-06-28T20:48:57.126+00:00",
-        "e": "2025-06-28T20:58:57.126+00:00",
+        "e": "2025-06-28T21:02:13.297+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51069,6 +51069,102 @@
       "type": "PhaseStarted",
       "description": "Round 3: Individual Phase",
       "value": "2025-06-28T20:48:57.126Z"
+    },
+    {
+      "_type": "Record",
+      "id": "ckyZA",
+      "timestamp": "2025-06-28T21:02:13.297Z",
+      "type": "PhaseEnded",
+      "description": "Round 3: Individual Phase",
+      "value": "2025-06-28T21:02:13.297Z"
+    },
+    {
+      "_type": "Record",
+      "id": "Fe416",
+      "timestamp": "2025-06-28T21:02:13.297Z",
+      "type": "PhaseDuration",
+      "description": "Round 3: Individual Phase",
+      "value": 13.269516666666666
+    },
+    {
+      "_type": "Record",
+      "id": "y6Hdy",
+      "timestamp": "2025-06-28T21:02:13.298Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "aUfOm",
+      "timestamp": "2025-06-28T21:02:13.298Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Undying Fire,Clean-Energy Reactors ,Crystal Smelters,Healing Quartz Crystals to take action.",
+      "value": 4
+    },
+    {
+      "_type": "Record",
+      "id": "xwUxD",
+      "timestamp": "2025-06-28T21:02:13.298Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "mnhkN",
+      "timestamp": "2025-06-28T21:02:13.298Z",
+      "type": "ActionResources",
+      "description": "the mighty used Gemstone Armada,Energetic Crystals,Wide Range Cannons,Electromagnetic Shields to take action.",
+      "value": 4
+    },
+    {
+      "_type": "Record",
+      "id": "PWoVh",
+      "timestamp": "2025-06-28T21:02:13.298Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "itJ2F",
+      "timestamp": "2025-06-28T21:02:13.298Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Purifying Stones,Community Battery,Cryogenic Science to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "REPey",
+      "timestamp": "2025-06-28T21:02:13.298Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "IWUWK",
+      "timestamp": "2025-06-28T21:02:13.298Z",
+      "type": "ActionResources",
+      "description": "the grounded used Freakish Explosions,Seismic Mondegreens,Refreshing Underthinking to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "bUgZd",
+      "timestamp": "2025-06-28T21:02:13.298Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "BEby9",
+      "timestamp": "2025-06-28T21:02:13.298Z",
+      "type": "ActionResources",
+      "description": "the faithful used Regenerative Construction,Endless Energy,Creative Understanding  to take action.",
+      "value": 3
     }
   ]
 }
