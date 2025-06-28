@@ -1256,7 +1256,7 @@
       "status": "playing",
       "round": 3,
       "duration": 1200,
-      "timeElapsed": 1039.1999999999923,
+      "timeElapsed": 1250.348999999989,
       "actualTime": {
         "s": "2025-06-28T20:22:43.017+00:00",
         "e": "2025-06-28T20:42:43.017+00:00",
@@ -2550,9 +2550,9 @@
       "id": "hKPUu",
       "round": 3,
       "societyId": "et0k8",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "1",
+      "advantage": "0",
+      "disadvantage": "1",
       "ambassadors": {
         "erGwW": ""
       },
