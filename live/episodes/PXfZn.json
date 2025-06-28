@@ -438,11 +438,12 @@
       "id": "lopvR",
       "round": "3",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "ZMACj"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1113,7 +1114,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 631.6679999999976,
+      "timeElapsed": 634.6669999999976,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
