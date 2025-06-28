@@ -298,12 +298,9 @@
       "id": "CsT62",
       "round": "2",
       "societyId": "Feay0",
-      "resourceIds": [
-        "WJcLI"
-      ],
+      "resourceIds": [],
       "texts": [
         "Apprehend asteroid ",
-        "Convert asteroid ",
         ""
       ],
       "result": [],
@@ -936,7 +933,7 @@
       "status": "playing",
       "round": 2,
       "duration": 1200,
-      "timeElapsed": 1370.5569999999896,
+      "timeElapsed": 1373.5589999999895,
       "actualTime": {
         "s": "2025-06-28T18:46:10.708+00:00",
         "e": "2025-06-28T19:06:10.708+00:00",
