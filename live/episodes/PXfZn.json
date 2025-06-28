@@ -753,7 +753,11 @@
         "",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0,
+        0
+      ],
       "voteTime": "2025-06-28T22:24:20.134+00:00",
       "status": "voted",
       "tags": {
@@ -797,11 +801,12 @@
       "id": "By2Zh",
       "round": "5",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "TpH3x"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1660,7 +1665,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 456.29599999999886,
+      "timeElapsed": 459.29599999999886,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
