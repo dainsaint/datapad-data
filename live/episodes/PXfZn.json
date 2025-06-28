@@ -760,11 +760,12 @@
       "id": "n99Ut",
       "round": "5",
       "societyId": "e-JcG",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "tmrOc"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1640,7 +1641,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 391.2609999999992,
+      "timeElapsed": 393.2609999999992,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
