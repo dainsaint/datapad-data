@@ -452,7 +452,7 @@
       "id": "hlIaD",
       "societyId": "e-JcG",
       "player": "Jess She/they",
-      "name": "Kin 1",
+      "name": "Saturnalian Sirens (Kin)",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 1395.4839999999942,
+      "timeElapsed": 1414.4949999999942,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1809,7 +1809,8 @@
         "baFQb": "",
         "n9ZRY": "",
         "l5d1f": "",
-        "nHktk": ""
+        "nHktk": "",
+        "hlIaD": ""
       },
       "alterLeadership": {}
     },
