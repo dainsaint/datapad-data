@@ -1562,7 +1562,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 245.0860000000002,
+      "timeElapsed": 249.08800000000022,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
@@ -2284,7 +2284,7 @@
     {
       "_type": "Resource",
       "id": "I0XUp",
-      "communityId": "n9ZRY",
+      "communityId": "baFQb",
       "name": "System's Attention",
       "tags": {
         "_type": "Tags",
