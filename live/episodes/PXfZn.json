@@ -1515,13 +1515,13 @@
       "_type": "Phase",
       "id": "XXDVr",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 5,
       "duration": 300,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-27T17:10:52.382+00:00",
-        "e": "2025-06-27T17:10:52.382+00:00",
+        "s": "2025-06-28T22:07:57.214+00:00",
+        "e": "2025-06-28T22:12:57.214+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1715,7 +1715,9 @@
       "name": "Natural Charisma",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1745,9 +1747,7 @@
       "name": "Undying Fire",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1767,7 +1767,9 @@
       "name": "Alchemical Altars",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1777,9 +1779,7 @@
       "name": "Crystal Smelters",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1833,7 +1833,9 @@
       "name": "Diplomatic Leaders",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1843,9 +1845,7 @@
       "name": "Clean-Energy Reactors ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1877,7 +1877,9 @@
       "name": "Infrastructure Knowledge",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1887,9 +1889,7 @@
       "name": "Healing Quartz Crystals",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1933,9 +1933,7 @@
       "name": "Refreshing Underthinking",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1945,9 +1943,7 @@
       "name": "Freakish Explosions",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1957,7 +1953,9 @@
       "name": "Infinite Water",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1999,7 +1997,9 @@
       "name": "Safe Shelters",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2029,9 +2029,7 @@
       "name": "Endless Energy",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2042,7 +2040,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed"
+          "destroyed",
+          "exhausted"
         ]
       }
     },
@@ -2117,9 +2116,7 @@
       "name": "Seismic Mondegreens",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2213,9 +2210,7 @@
       "name": "Regenerative Construction",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2225,7 +2220,9 @@
       "name": "Truthful Communication ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2245,9 +2242,7 @@
       "name": "Creative Understanding ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2267,7 +2262,9 @@
       "name": "System's Attention",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -51661,6 +51658,22 @@
       "type": "ActionResources",
       "description": "the faithful used Diplomatic Leaders,Natural Charisma,Truthful Communication  to take action.",
       "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "sPI_J",
+      "timestamp": "2025-06-28T22:07:57.215Z",
+      "type": "PhaseStarted",
+      "description": "Round 5: Universal Phase",
+      "value": "2025-06-28T22:07:57.215Z"
+    },
+    {
+      "_type": "Record",
+      "id": "D1zXn",
+      "timestamp": "2025-06-28T22:07:57.215Z",
+      "type": "CommunitiesEndangered",
+      "description": "Arch St. — Episode 3: Extroverted Bartenders,Avant-Garde Gemcutters,Deceptive Losers,Powerful Swimmers",
+      "value": 4
     }
   ]
 }
