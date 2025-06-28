@@ -872,7 +872,7 @@
       "status": "playing",
       "round": 2,
       "duration": 780,
-      "timeElapsed": 677.6589999999976,
+      "timeElapsed": 680.6599999999976,
       "actualTime": {
         "s": "2025-06-28T18:30:37.602+00:00",
         "e": "2025-06-28T18:44:37.602+00:00",
@@ -1294,7 +1294,7 @@
     {
       "_type": "Resource",
       "id": "F2R-u",
-      "communityId": "BNuWv",
+      "communityId": "ZTISw",
       "name": "Huge Mining Gear",
       "tags": {
         "_type": "Tags",
