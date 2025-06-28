@@ -1518,7 +1518,7 @@
       "status": "playing",
       "round": 5,
       "duration": 300,
-      "timeElapsed": 435.1599999999986,
+      "timeElapsed": 444.19399999999854,
       "actualTime": {
         "s": "2025-06-28T22:07:57.214+00:00",
         "e": "2025-06-28T22:12:57.214+00:00",
@@ -2854,9 +2854,9 @@
       "id": "tILGI",
       "round": 5,
       "societyId": "e-JcG",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "4",
+      "advantage": "0",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     },
