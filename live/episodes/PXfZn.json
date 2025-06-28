@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1090.3269999999968,
+      "timeElapsed": 1093.3299999999967,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1251,7 +1251,7 @@
       "_type": "Resource",
       "id": "Dyo-C",
       "communityId": "Rp9Mo",
-      "name": "Forbidden []",
+      "name": "Forbidden Foam",
       "tags": {
         "_type": "Tags",
         "value": []
