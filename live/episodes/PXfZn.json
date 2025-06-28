@@ -743,13 +743,13 @@
       "_type": "Phase",
       "id": "ejteX",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 2.001,
       "actualTime": {
-        "s": "2025-06-27T17:10:52.381+00:00",
-        "e": "2025-06-27T17:10:52.381+00:00",
+        "s": "2025-06-28T18:10:50.844+00:00",
+        "e": "2025-06-28T18:20:50.844+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -50069,6 +50069,14 @@
       "type": "PhaseDuration",
       "description": "Round 1: Galactic Phase",
       "value": 19.73115
+    },
+    {
+      "_type": "Record",
+      "id": "Oo-Qn",
+      "timestamp": "2025-06-28T18:10:50.844Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Individual Phase",
+      "value": "2025-06-28T18:10:50.844Z"
     }
   ]
 }
