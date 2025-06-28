@@ -436,9 +436,11 @@
       "societyId": "V9xbw",
       "resourceIds": [
         "v-ciH",
-        "Y1qMQ"
+        "Y1qMQ",
+        "oKf8S"
       ],
       "texts": [
+        "",
         "",
         ""
       ],
@@ -1140,7 +1142,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 709.7999999999971,
+      "timeElapsed": 711.8049999999971,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
