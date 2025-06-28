@@ -1499,7 +1499,7 @@
       "status": "playing",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 338.11499999999967,
       "actualTime": {
         "s": "2025-06-28T21:55:56.094+00:00",
         "e": "2025-06-28T22:05:56.094+00:00",
@@ -2815,7 +2815,7 @@
         "CYPuO": "",
         "Pry_D": "",
         "vcMaN": "",
-        "Saxy5": "V9xbw"
+        "Saxy5": ""
       },
       "alterLeadership": {}
     }
