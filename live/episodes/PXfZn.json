@@ -663,9 +663,9 @@
         "udBlg"
       ],
       "texts": [
-        "To persuade the Realm to give the remaining resources to co p,enal project david",
-        "",
-        "Aid transparent commu "
+        "To persuade the Realm to give the remaining resources to complete Project David",
+        "Inspire collaboration ",
+        "Aid in transparent communication "
       ],
       "result": [
         0,
@@ -1461,7 +1461,7 @@
       "status": "playing",
       "round": 4,
       "duration": 1200,
-      "timeElapsed": 82.03200000000001,
+      "timeElapsed": 89.03200000000001,
       "actualTime": {
         "s": "2025-06-28T21:20:42.063+00:00",
         "e": "2025-06-28T21:40:42.063+00:00",
