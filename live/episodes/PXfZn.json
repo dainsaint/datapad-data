@@ -727,7 +727,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1200,
-      "timeElapsed": 504.2479999999982,
+      "timeElapsed": 621.3009999999974,
       "actualTime": {
         "s": "2025-06-28T17:51:05.271+00:00",
         "e": "2025-06-28T18:11:05.271+00:00",
@@ -1728,6 +1728,16 @@
       "id": "O65XI",
       "communityId": "vfrfk",
       "name": "Indeterminate Genetics",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "I0XUp",
+      "communityId": "nmW7Z",
+      "name": "System's Attention",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -50031,6 +50041,13 @@
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
       "value": "2025-06-28T17:51:05.271Z"
+    },
+    {
+      "_type": "Record",
+      "id": "qE_yI",
+      "timestamp": "2025-06-28T18:01:23.500Z",
+      "type": "ResourceCreated",
+      "value": "System's Attention"
     }
   ]
 }
