@@ -556,11 +556,10 @@
         "YXk54"
       ],
       "texts": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Collect broken pieces of Summit into a monument ",
+        "Provide renewable energy for the task",
+        "Refract the healing energy ",
+        "Form the core"
       ],
       "result": [
         0,
@@ -1257,7 +1256,7 @@
       "status": "playing",
       "round": 3,
       "duration": 1200,
-      "timeElapsed": 73.199,
+      "timeElapsed": 77.199,
       "actualTime": {
         "s": "2025-06-28T20:22:43.017+00:00",
         "e": "2025-06-28T20:42:43.017+00:00",
@@ -1549,7 +1548,9 @@
       "name": "Electromagnetic Shields",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
