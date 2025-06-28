@@ -1705,7 +1705,7 @@
       "status": "playing",
       "round": 5,
       "duration": 1200,
-      "timeElapsed": 664.1959999999991,
+      "timeElapsed": 874.2319999999983,
       "actualTime": {
         "s": "2025-06-28T22:25:36.916+00:00",
         "e": "2025-06-28T22:45:36.916+00:00",
@@ -1766,6 +1766,25 @@
       "actualTime": {
         "s": "2025-06-27T17:10:52.382+00:00",
         "e": "2025-06-27T17:10:52.382+00:00",
+        "invalid": null,
+        "isLuxonInterval": true
+      },
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Phase",
+      "id": "Hfl6i",
+      "type": "Individual Phase",
+      "status": "idle",
+      "round": 6,
+      "duration": 600,
+      "timeElapsed": 0,
+      "actualTime": {
+        "s": "2025-06-28T22:40:10.661+00:00",
+        "e": "2025-06-28T22:40:10.661+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
