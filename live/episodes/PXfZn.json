@@ -528,7 +528,7 @@
       "status": "playing",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 1617.5569999999927,
+      "timeElapsed": 1622.5579999999927,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1595,7 +1595,7 @@
       "_type": "Society",
       "id": "et0k8",
       "archetype": "the aesthetic",
-      "fateId": "",
+      "fateId": "fate_three",
       "color": "color-huckleberry",
       "tags": {
         "_type": "Tags",
