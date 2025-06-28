@@ -1257,7 +1257,7 @@
       "status": "playing",
       "round": 3,
       "duration": 1200,
-      "timeElapsed": 19.141,
+      "timeElapsed": 21.144,
       "actualTime": {
         "s": "2025-06-28T20:22:43.017+00:00",
         "e": "2025-06-28T20:42:43.017+00:00",
@@ -1872,7 +1872,7 @@
     {
       "_type": "Resource",
       "id": "oKf8S",
-      "communityId": "LFwRq",
+      "communityId": "iV-n0",
       "name": "Wide Range Cannons",
       "tags": {
         "_type": "Tags",
