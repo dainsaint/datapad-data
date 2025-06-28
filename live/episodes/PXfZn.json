@@ -764,8 +764,8 @@
       "id": "Rcsl8",
       "societyId": "Feay0",
       "player": "Morgan She/her/2",
-      "name": "Unscrupulous builders",
-      "voice": "leader",
+      "name": "Glorious Adventurers",
+      "voice": "people",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1331,7 +1331,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 260.12300000000016,
+      "timeElapsed": 263.12300000000016,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
@@ -2666,7 +2666,9 @@
       "risk": "1",
       "advantage": "0",
       "disadvantage": "1",
-      "ambassadors": {},
+      "ambassadors": {
+        "Rcsl8": ""
+      },
       "alterLeadership": {}
     },
     {
