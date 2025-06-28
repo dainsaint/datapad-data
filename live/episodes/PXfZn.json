@@ -503,18 +503,6 @@
     },
     {
       "_type": "Community",
-      "id": "cBV-v",
-      "societyId": "Feay0",
-      "player": "",
-      "name": "SALVATIONAL Nurses",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "Rcsl8",
       "societyId": "Feay0",
       "player": "Morgan She/her/2",
@@ -1009,7 +997,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 326.22999999999973,
+      "timeElapsed": 340.2489999999997,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
