@@ -1740,13 +1740,13 @@
       "_type": "Phase",
       "id": "VhIce",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 2,
       "actualTime": {
-        "s": "2025-06-27T17:10:52.382+00:00",
-        "e": "2025-06-27T17:10:52.382+00:00",
+        "s": "2025-06-28T22:55:57.887+00:00",
+        "e": "2025-06-28T23:05:57.887+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1784,7 +1784,9 @@
       "name": "Healing Nebula ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1824,7 +1826,9 @@
       "name": "Electromagnetic Shields",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1854,7 +1858,9 @@
       "name": "Abundant Followers",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1864,9 +1870,7 @@
       "name": "Natural Charisma",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -1906,7 +1910,9 @@
       "name": "Community Battery",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1916,7 +1922,9 @@
       "name": "Alchemical Altars",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -1980,9 +1988,7 @@
       "name": "Diplomatic Leaders",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2024,9 +2030,7 @@
       "name": "Infrastructure Knowledge",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2080,7 +2084,9 @@
       "name": "Refreshing Underthinking",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2090,7 +2096,9 @@
       "name": "Freakish Explosions",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2100,9 +2108,7 @@
       "name": "Infinite Water",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2144,9 +2150,7 @@
       "name": "Safe Shelters",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2166,7 +2170,9 @@
       "name": "Blood Festivals",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2187,8 +2193,7 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "destroyed",
-          "exhausted"
+          "destroyed"
         ]
       }
     },
@@ -2219,7 +2224,9 @@
       "name": "Overwhelming Numbers",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2229,9 +2236,7 @@
       "name": "Ancient Booty",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2251,9 +2256,7 @@
       "name": "Meticulous Planning",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2263,7 +2266,9 @@
       "name": "Seismic Suction",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2273,7 +2278,9 @@
       "name": "Bedazzled Bombers",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2293,7 +2300,9 @@
       "name": "Magic Crystals",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2313,7 +2322,9 @@
       "name": "Gemstone Armada",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2324,7 +2335,6 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "exhausted",
           "destroyed"
         ]
       }
@@ -2358,7 +2368,9 @@
       "name": "Regenerative Construction",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2368,9 +2380,7 @@
       "name": "Truthful Communication ",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2400,7 +2410,9 @@
       "name": "Indeterminate Genetics",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2410,9 +2422,7 @@
       "name": "System's Attention",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2422,7 +2432,9 @@
       "name": "Kin Treasure ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2442,9 +2454,7 @@
       "name": "Industrial Grade Spaceships",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
@@ -2454,7 +2464,9 @@
       "name": "Cunning Stealth ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2464,7 +2476,9 @@
       "name": "Collective Dreaming",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -2474,7 +2488,9 @@
       "name": "Summoning Ritual",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
@@ -52207,6 +52223,22 @@
       "type": "ActionResources",
       "description": "the faithful used Summoning Ritual,Regenerative Construction,Healing Nebula  to take action.",
       "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "c9F4J",
+      "timestamp": "2025-06-28T22:55:57.887Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Universal Phase",
+      "value": "2025-06-28T22:55:57.887Z"
+    },
+    {
+      "_type": "Record",
+      "id": "PYXlu",
+      "timestamp": "2025-06-28T22:55:57.888Z",
+      "type": "CommunitiesEndangered",
+      "description": "Arch St. — Episode 3: Extroverted Bartenders,Avant-Garde Gemcutters,Deceptive Losers,Powerful Swimmers",
+      "value": 4
     }
   ]
 }
