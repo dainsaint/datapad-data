@@ -394,7 +394,7 @@
         "Aid in our engineering "
       ],
       "result": [
-        0,
+        6,
         6,
         0
       ],
@@ -1256,7 +1256,7 @@
       "status": "playing",
       "round": 3,
       "duration": 1200,
-      "timeElapsed": 311.40299999999985,
+      "timeElapsed": 314.40299999999985,
       "actualTime": {
         "s": "2025-06-28T20:22:43.017+00:00",
         "e": "2025-06-28T20:42:43.017+00:00",
