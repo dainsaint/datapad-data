@@ -1461,7 +1461,7 @@
       "status": "playing",
       "round": 4,
       "duration": 1200,
-      "timeElapsed": 1177.5639999999912,
+      "timeElapsed": 1181.5639999999912,
       "actualTime": {
         "s": "2025-06-28T21:20:42.063+00:00",
         "e": "2025-06-28T21:40:42.063+00:00",
@@ -2179,7 +2179,9 @@
       "name": "Purifying Stones",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
