@@ -277,18 +277,6 @@
     },
     {
       "_type": "Community",
-      "id": "Z8-ZD",
-      "societyId": "yXHVO",
-      "player": "Milo",
-      "name": "Evolutionary Biologists ",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "CYPuO",
       "societyId": "yXHVO",
       "player": "PJ He/they",
@@ -528,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 395.05199999999985,
+      "timeElapsed": 448.06499999999966,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
