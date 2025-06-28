@@ -1721,7 +1721,7 @@
       "_type": "Phase",
       "id": "Hfl6i",
       "type": "Individual Phase",
-      "status": "complete",
+      "status": "idle",
       "round": 5,
       "duration": 600,
       "timeElapsed": 604.1969999999974,
