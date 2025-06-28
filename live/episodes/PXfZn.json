@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 922.2759999999978,
+      "timeElapsed": 933.2789999999977,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1191,7 +1191,7 @@
       "_type": "Resource",
       "id": "VX_km",
       "communityId": "IytuF",
-      "name": "Clean-Energy []",
+      "name": "Clean-Energy Reactors ",
       "tags": {
         "_type": "Tags",
         "value": []
