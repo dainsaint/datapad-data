@@ -1310,13 +1310,13 @@
       "_type": "Phase",
       "id": "wJtKC",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 4,
       "duration": 720,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-27T17:10:52.381+00:00",
-        "e": "2025-06-27T17:10:52.381+00:00",
+        "s": "2025-06-28T21:11:55.378+00:00",
+        "e": "2025-06-28T21:23:55.378+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51259,6 +51259,14 @@
       "type": "PhaseDuration",
       "description": "Round 4: Universal Phase",
       "value": 8.5977
+    },
+    {
+      "_type": "Record",
+      "id": "ORSaR",
+      "timestamp": "2025-06-28T21:11:55.378Z",
+      "type": "PhaseStarted",
+      "description": "Round 4: Societal Phase",
+      "value": "2025-06-28T21:11:55.378Z"
     }
   ]
 }
