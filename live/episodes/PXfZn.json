@@ -45,7 +45,7 @@
         "Increase the shields' stealth, responsiveness, and adaptability"
       ],
       "result": [
-        0,
+        6,
         0
       ],
       "voteTime": "2025-06-28T17:46:44.435+00:00",
@@ -727,7 +727,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1200,
-      "timeElapsed": 307.14499999999987,
+      "timeElapsed": 495.2169999999983,
       "actualTime": {
         "s": "2025-06-28T17:51:05.271+00:00",
         "e": "2025-06-28T18:11:05.271+00:00",
