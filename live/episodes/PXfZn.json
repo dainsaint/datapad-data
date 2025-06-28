@@ -1721,13 +1721,13 @@
       "_type": "Phase",
       "id": "Hfl6i",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "complete",
       "round": 5,
       "duration": 600,
       "timeElapsed": 604.1969999999974,
       "actualTime": {
         "s": "2025-06-28T22:44:59.385+00:00",
-        "e": "2025-06-28T22:55:03.552+00:00",
+        "e": "2025-06-28T22:55:57.203+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -52124,6 +52124,86 @@
       "_type": "Record",
       "id": "Xuy0U",
       "timestamp": "2025-06-28T22:55:03.553Z",
+      "type": "ActionResources",
+      "description": "the faithful used Summoning Ritual,Regenerative Construction,Healing Nebula  to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "AABGW",
+      "timestamp": "2025-06-28T22:55:57.203Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "cp_am",
+      "timestamp": "2025-06-28T22:55:57.203Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Alchemical Altars,Kin Treasure ,Indeterminate Genetics,Abundant Followers to take action.",
+      "value": 4
+    },
+    {
+      "_type": "Record",
+      "id": "bmJyc",
+      "timestamp": "2025-06-28T22:55:57.203Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "IiNvU",
+      "timestamp": "2025-06-28T22:55:57.203Z",
+      "type": "ActionResources",
+      "description": "the mighty used Gemstone Armada,Overwhelming Numbers,Cunning Stealth ,Collective Dreaming,Electromagnetic Shields to take action.",
+      "value": 5
+    },
+    {
+      "_type": "Record",
+      "id": "Xswcx",
+      "timestamp": "2025-06-28T22:55:57.204Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "vOwIA",
+      "timestamp": "2025-06-28T22:55:57.204Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Blood Festivals,Magic Crystals,Community Battery to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "i98nq",
+      "timestamp": "2025-06-28T22:55:57.204Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "BPfZP",
+      "timestamp": "2025-06-28T22:55:57.204Z",
+      "type": "ActionResources",
+      "description": "the grounded used Seismic Suction,Bedazzled Bombers,Freakish Explosions,Refreshing Underthinking to take action.",
+      "value": 4
+    },
+    {
+      "_type": "Record",
+      "id": "mQ3ug",
+      "timestamp": "2025-06-28T22:55:57.204Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "GLC2m",
+      "timestamp": "2025-06-28T22:55:57.204Z",
       "type": "ActionResources",
       "description": "the faithful used Summoning Ritual,Regenerative Construction,Healing Nebula  to take action.",
       "value": 3
