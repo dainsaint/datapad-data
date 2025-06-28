@@ -127,18 +127,6 @@
     },
     {
       "_type": "Community",
-      "id": "l5d1f",
-      "societyId": "e-JcG",
-      "player": "5",
-      "name": "Youthful Soothsayers",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "EnTME",
       "societyId": "V9xbw",
       "player": "Sabrina (She/her)",
@@ -514,7 +502,7 @@
       "status": "playing",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 1668.5759999999923,
+      "timeElapsed": 1690.583999999992,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
