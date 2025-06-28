@@ -374,9 +374,10 @@
       "id": "SwRrj",
       "round": "3",
       "societyId": "yXHVO",
-      "resourceIds": [],
+      "resourceIds": [
+        "xmVuM"
+      ],
       "texts": [
-        "",
         ""
       ],
       "result": [],
@@ -1066,7 +1067,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 549.6079999999982,
+      "timeElapsed": 551.6109999999983,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
