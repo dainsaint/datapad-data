@@ -710,9 +710,11 @@
       "societyId": "V9xbw",
       "resourceIds": [
         "v-ciH",
-        "HW-P6"
+        "HW-P6",
+        "WmMBl"
       ],
       "texts": [
+        "",
         "",
         ""
       ],
@@ -1557,7 +1559,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 144.0610000000001,
+      "timeElapsed": 147.0620000000001,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
@@ -2883,7 +2885,7 @@
       "id": "kHkxj",
       "round": 5,
       "societyId": "Feay0",
-      "risk": "4",
+      "risk": "3",
       "advantage": "0",
       "disadvantage": "0",
       "ambassadors": {},
