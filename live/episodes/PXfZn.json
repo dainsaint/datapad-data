@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1072.304999999997,
+      "timeElapsed": 1085.3259999999968,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1201,7 +1201,7 @@
       "_type": "Resource",
       "id": "cbEw9",
       "communityId": "Rp9Mo",
-      "name": "[] Fungus-Gel",
+      "name": "Soil-nutrient Fungus-Gel",
       "tags": {
         "_type": "Tags",
         "value": []
