@@ -97,7 +97,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "lost"
+          "lost",
+          "endangered"
         ]
       }
     },
@@ -284,7 +285,9 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "endangered"
+        ]
       }
     },
     {
@@ -368,9 +371,7 @@
       "voice": "people",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "endangered"
-        ]
+        "value": []
       }
     },
     {
@@ -518,13 +519,13 @@
       "_type": "Phase",
       "id": "jJ50g",
       "type": "Universal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
       "duration": 360,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-27T17:10:52.381+00:00",
-        "e": "2025-06-27T17:10:52.381+00:00",
+        "s": "2025-06-28T17:22:51.478+00:00",
+        "e": "2025-06-28T17:28:51.478+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -49785,6 +49786,22 @@
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "QFyri",
+      "timestamp": "2025-06-28T17:22:51.478Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Universal Phase",
+      "value": "2025-06-28T17:22:51.478Z"
+    },
+    {
+      "_type": "Record",
+      "id": "KPJWs",
+      "timestamp": "2025-06-28T17:22:51.479Z",
+      "type": "CommunitiesEndangered",
+      "description": "Arch St. — Episode 3: Extroverted Bartenders,Avant-Garde Gemcutters,Deceptive Losers,Powerful Rangers ",
+      "value": 4
     }
   ]
 }
