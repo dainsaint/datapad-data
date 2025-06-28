@@ -1562,7 +1562,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 241.0860000000002,
+      "timeElapsed": 245.0860000000002,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
@@ -2340,6 +2340,16 @@
       "id": "oT-wP",
       "communityId": "LFwRq",
       "name": "Collective Dreaming",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "YmYAw",
+      "communityId": "Pry_D",
+      "name": "Summoning Ritual",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -51764,6 +51774,13 @@
       "timestamp": "2025-06-28T22:19:00.756Z",
       "type": "ResourceCreated",
       "value": "Collective Dreaming"
+    },
+    {
+      "_type": "Record",
+      "id": "FMZWG",
+      "timestamp": "2025-06-28T22:20:47.270Z",
+      "type": "ResourceCreated",
+      "value": "Summoning Ritual"
     }
   ]
 }
