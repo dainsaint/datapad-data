@@ -486,7 +486,7 @@
         0
       ],
       "voteTime": "2025-06-28T20:19:21.588+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -518,10 +518,14 @@
         "YXk54"
       ],
       "texts": [
+        "",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0
+      ],
+      "voteTime": "2025-06-28T20:20:50.468+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -538,7 +542,7 @@
       "advantage": 0,
       "disadvantage": 0,
       "result": [],
-      "status": "open",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1207,7 +1211,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 760.9369999999969,
+      "timeElapsed": 763.9659999999969,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
