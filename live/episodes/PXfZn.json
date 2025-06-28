@@ -358,10 +358,12 @@
       "societyId": "Feay0",
       "resourceIds": [
         "WJcLI",
-        "NubjR"
+        "NubjR",
+        "XiXwK"
       ],
       "texts": [
         "Warm the planet",
+        "",
         ""
       ],
       "result": [],
@@ -1132,7 +1134,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 676.7829999999974,
+      "timeElapsed": 678.7839999999974,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
