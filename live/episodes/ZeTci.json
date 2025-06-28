@@ -3333,7 +3333,14 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {},
-      "alterLeadership": {}
+      "alterLeadership": {
+        "bWsq5": "leader",
+        "XxrAo": "leader",
+        "Pwqoy": "leader",
+        "IytuF": "leader",
+        "yC0li": "leader",
+        "erGwW": "leader"
+      }
     },
     {
       "_type": "Turn",
