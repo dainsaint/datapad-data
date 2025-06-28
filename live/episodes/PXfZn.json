@@ -1477,10 +1477,10 @@
       "_type": "Phase",
       "id": "JJK_T",
       "type": "Break",
-      "status": "playing",
+      "status": "paused",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 1,
+      "timeElapsed": 2.001,
       "actualTime": {
         "s": "2025-06-28T21:43:49.831+00:00",
         "e": "2025-06-28T21:53:49.831+00:00",
