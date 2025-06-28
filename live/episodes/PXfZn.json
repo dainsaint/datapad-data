@@ -611,10 +611,12 @@
       "texts": [
         "",
         "",
+        "",
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-28T21:19:50.885+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -636,7 +638,11 @@
         "",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0,
+        0
+      ],
       "voteTime": "2025-06-28T21:19:39.569+00:00",
       "status": "voted",
       "tags": {
@@ -1436,7 +1442,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 464.17499999999893,
+      "timeElapsed": 475.1769999999989,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
