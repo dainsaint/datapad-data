@@ -1032,7 +1032,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 524.5209999999984,
+      "timeElapsed": 528.5909999999984,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
@@ -1868,9 +1868,7 @@
       "name": "Regenerative Construction",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
