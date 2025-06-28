@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1163.3549999999962,
+      "timeElapsed": 1166.3549999999962,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1321,7 +1321,7 @@
       "_type": "Resource",
       "id": "U3Q-8",
       "communityId": "nmW7Z",
-      "name": "Ancient  X",
+      "name": "Ancient  Sagas",
       "tags": {
         "_type": "Tags",
         "value": []
