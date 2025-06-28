@@ -718,7 +718,7 @@
         "Raid the burning ember for resources for project David ",
         "Bolster the raid",
         "Make it a sneak attack",
-        "",
+        "Weaken their minds with visions",
         ""
       ],
       "result": [],
@@ -1596,7 +1596,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 286.132,
+      "timeElapsed": 300.1789999999999,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
