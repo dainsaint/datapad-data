@@ -1557,7 +1557,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 108.04800000000004,
+      "timeElapsed": 137.05800000000008,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
@@ -2324,6 +2324,16 @@
       "id": "WmMBl",
       "communityId": "LFwRq",
       "name": "Cunning Stealth ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "oT-wP",
+      "communityId": "LFwRq",
+      "name": "Collective Dreaming",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -51737,6 +51747,13 @@
       "timestamp": "2025-06-28T22:18:31.667Z",
       "type": "ResourceCreated",
       "value": "Cunning Stealth "
+    },
+    {
+      "_type": "Record",
+      "id": "TDf_O",
+      "timestamp": "2025-06-28T22:19:00.756Z",
+      "type": "ResourceCreated",
+      "value": "Collective Dreaming"
     }
   ]
 }
