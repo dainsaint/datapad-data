@@ -360,6 +360,7 @@
         "WJcLI"
       ],
       "texts": [
+        "Warm the planet",
         ""
       ],
       "result": [],
@@ -1094,7 +1095,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 609.6489999999978,
+      "timeElapsed": 620.6549999999977,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
