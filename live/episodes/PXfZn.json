@@ -1256,7 +1256,7 @@
       "status": "playing",
       "round": 3,
       "duration": 1200,
-      "timeElapsed": 322.40699999999975,
+      "timeElapsed": 559.5929999999978,
       "actualTime": {
         "s": "2025-06-28T20:22:43.017+00:00",
         "e": "2025-06-28T20:42:43.017+00:00",
@@ -2569,7 +2569,7 @@
       "round": 3,
       "societyId": "Feay0",
       "risk": "2",
-      "advantage": "0",
+      "advantage": "1",
       "disadvantage": "0",
       "ambassadors": {
         "Uyeis": "",
