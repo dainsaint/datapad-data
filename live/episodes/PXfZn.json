@@ -990,7 +990,7 @@
       "status": "playing",
       "round": 3,
       "duration": 300,
-      "timeElapsed": 292.26,
+      "timeElapsed": 294.26,
       "actualTime": {
         "s": "2025-06-28T20:01:59.636+00:00",
         "e": "2025-06-28T20:06:59.636+00:00",
@@ -1444,7 +1444,9 @@
       "name": "Manufacturing Depots",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "destroyed"
+        ]
       }
     },
     {
