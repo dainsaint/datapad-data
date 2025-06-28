@@ -689,8 +689,8 @@
         "TpH3x"
       ],
       "texts": [
-        "",
-        ""
+        "Create a support structure ",
+        "Synthesize the sand of Gust into material "
       ],
       "result": [
         0,
@@ -1461,7 +1461,7 @@
       "status": "playing",
       "round": 4,
       "duration": 1200,
-      "timeElapsed": 29.013000000000005,
+      "timeElapsed": 82.03200000000001,
       "actualTime": {
         "s": "2025-06-28T21:20:42.063+00:00",
         "e": "2025-06-28T21:40:42.063+00:00",
