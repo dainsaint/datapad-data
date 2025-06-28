@@ -734,7 +734,7 @@
       "status": "playing",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 163.16300000000018,
+      "timeElapsed": 186.18000000000023,
       "actualTime": {
         "s": "2025-06-28T18:10:50.844+00:00",
         "e": "2025-06-28T18:20:50.844+00:00",
@@ -1390,7 +1390,9 @@
       "name": "Screaming Scrolls",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
