@@ -743,9 +743,11 @@
       "round": "5",
       "societyId": "Feay0",
       "resourceIds": [
-        "pMkky"
+        "pMkky",
+        "XiXwK"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -1647,7 +1649,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 412.2629999999992,
+      "timeElapsed": 414.2619999999992,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
