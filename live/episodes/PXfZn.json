@@ -734,7 +734,7 @@
       "status": "playing",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 191.18200000000024,
+      "timeElapsed": 202.18500000000026,
       "actualTime": {
         "s": "2025-06-28T18:10:50.844+00:00",
         "e": "2025-06-28T18:20:50.844+00:00",
@@ -1208,7 +1208,9 @@
       "name": "Abundant Followers",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
