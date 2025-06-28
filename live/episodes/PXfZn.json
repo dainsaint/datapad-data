@@ -421,7 +421,7 @@
         "Sow panic and false confidence"
       ],
       "result": [
-        0,
+        6,
         0,
         0
       ],
@@ -1256,7 +1256,7 @@
       "status": "playing",
       "round": 3,
       "duration": 1200,
-      "timeElapsed": 741.8369999999956,
+      "timeElapsed": 794.8819999999948,
       "actualTime": {
         "s": "2025-06-28T20:22:43.017+00:00",
         "e": "2025-06-28T20:42:43.017+00:00",
