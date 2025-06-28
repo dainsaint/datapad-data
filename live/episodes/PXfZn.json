@@ -1557,7 +1557,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 75.037,
+      "timeElapsed": 108.04800000000004,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
@@ -2318,6 +2318,16 @@
           "exhausted"
         ]
       }
+    },
+    {
+      "_type": "Resource",
+      "id": "WmMBl",
+      "communityId": "LFwRq",
+      "name": "Cunning Stealth ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "societies": [
@@ -2888,7 +2898,9 @@
       "risk": "4",
       "advantage": "0",
       "disadvantage": "0",
-      "ambassadors": {},
+      "ambassadors": {
+        "CYPuO": "V9xbw"
+      },
       "alterLeadership": {}
     }
   ],
@@ -51718,6 +51730,13 @@
       "type": "PhaseStarted",
       "description": "Round 5: Societal Phase",
       "value": "2025-06-28T22:16:44.519Z"
+    },
+    {
+      "_type": "Record",
+      "id": "yKkHe",
+      "timestamp": "2025-06-28T22:18:31.667Z",
+      "type": "ResourceCreated",
+      "value": "Cunning Stealth "
     }
   ]
 }
