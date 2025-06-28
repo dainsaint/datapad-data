@@ -504,7 +504,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 778.1539999999984,
+      "timeElapsed": 781.1559999999984,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1209,7 +1209,7 @@
       "_type": "Resource",
       "id": "gYKbD",
       "communityId": "yC0li",
-      "name": "[] Knowledge",
+      "name": "Infrastructure Knowledge",
       "tags": {
         "_type": "Tags",
         "value": []
