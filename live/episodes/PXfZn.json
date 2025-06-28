@@ -1579,7 +1579,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 264.08900000000017,
+      "timeElapsed": 266.09000000000015,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
@@ -2067,7 +2067,7 @@
     {
       "_type": "Resource",
       "id": "LrFs7",
-      "communityId": "n9ZRY",
+      "communityId": "baFQb",
       "name": "Endless Energy",
       "tags": {
         "_type": "Tags",
