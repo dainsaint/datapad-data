@@ -1331,7 +1331,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 233.11400000000012,
+      "timeElapsed": 236.11600000000013,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
@@ -1722,7 +1722,7 @@
     {
       "_type": "Resource",
       "id": "smTrB",
-      "communityId": "IytuF",
+      "communityId": "Pwqoy",
       "name": "Diplomatic Leaders",
       "tags": {
         "_type": "Tags",
