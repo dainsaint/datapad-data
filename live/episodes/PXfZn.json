@@ -177,6 +177,7 @@
       "texts": [
         "Communicate with the 2 suns ",
         "Aid in communication ",
+        "Break the Veil's barriers  to  communication ",
         ""
       ],
       "result": [],
@@ -721,7 +722,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1200,
-      "timeElapsed": 3.024,
+      "timeElapsed": 92.05300000000005,
       "actualTime": {
         "s": "2025-06-28T17:51:05.271+00:00",
         "e": "2025-06-28T18:11:05.271+00:00",
