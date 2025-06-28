@@ -599,11 +599,12 @@
       "id": "FD-a1",
       "round": "4",
       "societyId": "e-JcG",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "SnwfK"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1385,7 +1386,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 323.1349999999999,
+      "timeElapsed": 325.1339999999999,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
