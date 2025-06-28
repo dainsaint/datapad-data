@@ -525,13 +525,13 @@
       "_type": "Phase",
       "id": "W9QZA",
       "type": "Setup/Onboarding",
-      "status": "idle",
+      "status": "playing",
       "round": 0,
       "duration": 1800,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-27T17:10:52.381+00:00",
-        "e": "2025-06-27T21:52:20.830+00:00",
+        "s": "2025-06-28T16:42:14.713+00:00",
+        "e": "2025-06-28T17:12:14.713+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -49625,6 +49625,14 @@
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "RXmc4",
+      "timestamp": "2025-06-28T16:42:14.713Z",
+      "type": "PhaseStarted",
+      "description": "Round 0: Setup/Onboarding",
+      "value": "2025-06-28T16:42:14.713Z"
     }
   ]
 }
