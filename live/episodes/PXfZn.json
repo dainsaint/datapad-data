@@ -1707,7 +1707,7 @@
       "status": "playing",
       "round": 5,
       "duration": 1200,
-      "timeElapsed": 101.04000000000003,
+      "timeElapsed": 104.04100000000004,
       "actualTime": {
         "s": "2025-06-28T22:25:36.916+00:00",
         "e": "2025-06-28T22:45:36.916+00:00",
@@ -3022,7 +3022,7 @@
       "id": "h1aJl",
       "round": 5,
       "societyId": "V9xbw",
-      "risk": "2",
+      "risk": "3",
       "advantage": "1",
       "disadvantage": "0",
       "ambassadors": {},
