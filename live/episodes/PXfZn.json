@@ -289,18 +289,6 @@
     },
     {
       "_type": "Community",
-      "id": "ZQ5E1",
-      "societyId": "yXHVO",
-      "player": "Deen They Them",
-      "name": "Traveling Farmers ",
-      "voice": "leader",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "iRW5s",
       "societyId": "yXHVO",
       "player": "Princess Connor She Her",
@@ -516,7 +504,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 448.06499999999966,
+      "timeElapsed": 460.06599999999963,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
