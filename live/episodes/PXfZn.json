@@ -846,7 +846,7 @@
       "status": "playing",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 519.5739999999986,
+      "timeElapsed": 529.5749999999986,
       "actualTime": {
         "s": "2025-06-28T18:30:37.602+00:00",
         "e": "2025-06-28T18:44:37.602+00:00",
@@ -2157,9 +2157,9 @@
       "id": "PHkFO",
       "round": 2,
       "societyId": "et0k8",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "2",
+      "advantage": "0",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     },
