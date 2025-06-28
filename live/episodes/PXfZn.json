@@ -504,7 +504,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 797.2509999999984,
+      "timeElapsed": 817.2539999999983,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1079,7 +1079,7 @@
       "_type": "Resource",
       "id": "DwVAm",
       "communityId": "xUCao",
-      "name": "_______ Materials",
+      "name": "Rare Materials",
       "tags": {
         "_type": "Tags",
         "value": []
