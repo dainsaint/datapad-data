@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1116.3359999999966,
+      "timeElapsed": 1120.3409999999965,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1371,7 +1371,7 @@
       "_type": "Resource",
       "id": "XvISU",
       "communityId": "BNuWv",
-      "name": "[] Intoxicants ",
+      "name": "Hallucinogenic Intoxicants ",
       "tags": {
         "_type": "Tags",
         "value": []
