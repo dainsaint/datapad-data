@@ -693,7 +693,7 @@
         "Synthesize the sand of Gust into material "
       ],
       "result": [
-        0,
+        6,
         0
       ],
       "voteTime": "2025-06-28T21:19:28.937+00:00",
@@ -1461,7 +1461,7 @@
       "status": "playing",
       "round": 4,
       "duration": 1200,
-      "timeElapsed": 402.1779999999989,
+      "timeElapsed": 448.18999999999863,
       "actualTime": {
         "s": "2025-06-28T21:20:42.063+00:00",
         "e": "2025-06-28T21:40:42.063+00:00",
