@@ -117,7 +117,7 @@
       "_type": "Community",
       "id": "nmW7Z",
       "societyId": "e-JcG",
-      "player": "3",
+      "player": "Caro",
       "name": "Sharpened Warriors",
       "voice": "leader",
       "tags": {
@@ -528,7 +528,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 330.04799999999994,
+      "timeElapsed": 341.04799999999994,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
