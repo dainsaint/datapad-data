@@ -1274,8 +1274,8 @@
       "type": "Individual Phase",
       "status": "playing",
       "round": 3,
-      "duration": 660,
-      "timeElapsed": 568.2289999999978,
+      "duration": 720,
+      "timeElapsed": 571.2279999999978,
       "actualTime": {
         "s": "2025-06-28T20:48:57.126+00:00",
         "e": "2025-06-28T20:58:57.126+00:00",
