@@ -1740,13 +1740,13 @@
       "_type": "Phase",
       "id": "VhIce",
       "type": "Universal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 2,
+      "timeElapsed": 608.3109999999964,
       "actualTime": {
         "s": "2025-06-28T22:55:57.887+00:00",
-        "e": "2025-06-28T23:05:57.887+00:00",
+        "e": "2025-06-28T23:06:06.512+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -52239,6 +52239,22 @@
       "type": "CommunitiesEndangered",
       "description": "Arch St. — Episode 3: Extroverted Bartenders,Avant-Garde Gemcutters,Deceptive Losers,Powerful Swimmers",
       "value": 4
+    },
+    {
+      "_type": "Record",
+      "id": "sA3If",
+      "timestamp": "2025-06-28T23:06:06.512Z",
+      "type": "PhaseEnded",
+      "description": "Round 6: Universal Phase",
+      "value": "2025-06-28T23:06:06.512Z"
+    },
+    {
+      "_type": "Record",
+      "id": "gl_Xe",
+      "timestamp": "2025-06-28T23:06:06.512Z",
+      "type": "PhaseDuration",
+      "description": "Round 6: Universal Phase",
+      "value": 10.14375
     }
   ]
 }
