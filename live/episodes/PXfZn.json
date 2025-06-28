@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1152.3489999999963,
+      "timeElapsed": 1159.3549999999962,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1331,7 +1331,7 @@
       "_type": "Resource",
       "id": "SnwfK",
       "communityId": "nmW7Z",
-      "name": "Safe X",
+      "name": "Safe Shelters",
       "tags": {
         "_type": "Tags",
         "value": []
