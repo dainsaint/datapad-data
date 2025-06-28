@@ -624,7 +624,8 @@
       "round": "4",
       "societyId": "Feay0",
       "resourceIds": [
-        "Vs6sv"
+        "Vs6sv",
+        "WJcLI"
       ],
       "texts": [
         "Stabilix",
@@ -644,10 +645,12 @@
       "societyId": "yXHVO",
       "resourceIds": [
         "smTrB",
-        "GrE2C"
+        "GrE2C",
+        "udBlg"
       ],
       "texts": [
         "To persuade the Realm",
+        "",
         ""
       ],
       "result": [],
@@ -1413,7 +1416,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 401.1549999999994,
+      "timeElapsed": 404.1539999999994,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
