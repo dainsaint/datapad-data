@@ -1596,7 +1596,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 300.1789999999999,
+      "timeElapsed": 304.1799999999999,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
@@ -2384,6 +2384,16 @@
       "id": "YmYAw",
       "communityId": "Pry_D",
       "name": "Summoning Ritual",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "PpW78",
+      "communityId": "IytuF",
+      "name": "20 Unconditional Resources ",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -51815,6 +51825,13 @@
       "timestamp": "2025-06-28T22:20:47.270Z",
       "type": "ResourceCreated",
       "value": "Summoning Ritual"
+    },
+    {
+      "_type": "Record",
+      "id": "dMEq0",
+      "timestamp": "2025-06-28T22:21:46.238Z",
+      "type": "ResourceCreated",
+      "value": "20 Unconditional Resources "
     }
   ]
 }
