@@ -1579,7 +1579,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 275.0930000000001,
+      "timeElapsed": 278.13000000000005,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
@@ -2164,7 +2164,7 @@
     {
       "_type": "Resource",
       "id": "W3HFI",
-      "communityId": "n9ZRY",
+      "communityId": "baFQb",
       "name": "Bedazzled Bomber Jackets",
       "tags": {
         "_type": "Tags",
