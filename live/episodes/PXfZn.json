@@ -902,7 +902,7 @@
       "status": "playing",
       "round": 2,
       "duration": 780,
-      "timeElapsed": 750.7729999999973,
+      "timeElapsed": 757.7779999999972,
       "actualTime": {
         "s": "2025-06-28T18:30:37.602+00:00",
         "e": "2025-06-28T18:44:37.602+00:00",
@@ -1885,6 +1885,16 @@
       "id": "I0XUp",
       "communityId": "n9ZRY",
       "name": "System's Attention",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "xr4jN",
+      "communityId": "XxrAo",
+      "name": "Kin Treasure ",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -50413,6 +50423,13 @@
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
       "value": "2025-06-28T18:30:37.602Z"
+    },
+    {
+      "_type": "Record",
+      "id": "p1LTt",
+      "timestamp": "2025-06-28T18:43:15.661Z",
+      "type": "ResourceCreated",
+      "value": "Kin Treasure "
     }
   ]
 }
