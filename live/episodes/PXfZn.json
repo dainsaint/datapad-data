@@ -749,9 +749,8 @@
       ],
       "texts": [
         "Unite wizards to give resources ",
-        "",
-        "",
-        ""
+        "Gifts  to wizards",
+        "Gifts to wizards"
       ],
       "result": [
         0,
@@ -1678,7 +1677,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 492.3069999999986,
+      "timeElapsed": 494.3059999999986,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
