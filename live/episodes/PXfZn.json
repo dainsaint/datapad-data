@@ -709,9 +709,11 @@
       "round": "5",
       "societyId": "V9xbw",
       "resourceIds": [
-        "v-ciH"
+        "v-ciH",
+        "HW-P6"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -1555,7 +1557,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 71.035,
+      "timeElapsed": 75.037,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
