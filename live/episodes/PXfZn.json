@@ -1759,10 +1759,10 @@
       "_type": "Phase",
       "id": "y8lnV",
       "type": "Conclusion",
-      "status": "playing",
+      "status": "paused",
       "round": 6,
       "duration": 600,
-      "timeElapsed": 0,
+      "timeElapsed": 309.16399999999993,
       "actualTime": {
         "s": "2025-06-28T23:06:09.656+00:00",
         "e": "2025-06-28T23:16:09.656+00:00",
