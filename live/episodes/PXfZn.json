@@ -1206,7 +1206,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 741.927999999997,
+      "timeElapsed": 752.930999999997,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
@@ -1725,9 +1725,7 @@
       "name": "Healing Quartz Crystals",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
