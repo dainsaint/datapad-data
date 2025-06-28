@@ -1312,8 +1312,8 @@
       "type": "Societal Phase",
       "status": "playing",
       "round": 4,
-      "duration": 660,
-      "timeElapsed": 6.001999999999999,
+      "duration": 480,
+      "timeElapsed": 9.062,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
