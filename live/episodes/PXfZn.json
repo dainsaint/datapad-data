@@ -1256,7 +1256,7 @@
       "status": "playing",
       "round": 3,
       "duration": 1200,
-      "timeElapsed": 738.8319999999956,
+      "timeElapsed": 741.8369999999956,
       "actualTime": {
         "s": "2025-06-28T20:22:43.017+00:00",
         "e": "2025-06-28T20:42:43.017+00:00",
@@ -2011,7 +2011,9 @@
       "name": "Cryogenic Science",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
