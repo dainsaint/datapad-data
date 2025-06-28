@@ -504,7 +504,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 781.1559999999984,
+      "timeElapsed": 790.2079999999984,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1069,7 +1069,7 @@
       "_type": "Resource",
       "id": "EHJOl",
       "communityId": "xUCao",
-      "name": "___ Shield Schematics",
+      "name": "Spaceship Shield Schematics",
       "tags": {
         "_type": "Tags",
         "value": []
