@@ -266,9 +266,11 @@
       "resourceIds": [
         "SnwfK",
         "LrFs7",
-        "DA9b3"
+        "DA9b3",
+        "I0XUp"
       ],
       "texts": [
+        "",
         "",
         "",
         ""
@@ -900,7 +902,7 @@
       "status": "playing",
       "round": 2,
       "duration": 780,
-      "timeElapsed": 748.7709999999973,
+      "timeElapsed": 750.7729999999973,
       "actualTime": {
         "s": "2025-06-28T18:30:37.602+00:00",
         "e": "2025-06-28T18:44:37.602+00:00",
