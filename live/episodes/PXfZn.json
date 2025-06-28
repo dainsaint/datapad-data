@@ -538,13 +538,13 @@
       "_type": "Phase",
       "id": "IP_MK",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 1,
-      "duration": 1080,
-      "timeElapsed": 0,
+      "duration": 1200,
+      "timeElapsed": 1,
       "actualTime": {
-        "s": "2025-06-27T17:10:52.381+00:00",
-        "e": "2025-06-27T17:10:52.381+00:00",
+        "s": "2025-06-28T17:29:15.435+00:00",
+        "e": "2025-06-28T17:47:15.435+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -49818,6 +49818,14 @@
       "type": "PhaseDuration",
       "description": "Round 1: Universal Phase",
       "value": 6.383333333333334
+    },
+    {
+      "_type": "Record",
+      "id": "Zqj2m",
+      "timestamp": "2025-06-28T17:29:15.435Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-06-28T17:29:15.435Z"
     }
   ]
 }
