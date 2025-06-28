@@ -506,6 +506,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "vfrfk",
+      "societyId": "et0k8",
+      "player": "Minou she/her",
+      "name": "Meandering Pathfinders (Kin)",
+      "voice": "people",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -516,7 +528,7 @@
       "status": "playing",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 1438.502999999994,
+      "timeElapsed": 1473.5119999999938,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
