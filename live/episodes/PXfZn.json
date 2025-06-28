@@ -1477,13 +1477,13 @@
       "_type": "Phase",
       "id": "JJK_T",
       "type": "Break",
-      "status": "idle",
+      "status": "playing",
       "round": 4,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-27T17:10:52.381+00:00",
-        "e": "2025-06-27T17:10:52.381+00:00",
+        "s": "2025-06-28T21:43:31.244+00:00",
+        "e": "2025-06-28T21:53:31.244+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51462,6 +51462,14 @@
       "type": "PhaseDuration",
       "description": "Round 4: Galactic Phase",
       "value": 22.7477
+    },
+    {
+      "_type": "Record",
+      "id": "FvU06",
+      "timestamp": "2025-06-28T21:43:31.244Z",
+      "type": "PhaseStarted",
+      "description": "Round 4: Break",
+      "value": "2025-06-28T21:43:31.244Z"
     }
   ]
 }
