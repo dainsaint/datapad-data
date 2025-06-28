@@ -226,6 +226,24 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Action",
+      "id": "nmLbu",
+      "round": "2",
+      "societyId": "V9xbw",
+      "resourceIds": [
+        "F2R-u"
+      ],
+      "texts": [
+        ""
+      ],
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -807,7 +825,7 @@
       "status": "playing",
       "round": 2,
       "duration": 720,
-      "timeElapsed": 446.49099999999873,
+      "timeElapsed": 450.4939999999987,
       "actualTime": {
         "s": "2025-06-28T18:30:37.602+00:00",
         "e": "2025-06-28T18:44:37.602+00:00",
@@ -1229,7 +1247,7 @@
     {
       "_type": "Resource",
       "id": "F2R-u",
-      "communityId": "ZTISw",
+      "communityId": "BNuWv",
       "name": "Huge Mining Gear",
       "tags": {
         "_type": "Tags",
