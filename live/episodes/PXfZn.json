@@ -1721,13 +1721,13 @@
       "_type": "Phase",
       "id": "Hfl6i",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 5,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-28T22:40:10.661+00:00",
-        "e": "2025-06-28T22:40:10.661+00:00",
+        "s": "2025-06-28T22:44:59.385+00:00",
+        "e": "2025-06-28T22:54:59.385+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51987,6 +51987,14 @@
       "type": "PhaseDuration",
       "description": "Round 5: Galactic Phase",
       "value": 19.183683333333335
+    },
+    {
+      "_type": "Record",
+      "id": "fN9pf",
+      "timestamp": "2025-06-28T22:44:59.386Z",
+      "type": "PhaseStarted",
+      "description": "Round 5: Individual Phase",
+      "value": "2025-06-28T22:44:59.386Z"
     }
   ]
 }
