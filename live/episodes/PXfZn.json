@@ -464,7 +464,7 @@
       "id": "EYh5k",
       "societyId": "Feay0",
       "player": "Brandon He/him",
-      "name": "___________ KIN",
+      "name": "Cautious Craftsmen KIN",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 1249.4279999999956,
+      "timeElapsed": 1273.4349999999954,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1779,7 +1779,8 @@
         "cBV-v": "",
         "xUCao": "",
         "bIa2P": "",
-        "h3rgn": ""
+        "h3rgn": "",
+        "EYh5k": ""
       },
       "alterLeadership": {}
     },
