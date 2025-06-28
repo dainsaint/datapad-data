@@ -79,10 +79,12 @@
         "DwVAm"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-28T17:45:51.497+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -616,7 +618,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1200,
-      "timeElapsed": 986.3049999999963,
+      "timeElapsed": 996.3049999999963,
       "actualTime": {
         "s": "2025-06-28T17:29:15.435+00:00",
         "e": "2025-06-28T17:47:15.435+00:00",
