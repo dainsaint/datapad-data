@@ -615,18 +615,6 @@
     },
     {
       "_type": "Community",
-      "id": "nlnRw",
-      "societyId": "et0k8",
-      "player": "AP7",
-      "name": "Arcane Glassblowers",
-      "voice": "people",
-      "tags": {
-        "_type": "Tags",
-        "value": []
-      }
-    },
-    {
-      "_type": "Community",
       "id": "vcMaN",
       "societyId": "yXHVO",
       "player": "Milo",
@@ -746,7 +734,7 @@
       "status": "playing",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 2.001,
+      "timeElapsed": 163.16300000000018,
       "actualTime": {
         "s": "2025-06-28T18:10:50.844+00:00",
         "e": "2025-06-28T18:20:50.844+00:00",
