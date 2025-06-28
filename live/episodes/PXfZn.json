@@ -1562,7 +1562,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 186.07700000000017,
+      "timeElapsed": 191.07800000000017,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
@@ -2202,7 +2202,8 @@
       "tags": {
         "_type": "Tags",
         "value": [
-          "exhausted"
+          "exhausted",
+          "destroyed"
         ]
       }
     },
