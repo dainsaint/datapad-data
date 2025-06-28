@@ -1257,7 +1257,7 @@
       "status": "playing",
       "round": 3,
       "duration": 1200,
-      "timeElapsed": 69.196,
+      "timeElapsed": 73.199,
       "actualTime": {
         "s": "2025-06-28T20:22:43.017+00:00",
         "e": "2025-06-28T20:42:43.017+00:00",
@@ -1545,7 +1545,7 @@
     {
       "_type": "Resource",
       "id": "jOlZU",
-      "communityId": "BNuWv",
+      "communityId": "LFwRq",
       "name": "Electromagnetic Shields",
       "tags": {
         "_type": "Tags",
