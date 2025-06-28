@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1110.3349999999966,
+      "timeElapsed": 1113.3359999999966,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1532,6 +1532,16 @@
       "id": "xmVuM",
       "communityId": "vcMaN",
       "name": "Regenerative Structure ",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "udBlg",
+      "communityId": "Pry_D",
+      "name": "Truthful Communication ",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -49673,6 +49683,13 @@
       "timestamp": "2025-06-28T17:00:07.190Z",
       "type": "ResourceCreated",
       "value": "Regenerative Structure "
+    },
+    {
+      "_type": "Record",
+      "id": "sQCoE",
+      "timestamp": "2025-06-28T17:00:47.456Z",
+      "type": "ResourceCreated",
+      "value": "Truthful Communication "
     }
   ]
 }
