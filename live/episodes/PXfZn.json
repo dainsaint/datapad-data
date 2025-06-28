@@ -731,13 +731,13 @@
       "_type": "Phase",
       "id": "ejteX",
       "type": "Individual Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 1,
       "duration": 600,
-      "timeElapsed": 539.472999999998,
+      "timeElapsed": 600.6959999999974,
       "actualTime": {
         "s": "2025-06-28T18:10:50.844+00:00",
-        "e": "2025-06-28T18:20:50.844+00:00",
+        "e": "2025-06-28T18:20:51.845+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -50071,6 +50071,102 @@
       "type": "PhaseStarted",
       "description": "Round 1: Individual Phase",
       "value": "2025-06-28T18:10:50.844Z"
+    },
+    {
+      "_type": "Record",
+      "id": "gyXGb",
+      "timestamp": "2025-06-28T18:20:51.845Z",
+      "type": "PhaseEnded",
+      "description": "Round 1: Individual Phase",
+      "value": "2025-06-28T18:20:51.845Z"
+    },
+    {
+      "_type": "Record",
+      "id": "pOu3F",
+      "timestamp": "2025-06-28T18:20:51.845Z",
+      "type": "PhaseDuration",
+      "description": "Round 1: Individual Phase",
+      "value": 10.016683333333333
+    },
+    {
+      "_type": "Record",
+      "id": "ZRnnP",
+      "timestamp": "2025-06-28T18:20:51.845Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "b8zuO",
+      "timestamp": "2025-06-28T18:20:51.846Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Screaming Scrolls,Diplomatic Leaders,Abundant Followers to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "HtQ5r",
+      "timestamp": "2025-06-28T18:20:51.846Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "Znc4o",
+      "timestamp": "2025-06-28T18:20:51.846Z",
+      "type": "ActionResources",
+      "description": "the mighty used Electromagnetic Shields,Invisible Shield Schematics  to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "pgzCc",
+      "timestamp": "2025-06-28T18:20:51.846Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "cgouc",
+      "timestamp": "2025-06-28T18:20:51.846Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Rare Materials to take action.",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "g9JTR",
+      "timestamp": "2025-06-28T18:20:51.846Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "POLw3",
+      "timestamp": "2025-06-28T18:20:51.846Z",
+      "type": "ActionResources",
+      "description": "the grounded used Ancient  Sagas,Freakish Explosions,Bedazzled Bomber Jackets to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "BmiND",
+      "timestamp": "2025-06-28T18:20:51.846Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "RO6uC",
+      "timestamp": "2025-06-28T18:20:51.846Z",
+      "type": "ActionResources",
+      "description": "the faithful used KIN Collective Dreaming,Creative Understanding ,Sacrificial Chapels  to take action.",
+      "value": 3
     }
   ]
 }
