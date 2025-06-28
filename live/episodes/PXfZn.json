@@ -1496,13 +1496,13 @@
       "_type": "Phase",
       "id": "cdlYb",
       "type": "Individual Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 4,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-27T22:16:08.415+00:00",
-        "e": "2025-06-27T22:16:08.415+00:00",
+        "s": "2025-06-28T21:55:56.094+00:00",
+        "e": "2025-06-28T22:05:56.094+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51502,6 +51502,14 @@
       "type": "PhaseDuration",
       "description": "Round 4: Break",
       "value": 10.874416666666667
+    },
+    {
+      "_type": "Record",
+      "id": "z88Sg",
+      "timestamp": "2025-06-28T21:55:56.095Z",
+      "type": "PhaseStarted",
+      "description": "Round 4: Individual Phase",
+      "value": "2025-06-28T21:55:56.095Z"
     }
   ]
 }
