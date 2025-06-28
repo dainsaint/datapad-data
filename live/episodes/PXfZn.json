@@ -1496,13 +1496,13 @@
       "_type": "Phase",
       "id": "cdlYb",
       "type": "Individual Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 4,
       "duration": 600,
-      "timeElapsed": 338.11499999999967,
+      "timeElapsed": 681.2159999999974,
       "actualTime": {
         "s": "2025-06-28T21:55:56.094+00:00",
-        "e": "2025-06-28T22:05:56.094+00:00",
+        "e": "2025-06-28T22:07:17.133+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51510,6 +51510,102 @@
       "type": "PhaseStarted",
       "description": "Round 4: Individual Phase",
       "value": "2025-06-28T21:55:56.095Z"
+    },
+    {
+      "_type": "Record",
+      "id": "P2I-G",
+      "timestamp": "2025-06-28T22:07:17.133Z",
+      "type": "PhaseEnded",
+      "description": "Round 4: Individual Phase",
+      "value": "2025-06-28T22:07:17.133Z"
+    },
+    {
+      "_type": "Record",
+      "id": "QKPXX",
+      "timestamp": "2025-06-28T22:07:17.133Z",
+      "type": "PhaseDuration",
+      "description": "Round 4: Individual Phase",
+      "value": 11.35065
+    },
+    {
+      "_type": "Record",
+      "id": "Z5yJA",
+      "timestamp": "2025-06-28T22:07:17.133Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "vzEbF",
+      "timestamp": "2025-06-28T22:07:17.133Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Infrastructure Knowledge,Alchemical Altars to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "SYxc_",
+      "timestamp": "2025-06-28T22:07:17.134Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "z0IjD",
+      "timestamp": "2025-06-28T22:07:17.134Z",
+      "type": "ActionResources",
+      "description": "the mighty used Ancient Booty,Hallucinogenic Intoxicants  to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "l1Fl7",
+      "timestamp": "2025-06-28T22:07:17.134Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "YM3hu",
+      "timestamp": "2025-06-28T22:07:17.134Z",
+      "type": "ActionResources",
+      "description": "the intrepid used Industrial Grade Spaceships,Purifying Stones,Meticulous Planning to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "NOt_E",
+      "timestamp": "2025-06-28T22:07:17.134Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "iT_wo",
+      "timestamp": "2025-06-28T22:07:17.134Z",
+      "type": "ActionResources",
+      "description": "the grounded used Safe Shelters,Infinite Water,System's Attention to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "HMMUP",
+      "timestamp": "2025-06-28T22:07:17.134Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "HxvC7",
+      "timestamp": "2025-06-28T22:07:17.134Z",
+      "type": "ActionResources",
+      "description": "the faithful used Diplomatic Leaders,Natural Charisma,Truthful Communication  to take action.",
+      "value": 3
     }
   ]
 }
