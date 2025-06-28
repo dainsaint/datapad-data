@@ -1440,13 +1440,13 @@
       "_type": "Phase",
       "id": "wJtKC",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 497.1839999999987,
+      "timeElapsed": 498.1839999999987,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
-        "e": "2025-06-28T21:23:55.378+00:00",
+        "e": "2025-06-28T21:20:13.792+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -51424,6 +51424,22 @@
       "timestamp": "2025-06-28T21:17:53.516Z",
       "type": "ResourceCreated",
       "value": "Industrial Grade Spaceships"
+    },
+    {
+      "_type": "Record",
+      "id": "x-K2u",
+      "timestamp": "2025-06-28T21:20:13.792Z",
+      "type": "PhaseEnded",
+      "description": "Round 4: Societal Phase",
+      "value": "2025-06-28T21:20:13.792Z"
+    },
+    {
+      "_type": "Record",
+      "id": "eI8kd",
+      "timestamp": "2025-06-28T21:20:13.793Z",
+      "type": "PhaseDuration",
+      "description": "Round 4: Societal Phase",
+      "value": 8.3069
     }
   ]
 }
