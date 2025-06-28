@@ -807,7 +807,7 @@
       "societyId": "yXHVO",
       "player": "PJ He/they",
       "name": "Dreaming Lorekeepers (KIN)",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1313,7 +1313,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 76.081,
+      "timeElapsed": 86.08400000000002,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
@@ -2669,7 +2669,8 @@
       "advantage": "0",
       "disadvantage": "1",
       "ambassadors": {
-        "iRW5s": ""
+        "iRW5s": "",
+        "CYPuO": ""
       },
       "alterLeadership": {}
     }
