@@ -629,6 +629,7 @@
       ],
       "texts": [
         "Stabilix",
+        "Repair network satellites",
         ""
       ],
       "result": [],
@@ -1416,7 +1417,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 404.1539999999994,
+      "timeElapsed": 413.15699999999936,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
