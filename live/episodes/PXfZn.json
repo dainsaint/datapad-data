@@ -1461,7 +1461,7 @@
       "status": "playing",
       "round": 4,
       "duration": 1200,
-      "timeElapsed": 387.1709999999991,
+      "timeElapsed": 389.17299999999904,
       "actualTime": {
         "s": "2025-06-28T21:20:42.063+00:00",
         "e": "2025-06-28T21:40:42.063+00:00",
@@ -2083,7 +2083,9 @@
       "name": "Ancient Booty",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
