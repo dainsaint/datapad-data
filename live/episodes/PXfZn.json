@@ -802,9 +802,11 @@
       "round": "5",
       "societyId": "et0k8",
       "resourceIds": [
-        "TpH3x"
+        "TpH3x",
+        "xr4jN"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -1665,7 +1667,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 472.29999999999876,
+      "timeElapsed": 474.29999999999876,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
