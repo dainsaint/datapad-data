@@ -668,11 +668,12 @@
       "id": "YuOR8",
       "round": "4",
       "societyId": "et0k8",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "gYKbD"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1419,7 +1420,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 427.16099999999926,
+      "timeElapsed": 431.1629999999992,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
