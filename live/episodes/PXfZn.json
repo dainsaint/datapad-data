@@ -701,7 +701,7 @@
       "societyId": "et0k8",
       "player": "Yannick",
       "name": "Curious Inquisitors",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1009,7 +1009,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 37.025999999999996,
+      "timeElapsed": 173.10800000000006,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
@@ -2315,7 +2315,9 @@
       "risk": 1,
       "advantage": 0,
       "disadvantage": 0,
-      "ambassadors": {},
+      "ambassadors": {
+        "erGwW": ""
+      },
       "alterLeadership": {}
     },
     {
