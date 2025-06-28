@@ -171,9 +171,11 @@
       "round": "1",
       "societyId": "yXHVO",
       "resourceIds": [
-        "AOQfc"
+        "AOQfc",
+        "Do-nG"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -696,13 +698,13 @@
       "_type": "Phase",
       "id": "IP_MK",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 1,
       "duration": 1200,
-      "timeElapsed": 1182.3799999999953,
+      "timeElapsed": 1183.3799999999953,
       "actualTime": {
         "s": "2025-06-28T17:29:15.435+00:00",
-        "e": "2025-06-28T17:47:15.435+00:00",
+        "e": "2025-06-28T17:48:58.483+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -49987,6 +49989,22 @@
       "type": "PhaseStarted",
       "description": "Round 1: Societal Phase",
       "value": "2025-06-28T17:29:15.435Z"
+    },
+    {
+      "_type": "Record",
+      "id": "yjCvE",
+      "timestamp": "2025-06-28T17:48:58.483Z",
+      "type": "PhaseEnded",
+      "description": "Round 1: Societal Phase",
+      "value": "2025-06-28T17:48:58.483Z"
+    },
+    {
+      "_type": "Record",
+      "id": "f_W5V",
+      "timestamp": "2025-06-28T17:48:58.483Z",
+      "type": "PhaseDuration",
+      "description": "Round 1: Societal Phase",
+      "value": 19.717466666666667
     }
   ]
 }
