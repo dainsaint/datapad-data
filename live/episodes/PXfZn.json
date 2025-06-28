@@ -990,7 +990,7 @@
       "status": "playing",
       "round": 3,
       "duration": 300,
-      "timeElapsed": 2.002,
+      "timeElapsed": 6.003,
       "actualTime": {
         "s": "2025-06-28T20:01:59.636+00:00",
         "e": "2025-06-28T20:06:59.636+00:00",
@@ -2320,9 +2320,9 @@
       "id": "Bw_lL",
       "round": 3,
       "societyId": "Feay0",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "2",
+      "advantage": "0",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     },
