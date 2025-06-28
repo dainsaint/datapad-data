@@ -855,7 +855,7 @@
       "status": "playing",
       "round": 2,
       "duration": 780,
-      "timeElapsed": 591.6269999999982,
+      "timeElapsed": 594.6279999999982,
       "actualTime": {
         "s": "2025-06-28T18:30:37.602+00:00",
         "e": "2025-06-28T18:44:37.602+00:00",
@@ -2190,9 +2190,9 @@
       "id": "CsG4P",
       "round": 2,
       "societyId": "Feay0",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "2",
+      "advantage": "0",
+      "disadvantage": "0",
       "ambassadors": {},
       "alterLeadership": {}
     },
