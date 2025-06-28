@@ -170,11 +170,12 @@
       "id": "ffG9p",
       "round": "1",
       "societyId": "yXHVO",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "AOQfc"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -698,7 +699,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1200,
-      "timeElapsed": 1180.3799999999953,
+      "timeElapsed": 1182.3799999999953,
       "actualTime": {
         "s": "2025-06-28T17:29:15.435+00:00",
         "e": "2025-06-28T17:47:15.435+00:00",
