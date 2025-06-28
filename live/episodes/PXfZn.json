@@ -727,7 +727,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1200,
-      "timeElapsed": 784.4789999999954,
+      "timeElapsed": 788.4799999999954,
       "actualTime": {
         "s": "2025-06-28T17:51:05.271+00:00",
         "e": "2025-06-28T18:11:05.271+00:00",
@@ -1422,7 +1422,9 @@
       "name": "Invisible Shield Schematics ",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "destroyed"
+        ]
       }
     },
     {
