@@ -487,8 +487,8 @@
       "_type": "Community",
       "id": "vcMaN",
       "societyId": "yXHVO",
-      "player": "",
-      "name": "&",
+      "player": "Milo",
+      "name": "Radiant Architects",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -504,7 +504,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 494.1069999999996,
+      "timeElapsed": 534.1139999999994,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1753,7 +1753,8 @@
         "Pry_D": "",
         "hqZZ8": "",
         "ZQ5E1": "",
-        "iRW5s": ""
+        "iRW5s": "",
+        "vcMaN": ""
       },
       "alterLeadership": {}
     },
