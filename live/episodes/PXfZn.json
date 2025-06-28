@@ -445,11 +445,10 @@
         "jOlZU"
       ],
       "texts": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Alter the orbit of the holes to create equilibrium",
+        "Booster ships",
+        "Boos the ships",
+        "Protect the ships "
       ],
       "result": [
         0,
@@ -523,7 +522,7 @@
         0
       ],
       "voteTime": "2025-06-28T20:20:50.468+00:00",
-      "status": "voted",
+      "status": "invalid",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -561,10 +560,17 @@
         "",
         "",
         "",
+        "",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "voteTime": "2025-06-28T20:21:45.957+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
