@@ -818,7 +818,7 @@
       "id": "iRW5s",
       "societyId": "yXHVO",
       "player": "Princess Connor She Her",
-      "name": "Powerful Rangers ",
+      "name": "Powerful Swimmers",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -1313,7 +1313,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 9.062,
+      "timeElapsed": 76.081,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
@@ -2668,7 +2668,9 @@
       "risk": "1",
       "advantage": "0",
       "disadvantage": "1",
-      "ambassadors": {},
+      "ambassadors": {
+        "iRW5s": ""
+      },
       "alterLeadership": {}
     }
   ],
