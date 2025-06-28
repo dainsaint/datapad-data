@@ -47,6 +47,23 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Action",
+      "id": "aJ_XV",
+      "round": "1",
+      "societyId": "e-JcG",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -576,7 +593,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1200,
-      "timeElapsed": 820.2669999999972,
+      "timeElapsed": 847.273999999997,
       "actualTime": {
         "s": "2025-06-28T17:29:15.435+00:00",
         "e": "2025-06-28T17:47:15.435+00:00",
