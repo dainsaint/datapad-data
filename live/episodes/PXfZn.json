@@ -989,7 +989,7 @@
       "societyId": "yXHVO",
       "player": "Milo",
       "name": "Radiant Architects",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1313,7 +1313,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 103.08800000000004,
+      "timeElapsed": 107.08900000000004,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
