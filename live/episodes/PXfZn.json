@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 1355.4659999999947,
+      "timeElapsed": 1363.4709999999945,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1471,7 +1471,7 @@
       "_type": "Resource",
       "id": "XiXwK",
       "communityId": "Uyeis",
-      "name": "_____ ______",
+      "name": "Cryogenic Science",
       "tags": {
         "_type": "Tags",
         "value": []
