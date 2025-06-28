@@ -362,10 +362,9 @@
         "XiXwK"
       ],
       "texts": [
-        "Warm the planet",
-        "",
-        "",
-        ""
+        "Create a machine to Warm the planet",
+        "Power the machine",
+        "To cool the machine"
       ],
       "result": [
         0,
@@ -514,6 +513,23 @@
     {
       "_type": "Action",
       "id": "rvMoH",
+      "round": "3",
+      "societyId": "et0k8",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Action",
+      "id": "oah3B",
       "round": "3",
       "societyId": "et0k8",
       "resourceIds": [],
@@ -1191,7 +1207,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 735.924999999997,
+      "timeElapsed": 738.924999999997,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
