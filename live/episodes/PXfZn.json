@@ -806,11 +806,10 @@
         "n1bTO"
       ],
       "texts": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Fuse multiple resources ",
+        "Imbue the project with our history",
+        "To have every follower excel",
+        "Perform the necessary task"
       ],
       "result": [
         0,
@@ -1706,7 +1705,7 @@
       "status": "playing",
       "round": 5,
       "duration": 1200,
-      "timeElapsed": 171.0600000000001,
+      "timeElapsed": 361.1039999999999,
       "actualTime": {
         "s": "2025-06-28T22:25:36.916+00:00",
         "e": "2025-06-28T22:45:36.916+00:00",
