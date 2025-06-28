@@ -1294,7 +1294,7 @@
       "status": "playing",
       "round": 4,
       "duration": 300,
-      "timeElapsed": 392.1179999999996,
+      "timeElapsed": 396.1169999999996,
       "actualTime": {
         "s": "2025-06-28T21:03:13.889+00:00",
         "e": "2025-06-28T21:08:13.889+00:00",
@@ -2654,9 +2654,9 @@
       "id": "KWmqa",
       "round": 4,
       "societyId": "e-JcG",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "1",
+      "advantage": "0",
+      "disadvantage": "1",
       "ambassadors": {},
       "alterLeadership": {}
     },
@@ -2665,9 +2665,9 @@
       "id": "TpUeV",
       "round": 4,
       "societyId": "yXHVO",
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "risk": "1",
+      "advantage": "0",
+      "disadvantage": "1",
       "ambassadors": {},
       "alterLeadership": {}
     }
