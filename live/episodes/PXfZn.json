@@ -552,9 +552,11 @@
       "round": "3",
       "societyId": "et0k8",
       "resourceIds": [
-        "ZMACj"
+        "ZMACj",
+        "VX_km"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -1224,13 +1226,13 @@
       "_type": "Phase",
       "id": "GIWIn",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 794.0029999999966,
+      "timeElapsed": 796.0029999999966,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
-        "e": "2025-06-28T20:21:08.134+00:00",
+        "e": "2025-06-28T20:21:24.616+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -50999,6 +51001,22 @@
       "timestamp": "2025-06-28T20:08:45.338Z",
       "type": "ResourceCreated",
       "value": "Energetic Crystals"
+    },
+    {
+      "_type": "Record",
+      "id": "wIpRZ",
+      "timestamp": "2025-06-28T20:21:24.616Z",
+      "type": "PhaseEnded",
+      "description": "Round 3: Societal Phase",
+      "value": "2025-06-28T20:21:24.616Z"
+    },
+    {
+      "_type": "Record",
+      "id": "SZbLa",
+      "timestamp": "2025-06-28T20:21:24.617Z",
+      "type": "PhaseDuration",
+      "description": "Round 3: Societal Phase",
+      "value": 13.2747
     }
   ]
 }
