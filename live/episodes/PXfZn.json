@@ -1313,7 +1313,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 98.08700000000003,
+      "timeElapsed": 103.08800000000004,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
@@ -2671,7 +2671,8 @@
       "ambassadors": {
         "iRW5s": "",
         "CYPuO": "",
-        "Pry_D": ""
+        "Pry_D": "",
+        "vcMaN": ""
       },
       "alterLeadership": {}
     }
