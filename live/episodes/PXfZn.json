@@ -417,10 +417,9 @@
         "R3USW"
       ],
       "texts": [
-        "",
-        "",
-        "",
-        ""
+        "Undermine the organizational power of burning ember",
+        "Sow chaos ",
+        "Sow panic and false co w"
       ],
       "result": [
         0,
@@ -1210,7 +1209,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 778.9789999999969,
+      "timeElapsed": 782.9919999999968,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
