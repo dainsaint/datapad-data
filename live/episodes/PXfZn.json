@@ -714,7 +714,7 @@
       "societyId": "V9xbw",
       "player": "Sabrina (She/her)",
       "name": "Astral Mystics (kin)",
-      "voice": "people",
+      "voice": "leader",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -915,7 +915,7 @@
       "status": "playing",
       "round": 2,
       "duration": 780,
-      "timeElapsed": 772.8069999999971,
+      "timeElapsed": 786.810999999997,
       "actualTime": {
         "s": "2025-06-28T18:30:37.602+00:00",
         "e": "2025-06-28T18:44:37.602+00:00",
@@ -2258,7 +2258,9 @@
       "risk": "2",
       "advantage": "0",
       "disadvantage": "0",
-      "ambassadors": {},
+      "ambassadors": {
+        "Pf-Th": ""
+      },
       "alterLeadership": {}
     },
     {
