@@ -761,9 +761,11 @@
       "round": "5",
       "societyId": "e-JcG",
       "resourceIds": [
-        "tmrOc"
+        "tmrOc",
+        "W3HFI"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -1641,7 +1643,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 393.2609999999992,
+      "timeElapsed": 396.2609999999992,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
