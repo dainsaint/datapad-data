@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 1299.449999999995,
+      "timeElapsed": 1304.449999999995,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1552,6 +1552,16 @@
       "id": "AOQfc",
       "communityId": "CYPuO",
       "name": "KIN Collective Dreaming",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "Do-nG",
+      "communityId": "hqZZ8",
+      "name": "Creative Understanding ",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -49708,6 +49718,13 @@
       "timestamp": "2025-06-28T17:02:41.613Z",
       "type": "ResourceCreated",
       "value": "KIN Collective Dreaming"
+    },
+    {
+      "_type": "Record",
+      "id": "W4CPB",
+      "timestamp": "2025-06-28T17:03:58.716Z",
+      "type": "ResourceCreated",
+      "value": "Creative Understanding "
     }
   ]
 }
