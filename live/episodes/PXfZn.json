@@ -733,11 +733,12 @@
       "id": "ptgPS",
       "round": "5",
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "pMkky"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1630,7 +1631,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 342.1929999999996,
+      "timeElapsed": 346.19499999999954,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
