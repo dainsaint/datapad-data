@@ -715,6 +715,7 @@
         "oT-wP"
       ],
       "texts": [
+        "Attack the burning ember",
         "",
         "",
         "",
@@ -1561,7 +1562,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 150.0620000000001,
+      "timeElapsed": 157.0620000000001,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
