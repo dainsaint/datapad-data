@@ -1365,7 +1365,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 298.13,
+      "timeElapsed": 300.13,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
@@ -2168,7 +2168,7 @@
     {
       "_type": "Resource",
       "id": "Do-nG",
-      "communityId": "Pry_D",
+      "communityId": "iRW5s",
       "name": "Creative Understanding ",
       "tags": {
         "_type": "Tags",
