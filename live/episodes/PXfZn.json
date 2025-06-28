@@ -54,9 +54,11 @@
       "round": "1",
       "societyId": "e-JcG",
       "resourceIds": [
-        "U3Q-8"
+        "U3Q-8",
+        "XM5Fr"
       ],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -612,7 +614,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1200,
-      "timeElapsed": 941.2969999999965,
+      "timeElapsed": 943.2979999999965,
       "actualTime": {
         "s": "2025-06-28T17:29:15.435+00:00",
         "e": "2025-06-28T17:47:15.435+00:00",
