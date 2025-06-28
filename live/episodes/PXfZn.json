@@ -502,7 +502,7 @@
       "status": "playing",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 1895.71699999999,
+      "timeElapsed": 2095.810999999992,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1676,7 +1676,7 @@
       "_type": "Society",
       "id": "e-JcG",
       "archetype": "the grounded",
-      "fateId": "",
+      "fateId": "fate_one",
       "color": "color-river-stone",
       "tags": {
         "_type": "Tags",
