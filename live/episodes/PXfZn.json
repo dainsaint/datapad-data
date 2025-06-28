@@ -502,7 +502,7 @@
       "status": "playing",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 1690.583999999992,
+      "timeElapsed": 1824.6879999999908,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1701,7 +1701,7 @@
       "_type": "Society",
       "id": "yXHVO",
       "archetype": "the faithful",
-      "fateId": "",
+      "fateId": "fate_two",
       "color": "color-canary-diamond",
       "tags": {
         "_type": "Tags",
