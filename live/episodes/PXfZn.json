@@ -974,7 +974,7 @@
       "timeElapsed": 0,
       "actualTime": {
         "s": "2025-06-27T17:10:52.381+00:00",
-        "e": "2025-06-28T20:00:37.273+00:00",
+        "e": "2025-06-28T20:00:38.285+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -2297,6 +2297,61 @@
       "risk": "1",
       "advantage": "0",
       "disadvantage": "1",
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "hKPUu",
+      "round": 3,
+      "societyId": "et0k8",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "HtOJx",
+      "round": 3,
+      "societyId": "V9xbw",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "Bw_lL",
+      "round": 3,
+      "societyId": "Feay0",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "DwaC2",
+      "round": 3,
+      "societyId": "e-JcG",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "ambassadors": {},
+      "alterLeadership": {}
+    },
+    {
+      "_type": "Turn",
+      "id": "rhdZy",
+      "round": 3,
+      "societyId": "yXHVO",
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "ambassadors": {},
       "alterLeadership": {}
     }
@@ -50590,6 +50645,78 @@
       "_type": "Record",
       "id": "n7mAv",
       "timestamp": "2025-06-28T20:00:37.274Z",
+      "type": "ActionResources",
+      "description": "the faithful used Healing Nebula ,Imperial Databases,Regenerative Construction to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "d0Wdn",
+      "timestamp": "2025-06-28T20:00:38.285Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "N-qgg",
+      "timestamp": "2025-06-28T20:00:38.285Z",
+      "type": "ActionResources",
+      "description": "the aesthetic used Healing Quartz Crystals,Kin Treasure  to take action.",
+      "value": 2
+    },
+    {
+      "_type": "Record",
+      "id": "E4wJO",
+      "timestamp": "2025-06-28T20:00:38.285Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "fQnpN",
+      "timestamp": "2025-06-28T20:00:38.285Z",
+      "type": "ActionResources",
+      "description": "the mighty used Huge Mining Gear,Forbidden Foam,Overwhelming Numbers to take action.",
+      "value": 3
+    },
+    {
+      "_type": "Record",
+      "id": "dbp9O",
+      "timestamp": "2025-06-28T20:00:38.285Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "yRIjZ",
+      "timestamp": "2025-06-28T20:00:38.285Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "qRt_r",
+      "timestamp": "2025-06-28T20:00:38.285Z",
+      "type": "ActionResources",
+      "description": "the grounded used Safe Shelters,Endless Energy,Cunning Stealth,System's Attention to take action.",
+      "value": 4
+    },
+    {
+      "_type": "Record",
+      "id": "jDp8e",
+      "timestamp": "2025-06-28T20:00:38.286Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 1
+    },
+    {
+      "_type": "Record",
+      "id": "XjOR9",
+      "timestamp": "2025-06-28T20:00:38.286Z",
       "type": "ActionResources",
       "description": "the faithful used Healing Nebula ,Imperial Databases,Regenerative Construction to take action.",
       "value": 3
