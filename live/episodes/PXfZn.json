@@ -364,7 +364,7 @@
       "texts": [
         "Create a machine to Warm the planet",
         "Power the machine",
-        "To cool the machine"
+        "To cool ans stabilize the machine"
       ],
       "result": [
         0,
@@ -1210,7 +1210,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 767.9679999999969,
+      "timeElapsed": 771.9689999999969,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
