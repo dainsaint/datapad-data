@@ -876,7 +876,7 @@
       "status": "playing",
       "round": 2,
       "duration": 780,
-      "timeElapsed": 689.6669999999975,
+      "timeElapsed": 691.6659999999976,
       "actualTime": {
         "s": "2025-06-28T18:30:37.602+00:00",
         "e": "2025-06-28T18:44:37.602+00:00",
@@ -1669,7 +1669,9 @@
       "name": "Overwhelming Numbers",
       "tags": {
         "_type": "Tags",
-        "value": []
+        "value": [
+          "exhausted"
+        ]
       }
     },
     {
