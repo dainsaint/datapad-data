@@ -494,6 +494,18 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Community",
+      "id": "Saxy5",
+      "societyId": "yXHVO",
+      "player": "Nichole",
+      "name": "Traveling Farmers ",
+      "voice": "leader",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "phases": [
@@ -504,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 862.2619999999981,
+      "timeElapsed": 876.264999999998,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
