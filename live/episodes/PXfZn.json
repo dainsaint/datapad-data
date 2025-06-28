@@ -753,7 +753,7 @@
         "Gifts to wizards"
       ],
       "result": [
-        0,
+        6,
         0,
         0
       ],
@@ -1705,7 +1705,7 @@
       "status": "playing",
       "round": 5,
       "duration": 1200,
-      "timeElapsed": 429.16199999999986,
+      "timeElapsed": 640.1869999999992,
       "actualTime": {
         "s": "2025-06-28T22:25:36.916+00:00",
         "e": "2025-06-28T22:45:36.916+00:00",
