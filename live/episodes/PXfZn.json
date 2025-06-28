@@ -1387,7 +1387,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 342.1379999999998,
+      "timeElapsed": 358.14499999999964,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
@@ -2237,6 +2237,16 @@
         "value": [
           "exhausted"
         ]
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "Vs6sv",
+      "communityId": "Rcsl8",
+      "name": "Industrial Grade Spaceships",
+      "tags": {
+        "_type": "Tags",
+        "value": []
       }
     }
   ],
@@ -51351,6 +51361,13 @@
       "type": "PhaseStarted",
       "description": "Round 4: Societal Phase",
       "value": "2025-06-28T21:11:55.378Z"
+    },
+    {
+      "_type": "Record",
+      "id": "eb9Cp",
+      "timestamp": "2025-06-28T21:17:53.516Z",
+      "type": "ResourceCreated",
+      "value": "Industrial Grade Spaceships"
     }
   ]
 }
