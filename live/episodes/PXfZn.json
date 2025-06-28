@@ -842,7 +842,11 @@
         "Continue healing work of project david ",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0,
+        0
+      ],
       "voteTime": "2025-06-28T22:27:06.616+00:00",
       "status": "voted",
       "tags": {
@@ -1703,7 +1707,7 @@
       "status": "playing",
       "round": 5,
       "duration": 1200,
-      "timeElapsed": 90.03800000000003,
+      "timeElapsed": 101.04000000000003,
       "actualTime": {
         "s": "2025-06-28T22:25:36.916+00:00",
         "e": "2025-06-28T22:45:36.916+00:00",
@@ -3030,7 +3034,7 @@
       "round": 5,
       "societyId": "Feay0",
       "risk": "3",
-      "advantage": "0",
+      "advantage": "1",
       "disadvantage": "0",
       "ambassadors": {
         "Rcsl8": "",
