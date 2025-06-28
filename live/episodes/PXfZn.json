@@ -1009,7 +1009,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 3.005,
+      "timeElapsed": 37.025999999999996,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
@@ -1910,6 +1910,16 @@
         "value": [
           "exhausted"
         ]
+      }
+    },
+    {
+      "_type": "Resource",
+      "id": "Y1qMQ",
+      "communityId": "LFwRq",
+      "name": "Energetic Crystals",
+      "tags": {
+        "_type": "Tags",
+        "value": []
       }
     }
   ],
@@ -50757,6 +50767,13 @@
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
       "value": "2025-06-28T20:08:08.134Z"
+    },
+    {
+      "_type": "Record",
+      "id": "wFbC3",
+      "timestamp": "2025-06-28T20:08:45.338Z",
+      "type": "ResourceCreated",
+      "value": "Energetic Crystals"
     }
   ]
 }
