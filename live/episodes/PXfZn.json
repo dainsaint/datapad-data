@@ -442,9 +442,11 @@
       "societyId": "et0k8",
       "resourceIds": [
         "ZMACj",
-        "VX_km"
+        "VX_km",
+        "vJNNI"
       ],
       "texts": [
+        "",
         "",
         ""
       ],
@@ -1118,7 +1120,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 653.6709999999975,
+      "timeElapsed": 656.7769999999975,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
