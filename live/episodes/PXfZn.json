@@ -404,6 +404,23 @@
         "_type": "Tags",
         "value": []
       }
+    },
+    {
+      "_type": "Action",
+      "id": "eMDTa",
+      "round": "3",
+      "societyId": "V9xbw",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
     }
   ],
   "communities": [
@@ -1068,7 +1085,7 @@
       "status": "playing",
       "round": 3,
       "duration": 720,
-      "timeElapsed": 581.628999999998,
+      "timeElapsed": 584.633999999998,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
