@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 893.2719999999979,
+      "timeElapsed": 922.2759999999978,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1121,7 +1121,7 @@
       "_type": "Resource",
       "id": "TpH3x",
       "communityId": "bWsq5",
-      "name": "[] Altars",
+      "name": "Alchemical Altars",
       "tags": {
         "_type": "Tags",
         "value": []
