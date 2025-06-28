@@ -716,7 +716,7 @@
       ],
       "texts": [
         "Raid the burning ember for resources for project David ",
-        "Bolster the attack",
+        "Bolster the raid",
         "Make it a sneak attack",
         "",
         ""
@@ -1562,7 +1562,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 249.08800000000022,
+      "timeElapsed": 251.08700000000022,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
