@@ -584,9 +584,8 @@
         "XvISU"
       ],
       "texts": [
-        "",
-        "",
-        ""
+        "Bribe the Comets to attack the burning ember",
+        "Sweeten the deal"
       ],
       "result": [
         0,
@@ -651,6 +650,23 @@
         "To persuade the Realm",
         ""
       ],
+      "result": [],
+      "status": "open",
+      "tags": {
+        "_type": "Tags",
+        "value": []
+      }
+    },
+    {
+      "_type": "Action",
+      "id": "YuOR8",
+      "round": "4",
+      "societyId": "et0k8",
+      "resourceIds": [],
+      "texts": [],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -1397,7 +1413,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 393.1539999999994,
+      "timeElapsed": 395.1549999999994,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
