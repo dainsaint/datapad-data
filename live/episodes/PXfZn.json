@@ -285,11 +285,12 @@
       "id": "CsT62",
       "round": "2",
       "societyId": "Feay0",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "Pj4sx"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -877,7 +878,7 @@
       "status": "playing",
       "round": 2,
       "duration": 780,
-      "timeElapsed": 698.6689999999975,
+      "timeElapsed": 701.6689999999975,
       "actualTime": {
         "s": "2025-06-28T18:30:37.602+00:00",
         "e": "2025-06-28T18:44:37.602+00:00",
