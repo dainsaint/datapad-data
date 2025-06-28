@@ -516,7 +516,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 1057.3039999999971,
+      "timeElapsed": 1059.3039999999971,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1520,7 +1520,7 @@
     {
       "_type": "Resource",
       "id": "dxBE8",
-      "communityId": "hqZZ8",
+      "communityId": "vcMaN",
       "name": "Sacrificial Chapels ",
       "tags": {
         "_type": "Tags",
