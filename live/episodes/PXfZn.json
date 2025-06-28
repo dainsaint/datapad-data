@@ -718,13 +718,13 @@
       "_type": "Phase",
       "id": "wjRD6",
       "type": "Galactic Phase",
-      "status": "paused",
+      "status": "playing",
       "round": 1,
       "duration": 1200,
       "timeElapsed": 3.024,
       "actualTime": {
-        "s": "2025-06-28T17:49:42.367+00:00",
-        "e": "2025-06-28T18:09:42.367+00:00",
+        "s": "2025-06-28T17:51:05.271+00:00",
+        "e": "2025-06-28T18:11:05.271+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -50015,6 +50015,14 @@
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
       "value": "2025-06-28T17:49:42.367Z"
+    },
+    {
+      "_type": "Record",
+      "id": "z9EG3",
+      "timestamp": "2025-06-28T17:51:05.271Z",
+      "type": "PhaseStarted",
+      "description": "Round 1: Galactic Phase",
+      "value": "2025-06-28T17:51:05.271Z"
     }
   ]
 }
