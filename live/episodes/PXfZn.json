@@ -655,10 +655,12 @@
       "texts": [
         "To persuade the Realm",
         "",
+        "",
         ""
       ],
       "result": [],
-      "status": "open",
+      "voteTime": "2025-06-28T21:19:31.561+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -678,7 +680,10 @@
         "",
         ""
       ],
-      "result": [],
+      "result": [
+        0,
+        0
+      ],
       "voteTime": "2025-06-28T21:19:28.937+00:00",
       "status": "voted",
       "tags": {
@@ -1425,7 +1430,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 453.16999999999905,
+      "timeElapsed": 456.170999999999,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
