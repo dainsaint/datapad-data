@@ -356,10 +356,9 @@
       "id": "uq6is",
       "round": "3",
       "societyId": "Feay0",
-      "resourceIds": [
-        "XiXwK"
-      ],
+      "resourceIds": [],
       "texts": [
+        "",
         ""
       ],
       "result": [],
@@ -412,11 +411,12 @@
       "id": "eMDTa",
       "round": "3",
       "societyId": "V9xbw",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "v-ciH"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1087,7 +1087,7 @@
       "status": "playing",
       "round": 3,
       "duration": 780,
-      "timeElapsed": 591.634999999998,
+      "timeElapsed": 594.6359999999979,
       "actualTime": {
         "s": "2025-06-28T20:08:08.134+00:00",
         "e": "2025-06-28T20:21:08.134+00:00",
