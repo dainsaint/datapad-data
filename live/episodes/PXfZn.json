@@ -1746,7 +1746,7 @@
       "timeElapsed": 608.3109999999964,
       "actualTime": {
         "s": "2025-06-28T22:55:57.887+00:00",
-        "e": "2025-06-28T23:06:06.512+00:00",
+        "e": "2025-06-28T23:06:08.418+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -1759,13 +1759,13 @@
       "_type": "Phase",
       "id": "y8lnV",
       "type": "Conclusion",
-      "status": "idle",
+      "status": "playing",
       "round": 6,
       "duration": 600,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-27T17:10:52.382+00:00",
-        "e": "2025-06-27T17:10:52.382+00:00",
+        "s": "2025-06-28T23:06:09.656+00:00",
+        "e": "2025-06-28T23:16:09.656+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -52255,6 +52255,14 @@
       "type": "PhaseDuration",
       "description": "Round 6: Universal Phase",
       "value": 10.14375
+    },
+    {
+      "_type": "Record",
+      "id": "FHwBJ",
+      "timestamp": "2025-06-28T23:06:09.656Z",
+      "type": "PhaseStarted",
+      "description": "Round 6: Conclusion",
+      "value": "2025-06-28T23:06:09.656Z"
     }
   ]
 }
