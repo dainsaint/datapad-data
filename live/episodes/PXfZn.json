@@ -502,7 +502,7 @@
       "status": "playing",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 1893.7159999999901,
+      "timeElapsed": 1895.71699999999,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1546,7 +1546,7 @@
     {
       "_type": "Resource",
       "id": "Do-nG",
-      "communityId": "hqZZ8",
+      "communityId": "Pry_D",
       "name": "Creative Understanding ",
       "tags": {
         "_type": "Tags",
