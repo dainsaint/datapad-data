@@ -605,9 +605,11 @@
       "societyId": "e-JcG",
       "resourceIds": [
         "SnwfK",
-        "RwJ55"
+        "RwJ55",
+        "I0XUp"
       ],
       "texts": [
+        "",
         "",
         ""
       ],
@@ -1417,7 +1419,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 425.1599999999993,
+      "timeElapsed": 427.16099999999926,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
