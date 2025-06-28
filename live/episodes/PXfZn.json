@@ -499,13 +499,13 @@
       "_type": "Phase",
       "id": "W9QZA",
       "type": "Setup/Onboarding",
-      "status": "playing",
+      "status": "complete",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 2095.810999999992,
+      "timeElapsed": 2427.9470000000197,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
-        "e": "2025-06-28T17:12:14.713+00:00",
+        "e": "2025-06-28T17:22:42.523+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -49729,6 +49729,62 @@
       "timestamp": "2025-06-28T17:06:56.236Z",
       "type": "ResourceCreated",
       "value": "Indeterminate Genetics"
+    },
+    {
+      "_type": "Record",
+      "id": "jKJ48",
+      "timestamp": "2025-06-28T17:22:42.523Z",
+      "type": "PhaseEnded",
+      "description": "Round 0: Setup/Onboarding",
+      "value": "2025-06-28T17:22:42.523Z"
+    },
+    {
+      "_type": "Record",
+      "id": "dml8M",
+      "timestamp": "2025-06-28T17:22:42.524Z",
+      "type": "PhaseDuration",
+      "description": "Round 0: Setup/Onboarding",
+      "value": 40.4635
+    },
+    {
+      "_type": "Record",
+      "id": "Dyrd7",
+      "timestamp": "2025-06-28T17:22:42.524Z",
+      "type": "SocietyActionsTaken",
+      "description": "the aesthetic",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "nbpYL",
+      "timestamp": "2025-06-28T17:22:42.524Z",
+      "type": "SocietyActionsTaken",
+      "description": "the mighty",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "U93PW",
+      "timestamp": "2025-06-28T17:22:42.524Z",
+      "type": "SocietyActionsTaken",
+      "description": "the intrepid",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "myj01",
+      "timestamp": "2025-06-28T17:22:42.524Z",
+      "type": "SocietyActionsTaken",
+      "description": "the grounded",
+      "value": 0
+    },
+    {
+      "_type": "Record",
+      "id": "Wl2tW",
+      "timestamp": "2025-06-28T17:22:42.524Z",
+      "type": "SocietyActionsTaken",
+      "description": "the faithful",
+      "value": 0
     }
   ]
 }
