@@ -744,7 +744,8 @@
       "societyId": "Feay0",
       "resourceIds": [
         "pMkky",
-        "XiXwK"
+        "XiXwK",
+        "NubjR"
       ],
       "texts": [
         "Unite wizards to give resources ",
@@ -1657,7 +1658,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 451.2749999999989,
+      "timeElapsed": 453.2749999999989,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
