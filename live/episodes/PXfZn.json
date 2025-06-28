@@ -1006,13 +1006,13 @@
       "_type": "Phase",
       "id": "GIWIn",
       "type": "Societal Phase",
-      "status": "idle",
+      "status": "playing",
       "round": 3,
       "duration": 780,
       "timeElapsed": 0,
       "actualTime": {
-        "s": "2025-06-27T17:10:52.381+00:00",
-        "e": "2025-06-27T17:10:52.381+00:00",
+        "s": "2025-06-28T20:08:08.134+00:00",
+        "e": "2025-06-28T20:21:08.134+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -50749,6 +50749,14 @@
       "type": "PhaseDuration",
       "description": "Round 3: Universal Phase",
       "value": 6.104183333333333
+    },
+    {
+      "_type": "Record",
+      "id": "NRMhp",
+      "timestamp": "2025-06-28T20:08:08.134Z",
+      "type": "PhaseStarted",
+      "description": "Round 3: Societal Phase",
+      "value": "2025-06-28T20:08:08.134Z"
     }
   ]
 }
