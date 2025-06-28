@@ -631,11 +631,12 @@
       "id": "laKJY",
       "round": "4",
       "societyId": "yXHVO",
-      "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "resourceIds": [
+        "smTrB"
+      ],
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
@@ -1382,7 +1383,7 @@
       "status": "playing",
       "round": 4,
       "duration": 480,
-      "timeElapsed": 308.13199999999995,
+      "timeElapsed": 311.1329999999999,
       "actualTime": {
         "s": "2025-06-28T21:11:55.378+00:00",
         "e": "2025-06-28T21:23:55.378+00:00",
@@ -2123,9 +2124,7 @@
       "name": "Purifying Stones",
       "tags": {
         "_type": "Tags",
-        "value": [
-          "exhausted"
-        ]
+        "value": []
       }
     },
     {
