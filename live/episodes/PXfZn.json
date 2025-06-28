@@ -428,7 +428,7 @@
       "id": "Pf-Th",
       "societyId": "V9xbw",
       "player": "Sabrina (She/her)",
-      "name": "Astral Mystics",
+      "name": "Astral Mystics (kin)",
       "voice": "people",
       "tags": {
         "_type": "Tags",
@@ -528,7 +528,7 @@
       "status": "playing",
       "round": 0,
       "duration": 2100,
-      "timeElapsed": 1485.5139999999938,
+      "timeElapsed": 1543.5299999999934,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
