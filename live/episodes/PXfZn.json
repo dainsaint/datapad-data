@@ -504,7 +504,7 @@
       "status": "playing",
       "round": 0,
       "duration": 1800,
-      "timeElapsed": 843.2599999999982,
+      "timeElapsed": 862.2619999999981,
       "actualTime": {
         "s": "2025-06-28T16:42:14.713+00:00",
         "e": "2025-06-28T17:12:14.713+00:00",
@@ -1009,7 +1009,7 @@
       "_type": "Resource",
       "id": "tVxct",
       "communityId": "XxrAo",
-      "name": "[] Hands",
+      "name": "Restless Hands",
       "tags": {
         "_type": "Tags",
         "value": []
