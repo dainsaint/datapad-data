@@ -723,8 +723,15 @@
         "Protect the ships",
         ""
       ],
-      "result": [],
-      "status": "open",
+      "result": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "voteTime": "2025-06-28T22:23:09.779+00:00",
+      "status": "voted",
       "tags": {
         "_type": "Tags",
         "value": []
@@ -1633,7 +1640,7 @@
       "status": "playing",
       "round": 5,
       "duration": 480,
-      "timeElapsed": 383.2059999999993,
+      "timeElapsed": 385.20699999999925,
       "actualTime": {
         "s": "2025-06-28T22:16:44.519+00:00",
         "e": "2025-06-28T22:24:44.519+00:00",
@@ -2209,7 +2216,7 @@
       "_type": "Resource",
       "id": "tmrOc",
       "communityId": "hlIaD",
-      "name": "Seismic Mondegreens",
+      "name": "Seismic Suction",
       "tags": {
         "_type": "Tags",
         "value": []
