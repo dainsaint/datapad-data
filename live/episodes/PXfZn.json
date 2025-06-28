@@ -912,13 +912,13 @@
       "_type": "Phase",
       "id": "m4u4d",
       "type": "Societal Phase",
-      "status": "playing",
+      "status": "complete",
       "round": 2,
       "duration": 780,
-      "timeElapsed": 803.8639999999968,
+      "timeElapsed": 804.8639999999968,
       "actualTime": {
         "s": "2025-06-28T18:30:37.602+00:00",
-        "e": "2025-06-28T18:44:37.602+00:00",
+        "e": "2025-06-28T18:44:02.561+00:00",
         "invalid": null,
         "isLuxonInterval": true
       },
@@ -50446,6 +50446,22 @@
       "timestamp": "2025-06-28T18:43:15.661Z",
       "type": "ResourceCreated",
       "value": "Kin Treasure "
+    },
+    {
+      "_type": "Record",
+      "id": "c2aJx",
+      "timestamp": "2025-06-28T18:44:02.561Z",
+      "type": "PhaseEnded",
+      "description": "Round 2: Societal Phase",
+      "value": "2025-06-28T18:44:02.561Z"
+    },
+    {
+      "_type": "Record",
+      "id": "sTjhm",
+      "timestamp": "2025-06-28T18:44:02.561Z",
+      "type": "PhaseDuration",
+      "description": "Round 2: Societal Phase",
+      "value": 13.415983333333333
     }
   ]
 }
