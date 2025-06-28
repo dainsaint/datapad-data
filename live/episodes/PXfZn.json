@@ -727,7 +727,7 @@
       "status": "playing",
       "round": 1,
       "duration": 1200,
-      "timeElapsed": 915.5779999999944,
+      "timeElapsed": 1065.7089999999937,
       "actualTime": {
         "s": "2025-06-28T17:51:05.271+00:00",
         "e": "2025-06-28T18:11:05.271+00:00",
@@ -47153,6 +47153,7 @@
       "name": "Universe Responds",
       "icon": "fa-hand-sparkles",
       "googleDocId": "1jNwKJaOp4FY9EFLJQZ1PVi6OBSYCrSvNNGcnkhVyszs",
+      "status": "ok",
       "content": {
         "type": "root",
         "children": [
