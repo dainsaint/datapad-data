@@ -44,6 +44,9 @@
         "Protect from potential harm",
         "Increase the shields' stealth, responsiveness, and adaptability"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         1,
         3
@@ -70,6 +73,9 @@
         "Backlight the performance",
         "Act out the stories"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6,
         6,
@@ -93,6 +99,9 @@
       "texts": [
         "Produce the most epic light show around the black hole"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         3
       ],
@@ -118,6 +127,9 @@
         "Interpret the scrolls",
         "Share the knowledge "
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         5,
         3,
@@ -180,6 +192,9 @@
         "Break the Veil's barriers  to  communication ",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         5,
         4,
@@ -224,6 +239,9 @@
         "Research Big Sister and Little Brother ",
         "Aid in stabilization "
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6,
         4,
@@ -251,6 +269,9 @@
         "Maintain the gear",
         "Operate the gear"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         5,
         4,
@@ -280,6 +301,9 @@
         "Hide the safe shelters into the landscape of thr planet",
         "To let people know we're offering refuge"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         5,
         3,
@@ -303,6 +327,9 @@
         "Apprehend asteroid ",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [],
       "status": "open",
       "tags": {
@@ -323,6 +350,9 @@
         "Aid the emotional distress",
         "Process the sense of loss"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6,
         3
@@ -366,6 +396,9 @@
         "Power the machine",
         "To cool ans stabilize the machine"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6,
         5,
@@ -393,6 +426,9 @@
         "Provide the power ",
         "Aid in our engineering "
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         4,
         6,
@@ -420,6 +456,9 @@
         "Sow chaos ",
         "Sow panic and false confidence"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6,
         5,
@@ -449,6 +488,9 @@
         "Boost the ships",
         "Protect the ships "
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         5,
         5,
@@ -477,6 +519,9 @@
         "",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0,
         0,
@@ -517,6 +562,9 @@
       "texts": [
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0
       ],
@@ -561,6 +609,9 @@
         "Refract the healing energy ",
         "Form the core"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         0,
         5,
@@ -587,6 +638,9 @@
         "Bribe the Comets to attack the burning ember",
         "Sweeten the deal"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         1,
         0
@@ -613,6 +667,9 @@
         "Make sure we have enough water",
         "Aid in our protection"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         5,
         4,
@@ -640,6 +697,9 @@
         "Repair network satellites",
         "Ensure success "
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         5,
         2,
@@ -667,6 +727,9 @@
         "Inspire collaboration ",
         "Aid in transparent communication "
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         3,
         2,
@@ -692,6 +755,9 @@
         "Create a support structure ",
         "Synthesize the sand of Gust into material "
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         3,
         0
@@ -723,6 +789,9 @@
         "Protect the ships",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6,
         6,
@@ -752,6 +821,9 @@
         "Gifts  to wizards",
         "Gifts to wizards"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         1,
         1,
@@ -781,6 +853,9 @@
         "Strategically strike ",
         "Attack in spite of our own attacks"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6,
         5,
@@ -811,6 +886,9 @@
         "To have every follower excel",
         "Perform the necessary task"
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6,
         4,
@@ -840,6 +918,9 @@
         "Continue healing work of project david ",
         ""
       ],
+      "risk": 1,
+      "advantage": 0,
+      "disadvantage": 0,
       "result": [
         6,
         4,
@@ -3134,7 +3215,14 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {},
-      "alterLeadership": {}
+      "alterLeadership": {
+        "hqZZ8": "leader",
+        "CYPuO": "leader",
+        "iRW5s": "people",
+        "Pry_D": "leader",
+        "vcMaN": "leader",
+        "Saxy5": "leader"
+      }
     }
   ],
   "documents": [
@@ -50930,72 +51018,72 @@
     {
       "_type": "Record",
       "id": "RXmc4",
-      "timestamp": "2025-06-28T16:42:14.713Z",
+      "timestamp": "2025-06-28T16:42:14.713+00:00",
       "type": "PhaseStarted",
       "description": "Round 0: Setup/Onboarding",
-      "value": "2025-06-28T16:42:14.713Z"
+      "value": "2025-06-28T16:42:14.713+00:00"
     },
     {
       "_type": "Record",
       "id": "RQnp4",
-      "timestamp": "2025-06-28T16:57:08.107Z",
+      "timestamp": "2025-06-28T16:57:08.107+00:00",
       "type": "ResourceCreated",
       "value": "Imperial Databases"
     },
     {
       "_type": "Record",
       "id": "SROj6",
-      "timestamp": "2025-06-28T16:59:45.770Z",
+      "timestamp": "2025-06-28T16:59:45.770+00:00",
       "type": "ResourceCreated",
       "value": "Sacrificial Chapels "
     },
     {
       "_type": "Record",
       "id": "AQgJM",
-      "timestamp": "2025-06-28T17:00:07.190Z",
+      "timestamp": "2025-06-28T17:00:07.190+00:00",
       "type": "ResourceCreated",
       "value": "Regenerative Structure "
     },
     {
       "_type": "Record",
       "id": "sQCoE",
-      "timestamp": "2025-06-28T17:00:47.456Z",
+      "timestamp": "2025-06-28T17:00:47.456+00:00",
       "type": "ResourceCreated",
       "value": "Truthful Communication "
     },
     {
       "_type": "Record",
       "id": "VStZ0",
-      "timestamp": "2025-06-28T17:02:41.613Z",
+      "timestamp": "2025-06-28T17:02:41.613+00:00",
       "type": "ResourceCreated",
       "value": "KIN Collective Dreaming"
     },
     {
       "_type": "Record",
       "id": "W4CPB",
-      "timestamp": "2025-06-28T17:03:58.716Z",
+      "timestamp": "2025-06-28T17:03:58.716+00:00",
       "type": "ResourceCreated",
       "value": "Creative Understanding "
     },
     {
       "_type": "Record",
       "id": "s43r2",
-      "timestamp": "2025-06-28T17:06:56.236Z",
+      "timestamp": "2025-06-28T17:06:56.236+00:00",
       "type": "ResourceCreated",
       "value": "Indeterminate Genetics"
     },
     {
       "_type": "Record",
       "id": "jKJ48",
-      "timestamp": "2025-06-28T17:22:42.523Z",
+      "timestamp": "2025-06-28T17:22:42.523+00:00",
       "type": "PhaseEnded",
       "description": "Round 0: Setup/Onboarding",
-      "value": "2025-06-28T17:22:42.523Z"
+      "value": "2025-06-28T17:22:42.523+00:00"
     },
     {
       "_type": "Record",
       "id": "dml8M",
-      "timestamp": "2025-06-28T17:22:42.524Z",
+      "timestamp": "2025-06-28T17:22:42.524+00:00",
       "type": "PhaseDuration",
       "description": "Round 0: Setup/Onboarding",
       "value": 40.4635
@@ -51003,7 +51091,7 @@
     {
       "_type": "Record",
       "id": "Dyrd7",
-      "timestamp": "2025-06-28T17:22:42.524Z",
+      "timestamp": "2025-06-28T17:22:42.524+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 0
@@ -51011,7 +51099,7 @@
     {
       "_type": "Record",
       "id": "nbpYL",
-      "timestamp": "2025-06-28T17:22:42.524Z",
+      "timestamp": "2025-06-28T17:22:42.524+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 0
@@ -51019,7 +51107,7 @@
     {
       "_type": "Record",
       "id": "U93PW",
-      "timestamp": "2025-06-28T17:22:42.524Z",
+      "timestamp": "2025-06-28T17:22:42.524+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -51027,7 +51115,7 @@
     {
       "_type": "Record",
       "id": "myj01",
-      "timestamp": "2025-06-28T17:22:42.524Z",
+      "timestamp": "2025-06-28T17:22:42.524+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 0
@@ -51035,7 +51123,7 @@
     {
       "_type": "Record",
       "id": "Wl2tW",
-      "timestamp": "2025-06-28T17:22:42.524Z",
+      "timestamp": "2025-06-28T17:22:42.524+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 0
@@ -51043,15 +51131,15 @@
     {
       "_type": "Record",
       "id": "QFyri",
-      "timestamp": "2025-06-28T17:22:51.478Z",
+      "timestamp": "2025-06-28T17:22:51.478+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Universal Phase",
-      "value": "2025-06-28T17:22:51.478Z"
+      "value": "2025-06-28T17:22:51.478+00:00"
     },
     {
       "_type": "Record",
       "id": "KPJWs",
-      "timestamp": "2025-06-28T17:22:51.479Z",
+      "timestamp": "2025-06-28T17:22:51.479+00:00",
       "type": "CommunitiesEndangered",
       "description": "Arch St. — Episode 3: Extroverted Bartenders,Avant-Garde Gemcutters,Deceptive Losers,Powerful Rangers ",
       "value": 4
@@ -51059,15 +51147,15 @@
     {
       "_type": "Record",
       "id": "Ub7Rn",
-      "timestamp": "2025-06-28T17:29:14.478Z",
+      "timestamp": "2025-06-28T17:29:14.478+00:00",
       "type": "PhaseEnded",
       "description": "Round 1: Universal Phase",
-      "value": "2025-06-28T17:29:14.478Z"
+      "value": "2025-06-28T17:29:14.478+00:00"
     },
     {
       "_type": "Record",
       "id": "Lei1B",
-      "timestamp": "2025-06-28T17:29:14.479Z",
+      "timestamp": "2025-06-28T17:29:14.479+00:00",
       "type": "PhaseDuration",
       "description": "Round 1: Universal Phase",
       "value": 6.383333333333334
@@ -51075,23 +51163,23 @@
     {
       "_type": "Record",
       "id": "Zqj2m",
-      "timestamp": "2025-06-28T17:29:15.435Z",
+      "timestamp": "2025-06-28T17:29:15.435+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Societal Phase",
-      "value": "2025-06-28T17:29:15.435Z"
+      "value": "2025-06-28T17:29:15.435+00:00"
     },
     {
       "_type": "Record",
       "id": "yjCvE",
-      "timestamp": "2025-06-28T17:48:58.483Z",
+      "timestamp": "2025-06-28T17:48:58.483+00:00",
       "type": "PhaseEnded",
       "description": "Round 1: Societal Phase",
-      "value": "2025-06-28T17:48:58.483Z"
+      "value": "2025-06-28T17:48:58.483+00:00"
     },
     {
       "_type": "Record",
       "id": "f_W5V",
-      "timestamp": "2025-06-28T17:48:58.483Z",
+      "timestamp": "2025-06-28T17:48:58.483+00:00",
       "type": "PhaseDuration",
       "description": "Round 1: Societal Phase",
       "value": 19.717466666666667
@@ -51099,38 +51187,38 @@
     {
       "_type": "Record",
       "id": "vJZFy",
-      "timestamp": "2025-06-28T17:49:42.367Z",
+      "timestamp": "2025-06-28T17:49:42.367+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
-      "value": "2025-06-28T17:49:42.367Z"
+      "value": "2025-06-28T17:49:42.367+00:00"
     },
     {
       "_type": "Record",
       "id": "z9EG3",
-      "timestamp": "2025-06-28T17:51:05.271Z",
+      "timestamp": "2025-06-28T17:51:05.271+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Galactic Phase",
-      "value": "2025-06-28T17:51:05.271Z"
+      "value": "2025-06-28T17:51:05.271+00:00"
     },
     {
       "_type": "Record",
       "id": "qE_yI",
-      "timestamp": "2025-06-28T18:01:23.500Z",
+      "timestamp": "2025-06-28T18:01:23.500+00:00",
       "type": "ResourceCreated",
       "value": "System's Attention"
     },
     {
       "_type": "Record",
       "id": "TZzDz",
-      "timestamp": "2025-06-28T18:10:49.140Z",
+      "timestamp": "2025-06-28T18:10:49.140+00:00",
       "type": "PhaseEnded",
       "description": "Round 1: Galactic Phase",
-      "value": "2025-06-28T18:10:49.140Z"
+      "value": "2025-06-28T18:10:49.140+00:00"
     },
     {
       "_type": "Record",
       "id": "b5A1U",
-      "timestamp": "2025-06-28T18:10:49.140Z",
+      "timestamp": "2025-06-28T18:10:49.140+00:00",
       "type": "PhaseDuration",
       "description": "Round 1: Galactic Phase",
       "value": 19.73115
@@ -51138,23 +51226,23 @@
     {
       "_type": "Record",
       "id": "Oo-Qn",
-      "timestamp": "2025-06-28T18:10:50.844Z",
+      "timestamp": "2025-06-28T18:10:50.844+00:00",
       "type": "PhaseStarted",
       "description": "Round 1: Individual Phase",
-      "value": "2025-06-28T18:10:50.844Z"
+      "value": "2025-06-28T18:10:50.844+00:00"
     },
     {
       "_type": "Record",
       "id": "gyXGb",
-      "timestamp": "2025-06-28T18:20:51.845Z",
+      "timestamp": "2025-06-28T18:20:51.845+00:00",
       "type": "PhaseEnded",
       "description": "Round 1: Individual Phase",
-      "value": "2025-06-28T18:20:51.845Z"
+      "value": "2025-06-28T18:20:51.845+00:00"
     },
     {
       "_type": "Record",
       "id": "pOu3F",
-      "timestamp": "2025-06-28T18:20:51.845Z",
+      "timestamp": "2025-06-28T18:20:51.845+00:00",
       "type": "PhaseDuration",
       "description": "Round 1: Individual Phase",
       "value": 10.016683333333333
@@ -51162,7 +51250,7 @@
     {
       "_type": "Record",
       "id": "ZRnnP",
-      "timestamp": "2025-06-28T18:20:51.845Z",
+      "timestamp": "2025-06-28T18:20:51.845+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -51170,7 +51258,7 @@
     {
       "_type": "Record",
       "id": "b8zuO",
-      "timestamp": "2025-06-28T18:20:51.846Z",
+      "timestamp": "2025-06-28T18:20:51.846+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Screaming Scrolls,Diplomatic Leaders,Abundant Followers to take action.",
       "value": 3
@@ -51178,7 +51266,7 @@
     {
       "_type": "Record",
       "id": "HtQ5r",
-      "timestamp": "2025-06-28T18:20:51.846Z",
+      "timestamp": "2025-06-28T18:20:51.846+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -51186,7 +51274,7 @@
     {
       "_type": "Record",
       "id": "Znc4o",
-      "timestamp": "2025-06-28T18:20:51.846Z",
+      "timestamp": "2025-06-28T18:20:51.846+00:00",
       "type": "ActionResources",
       "description": "the mighty used Electromagnetic Shields,Invisible Shield Schematics  to take action.",
       "value": 2
@@ -51194,7 +51282,7 @@
     {
       "_type": "Record",
       "id": "pgzCc",
-      "timestamp": "2025-06-28T18:20:51.846Z",
+      "timestamp": "2025-06-28T18:20:51.846+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 1
@@ -51202,7 +51290,7 @@
     {
       "_type": "Record",
       "id": "cgouc",
-      "timestamp": "2025-06-28T18:20:51.846Z",
+      "timestamp": "2025-06-28T18:20:51.846+00:00",
       "type": "ActionResources",
       "description": "the intrepid used Rare Materials to take action.",
       "value": 1
@@ -51210,7 +51298,7 @@
     {
       "_type": "Record",
       "id": "g9JTR",
-      "timestamp": "2025-06-28T18:20:51.846Z",
+      "timestamp": "2025-06-28T18:20:51.846+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 1
@@ -51218,7 +51306,7 @@
     {
       "_type": "Record",
       "id": "POLw3",
-      "timestamp": "2025-06-28T18:20:51.846Z",
+      "timestamp": "2025-06-28T18:20:51.846+00:00",
       "type": "ActionResources",
       "description": "the grounded used Ancient  Sagas,Freakish Explosions,Bedazzled Bomber Jackets to take action.",
       "value": 3
@@ -51226,7 +51314,7 @@
     {
       "_type": "Record",
       "id": "BmiND",
-      "timestamp": "2025-06-28T18:20:51.846Z",
+      "timestamp": "2025-06-28T18:20:51.846+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 1
@@ -51234,7 +51322,7 @@
     {
       "_type": "Record",
       "id": "RO6uC",
-      "timestamp": "2025-06-28T18:20:51.846Z",
+      "timestamp": "2025-06-28T18:20:51.846+00:00",
       "type": "ActionResources",
       "description": "the faithful used KIN Collective Dreaming,Creative Understanding ,Sacrificial Chapels  to take action.",
       "value": 3
@@ -51242,15 +51330,15 @@
     {
       "_type": "Record",
       "id": "vub7k",
-      "timestamp": "2025-06-28T18:21:53.946Z",
+      "timestamp": "2025-06-28T18:21:53.946+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Universal Phase",
-      "value": "2025-06-28T18:21:53.946Z"
+      "value": "2025-06-28T18:21:53.946+00:00"
     },
     {
       "_type": "Record",
       "id": "kODRM",
-      "timestamp": "2025-06-28T18:21:53.947Z",
+      "timestamp": "2025-06-28T18:21:53.947+00:00",
       "type": "CommunitiesEndangered",
       "description": "Arch St. — Episode 3: Extroverted Bartenders,Avant-Garde Gemcutters,Deceptive Losers,Powerful Rangers ",
       "value": 4
@@ -51258,15 +51346,15 @@
     {
       "_type": "Record",
       "id": "ynluM",
-      "timestamp": "2025-06-28T18:30:31.651Z",
+      "timestamp": "2025-06-28T18:30:31.651+00:00",
       "type": "PhaseEnded",
       "description": "Round 2: Universal Phase",
-      "value": "2025-06-28T18:30:31.651Z"
+      "value": "2025-06-28T18:30:31.651+00:00"
     },
     {
       "_type": "Record",
       "id": "ncsmm",
-      "timestamp": "2025-06-28T18:30:31.652Z",
+      "timestamp": "2025-06-28T18:30:31.652+00:00",
       "type": "PhaseDuration",
       "description": "Round 2: Universal Phase",
       "value": 8.628416666666666
@@ -51274,30 +51362,30 @@
     {
       "_type": "Record",
       "id": "ny8rn",
-      "timestamp": "2025-06-28T18:30:37.602Z",
+      "timestamp": "2025-06-28T18:30:37.602+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Societal Phase",
-      "value": "2025-06-28T18:30:37.602Z"
+      "value": "2025-06-28T18:30:37.602+00:00"
     },
     {
       "_type": "Record",
       "id": "p1LTt",
-      "timestamp": "2025-06-28T18:43:15.661Z",
+      "timestamp": "2025-06-28T18:43:15.661+00:00",
       "type": "ResourceCreated",
       "value": "Kin Treasure "
     },
     {
       "_type": "Record",
       "id": "c2aJx",
-      "timestamp": "2025-06-28T18:44:02.561Z",
+      "timestamp": "2025-06-28T18:44:02.561+00:00",
       "type": "PhaseEnded",
       "description": "Round 2: Societal Phase",
-      "value": "2025-06-28T18:44:02.561Z"
+      "value": "2025-06-28T18:44:02.561+00:00"
     },
     {
       "_type": "Record",
       "id": "sTjhm",
-      "timestamp": "2025-06-28T18:44:02.561Z",
+      "timestamp": "2025-06-28T18:44:02.561+00:00",
       "type": "PhaseDuration",
       "description": "Round 2: Societal Phase",
       "value": 13.415983333333333
@@ -51305,23 +51393,23 @@
     {
       "_type": "Record",
       "id": "VK_Zu",
-      "timestamp": "2025-06-28T18:46:10.708Z",
+      "timestamp": "2025-06-28T18:46:10.708+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Galactic Phase",
-      "value": "2025-06-28T18:46:10.708Z"
+      "value": "2025-06-28T18:46:10.708+00:00"
     },
     {
       "_type": "Record",
       "id": "zDiqf",
-      "timestamp": "2025-06-28T19:09:05.258Z",
+      "timestamp": "2025-06-28T19:09:05.258+00:00",
       "type": "PhaseEnded",
       "description": "Round 2: Galactic Phase",
-      "value": "2025-06-28T19:09:05.258Z"
+      "value": "2025-06-28T19:09:05.258+00:00"
     },
     {
       "_type": "Record",
       "id": "iyRpa",
-      "timestamp": "2025-06-28T19:09:05.259Z",
+      "timestamp": "2025-06-28T19:09:05.259+00:00",
       "type": "PhaseDuration",
       "description": "Round 2: Galactic Phase",
       "value": 22.909166666666668
@@ -51329,31 +51417,31 @@
     {
       "_type": "Record",
       "id": "dKzdp",
-      "timestamp": "2025-06-28T19:09:06.444Z",
+      "timestamp": "2025-06-28T19:09:06.444+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Individual Phase",
-      "value": "2025-06-28T19:09:06.444Z"
+      "value": "2025-06-28T19:09:06.444+00:00"
     },
     {
       "_type": "Record",
       "id": "FaES9",
-      "timestamp": "2025-06-28T19:11:35.312Z",
+      "timestamp": "2025-06-28T19:11:35.312+00:00",
       "type": "PhaseStarted",
       "description": "Round 2: Individual Phase",
-      "value": "2025-06-28T19:11:35.312Z"
+      "value": "2025-06-28T19:11:35.312+00:00"
     },
     {
       "_type": "Record",
       "id": "MPSMq",
-      "timestamp": "2025-06-28T19:21:12.425Z",
+      "timestamp": "2025-06-28T19:21:12.425+00:00",
       "type": "PhaseEnded",
       "description": "Round 2: Individual Phase",
-      "value": "2025-06-28T19:21:12.425Z"
+      "value": "2025-06-28T19:21:12.425+00:00"
     },
     {
       "_type": "Record",
       "id": "ZVh3K",
-      "timestamp": "2025-06-28T19:21:12.426Z",
+      "timestamp": "2025-06-28T19:21:12.426+00:00",
       "type": "PhaseDuration",
       "description": "Round 2: Individual Phase",
       "value": 9.61855
@@ -51361,7 +51449,7 @@
     {
       "_type": "Record",
       "id": "ohoqt",
-      "timestamp": "2025-06-28T20:00:37.273Z",
+      "timestamp": "2025-06-28T20:00:37.273+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -51369,7 +51457,7 @@
     {
       "_type": "Record",
       "id": "Qlocu",
-      "timestamp": "2025-06-28T20:00:37.273Z",
+      "timestamp": "2025-06-28T20:00:37.273+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Healing Quartz Crystals,Kin Treasure  to take action.",
       "value": 2
@@ -51377,7 +51465,7 @@
     {
       "_type": "Record",
       "id": "iQwUz",
-      "timestamp": "2025-06-28T20:00:37.273Z",
+      "timestamp": "2025-06-28T20:00:37.273+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -51385,7 +51473,7 @@
     {
       "_type": "Record",
       "id": "HpL3W",
-      "timestamp": "2025-06-28T20:00:37.273Z",
+      "timestamp": "2025-06-28T20:00:37.273+00:00",
       "type": "ActionResources",
       "description": "the mighty used Huge Mining Gear,Forbidden Foam,Overwhelming Numbers to take action.",
       "value": 3
@@ -51393,7 +51481,7 @@
     {
       "_type": "Record",
       "id": "LtaeT",
-      "timestamp": "2025-06-28T20:00:37.273Z",
+      "timestamp": "2025-06-28T20:00:37.273+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -51401,7 +51489,7 @@
     {
       "_type": "Record",
       "id": "NOO8p",
-      "timestamp": "2025-06-28T20:00:37.273Z",
+      "timestamp": "2025-06-28T20:00:37.273+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 1
@@ -51409,7 +51497,7 @@
     {
       "_type": "Record",
       "id": "e32ng",
-      "timestamp": "2025-06-28T20:00:37.273Z",
+      "timestamp": "2025-06-28T20:00:37.273+00:00",
       "type": "ActionResources",
       "description": "the grounded used Safe Shelters,Endless Energy,Cunning Stealth,System's Attention to take action.",
       "value": 4
@@ -51417,7 +51505,7 @@
     {
       "_type": "Record",
       "id": "cD2ZH",
-      "timestamp": "2025-06-28T20:00:37.274Z",
+      "timestamp": "2025-06-28T20:00:37.274+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 1
@@ -51425,7 +51513,7 @@
     {
       "_type": "Record",
       "id": "n7mAv",
-      "timestamp": "2025-06-28T20:00:37.274Z",
+      "timestamp": "2025-06-28T20:00:37.274+00:00",
       "type": "ActionResources",
       "description": "the faithful used Healing Nebula ,Imperial Databases,Regenerative Construction to take action.",
       "value": 3
@@ -51433,7 +51521,7 @@
     {
       "_type": "Record",
       "id": "d0Wdn",
-      "timestamp": "2025-06-28T20:00:38.285Z",
+      "timestamp": "2025-06-28T20:00:38.285+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -51441,7 +51529,7 @@
     {
       "_type": "Record",
       "id": "N-qgg",
-      "timestamp": "2025-06-28T20:00:38.285Z",
+      "timestamp": "2025-06-28T20:00:38.285+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Healing Quartz Crystals,Kin Treasure  to take action.",
       "value": 2
@@ -51449,7 +51537,7 @@
     {
       "_type": "Record",
       "id": "E4wJO",
-      "timestamp": "2025-06-28T20:00:38.285Z",
+      "timestamp": "2025-06-28T20:00:38.285+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -51457,7 +51545,7 @@
     {
       "_type": "Record",
       "id": "fQnpN",
-      "timestamp": "2025-06-28T20:00:38.285Z",
+      "timestamp": "2025-06-28T20:00:38.285+00:00",
       "type": "ActionResources",
       "description": "the mighty used Huge Mining Gear,Forbidden Foam,Overwhelming Numbers to take action.",
       "value": 3
@@ -51465,7 +51553,7 @@
     {
       "_type": "Record",
       "id": "dbp9O",
-      "timestamp": "2025-06-28T20:00:38.285Z",
+      "timestamp": "2025-06-28T20:00:38.285+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 0
@@ -51473,7 +51561,7 @@
     {
       "_type": "Record",
       "id": "yRIjZ",
-      "timestamp": "2025-06-28T20:00:38.285Z",
+      "timestamp": "2025-06-28T20:00:38.285+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 1
@@ -51481,7 +51569,7 @@
     {
       "_type": "Record",
       "id": "qRt_r",
-      "timestamp": "2025-06-28T20:00:38.285Z",
+      "timestamp": "2025-06-28T20:00:38.285+00:00",
       "type": "ActionResources",
       "description": "the grounded used Safe Shelters,Endless Energy,Cunning Stealth,System's Attention to take action.",
       "value": 4
@@ -51489,7 +51577,7 @@
     {
       "_type": "Record",
       "id": "jDp8e",
-      "timestamp": "2025-06-28T20:00:38.286Z",
+      "timestamp": "2025-06-28T20:00:38.286+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 1
@@ -51497,7 +51585,7 @@
     {
       "_type": "Record",
       "id": "XjOR9",
-      "timestamp": "2025-06-28T20:00:38.286Z",
+      "timestamp": "2025-06-28T20:00:38.286+00:00",
       "type": "ActionResources",
       "description": "the faithful used Healing Nebula ,Imperial Databases,Regenerative Construction to take action.",
       "value": 3
@@ -51505,15 +51593,15 @@
     {
       "_type": "Record",
       "id": "ZIHbe",
-      "timestamp": "2025-06-28T20:01:59.636Z",
+      "timestamp": "2025-06-28T20:01:59.636+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Universal Phase",
-      "value": "2025-06-28T20:01:59.636Z"
+      "value": "2025-06-28T20:01:59.636+00:00"
     },
     {
       "_type": "Record",
       "id": "FE_26",
-      "timestamp": "2025-06-28T20:01:59.636Z",
+      "timestamp": "2025-06-28T20:01:59.636+00:00",
       "type": "CommunitiesEndangered",
       "description": "Arch St. — Episode 3: Extroverted Bartenders,Avant-Garde Gemcutters,Deceptive Losers,Powerful Rangers ",
       "value": 4
@@ -51521,15 +51609,15 @@
     {
       "_type": "Record",
       "id": "OuyV5",
-      "timestamp": "2025-06-28T20:08:05.887Z",
+      "timestamp": "2025-06-28T20:08:05.887+00:00",
       "type": "PhaseEnded",
       "description": "Round 3: Universal Phase",
-      "value": "2025-06-28T20:08:05.887Z"
+      "value": "2025-06-28T20:08:05.887+00:00"
     },
     {
       "_type": "Record",
       "id": "GWwHC",
-      "timestamp": "2025-06-28T20:08:05.887Z",
+      "timestamp": "2025-06-28T20:08:05.887+00:00",
       "type": "PhaseDuration",
       "description": "Round 3: Universal Phase",
       "value": 6.104183333333333
@@ -51537,30 +51625,30 @@
     {
       "_type": "Record",
       "id": "NRMhp",
-      "timestamp": "2025-06-28T20:08:08.134Z",
+      "timestamp": "2025-06-28T20:08:08.134+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Societal Phase",
-      "value": "2025-06-28T20:08:08.134Z"
+      "value": "2025-06-28T20:08:08.134+00:00"
     },
     {
       "_type": "Record",
       "id": "wFbC3",
-      "timestamp": "2025-06-28T20:08:45.338Z",
+      "timestamp": "2025-06-28T20:08:45.338+00:00",
       "type": "ResourceCreated",
       "value": "Energetic Crystals"
     },
     {
       "_type": "Record",
       "id": "wIpRZ",
-      "timestamp": "2025-06-28T20:21:24.616Z",
+      "timestamp": "2025-06-28T20:21:24.616+00:00",
       "type": "PhaseEnded",
       "description": "Round 3: Societal Phase",
-      "value": "2025-06-28T20:21:24.616Z"
+      "value": "2025-06-28T20:21:24.616+00:00"
     },
     {
       "_type": "Record",
       "id": "SZbLa",
-      "timestamp": "2025-06-28T20:21:24.617Z",
+      "timestamp": "2025-06-28T20:21:24.617+00:00",
       "type": "PhaseDuration",
       "description": "Round 3: Societal Phase",
       "value": 13.2747
@@ -51568,23 +51656,23 @@
     {
       "_type": "Record",
       "id": "AhDxw",
-      "timestamp": "2025-06-28T20:22:43.018Z",
+      "timestamp": "2025-06-28T20:22:43.018+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Galactic Phase",
-      "value": "2025-06-28T20:22:43.017Z"
+      "value": "2025-06-28T20:22:43.017+00:00"
     },
     {
       "_type": "Record",
       "id": "bC8ul",
-      "timestamp": "2025-06-28T20:48:30.035Z",
+      "timestamp": "2025-06-28T20:48:30.035+00:00",
       "type": "PhaseEnded",
       "description": "Round 3: Galactic Phase",
-      "value": "2025-06-28T20:48:30.035Z"
+      "value": "2025-06-28T20:48:30.035+00:00"
     },
     {
       "_type": "Record",
       "id": "BLxHG",
-      "timestamp": "2025-06-28T20:48:30.035Z",
+      "timestamp": "2025-06-28T20:48:30.035+00:00",
       "type": "PhaseDuration",
       "description": "Round 3: Galactic Phase",
       "value": 25.783633333333334
@@ -51592,23 +51680,23 @@
     {
       "_type": "Record",
       "id": "vDl3P",
-      "timestamp": "2025-06-28T20:48:57.126Z",
+      "timestamp": "2025-06-28T20:48:57.126+00:00",
       "type": "PhaseStarted",
       "description": "Round 3: Individual Phase",
-      "value": "2025-06-28T20:48:57.126Z"
+      "value": "2025-06-28T20:48:57.126+00:00"
     },
     {
       "_type": "Record",
       "id": "ckyZA",
-      "timestamp": "2025-06-28T21:02:13.297Z",
+      "timestamp": "2025-06-28T21:02:13.297+00:00",
       "type": "PhaseEnded",
       "description": "Round 3: Individual Phase",
-      "value": "2025-06-28T21:02:13.297Z"
+      "value": "2025-06-28T21:02:13.297+00:00"
     },
     {
       "_type": "Record",
       "id": "Fe416",
-      "timestamp": "2025-06-28T21:02:13.297Z",
+      "timestamp": "2025-06-28T21:02:13.297+00:00",
       "type": "PhaseDuration",
       "description": "Round 3: Individual Phase",
       "value": 13.269516666666666
@@ -51616,7 +51704,7 @@
     {
       "_type": "Record",
       "id": "y6Hdy",
-      "timestamp": "2025-06-28T21:02:13.298Z",
+      "timestamp": "2025-06-28T21:02:13.298+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -51624,7 +51712,7 @@
     {
       "_type": "Record",
       "id": "aUfOm",
-      "timestamp": "2025-06-28T21:02:13.298Z",
+      "timestamp": "2025-06-28T21:02:13.298+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Undying Fire,Clean-Energy Reactors ,Crystal Smelters,Healing Quartz Crystals to take action.",
       "value": 4
@@ -51632,7 +51720,7 @@
     {
       "_type": "Record",
       "id": "xwUxD",
-      "timestamp": "2025-06-28T21:02:13.298Z",
+      "timestamp": "2025-06-28T21:02:13.298+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -51640,7 +51728,7 @@
     {
       "_type": "Record",
       "id": "mnhkN",
-      "timestamp": "2025-06-28T21:02:13.298Z",
+      "timestamp": "2025-06-28T21:02:13.298+00:00",
       "type": "ActionResources",
       "description": "the mighty used Gemstone Armada,Energetic Crystals,Wide Range Cannons,Electromagnetic Shields to take action.",
       "value": 4
@@ -51648,7 +51736,7 @@
     {
       "_type": "Record",
       "id": "PWoVh",
-      "timestamp": "2025-06-28T21:02:13.298Z",
+      "timestamp": "2025-06-28T21:02:13.298+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 1
@@ -51656,7 +51744,7 @@
     {
       "_type": "Record",
       "id": "itJ2F",
-      "timestamp": "2025-06-28T21:02:13.298Z",
+      "timestamp": "2025-06-28T21:02:13.298+00:00",
       "type": "ActionResources",
       "description": "the intrepid used Purifying Stones,Community Battery,Cryogenic Science to take action.",
       "value": 3
@@ -51664,7 +51752,7 @@
     {
       "_type": "Record",
       "id": "REPey",
-      "timestamp": "2025-06-28T21:02:13.298Z",
+      "timestamp": "2025-06-28T21:02:13.298+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 1
@@ -51672,7 +51760,7 @@
     {
       "_type": "Record",
       "id": "IWUWK",
-      "timestamp": "2025-06-28T21:02:13.298Z",
+      "timestamp": "2025-06-28T21:02:13.298+00:00",
       "type": "ActionResources",
       "description": "the grounded used Freakish Explosions,Seismic Mondegreens,Refreshing Underthinking to take action.",
       "value": 3
@@ -51680,7 +51768,7 @@
     {
       "_type": "Record",
       "id": "bUgZd",
-      "timestamp": "2025-06-28T21:02:13.298Z",
+      "timestamp": "2025-06-28T21:02:13.298+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 1
@@ -51688,7 +51776,7 @@
     {
       "_type": "Record",
       "id": "BEby9",
-      "timestamp": "2025-06-28T21:02:13.298Z",
+      "timestamp": "2025-06-28T21:02:13.298+00:00",
       "type": "ActionResources",
       "description": "the faithful used Regenerative Construction,Endless Energy,Creative Understanding  to take action.",
       "value": 3
@@ -51696,15 +51784,15 @@
     {
       "_type": "Record",
       "id": "uKKRo",
-      "timestamp": "2025-06-28T21:03:13.890Z",
+      "timestamp": "2025-06-28T21:03:13.890+00:00",
       "type": "PhaseStarted",
       "description": "Round 4: Universal Phase",
-      "value": "2025-06-28T21:03:13.889Z"
+      "value": "2025-06-28T21:03:13.889+00:00"
     },
     {
       "_type": "Record",
       "id": "LWfDi",
-      "timestamp": "2025-06-28T21:03:13.891Z",
+      "timestamp": "2025-06-28T21:03:13.891+00:00",
       "type": "CommunitiesEndangered",
       "description": "Arch St. — Episode 3: Extroverted Bartenders,Avant-Garde Gemcutters,Deceptive Losers,Powerful Rangers ",
       "value": 4
@@ -51712,15 +51800,15 @@
     {
       "_type": "Record",
       "id": "fLTBm",
-      "timestamp": "2025-06-28T21:11:49.751Z",
+      "timestamp": "2025-06-28T21:11:49.751+00:00",
       "type": "PhaseEnded",
       "description": "Round 4: Universal Phase",
-      "value": "2025-06-28T21:11:49.751Z"
+      "value": "2025-06-28T21:11:49.751+00:00"
     },
     {
       "_type": "Record",
       "id": "iKqBr",
-      "timestamp": "2025-06-28T21:11:49.752Z",
+      "timestamp": "2025-06-28T21:11:49.752+00:00",
       "type": "PhaseDuration",
       "description": "Round 4: Universal Phase",
       "value": 8.5977
@@ -51728,30 +51816,30 @@
     {
       "_type": "Record",
       "id": "ORSaR",
-      "timestamp": "2025-06-28T21:11:55.378Z",
+      "timestamp": "2025-06-28T21:11:55.378+00:00",
       "type": "PhaseStarted",
       "description": "Round 4: Societal Phase",
-      "value": "2025-06-28T21:11:55.378Z"
+      "value": "2025-06-28T21:11:55.378+00:00"
     },
     {
       "_type": "Record",
       "id": "eb9Cp",
-      "timestamp": "2025-06-28T21:17:53.516Z",
+      "timestamp": "2025-06-28T21:17:53.516+00:00",
       "type": "ResourceCreated",
       "value": "Industrial Grade Spaceships"
     },
     {
       "_type": "Record",
       "id": "x-K2u",
-      "timestamp": "2025-06-28T21:20:13.792Z",
+      "timestamp": "2025-06-28T21:20:13.792+00:00",
       "type": "PhaseEnded",
       "description": "Round 4: Societal Phase",
-      "value": "2025-06-28T21:20:13.792Z"
+      "value": "2025-06-28T21:20:13.792+00:00"
     },
     {
       "_type": "Record",
       "id": "eI8kd",
-      "timestamp": "2025-06-28T21:20:13.793Z",
+      "timestamp": "2025-06-28T21:20:13.793+00:00",
       "type": "PhaseDuration",
       "description": "Round 4: Societal Phase",
       "value": 8.3069
@@ -51759,23 +51847,23 @@
     {
       "_type": "Record",
       "id": "zq6LB",
-      "timestamp": "2025-06-28T21:20:42.064Z",
+      "timestamp": "2025-06-28T21:20:42.064+00:00",
       "type": "PhaseStarted",
       "description": "Round 4: Galactic Phase",
-      "value": "2025-06-28T21:20:42.064Z"
+      "value": "2025-06-28T21:20:42.064+00:00"
     },
     {
       "_type": "Record",
       "id": "U5hm8",
-      "timestamp": "2025-06-28T21:43:26.925Z",
+      "timestamp": "2025-06-28T21:43:26.925+00:00",
       "type": "PhaseEnded",
       "description": "Round 4: Galactic Phase",
-      "value": "2025-06-28T21:43:26.925Z"
+      "value": "2025-06-28T21:43:26.925+00:00"
     },
     {
       "_type": "Record",
       "id": "MHseT",
-      "timestamp": "2025-06-28T21:43:26.925Z",
+      "timestamp": "2025-06-28T21:43:26.925+00:00",
       "type": "PhaseDuration",
       "description": "Round 4: Galactic Phase",
       "value": 22.7477
@@ -51783,39 +51871,39 @@
     {
       "_type": "Record",
       "id": "FvU06",
-      "timestamp": "2025-06-28T21:43:31.244Z",
+      "timestamp": "2025-06-28T21:43:31.244+00:00",
       "type": "PhaseStarted",
       "description": "Round 4: Break",
-      "value": "2025-06-28T21:43:31.244Z"
+      "value": "2025-06-28T21:43:31.244+00:00"
     },
     {
       "_type": "Record",
       "id": "hVl33",
-      "timestamp": "2025-06-28T21:43:49.831Z",
+      "timestamp": "2025-06-28T21:43:49.831+00:00",
       "type": "PhaseStarted",
       "description": "Round 4: Break",
-      "value": "2025-06-28T21:43:49.831Z"
+      "value": "2025-06-28T21:43:49.831+00:00"
     },
     {
       "_type": "Record",
       "id": "OE8aQ",
-      "timestamp": "2025-06-28T21:43:52.960Z",
+      "timestamp": "2025-06-28T21:43:52.960+00:00",
       "type": "PhaseStarted",
       "description": "Round 4: Break",
-      "value": "2025-06-28T21:43:52.960Z"
+      "value": "2025-06-28T21:43:52.960+00:00"
     },
     {
       "_type": "Record",
       "id": "tFQjQ",
-      "timestamp": "2025-06-28T21:54:45.425Z",
+      "timestamp": "2025-06-28T21:54:45.425+00:00",
       "type": "PhaseEnded",
       "description": "Round 4: Break",
-      "value": "2025-06-28T21:54:45.425Z"
+      "value": "2025-06-28T21:54:45.425+00:00"
     },
     {
       "_type": "Record",
       "id": "Qnv8M",
-      "timestamp": "2025-06-28T21:54:45.425Z",
+      "timestamp": "2025-06-28T21:54:45.425+00:00",
       "type": "PhaseDuration",
       "description": "Round 4: Break",
       "value": 10.874416666666667
@@ -51823,23 +51911,23 @@
     {
       "_type": "Record",
       "id": "z88Sg",
-      "timestamp": "2025-06-28T21:55:56.095Z",
+      "timestamp": "2025-06-28T21:55:56.095+00:00",
       "type": "PhaseStarted",
       "description": "Round 4: Individual Phase",
-      "value": "2025-06-28T21:55:56.095Z"
+      "value": "2025-06-28T21:55:56.095+00:00"
     },
     {
       "_type": "Record",
       "id": "P2I-G",
-      "timestamp": "2025-06-28T22:07:17.133Z",
+      "timestamp": "2025-06-28T22:07:17.133+00:00",
       "type": "PhaseEnded",
       "description": "Round 4: Individual Phase",
-      "value": "2025-06-28T22:07:17.133Z"
+      "value": "2025-06-28T22:07:17.133+00:00"
     },
     {
       "_type": "Record",
       "id": "QKPXX",
-      "timestamp": "2025-06-28T22:07:17.133Z",
+      "timestamp": "2025-06-28T22:07:17.133+00:00",
       "type": "PhaseDuration",
       "description": "Round 4: Individual Phase",
       "value": 11.35065
@@ -51847,7 +51935,7 @@
     {
       "_type": "Record",
       "id": "Z5yJA",
-      "timestamp": "2025-06-28T22:07:17.133Z",
+      "timestamp": "2025-06-28T22:07:17.133+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -51855,7 +51943,7 @@
     {
       "_type": "Record",
       "id": "vzEbF",
-      "timestamp": "2025-06-28T22:07:17.133Z",
+      "timestamp": "2025-06-28T22:07:17.133+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Infrastructure Knowledge,Alchemical Altars to take action.",
       "value": 2
@@ -51863,7 +51951,7 @@
     {
       "_type": "Record",
       "id": "SYxc_",
-      "timestamp": "2025-06-28T22:07:17.134Z",
+      "timestamp": "2025-06-28T22:07:17.134+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -51871,7 +51959,7 @@
     {
       "_type": "Record",
       "id": "z0IjD",
-      "timestamp": "2025-06-28T22:07:17.134Z",
+      "timestamp": "2025-06-28T22:07:17.134+00:00",
       "type": "ActionResources",
       "description": "the mighty used Ancient Booty,Hallucinogenic Intoxicants  to take action.",
       "value": 2
@@ -51879,7 +51967,7 @@
     {
       "_type": "Record",
       "id": "l1Fl7",
-      "timestamp": "2025-06-28T22:07:17.134Z",
+      "timestamp": "2025-06-28T22:07:17.134+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 1
@@ -51887,7 +51975,7 @@
     {
       "_type": "Record",
       "id": "YM3hu",
-      "timestamp": "2025-06-28T22:07:17.134Z",
+      "timestamp": "2025-06-28T22:07:17.134+00:00",
       "type": "ActionResources",
       "description": "the intrepid used Industrial Grade Spaceships,Purifying Stones,Meticulous Planning to take action.",
       "value": 3
@@ -51895,7 +51983,7 @@
     {
       "_type": "Record",
       "id": "NOt_E",
-      "timestamp": "2025-06-28T22:07:17.134Z",
+      "timestamp": "2025-06-28T22:07:17.134+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 1
@@ -51903,7 +51991,7 @@
     {
       "_type": "Record",
       "id": "iT_wo",
-      "timestamp": "2025-06-28T22:07:17.134Z",
+      "timestamp": "2025-06-28T22:07:17.134+00:00",
       "type": "ActionResources",
       "description": "the grounded used Safe Shelters,Infinite Water,System's Attention to take action.",
       "value": 3
@@ -51911,7 +51999,7 @@
     {
       "_type": "Record",
       "id": "HMMUP",
-      "timestamp": "2025-06-28T22:07:17.134Z",
+      "timestamp": "2025-06-28T22:07:17.134+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 1
@@ -51919,7 +52007,7 @@
     {
       "_type": "Record",
       "id": "HxvC7",
-      "timestamp": "2025-06-28T22:07:17.134Z",
+      "timestamp": "2025-06-28T22:07:17.134+00:00",
       "type": "ActionResources",
       "description": "the faithful used Diplomatic Leaders,Natural Charisma,Truthful Communication  to take action.",
       "value": 3
@@ -51927,15 +52015,15 @@
     {
       "_type": "Record",
       "id": "sPI_J",
-      "timestamp": "2025-06-28T22:07:57.215Z",
+      "timestamp": "2025-06-28T22:07:57.215+00:00",
       "type": "PhaseStarted",
       "description": "Round 5: Universal Phase",
-      "value": "2025-06-28T22:07:57.215Z"
+      "value": "2025-06-28T22:07:57.215+00:00"
     },
     {
       "_type": "Record",
       "id": "D1zXn",
-      "timestamp": "2025-06-28T22:07:57.215Z",
+      "timestamp": "2025-06-28T22:07:57.215+00:00",
       "type": "CommunitiesEndangered",
       "description": "Arch St. — Episode 3: Extroverted Bartenders,Avant-Garde Gemcutters,Deceptive Losers,Powerful Swimmers",
       "value": 4
@@ -51943,15 +52031,15 @@
     {
       "_type": "Record",
       "id": "NlrML",
-      "timestamp": "2025-06-28T22:16:28.998Z",
+      "timestamp": "2025-06-28T22:16:28.998+00:00",
       "type": "PhaseEnded",
       "description": "Round 5: Universal Phase",
-      "value": "2025-06-28T22:16:28.998Z"
+      "value": "2025-06-28T22:16:28.998+00:00"
     },
     {
       "_type": "Record",
       "id": "Cn3QM",
-      "timestamp": "2025-06-28T22:16:28.998Z",
+      "timestamp": "2025-06-28T22:16:28.998+00:00",
       "type": "PhaseDuration",
       "description": "Round 5: Universal Phase",
       "value": 8.529733333333333
@@ -51959,51 +52047,51 @@
     {
       "_type": "Record",
       "id": "ZVqz7",
-      "timestamp": "2025-06-28T22:16:44.519Z",
+      "timestamp": "2025-06-28T22:16:44.519+00:00",
       "type": "PhaseStarted",
       "description": "Round 5: Societal Phase",
-      "value": "2025-06-28T22:16:44.519Z"
+      "value": "2025-06-28T22:16:44.519+00:00"
     },
     {
       "_type": "Record",
       "id": "yKkHe",
-      "timestamp": "2025-06-28T22:18:31.667Z",
+      "timestamp": "2025-06-28T22:18:31.667+00:00",
       "type": "ResourceCreated",
       "value": "Cunning Stealth "
     },
     {
       "_type": "Record",
       "id": "TDf_O",
-      "timestamp": "2025-06-28T22:19:00.756Z",
+      "timestamp": "2025-06-28T22:19:00.756+00:00",
       "type": "ResourceCreated",
       "value": "Collective Dreaming"
     },
     {
       "_type": "Record",
       "id": "FMZWG",
-      "timestamp": "2025-06-28T22:20:47.270Z",
+      "timestamp": "2025-06-28T22:20:47.270+00:00",
       "type": "ResourceCreated",
       "value": "Summoning Ritual"
     },
     {
       "_type": "Record",
       "id": "dMEq0",
-      "timestamp": "2025-06-28T22:21:46.238Z",
+      "timestamp": "2025-06-28T22:21:46.238+00:00",
       "type": "ResourceCreated",
       "value": "20 Unconditional Resources "
     },
     {
       "_type": "Record",
       "id": "ahfxJ",
-      "timestamp": "2025-06-28T22:25:25.208Z",
+      "timestamp": "2025-06-28T22:25:25.208+00:00",
       "type": "PhaseEnded",
       "description": "Round 5: Societal Phase",
-      "value": "2025-06-28T22:25:25.207Z"
+      "value": "2025-06-28T22:25:25.207+00:00"
     },
     {
       "_type": "Record",
       "id": "X8DOE",
-      "timestamp": "2025-06-28T22:25:25.208Z",
+      "timestamp": "2025-06-28T22:25:25.208+00:00",
       "type": "PhaseDuration",
       "description": "Round 5: Societal Phase",
       "value": 8.678133333333333
@@ -52011,31 +52099,31 @@
     {
       "_type": "Record",
       "id": "j7kFA",
-      "timestamp": "2025-06-28T22:25:26.346Z",
+      "timestamp": "2025-06-28T22:25:26.346+00:00",
       "type": "PhaseStarted",
       "description": "Round 5: Galactic Phase",
-      "value": "2025-06-28T22:25:26.346Z"
+      "value": "2025-06-28T22:25:26.346+00:00"
     },
     {
       "_type": "Record",
       "id": "DhfCS",
-      "timestamp": "2025-06-28T22:25:36.916Z",
+      "timestamp": "2025-06-28T22:25:36.916+00:00",
       "type": "PhaseStarted",
       "description": "Round 5: Galactic Phase",
-      "value": "2025-06-28T22:25:36.916Z"
+      "value": "2025-06-28T22:25:36.916+00:00"
     },
     {
       "_type": "Record",
       "id": "aW7Au",
-      "timestamp": "2025-06-28T22:44:47.938Z",
+      "timestamp": "2025-06-28T22:44:47.938+00:00",
       "type": "PhaseEnded",
       "description": "Round 5: Galactic Phase",
-      "value": "2025-06-28T22:44:47.937Z"
+      "value": "2025-06-28T22:44:47.937+00:00"
     },
     {
       "_type": "Record",
       "id": "LOMsF",
-      "timestamp": "2025-06-28T22:44:47.938Z",
+      "timestamp": "2025-06-28T22:44:47.938+00:00",
       "type": "PhaseDuration",
       "description": "Round 5: Galactic Phase",
       "value": 19.183683333333335
@@ -52043,23 +52131,23 @@
     {
       "_type": "Record",
       "id": "fN9pf",
-      "timestamp": "2025-06-28T22:44:59.386Z",
+      "timestamp": "2025-06-28T22:44:59.386+00:00",
       "type": "PhaseStarted",
       "description": "Round 5: Individual Phase",
-      "value": "2025-06-28T22:44:59.386Z"
+      "value": "2025-06-28T22:44:59.386+00:00"
     },
     {
       "_type": "Record",
       "id": "K9O7T",
-      "timestamp": "2025-06-28T22:55:03.552Z",
+      "timestamp": "2025-06-28T22:55:03.552+00:00",
       "type": "PhaseEnded",
       "description": "Round 5: Individual Phase",
-      "value": "2025-06-28T22:55:03.552Z"
+      "value": "2025-06-28T22:55:03.552+00:00"
     },
     {
       "_type": "Record",
       "id": "NMBEV",
-      "timestamp": "2025-06-28T22:55:03.552Z",
+      "timestamp": "2025-06-28T22:55:03.552+00:00",
       "type": "PhaseDuration",
       "description": "Round 5: Individual Phase",
       "value": 10.06945
@@ -52067,7 +52155,7 @@
     {
       "_type": "Record",
       "id": "iEDYR",
-      "timestamp": "2025-06-28T22:55:03.552Z",
+      "timestamp": "2025-06-28T22:55:03.552+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -52075,7 +52163,7 @@
     {
       "_type": "Record",
       "id": "A7gMJ",
-      "timestamp": "2025-06-28T22:55:03.553Z",
+      "timestamp": "2025-06-28T22:55:03.553+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Alchemical Altars,Kin Treasure ,Indeterminate Genetics,Abundant Followers to take action.",
       "value": 4
@@ -52083,7 +52171,7 @@
     {
       "_type": "Record",
       "id": "PMnvn",
-      "timestamp": "2025-06-28T22:55:03.553Z",
+      "timestamp": "2025-06-28T22:55:03.553+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -52091,7 +52179,7 @@
     {
       "_type": "Record",
       "id": "YQobW",
-      "timestamp": "2025-06-28T22:55:03.553Z",
+      "timestamp": "2025-06-28T22:55:03.553+00:00",
       "type": "ActionResources",
       "description": "the mighty used Gemstone Armada,Overwhelming Numbers,Cunning Stealth ,Collective Dreaming,Electromagnetic Shields to take action.",
       "value": 5
@@ -52099,7 +52187,7 @@
     {
       "_type": "Record",
       "id": "usWOc",
-      "timestamp": "2025-06-28T22:55:03.553Z",
+      "timestamp": "2025-06-28T22:55:03.553+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 1
@@ -52107,7 +52195,7 @@
     {
       "_type": "Record",
       "id": "sR_wD",
-      "timestamp": "2025-06-28T22:55:03.553Z",
+      "timestamp": "2025-06-28T22:55:03.553+00:00",
       "type": "ActionResources",
       "description": "the intrepid used Blood Festivals,Magic Crystals,Community Battery to take action.",
       "value": 3
@@ -52115,7 +52203,7 @@
     {
       "_type": "Record",
       "id": "i3ftz",
-      "timestamp": "2025-06-28T22:55:03.553Z",
+      "timestamp": "2025-06-28T22:55:03.553+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 1
@@ -52123,7 +52211,7 @@
     {
       "_type": "Record",
       "id": "Zn9dO",
-      "timestamp": "2025-06-28T22:55:03.553Z",
+      "timestamp": "2025-06-28T22:55:03.553+00:00",
       "type": "ActionResources",
       "description": "the grounded used Seismic Suction,Bedazzled Bombers,Freakish Explosions,Refreshing Underthinking to take action.",
       "value": 4
@@ -52131,7 +52219,7 @@
     {
       "_type": "Record",
       "id": "ZrhZe",
-      "timestamp": "2025-06-28T22:55:03.553Z",
+      "timestamp": "2025-06-28T22:55:03.553+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 1
@@ -52139,7 +52227,7 @@
     {
       "_type": "Record",
       "id": "Xuy0U",
-      "timestamp": "2025-06-28T22:55:03.553Z",
+      "timestamp": "2025-06-28T22:55:03.553+00:00",
       "type": "ActionResources",
       "description": "the faithful used Summoning Ritual,Regenerative Construction,Healing Nebula  to take action.",
       "value": 3
@@ -52147,7 +52235,7 @@
     {
       "_type": "Record",
       "id": "AABGW",
-      "timestamp": "2025-06-28T22:55:57.203Z",
+      "timestamp": "2025-06-28T22:55:57.203+00:00",
       "type": "SocietyActionsTaken",
       "description": "the aesthetic",
       "value": 1
@@ -52155,7 +52243,7 @@
     {
       "_type": "Record",
       "id": "cp_am",
-      "timestamp": "2025-06-28T22:55:57.203Z",
+      "timestamp": "2025-06-28T22:55:57.203+00:00",
       "type": "ActionResources",
       "description": "the aesthetic used Alchemical Altars,Kin Treasure ,Indeterminate Genetics,Abundant Followers to take action.",
       "value": 4
@@ -52163,7 +52251,7 @@
     {
       "_type": "Record",
       "id": "bmJyc",
-      "timestamp": "2025-06-28T22:55:57.203Z",
+      "timestamp": "2025-06-28T22:55:57.203+00:00",
       "type": "SocietyActionsTaken",
       "description": "the mighty",
       "value": 1
@@ -52171,7 +52259,7 @@
     {
       "_type": "Record",
       "id": "IiNvU",
-      "timestamp": "2025-06-28T22:55:57.203Z",
+      "timestamp": "2025-06-28T22:55:57.203+00:00",
       "type": "ActionResources",
       "description": "the mighty used Gemstone Armada,Overwhelming Numbers,Cunning Stealth ,Collective Dreaming,Electromagnetic Shields to take action.",
       "value": 5
@@ -52179,7 +52267,7 @@
     {
       "_type": "Record",
       "id": "Xswcx",
-      "timestamp": "2025-06-28T22:55:57.204Z",
+      "timestamp": "2025-06-28T22:55:57.204+00:00",
       "type": "SocietyActionsTaken",
       "description": "the intrepid",
       "value": 1
@@ -52187,7 +52275,7 @@
     {
       "_type": "Record",
       "id": "vOwIA",
-      "timestamp": "2025-06-28T22:55:57.204Z",
+      "timestamp": "2025-06-28T22:55:57.204+00:00",
       "type": "ActionResources",
       "description": "the intrepid used Blood Festivals,Magic Crystals,Community Battery to take action.",
       "value": 3
@@ -52195,7 +52283,7 @@
     {
       "_type": "Record",
       "id": "i98nq",
-      "timestamp": "2025-06-28T22:55:57.204Z",
+      "timestamp": "2025-06-28T22:55:57.204+00:00",
       "type": "SocietyActionsTaken",
       "description": "the grounded",
       "value": 1
@@ -52203,7 +52291,7 @@
     {
       "_type": "Record",
       "id": "BPfZP",
-      "timestamp": "2025-06-28T22:55:57.204Z",
+      "timestamp": "2025-06-28T22:55:57.204+00:00",
       "type": "ActionResources",
       "description": "the grounded used Seismic Suction,Bedazzled Bombers,Freakish Explosions,Refreshing Underthinking to take action.",
       "value": 4
@@ -52211,7 +52299,7 @@
     {
       "_type": "Record",
       "id": "mQ3ug",
-      "timestamp": "2025-06-28T22:55:57.204Z",
+      "timestamp": "2025-06-28T22:55:57.204+00:00",
       "type": "SocietyActionsTaken",
       "description": "the faithful",
       "value": 1
@@ -52219,7 +52307,7 @@
     {
       "_type": "Record",
       "id": "GLC2m",
-      "timestamp": "2025-06-28T22:55:57.204Z",
+      "timestamp": "2025-06-28T22:55:57.204+00:00",
       "type": "ActionResources",
       "description": "the faithful used Summoning Ritual,Regenerative Construction,Healing Nebula  to take action.",
       "value": 3
@@ -52227,15 +52315,15 @@
     {
       "_type": "Record",
       "id": "c9F4J",
-      "timestamp": "2025-06-28T22:55:57.887Z",
+      "timestamp": "2025-06-28T22:55:57.887+00:00",
       "type": "PhaseStarted",
       "description": "Round 6: Universal Phase",
-      "value": "2025-06-28T22:55:57.887Z"
+      "value": "2025-06-28T22:55:57.887+00:00"
     },
     {
       "_type": "Record",
       "id": "PYXlu",
-      "timestamp": "2025-06-28T22:55:57.888Z",
+      "timestamp": "2025-06-28T22:55:57.888+00:00",
       "type": "CommunitiesEndangered",
       "description": "Arch St. — Episode 3: Extroverted Bartenders,Avant-Garde Gemcutters,Deceptive Losers,Powerful Swimmers",
       "value": 4
@@ -52243,15 +52331,15 @@
     {
       "_type": "Record",
       "id": "sA3If",
-      "timestamp": "2025-06-28T23:06:06.512Z",
+      "timestamp": "2025-06-28T23:06:06.512+00:00",
       "type": "PhaseEnded",
       "description": "Round 6: Universal Phase",
-      "value": "2025-06-28T23:06:06.512Z"
+      "value": "2025-06-28T23:06:06.512+00:00"
     },
     {
       "_type": "Record",
       "id": "gl_Xe",
-      "timestamp": "2025-06-28T23:06:06.512Z",
+      "timestamp": "2025-06-28T23:06:06.512+00:00",
       "type": "PhaseDuration",
       "description": "Round 6: Universal Phase",
       "value": 10.14375
@@ -52259,10 +52347,10 @@
     {
       "_type": "Record",
       "id": "FHwBJ",
-      "timestamp": "2025-06-28T23:06:09.656Z",
+      "timestamp": "2025-06-28T23:06:09.656+00:00",
       "type": "PhaseStarted",
       "description": "Round 6: Conclusion",
-      "value": "2025-06-28T23:06:09.656Z"
+      "value": "2025-06-28T23:06:09.656+00:00"
     }
   ]
 }
