@@ -937,10 +937,9 @@
       "round": "6",
       "societyId": "yXHVO",
       "resourceIds": [],
-      "texts": [],
-      "risk": 1,
-      "advantage": 0,
-      "disadvantage": 0,
+      "texts": [
+        ""
+      ],
       "result": [],
       "status": "open",
       "tags": {
