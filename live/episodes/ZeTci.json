@@ -3386,7 +3386,14 @@
       "advantage": 0,
       "disadvantage": 0,
       "ambassadors": {},
-      "alterLeadership": {}
+      "alterLeadership": {
+        "hqZZ8": "people",
+        "Z8-ZD": "leader",
+        "CYPuO": "leader",
+        "ZQ5E1": "people",
+        "iRW5s": "leader",
+        "Pry_D": "people"
+      }
     }
   ],
   "documents": [
